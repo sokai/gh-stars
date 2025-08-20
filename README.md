@@ -6,9 +6,9 @@
 
 ## Lists
 
-- [By Language](https://github.com/frestein/awesome-stars/blob/master/by-language.md)
-- [By Topic](https://github.com/frestein/awesome-stars/blob/master/by-topic.md)
-- [By List](https://github.com/frestein/awesome-stars/blob/master/by-list.md)
+- [By Language](by-language.md)
+- [By Topic](by-topic.md)
+- [By List](by-list.md)
 
 ## License
 
