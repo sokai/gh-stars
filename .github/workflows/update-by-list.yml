@@ -1,0 +1,21 @@
+name: Update by list
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  update-by-list:
+    name: update awesome-stars
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update repo category by list
+        uses: Frestein/gaze-stars@main
+        with:
+          github-username: ${{ github.repository_owner }}
+          git-message: "docs(list): bump data"
+          sort-by: stars
+          style: list
+          template-path: .github/templates/by-list.md
+          output-path: by-list.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
