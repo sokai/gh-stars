@@ -9,6 +9,7 @@
 - [backup](#backup)
 - [dead](#dead)
 - [desktop](#desktop)
+- [dev](#dev)
 - [dg](#dg)
 - [dns](#dns)
 - [idea](#idea)
@@ -73,6 +74,11 @@
 - [mozilla-services/syncstorage-rs](https://github.com/mozilla-services/syncstorage-rs) - Sync Storage server in Rust
 - [OtaK/McMojave-hyprcursor](https://github.com/OtaK/McMojave-hyprcursor) - Pure SVG Hyprcursor port of the amazing McMojave XCursor theme by @vinceluice
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
+
+## dev
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 
 ## dg
 - [pqina/flip](https://github.com/pqina/flip) - ⏳ The online version of the classic flip clock
@@ -242,6 +248,8 @@
 - [mkalus/caddy_nobots_v2](https://github.com/mkalus/caddy_nobots_v2) - Caddy v2 Server plugin to protect your website against web crawlers and bots
 - [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
 - [Frestein/gaze-stars](https://github.com/Frestein/gaze-stars) - Creating your own Awesome List by GitHub starred lists! 🌟 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 
 ## knowledge
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -466,6 +474,8 @@
 - [traccar/traccar-client-android](https://github.com/traccar/traccar-client-android) - Traccar Client for Android
 - [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
+- [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 ## nix
 - [NixOS/nix-constitutional-assembly](https://github.com/NixOS/nix-constitutional-assembly) - Home of the Nix Constitutional Assembly, there to establish a community-based governance
@@ -568,6 +578,9 @@
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 
 ## nixolotl
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
@@ -919,6 +932,9 @@
 - [traccar/traccar-client-android](https://github.com/traccar/traccar-client-android) - Traccar Client for Android
 - [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
 - [Frestein/gaze-stars](https://github.com/Frestein/gaze-stars) - Creating your own Awesome List by GitHub starred lists! 🌟 
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
+- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
