@@ -14,4 +14,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Frestein](https://github.com/Frestein) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [sokai](https://github.com/sokai) has waived all copyright and related or neighboring rights to this work.
