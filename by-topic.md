@@ -1487,6 +1487,7 @@
 
 ## hacktoberfest 
 
+- [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS) - This repository contains the the configuration files for my NixOS instance. NixOS is a linux distribution that allows reproducibility. The point of the repository is such that I can store my configura
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
 - [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
@@ -2654,6 +2655,7 @@
 
 ## others 
 
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
 - [mkalus/caddy_nobots_v2](https://github.com/mkalus/caddy_nobots_v2) - Caddy v2 Server plugin to protect your website against web crawlers and bots
 - [tutunak/awesome-url-shortener](https://github.com/tutunak/awesome-url-shortener) - 
