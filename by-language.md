@@ -1229,6 +1229,7 @@
 
 ## Nix 
 
+- [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS) - This repository contains the the configuration files for my NixOS instance. NixOS is a linux distribution that allows reproducibility. The point of the repository is such that I can store my configura
 - [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
 - [wueestry/nixos-config](https://github.com/wueestry/nixos-config) - Current nixos configuration using snowfall lib as flake structure
 - [mightyiam/infra](https://github.com/mightyiam/infra) - Shahar "Dawn" Or's Nix-powered "IT infrastructure" repository
@@ -2346,6 +2347,7 @@
 
 ## Rust 
 
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [faukah/dix](https://github.com/faukah/dix) - Diff Nix
 - [km-clay/nixos-wizard](https://github.com/km-clay/nixos-wizard) - A TUI installer for NixOS
