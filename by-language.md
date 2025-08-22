@@ -75,7 +75,6 @@
 - [Vue](#vue)
 - [XQuery](#xquery)
 - [XSLT](#xslt)
-- [YAML](#yaml)
 - [Zig](#zig)
 
 ## Assembly 
@@ -2123,6 +2122,7 @@
 
 ## Python 
 
+- [obeone/multi-registry-cache](https://github.com/obeone/multi-registry-cache) - Multi-registry cache for Docker/containerd, optimizing image pulls using the original registry image
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Frestein/gaze-stars](https://github.com/Frestein/gaze-stars) - Creating your own Awesome List by GitHub starred lists! 🌟
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
@@ -2347,6 +2347,7 @@
 
 ## Rust 
 
+- [mcronce/oci-registry](https://github.com/mcronce/oci-registry) - 
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [faukah/dix](https://github.com/faukah/dix) - Diff Nix
@@ -2365,6 +2366,7 @@
 - [dvdsk/microbin](https://github.com/dvdsk/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
 - [oddlama/idmail](https://github.com/oddlama/idmail) - An email alias and account management interface for self-hosted mailservers
 - [pipelight/boulette](https://github.com/pipelight/boulette) - A terminal confirmation prompt that prevents you from accidentally damaging remote hosts.
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch,@nyarly]
@@ -2444,6 +2446,7 @@
 
 ## Shell 
 
+- [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy) - An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, registry.k8s.io, ghcr.io)
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
 - [lancachenet/monolithic](https://github.com/lancachenet/monolithic) - A monolithic lancache service capable of caching all CDNs in a single instance
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, a
@@ -2793,10 +2796,6 @@
 ## XSLT 
 
 - [CycloneDX/specification](https://github.com/CycloneDX/specification) - OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides advanced supply chain capabilities for cyber risk reduction. SBOM, SaaSBOM, HBOM, AI/ML-BOM, CBOM, OBOM, MBOM, VDR, and V
-
-## YAML 
-
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
 ## Zig 
 
