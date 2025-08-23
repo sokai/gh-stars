@@ -282,6 +282,7 @@
 
 ## android 
 
+- [beerisgood/Mobile_Security](https://github.com/beerisgood/Mobile_Security) - a collection of differently important stuff about mobile phones
 - [traccar/traccar-client-android](https://github.com/traccar/traccar-client-android) - Traccar Client for Android
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client.
 - [wgtunnel/wgtunnel](https://github.com/wgtunnel/wgtunnel) - A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling.
@@ -1814,6 +1815,7 @@
 
 ## ios 
 
+- [beerisgood/Mobile_Security](https://github.com/beerisgood/Mobile_Security) - a collection of differently important stuff about mobile phones
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client.
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -2658,6 +2660,7 @@
 
 ## others 
 
+- [yegortimoshenko/copperhead-takeover](https://github.com/yegortimoshenko/copperhead-takeover) - Documents related to the takeover of Copperhead Limited (CopperheadOS)
 - [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
 - [mplewis/freevite](https://github.com/mplewis/freevite) - Free event invite platform with ICS support
 - [mcronce/oci-registry](https://github.com/mcronce/oci-registry) - 
@@ -4226,6 +4229,7 @@
 
 ## privacy 
 
+- [beerisgood/Mobile_Security](https://github.com/beerisgood/Mobile_Security) - a collection of differently important stuff about mobile phones
 - [anyproto/anytype-kotlin](https://github.com/anyproto/anytype-kotlin) - Official Anytype client for Android
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
@@ -4561,6 +4565,7 @@
 
 ## security 
 
+- [beerisgood/Mobile_Security](https://github.com/beerisgood/Mobile_Security) - a collection of differently important stuff about mobile phones
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, a
