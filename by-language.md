@@ -171,7 +171,7 @@
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Android document document scanning app
+- [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Document scanning app
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [gyunaev/birdtray](https://github.com/gyunaev/birdtray) - new mail system tray notification icon for Thunderbird
 - [pdewacht/brlaser](https://github.com/pdewacht/brlaser) - Brother laser printer driver
@@ -473,6 +473,7 @@
 
 ## HTML 
 
+- [yegortimoshenko/copperhead-takeover](https://github.com/yegortimoshenko/copperhead-takeover) - Documents related to the takeover of Copperhead Limited (CopperheadOS)
 - [OCA/pms](https://github.com/OCA/pms) - Property Management System on Odoo
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
@@ -1409,6 +1410,7 @@
 
 ## Others 
 
+- [beerisgood/Mobile_Security](https://github.com/beerisgood/Mobile_Security) - a collection of differently important stuff about mobile phones
 - [Frestein/awesome-stars](https://github.com/Frestein/awesome-stars) - 🌟 Frestein's starred repos, updated daily!
 - [tutunak/awesome-url-shortener](https://github.com/tutunak/awesome-url-shortener) - 
 - [karakeep-app/mobile-releases](https://github.com/karakeep-app/mobile-releases) - An archive for karakeep's mobile releases
