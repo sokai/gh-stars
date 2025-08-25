@@ -1552,7 +1552,7 @@
 - [Jguevara82/YouTubePHP](https://github.com/Jguevara82/YouTubePHP) - A PHP implementation, trying to make an YouTube-like application
 - [fumeapp/laranuxt](https://github.com/fumeapp/laranuxt) - Laravel and Nuxt.js boilerplate
 - [asbiin/laravel-webauthn](https://github.com/asbiin/laravel-webauthn) - Webauthn adapter for Laravel
-- [laradashboard/laradashboard](https://github.com/laradashboard/laradashboard) - ⚡ Lara Dashboard - All In One solution to start your Laravel Application from Basic to Enterprise - Manages Users, Roles, Permissions, Modules, Settings, Translations, Contents, Monitoring and every a
+- [laradashboard/laradashboard](https://github.com/laradashboard/laradashboard) - ⚡ Lara Dashboard - CMS by Laravel - All In One solution to start your Laravel Application from Basic to Enterprise. Manages Users, Roles, Permissions, Modules, Settings, Translations, Contents, Monito
 - [kevquirk/journal](https://github.com/kevquirk/journal) - 
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [lkrms/pretty-php](https://github.com/lkrms/pretty-php) - The opinionated PHP code formatter
