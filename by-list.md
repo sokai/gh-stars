@@ -253,6 +253,7 @@
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS) - This repository contains the the configuration files for my NixOS instance. NixOS is a linux distribution that allows reproducibility. The point of the repository is such that I can store my configuration safely in the cloud, have version control, and sync any updates to all machines using this configuration as it supports mulitple machines.
 - [wellWINeo/nix-anysync](https://github.com/wellWINeo/nix-anysync) - Any-Sync NixOS flake
+- [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs
 
 ## knowledge
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -589,6 +590,7 @@
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS) - This repository contains the the configuration files for my NixOS instance. NixOS is a linux distribution that allows reproducibility. The point of the repository is such that I can store my configuration safely in the cloud, have version control, and sync any updates to all machines using this configuration as it supports mulitple machines.
 - [wellWINeo/nix-anysync](https://github.com/wellWINeo/nix-anysync) - Any-Sync NixOS flake
+- [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs
 
 ## nixolotl
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
