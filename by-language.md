@@ -593,6 +593,7 @@
 
 ## Java 
 
+- [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
 - [netbirdio/android-client](https://github.com/netbirdio/android-client) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
 - [9001/party-up](https://github.com/9001/party-up) - copyparty client for android
