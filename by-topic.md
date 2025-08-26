@@ -1119,6 +1119,7 @@
 
 ## dotfiles 
 
+- [ourgal/snowfall](https://github.com/ourgal/snowfall) - NixOS dotfiles
 - [wueestry/nixos-config](https://github.com/wueestry/nixos-config) - Current nixos configuration using snowfall lib as flake structure
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [Akiiino/mollusca](https://github.com/Akiiino/mollusca) - My NixOS machine configurations
@@ -2663,6 +2664,7 @@
 
 ## others 
 
+- [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 - [yegortimoshenko/copperhead-takeover](https://github.com/yegortimoshenko/copperhead-takeover) - Documents related to the takeover of Copperhead Limited (CopperheadOS)
 - [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
 - [mplewis/freevite](https://github.com/mplewis/freevite) - Free event invite platform with ICS support
