@@ -5175,7 +5175,7 @@
 - [gantry/gantry5](https://github.com/gantry/gantry5) - :rocket: Next Generation Template / Theme Framework
 - [awesomemotive/all-in-one-seo-pack](https://github.com/awesomemotive/all-in-one-seo-pack) - All in One SEO plugin for WordPress SEO
 - [pluginkollektiv/blacklist-updater](https://github.com/pluginkollektiv/blacklist-updater) - Automatic updating of the comment blacklist in WordPress with antispam keys from GitHub.
-- [splorp/wordpress-comment-blacklist](https://github.com/splorp/wordpress-comment-blacklist) - A simple solution for WordPress comment spam.
+- [splorp/wordpress-comment-blocklist](https://github.com/splorp/wordpress-comment-blocklist) - A simple solution for WordPress comment spam.
 - [pluginkollektiv/cachify](https://github.com/pluginkollektiv/cachify) - Smart but efficient cache solution for WordPress. Use DB, HDD, APC or Memcached for storing your blog pages. Make WordPress faster!
 - [WordPress/gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
 - [wearerequired/traduttore](https://github.com/wearerequired/traduttore) - 🗼 A WordPress plugin to improve the I18N workflow for your own projects based on @GlotPress.
