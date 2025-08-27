@@ -1234,6 +1234,7 @@
 
 ## Nix 
 
+- [truxnell/nix-config](https://github.com/truxnell/nix-config) - My nix & nixos home setup
 - [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS) - This repository contains the the configuration files for my NixOS instance. NixOS is a linux distribution that allows reproducibility. The point of the repository is such that I can store my configura
 - [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
 - [wueestry/nixos-config](https://github.com/wueestry/nixos-config) - Current nixos configuration using snowfall lib as flake structure
