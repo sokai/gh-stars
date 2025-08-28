@@ -338,6 +338,7 @@
 
 ## Go 
 
+- [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 - [mkalus/caddy_nobots_v2](https://github.com/mkalus/caddy_nobots_v2) - Caddy v2 Server plugin to protect your website against web crawlers and bots
 - [x-way/crawlerdetect](https://github.com/x-way/crawlerdetect) - Golang module to detect bots and crawlers via the user agent
@@ -2358,6 +2359,7 @@
 
 ## Rust 
 
+- [brainhivenl/steiger](https://github.com/brainhivenl/steiger) - High-performance container build orchestrator with native Bazel, Nix and Docker BuildKit
 - [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
 - [mozilla-services/autopush-rs](https://github.com/mozilla-services/autopush-rs) - Push Server in Rust
 - [mcronce/oci-registry](https://github.com/mcronce/oci-registry) - 
