@@ -987,6 +987,7 @@
 
 ## developer-tools 
 
+- [brainhivenl/steiger](https://github.com/brainhivenl/steiger) - High-performance container build orchestrator with native Bazel, Nix and Docker BuildKit
 - [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
@@ -1044,6 +1045,7 @@
 
 ## docker 
 
+- [brainhivenl/steiger](https://github.com/brainhivenl/steiger) - High-performance container build orchestrator with native Bazel, Nix and Docker BuildKit
 - [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy) - An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, registry.k8s.io, ghcr.io)
 - [obeone/multi-registry-cache](https://github.com/obeone/multi-registry-cache) - Multi-registry cache for Docker/containerd, optimizing image pulls using the original registry image
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
@@ -2107,6 +2109,7 @@
 
 ## kubernetes 
 
+- [brainhivenl/steiger](https://github.com/brainhivenl/steiger) - High-performance container build orchestrator with native Bazel, Nix and Docker BuildKit
 - [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy) - An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, registry.k8s.io, ghcr.io)
 - [cafkafk/rime](https://github.com/cafkafk/rime) - Nix Flake Input Versioning
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
@@ -2673,6 +2676,7 @@
 
 ## others 
 
+- [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [truxnell/nix-config](https://github.com/truxnell/nix-config) - My nix & nixos home setup
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 - [yegortimoshenko/copperhead-takeover](https://github.com/yegortimoshenko/copperhead-takeover) - Documents related to the takeover of Copperhead Limited (CopperheadOS)
