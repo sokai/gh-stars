@@ -741,6 +741,7 @@
 - [alexfernandez/librecounter](https://github.com/alexfernandez/librecounter) - Free and open website statistics
 - [dgarijo/Widoco](https://github.com/dgarijo/Widoco) - Wizard for documenting ontologies. WIDOCO is a step by step generator of HTML templates with the documentation of your ontology. It uses the LODE environment to create part of the template.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
+- [sissbruecker/linkding-extension](https://github.com/sissbruecker/linkding-extension) - Companion extension for linkding
 - [pqina/flip](https://github.com/pqina/flip) - ⏳ The online version of the classic flip clock
 - [zgrossbart/jdd](https://github.com/zgrossbart/jdd) - A semantic JSON compare tool
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -2589,7 +2590,6 @@
 
 - [WardPearce/paaster](https://github.com/WardPearce/paaster) - Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confiden
 - [Akylas/oss-weather](https://github.com/Akylas/oss-weather) - An OSS weather app for iOS/Android
-- [sissbruecker/linkding-extension](https://github.com/sissbruecker/linkding-extension) - Companion extension for linkding
 
 ## Swift 
 
