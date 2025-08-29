@@ -2342,7 +2342,7 @@
 - [okfde/sehrgutachten](https://github.com/okfde/sehrgutachten) - Volltextsuche und Feeds für die Gutachten des Wissenschaftlichen Dienstes des Bundestags.
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [adamcooke/staytus](https://github.com/adamcooke/staytus) - 💡 An open source solution for publishing the status of your services
-- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
+- [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
 - [avalonmediasystem/avalon](https://github.com/avalonmediasystem/avalon) - Avalon Media System – Samvera Application
 - [aeris/cryptcheck](https://github.com/aeris/cryptcheck) - Verify some SSL/TLS website or XMPP implementation
 - [decidim/decidim](https://github.com/decidim/decidim) - The participatory democracy framework. A generator and multiple gems made with Ruby on Rails
