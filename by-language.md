@@ -594,6 +594,7 @@
 
 ## Java 
 
+- [siyuan-note/siyuan-android](https://github.com/siyuan-note/siyuan-android) - SiYuan Android APP
 - [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
 - [netbirdio/android-client](https://github.com/netbirdio/android-client) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
@@ -2631,6 +2632,7 @@
 
 ## TypeScript 
 
+- [outline/outline-icons](https://github.com/outline/outline-icons) - An iconset designed for the team knowledgebase Outline, but open to all.
 - [ulid/javascript](https://github.com/ulid/javascript) - Universally Unique Lexicographically Sortable Identifier
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [mplewis/freevite](https://github.com/mplewis/freevite) - Free event invite platform with ICS support
