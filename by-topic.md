@@ -2679,6 +2679,7 @@
 
 ## others 
 
+- [siyuan-note/siyuan-android](https://github.com/siyuan-note/siyuan-android) - SiYuan Android APP
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [truxnell/nix-config](https://github.com/truxnell/nix-config) - My nix & nixos home setup
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
