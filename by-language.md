@@ -1238,6 +1238,8 @@
 
 ## Nix 
 
+- [BryceBeagle/nixos-config](https://github.com/BryceBeagle/nixos-config) - 
+- [nix-community/flakelight](https://github.com/nix-community/flakelight) - Framework for simplifying flake setup [maintainer=@accelbread]
 - [truxnell/nix-config](https://github.com/truxnell/nix-config) - My nix & nixos home setup
 - [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS) - This repository contains the the configuration files for my NixOS instance. NixOS is a linux distribution that allows reproducibility. The point of the repository is such that I can store my configura
 - [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
