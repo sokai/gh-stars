@@ -2774,7 +2774,7 @@
 ## Vala 
 
 - [toolstack/Folio](https://github.com/toolstack/Folio) - A beautiful markdown note-taking app for GNOME (forked from Paper)
-- [GeopJr/Tuba](https://github.com/GeopJr/Tuba) - Browse the Fediverse
+- [GeopJr/Tuba](https://github.com/GeopJr/Tuba) - Browse the Fediverse - On break until 2025-09-06
 - [linuxmint/timeshift](https://github.com/linuxmint/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be resto
 - [christianloopp/komorebi](https://github.com/christianloopp/komorebi) - A beautiful and customizable wallpapers manager for Linux
 - [diodon-dev/diodon](https://github.com/diodon-dev/diodon) - Aiming to be the best integrated clipboard manager for the Unity desktop
