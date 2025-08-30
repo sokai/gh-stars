@@ -1238,6 +1238,7 @@
 
 ## Nix 
 
+- [PrimaMateria/nixos-hive](https://github.com/PrimaMateria/nixos-hive) - PrimaMateria's NixOS configuration
 - [BryceBeagle/nixos-config](https://github.com/BryceBeagle/nixos-config) - 
 - [nix-community/flakelight](https://github.com/nix-community/flakelight) - Framework for simplifying flake setup [maintainer=@accelbread]
 - [truxnell/nix-config](https://github.com/truxnell/nix-config) - My nix & nixos home setup
