@@ -3876,7 +3876,6 @@
 - [pichfl/pichfl-swtndx](https://github.com/pichfl/pichfl-swtndx) - Better design for your Apache folder listings
 - [stvnwrgs/presenterview](https://github.com/stvnwrgs/presenterview) - Extension for Deck.js || Adds a Presenter View
 - [barraq/deck.ext.js](https://github.com/barraq/deck.ext.js) - Provide extensions, themes and use cases for deck.js
-- [540co/yourTwapperKeeper](https://github.com/540co/yourTwapperKeeper) - yourTwapperKeeper - Archive Your Social Media
 - [cccmzwi/matekate](https://github.com/cccmzwi/matekate) - A map showing ClubMate distribution points based on OpenStreetMap
 - [marianoguerra/rst2html5](https://github.com/marianoguerra/rst2html5) - transform restructuredtext documents to html5 + twitter's bootstrap css, deck.js or reveal.js
 - [tmbrggmn/deck.js-markdown](https://github.com/tmbrggmn/deck.js-markdown) - A deck.js extension that adds support for Markdown syntax in slides
