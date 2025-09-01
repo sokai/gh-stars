@@ -1691,6 +1691,7 @@
 
 ## haskell 
 
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [wireapp/wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
@@ -2683,6 +2684,7 @@
 
 ## others 
 
+- [simplex-chat/simplexmq](https://github.com/simplex-chat/simplexmq) - ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [rophy/kutt](https://github.com/rophy/kutt) - Free Modern URL Shortener.
 - [PrimaMateria/nixos-hive](https://github.com/PrimaMateria/nixos-hive) - PrimaMateria's NixOS configuration
@@ -4258,6 +4260,7 @@
 
 ## privacy 
 
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [beerisgood/Mobile_Security](https://github.com/beerisgood/Mobile_Security) - a collection of differently important stuff about mobile phones
 - [anyproto/anytype-kotlin](https://github.com/anyproto/anytype-kotlin) - Official Anytype client for Android
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
@@ -4598,6 +4601,7 @@
 
 ## security 
 
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [beerisgood/Mobile_Security](https://github.com/beerisgood/Mobile_Security) - a collection of differently important stuff about mobile phones
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML A
