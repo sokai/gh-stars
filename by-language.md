@@ -1275,7 +1275,7 @@
 - [jfly/snow](https://github.com/jfly/snow) - 
 - [vdbe/infra](https://github.com/vdbe/infra) - 
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
-- [ShadowRZ/flakes](https://github.com/ShadowRZ/flakes) - Project Hanekokoro
+- [ShadowRZ/flakes](https://github.com/ShadowRZ/flakes) - Hanekokoro (はねこころ) Infra
 - [boffbowsh/nix-lancache](https://github.com/boffbowsh/nix-lancache) - A Flake for running LanCache.net on NixOS
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 - [hmajid2301/nixicle](https://github.com/hmajid2301/nixicle) - My dotfiles always changing 🙈
