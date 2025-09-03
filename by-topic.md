@@ -2838,7 +2838,6 @@
 - [nix-community/preservation](https://github.com/nix-community/preservation) - Nix tooling to enable declarative management of non-volatile system state. [maintainer=@WilliButz]
 - [GAS85/nextcloud_scripts](https://github.com/GAS85/nextcloud_scripts) - This a collection of scripts that makes my nextcloud administrator life easy by automation and better reporting. And I would like to share it with U.
 - [SorkinType/Merriweather](https://github.com/SorkinType/Merriweather) - Merriweather is a serif typeface. It is offered in Variable font format and static formats ( OTF, TTF WOFF etc).
-- [vincentbernat/caddy-nix](https://github.com/vincentbernat/caddy-nix) - Build Caddy with additional plugins with Nix
 - [JulienMalka/artiflakery](https://github.com/JulienMalka/artiflakery) - A webserver for on the fly delivery of Nix flake artifacts
 - [Lassulus/vars](https://github.com/Lassulus/vars) - 
 - [verdigado/organization_folders](https://github.com/verdigado/organization_folders) - Organization Folders are Nextcloud Team Folders designed for large organizations, with permissions managed via an intuitive web interface.
