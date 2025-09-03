@@ -2690,6 +2690,7 @@
 
 ## others 
 
+- [ktolonen/ultiorganizer](https://github.com/ktolonen/ultiorganizer) - Ultiorganizer is a web application for online score keeping of Ultimate events.
 - [simplex-chat/simplexmq](https://github.com/simplex-chat/simplexmq) - ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [rophy/kutt](https://github.com/rophy/kutt) - Free Modern URL Shortener.
