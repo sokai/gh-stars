@@ -1402,6 +1402,7 @@
 
 ## go 
 
+- [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [mattermost/mattermost-push-proxy](https://github.com/mattermost/mattermost-push-proxy) - 
 - [x-way/crawlerdetect](https://github.com/x-way/crawlerdetect) - Golang module to detect bots and crawlers via the user agent
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
@@ -1433,6 +1434,7 @@
 
 ## golang 
 
+- [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [mattermost/mattermost-push-proxy](https://github.com/mattermost/mattermost-push-proxy) - 
 - [netbirdio/android-client](https://github.com/netbirdio/android-client) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
@@ -1503,6 +1505,7 @@
 
 ## hacktoberfest 
 
+- [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [mattermost/mattermost-push-proxy](https://github.com/mattermost/mattermost-push-proxy) - 
 - [mattermost/mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
@@ -3997,6 +4000,7 @@
 
 ## package-manager 
 
+- [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [woile/npt](https://github.com/woile/npt) - Nix Package Tool. A (humble) successor to linux's apt, which makes life easier when using nix as a package manager.
