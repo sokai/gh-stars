@@ -1381,6 +1381,7 @@
 
 ## github 
 
+- [kevinapps/githubstar](https://github.com/kevinapps/githubstar) - Export GitHub starred repositories, lists and topics to HTML, JSON, Markdown, or bookmark, grouped by language or topic, ordered by time, stargazer count etc.
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
@@ -3298,7 +3299,6 @@
 - [mozilla/fxa](https://github.com/mozilla/fxa) - Monorepo for Mozilla Accounts (formerly Firefox Accounts)
 - [josh-richardson/cadmus](https://github.com/josh-richardson/cadmus) - A GUI frontend for @werman's Pulse Audio real-time noise suppression plugin
 - [ubuntu/gnome-shell-extension-appindicator](https://github.com/ubuntu/gnome-shell-extension-appindicator) - Adds KStatusNotifierItem support to the Shell
-- [ironicbadger/infra](https://github.com/ironicbadger/infra) - 99.7% less leaked credentials
 - [luebke-dev/smbios-thermal-ctl-gnome-ext](https://github.com/luebke-dev/smbios-thermal-ctl-gnome-ext) - Gnome-Shell Extension for setting smbios thermal modes.
 - [UshakovVasilii/gnome-shell-extension-freon](https://github.com/UshakovVasilii/gnome-shell-extension-freon) - Shows CPU temperature, disk temperature, video card temperature (NVIDIA/Catalyst/Bumblebee&NVIDIA), voltage and fan RPM
 - [riccardoscalco/textures](https://github.com/riccardoscalco/textures) - Textures.js is a JavaScript library for creating SVG patterns
@@ -3513,7 +3513,6 @@
 - [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Reptar, Downfall, Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD
 - [aidanlister/jquery-stickytabs](https://github.com/aidanlister/jquery-stickytabs) - Provides persistant state (back and forward button support) for Bootstrap tabs
 - [rNeomy/clean-uninstall](https://github.com/rNeomy/clean-uninstall) - Remove addons fingerprints upon uninstall in Firefox browser
-- [julianshapiro/velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 - [vanillaforums/community](https://github.com/vanillaforums/community) - Code powering the Vanilla Forums open source community.
 - [Openpalm/strophe-omemo](https://github.com/Openpalm/strophe-omemo) - 
 - [vanhoefm/krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) - 
@@ -4358,6 +4357,7 @@
 
 ## python 
 
+- [kevinapps/githubstar](https://github.com/kevinapps/githubstar) - Export GitHub starred repositories, lists and topics to HTML, JSON, Markdown, or bookmark, grouped by language or topic, ordered by time, stargazer count etc.
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 - [gramps-project/gramps](https://github.com/gramps-project/gramps) - Source code for Gramps Genealogical program
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
