@@ -286,6 +286,7 @@
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [ktolonen/ultiorganizer](https://github.com/ktolonen/ultiorganizer) - Ultiorganizer is a web application for online score keeping of Ultimate events.
 - [thunderbird/stormbox](https://github.com/thunderbird/stormbox) - A webmail.
+- [rti/nixwrap](https://github.com/rti/nixwrap) - Easy Application Sandboxing on NixOS
 
 ## knowledge
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -661,6 +662,7 @@
 - [BryceBeagle/nixos-config](https://github.com/BryceBeagle/nixos-config) - 
 - [PrimaMateria/nixos-hive](https://github.com/PrimaMateria/nixos-hive) - PrimaMateria's NixOS configuration
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
+- [rti/nixwrap](https://github.com/rti/nixwrap) - Easy Application Sandboxing on NixOS
 
 ## nixolotl
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
