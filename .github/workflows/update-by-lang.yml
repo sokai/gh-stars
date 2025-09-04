@@ -1,50 +1,34 @@
-name: ⭐ Update by language
+name: Update by language
 on:
-  push:
-    branches: [main]
+  workflow_dispatch:
   schedule:
     - cron: 0/30 * * * *
-  workflow_dispatch:
 jobs:
   update-by-language:
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      REPOSITORY: ${{ github.repository }}
-      USERNAME: ${{ github.repository_owner }}
-    name: 🌟 Update stars and clean old runs
+    name: update awesome-stars
     runs-on: ubuntu-latest
     steps:
-      - name: 🧹 Delete old workflow runs
-        run: |
-          gh api repos/${REPOSITORY}/actions/runs -X GET --paginate -q '.workflow_runs[] | select(.status != "in_progress" and .status != "queued") | "\(.id)"' | xargs -I % gh api repos/${REPOSITORY}/actions/runs/% -X DELETE
-
-      - name: ⬇ Checkout
-        uses: actions/checkout@v5
-        
-      - name: 🔧 Set up Python
+      - uses: actions/checkout@v5
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.13"
-
-      - name: 🔧 Install dependencies
-        run: pip install --upgrade pip starred
-
-      - name: ⭐ Update repo category by language
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install starred
+      - name: Get repository name
+        run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
+      - name: Update repo category by language
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{ env.REPOSITORY_NAME }}
+          USERNAME: ${{ github.repository_owner }}
         run: |
           starred \
-            --token ${GITHUB_TOKEN} \
-            --username ${USERNAME} \
-            --sort > by-language.md
-          head by-language.md
-          if [ $(wc -l < "by-language.md") -lt 100 ]; then
-            git checkout -- "by-language.md"
-          fi
-
-      - name: 🤖 Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: 🤖 Update generated README/topics
-          branch: main
-          commit_user_name: awesome-stars 🤖
-          commit_user_email: actions@github.com
-          commit_author: awesome-stars 🤖 <actions@github.com>
+          --username ${USERNAME} \
+          --repository ${REPOSITORY} \
+          --token ${GITHUB_TOKEN} \
+          --sort \
+          --message "docs(language): bump data" \
+          --filename by-language.md
