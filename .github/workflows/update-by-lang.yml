@@ -5,12 +5,12 @@ on:
   schedule:
     - cron: 0/30 * * * *
   workflow_dispatch:
-env:
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  REPOSITORY: ${{ env.REPOSITORY_NAME }}
-  USERNAME: ${{ github.repository_owner }}
 jobs:
   update-by-language:
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      REPOSITORY: ${{ github.repository }}
+      USERNAME: ${{ github.repository_owner }}
     name: 🌟 Update stars and clean old runs
     runs-on: ubuntu-latest
     steps:
