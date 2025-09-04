@@ -7,12 +7,12 @@ on:
   workflow_dispatch:
 jobs:
   update-by-language:
+    name: 🌟 Update stars and clean old runs
+    runs-on: ubuntu-latest
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       REPOSITORY: ${{ env.REPOSITORY_NAME }}
       USERNAME: ${{ github.repository_owner }}
-    name: 🌟 Update stars and clean old runs
-    runs-on: ubuntu-latest
     steps:
       - name: 🧹 Delete old workflow runs
         run: |
