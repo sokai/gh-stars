@@ -3013,7 +3013,7 @@
 - [eu-digital-identity-wallet/eudi-app-android-wallet-ui](https://github.com/eu-digital-identity-wallet/eudi-app-android-wallet-ui) - EUDI Wallet Prototype
 - [infinisil/sanix](https://github.com/infinisil/sanix) - Sane stable stateless NixOS setup
 - [save-nix-together/open-letter](https://github.com/save-nix-together/open-letter) - an open letter to the NixOS foundation
-- [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
+- [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
 - [joelthorner/doc-template](https://github.com/joelthorner/doc-template) - Dev documentation template (one file)
 - [necolas/idiomatic-css](https://github.com/necolas/idiomatic-css) - Principles of writing consistent, idiomatic CSS.
