@@ -16,9 +16,7 @@ jobs:
     steps:
       - name: 🧹 Delete old workflow runs
         run: |
-          gh api repos/${REPOSITORY}/actions/runs --paginate -q '.workflow_runs[] \
-          | select(.status != "in_progress" and .status != "queued") | "\(.id)"' \
-          | xargs -I % gh api repos/${REPOSITORY}/actions/runs/% -X DELETE
+          gh api repos/${REPOSITORY}/actions/runs --paginate -q '.workflow_runs[] | select(.status != "in_progress" and .status != "queued") | "\(.id)"' | xargs -I % gh api repos/${REPOSITORY}/actions/runs/% -X DELETE
 
       - name: ⬇ Checkout
         uses: actions/checkout@v5
