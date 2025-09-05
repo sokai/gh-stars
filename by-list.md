@@ -1089,7 +1089,7 @@
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - The PHP framework that gets out of your way
 - [b310-digital/mindwendel](https://github.com/b310-digital/mindwendel) - Brainstorm, organize, and prioritize ideas effortlessly. Use it as a collaborative planning board or for live brainstormings within your team.
 - [b310-digital/teammapper](https://github.com/b310-digital/teammapper) - Mindmapping made simple: Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate on mindmaps.
-- [push-eax/pico-comments](https://github.com/push-eax/pico-comments) - A comments plugin for Pico CMS
+- [kiernanroche/pico-comments](https://github.com/kiernanroche/pico-comments) - A comments plugin for Pico CMS
 - [johnbillion/wp_mail](https://github.com/johnbillion/wp_mail) - Documentation for all the situations where WordPress core sends an email, how and when they happen, and how to filter or disable each one.
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [isso-comments/isso](https://github.com/isso-comments/isso) - a Disqus alternative
