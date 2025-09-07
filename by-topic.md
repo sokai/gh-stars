@@ -2724,7 +2724,7 @@
 - [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
 - [mkalus/caddy_nobots_v2](https://github.com/mkalus/caddy_nobots_v2) - Caddy v2 Server plugin to protect your website against web crawlers and bots
 - [tutunak/awesome-url-shortener](https://github.com/tutunak/awesome-url-shortener) - 
-- [karakeep-app/mobile-releases](https://github.com/karakeep-app/mobile-releases) - An archive for karakeep's mobile releases
+- [karakeep-app/mobile-releases](https://github.com/karakeep-app/mobile-releases) - An archive for karakeep mobile releases
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [9001/party-up](https://github.com/9001/party-up) - copyparty client for android
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
