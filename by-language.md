@@ -1427,7 +1427,7 @@
 - [beerisgood/Mobile_Security](https://github.com/beerisgood/Mobile_Security) - a collection of differently important stuff about mobile phones
 - [Frestein/awesome-stars](https://github.com/Frestein/awesome-stars) - 🌟 Frestein's starred repos, updated daily!
 - [tutunak/awesome-url-shortener](https://github.com/tutunak/awesome-url-shortener) - 
-- [karakeep-app/mobile-releases](https://github.com/karakeep-app/mobile-releases) - An archive for karakeep's mobile releases
+- [karakeep-app/mobile-releases](https://github.com/karakeep-app/mobile-releases) - An archive for karakeep mobile releases
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 - [LinkSheet/nightly](https://github.com/LinkSheet/nightly) - LinkSheet Nightly Release Repository
 - [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.
