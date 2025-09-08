@@ -2865,7 +2865,7 @@
 - [SuperLonci/ImmiQ](https://github.com/SuperLonci/ImmiQ) - A smart and efficient property and tenant management application. It helps landlords and property managers track rental payments, organize leases, manage maintenance requests, and streamline communica
 - [mechtifs/wiggle](https://github.com/mechtifs/wiggle) - Gnome extension that magnifies the cursor when the mouse is moved rapidly.
 - [sbs20/scanservjs](https://github.com/sbs20/scanservjs) - SANE scanner nodejs web ui
-- [qitechgmbh/control](https://github.com/qitechgmbh/control) - Next Generation Machine Intrface
+- [qitechgmbh/control](https://github.com/qitechgmbh/control) - Next Generation Machine Interface
 - [okfn/opendataeditor](https://github.com/okfn/opendataeditor) - The Open Data Editor (ODE) is a no-code application to explore, validate and publish data in a simple way. Forever free and open source project powered by the Frictionless Framework.
 - [OtaK/McMojave-hyprcursor](https://github.com/OtaK/McMojave-hyprcursor) - Pure SVG Hyprcursor port of the amazing McMojave XCursor theme by @vinceluice
 - [Libadoxon/mcmojave-hyprcursor](https://github.com/Libadoxon/mcmojave-hyprcursor) - The McMojave cursor theme ported to hyprcusor
@@ -3880,7 +3880,7 @@
 - [ghunti/HighchartsPHP](https://github.com/ghunti/HighchartsPHP) - A php wrapper for highcharts and highstock javascript libraries
 - [alex-LE/yourTinyTodo](https://github.com/alex-LE/yourTinyTodo) - Simple way to manage your todo list in AJAX style.
 - [dmfs/xml-serializer](https://github.com/dmfs/xml-serializer) - xml-serializer used in CalDAV-Sync and CardDAV-Sync for Android
-- [LunaBorowska/QuickPaste](https://github.com/LunaBorowska/QuickPaste) - Pastebin which hopefully will be fast
+- [sugar700/QuickPaste](https://github.com/sugar700/QuickPaste) - Pastebin which hopefully will be fast
 - [mikelbring/tinyissue](https://github.com/mikelbring/tinyissue) - Simple Issue Tracking for Teams
 - [brockhaus/prairie-openid2-server](https://github.com/brockhaus/prairie-openid2-server) - furter development of the prairie openid server originally developed by barnraiser.com
 - [bmcbride/leaflet-users-map](https://github.com/bmcbride/leaflet-users-map) - Map showing users of the Leaflet mapping library
