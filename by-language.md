@@ -1053,7 +1053,7 @@
 - [gfranko/jquery.tocify.js](https://github.com/gfranko/jquery.tocify.js) - A jQuery Table of Contents plugin that can be themed with Twitter Bootstrap or jQueryUI.
 - [DataTables/Plugins](https://github.com/DataTables/Plugins) - Plug-ins for DataTables
 - [flourishlib/flourishlib.com](https://github.com/flourishlib/flourishlib.com) - 
-- [LunaBorowska/QuickPaste](https://github.com/LunaBorowska/QuickPaste) - Pastebin which hopefully will be fast
+- [sugar700/QuickPaste](https://github.com/sugar700/QuickPaste) - Pastebin which hopefully will be fast
 - [bmcbride/leaflet-users-map](https://github.com/bmcbride/leaflet-users-map) - Map showing users of the Leaflet mapping library
 - [andreassolberg/jso](https://github.com/andreassolberg/jso) - Easy to use OAuth 2.0 javascript library for use in your javascript application.
 - [philippK-de/5up.js](https://github.com/philippK-de/5up.js) - HTML5 file upload library thingy
@@ -2396,7 +2396,7 @@
 - [Magic-JD/is-fast](https://github.com/Magic-JD/is-fast) - Check the internet as fast as possible
 - [misuzu/eyd](https://github.com/misuzu/eyd) - Erase your darlings, but without filesystems tricks
 - [cafkafk/rime](https://github.com/cafkafk/rime) - Nix Flake Input Versioning
-- [qitechgmbh/control](https://github.com/qitechgmbh/control) - Next Generation Machine Intrface
+- [qitechgmbh/control](https://github.com/qitechgmbh/control) - Next Generation Machine Interface
 - [uncenter/nixpkgs-track](https://github.com/uncenter/nixpkgs-track) - 📦 Track where Nixpkgs pull requests have reached.
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [TheAlexDev23/power-options](https://github.com/TheAlexDev23/power-options) - Most feature-complete Linux GUI power management solution.
