@@ -693,6 +693,7 @@
 
 ## JavaScript 
 
+- [thunderbird/stormbox](https://github.com/thunderbird/stormbox) - A webmail.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [rophy/kutt](https://github.com/rophy/kutt) - Free Modern URL Shortener.
 - [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
@@ -1424,7 +1425,6 @@
 
 ## Others 
 
-- [thunderbird/stormbox](https://github.com/thunderbird/stormbox) - A webmail.
 - [beerisgood/Mobile_Security](https://github.com/beerisgood/Mobile_Security) - a collection of differently important stuff about mobile phones
 - [Frestein/awesome-stars](https://github.com/Frestein/awesome-stars) - 🌟 Frestein's starred repos, updated daily!
 - [tutunak/awesome-url-shortener](https://github.com/tutunak/awesome-url-shortener) - 
