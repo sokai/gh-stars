@@ -1352,7 +1352,7 @@
 - [devplayer0/nixfiles](https://github.com/devplayer0/nixfiles) - 
 - [djacu/nix-ip](https://github.com/djacu/nix-ip) - An IP library for Nix.
 - [Hoverbear-Consulting/flake](https://github.com/Hoverbear-Consulting/flake) - Company Nix expressions.
-- [jkachmar/termina](https://github.com/jkachmar/termina) - the ever-shifting depths of the Underworld are not as once they were...
+- [jkachmar/tartarus](https://github.com/jkachmar/tartarus) - the ever-shifting depths of the Underworld are not as once they were...
 - [Janik-Haag/NixOS-DNS](https://github.com/Janik-Haag/NixOS-DNS) - Manage your dns zones with NixOS
 - [leona-ya/nixfiles](https://github.com/leona-ya/nixfiles) - 
 - [fooker/dns.nix](https://github.com/fooker/dns.nix) - NixOS module for DNS zone declaration
