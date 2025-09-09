@@ -1140,7 +1140,7 @@
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 - [felschr/nixos-config](https://github.com/felschr/nixos-config) - Mirror of my NixOS configuration
 - [abehidek/nix-config](https://github.com/abehidek/nix-config) - System, packages and dev shells configured using Nix, NixOS and nixpkgs
-- [jkachmar/termina](https://github.com/jkachmar/termina) - the ever-shifting depths of the Underworld are not as once they were...
+- [jkachmar/tartarus](https://github.com/jkachmar/tartarus) - the ever-shifting depths of the Underworld are not as once they were...
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 - [kradalby/dotfiles](https://github.com/kradalby/dotfiles) - monorepo for everything in my tech life.
 - [m00wl/nixfiles](https://github.com/m00wl/nixfiles) - The nix derivations that describe my system configurations.
@@ -2350,7 +2350,7 @@
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [eh8/chenglab](https://github.com/eh8/chenglab) - a straightforward NixOS setup for my homelab and personal computers
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
-- [jkachmar/termina](https://github.com/jkachmar/termina) - the ever-shifting depths of the Underworld are not as once they were...
+- [jkachmar/tartarus](https://github.com/jkachmar/tartarus) - the ever-shifting depths of the Underworld are not as once they were...
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
 - [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS, nix-darwin  & Home Manager Configurations ❄️
