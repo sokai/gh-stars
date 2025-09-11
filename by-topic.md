@@ -713,7 +713,7 @@
 - [dominiksalvet/gim](https://github.com/dominiksalvet/gim) - Simple installation manager for your Git projects.
 - [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [LibreCat/Catmandu](https://github.com/LibreCat/Catmandu) - Catmandu - a data processing toolkit
 - [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
@@ -4617,7 +4617,7 @@
 - [RazrFalcon/svgcleaner](https://github.com/RazrFalcon/svgcleaner) - svgcleaner could help you to clean up your SVG files from the unnecessary data.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 
 ## sass 
 
@@ -4964,7 +4964,7 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [dominiksalvet/gim](https://github.com/dominiksalvet/gim) - Simple installation manager for your Git projects.
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 
 ## terraform 
