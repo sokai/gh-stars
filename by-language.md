@@ -338,6 +338,7 @@
 
 ## Go 
 
+- [porech/caddy-maxmind-geolocation](https://github.com/porech/caddy-maxmind-geolocation) - Caddy v2 module to filter requests based on source IP geolocation
 - [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [mattermost/mattermost-push-proxy](https://github.com/mattermost/mattermost-push-proxy) - 
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
