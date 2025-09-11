@@ -1244,6 +1244,7 @@
 
 ## Nix 
 
+- [jhillyerd/agenix-template](https://github.com/jhillyerd/agenix-template) - NixOS module for templating agenix secrets
 - [rti/nixwrap](https://github.com/rti/nixwrap) - Easy Application Sandboxing on NixOS
 - [PrimaMateria/nixos-hive](https://github.com/PrimaMateria/nixos-hive) - PrimaMateria's NixOS configuration
 - [BryceBeagle/nixos-config](https://github.com/BryceBeagle/nixos-config) - 
@@ -1568,7 +1569,7 @@
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [bryanhonof/webtech-compose](https://github.com/bryanhonof/webtech-compose) - 
 - [alaouy/YouTube](https://github.com/alaouy/YouTube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
-- [RobertWesner/youtube-playlist](https://github.com/RobertWesner/youtube-playlist) - 
+- [RobertWesner/youtube-playlist](https://github.com/RobertWesner/youtube-playlist) - A paginated playlist viewer for YouTube.
 - [Jguevara82/YouTubePHP](https://github.com/Jguevara82/YouTubePHP) - A PHP implementation, trying to make an YouTube-like application
 - [fumeapp/laranuxt](https://github.com/fumeapp/laranuxt) - Laravel and Nuxt.js boilerplate
 - [asbiin/laravel-webauthn](https://github.com/asbiin/laravel-webauthn) - Webauthn adapter for Laravel
