@@ -3902,7 +3902,7 @@
 - [philippK-de/5up.js](https://github.com/philippK-de/5up.js) - HTML5 file upload library thingy
 - [resba/mumble-android](https://github.com/resba/mumble-android) - Android mumble client
 - [morrisjs/morris.js](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs
-- [Victa/curtain.js](https://github.com/Victa/curtain.js) - PROJECT IS NOT MAINTAINED - This plugin allows you to create a web page with multiple fixed panels that unroll with an amusing effect.
+- [Victa/curtain.js](https://github.com/Victa/curtain.js) - PROJECT IS NOT MAINTAINED. This plugin allows you to create a web page with multiple fixed panels that unfold with an amusing effect.
 - [farhadi/html5sortable](https://github.com/farhadi/html5sortable) - Lightweight jQuery plugin to create sortable lists and grids using native HTML5 drag and drop API.
 - [OscarGodson/EpicEditor](https://github.com/OscarGodson/EpicEditor) - EpicEditor is an embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more. For developers, it offers a robust API, can be
 - [jappix/jappix](https://github.com/jappix/jappix) - :speech_balloon: Jappix, a full-featured XMPP web-client (Jappix Desktop, Jappix Mobile & Jappix Mini).
