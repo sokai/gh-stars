@@ -285,6 +285,7 @@
 
 ## Dart 
 
+- [nucleus-ffm/foss_warn](https://github.com/nucleus-ffm/foss_warn) - An unofficial open source application to get emergency alerts.
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client.
 - [go-vikunja/app](https://github.com/go-vikunja/app) - Cross-Platform app for Vikunja
 - [nextcloud/neon](https://github.com/nextcloud/neon) - A framework for building convergent cross-platform Nextcloud clients using Flutter.
@@ -1142,7 +1143,6 @@
 - [home-assistant/android](https://github.com/home-assistant/android) - Home Assistant Companion for Android
 - [TJYSunset/Phocid](https://github.com/TJYSunset/Phocid) - A modern offline music player with familiar designs for Android 11+.
 - [ProtonMail/android-mail](https://github.com/ProtonMail/android-mail) - Proton Mail Android app
-- [LeanderBB/you-have-mail](https://github.com/LeanderBB/you-have-mail) - Application to notify you if an email has arrived in your email Account
 - [protonpass/android-pass](https://github.com/protonpass/android-pass) - Android code for the Proton Pass application
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
@@ -2418,6 +2418,7 @@
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE
+- [LeanderBB/you-have-mail](https://github.com/LeanderBB/you-have-mail) - Application to notify you if an email has arrived in your email Account
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
