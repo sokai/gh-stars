@@ -2717,6 +2717,7 @@
 
 ## others 
 
+- [BogdanTheGeek/semihost-ip](https://github.com/BogdanTheGeek/semihost-ip) - Running TCP/IP over SWD lines
 - [standard-for-public-code/standard-for-public-code](https://github.com/standard-for-public-code/standard-for-public-code) - The Standard for Public Code - a model for public organizations to build their own open source solutions to enable successful future reuse by and collaboration with similar public organizations in oth
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist & Nextcloud support designed for GNOME
 - [guttermonk/mdrs](https://github.com/guttermonk/mdrs) - MarkDown Renderer for the terminal
