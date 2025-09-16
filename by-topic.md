@@ -370,7 +370,7 @@
 - [bernaferrari/ChangeDetection](https://github.com/bernaferrari/ChangeDetection) - Change Detection - Automatically track websites changes on Android in background.
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
-- [chxpdev/PdfViewer](https://github.com/chxpdev/PdfViewer) - A simple Pdf document viewer 💼
+- [crunchwrapsuprm/PdfViewer](https://github.com/crunchwrapsuprm/PdfViewer) - A simple Pdf document viewer 💼
 - [owntracks/android](https://github.com/owntracks/android) - OwnTracks Android App
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [dakhnod/Meshenger](https://github.com/dakhnod/Meshenger) - open source, P2P messenger without centralized server that works in a local network.
