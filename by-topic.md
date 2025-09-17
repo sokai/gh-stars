@@ -1850,6 +1850,7 @@
 
 ## instagram 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 
@@ -1913,6 +1914,7 @@
 
 ## javascript 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [outline/outline-icons](https://github.com/outline/outline-icons) - An iconset designed for the team knowledgebase Outline, but open to all.
 - [ulid/javascript](https://github.com/ulid/javascript) - Universally Unique Lexicographically Sortable Identifier
 - [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
@@ -2511,6 +2513,7 @@
 
 ## music 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
@@ -2718,6 +2721,8 @@
 
 ## others 
 
+- [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
+- [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) - Private, fast, and honest web browser based on Chromium
 - [BogdanTheGeek/semihost-ip](https://github.com/BogdanTheGeek/semihost-ip) - Running TCP/IP over SWD lines
 - [standard-for-public-code/standard-for-public-code](https://github.com/standard-for-public-code/standard-for-public-code) - The Standard for Public Code - a model for public organizations to build their own open source solutions to enable successful future reuse by and collaboration with similar public organizations in oth
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist & Nextcloud support designed for GNOME
@@ -4883,6 +4888,7 @@
 
 ## svelte 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
 - [gka/palettes](https://github.com/gka/palettes) - A tool for creating nice, percerptually correct and colorblind-safe color palettes.
@@ -4999,6 +5005,7 @@
 
 ## twitter 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegr
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [hybridauth/hybridauth](https://github.com/hybridauth/hybridauth) - Open source social sign on PHP Library. HybridAuth goal is to act as an abstract api between your application and various social apis and identities providers such as Facebook, Twitter and Google.
@@ -5009,6 +5016,7 @@
 
 ## typescript 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [undb-io/undb](https://github.com/undb-io/undb) - 🚀 Private first self-hosted no code database & BaaS.
@@ -5186,6 +5194,7 @@
 
 ## webapp 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust.
 - [bigprof-software/online-rental-property-manager](https://github.com/bigprof-software/online-rental-property-manager) - Manage your rental properties, units, applications, leases and tenants.
 - [AndrewPaglusch/FlashPaper](https://github.com/AndrewPaglusch/FlashPaper) - One-time encrypted password/secret sharing
