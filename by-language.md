@@ -301,7 +301,7 @@
 - [proninyaroslav/libretrack](https://github.com/proninyaroslav/libretrack) - Private, cross-platform package tracking app
 - [vauvenal5/yaga](https://github.com/vauvenal5/yaga) - Nextcloud Yaga - A Nextcloud first gallery app for Android.
 - [authpass/authpass-cloud](https://github.com/authpass/authpass-cloud) - 
-- [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
+- [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (KDBX 3 and KDBX 4) compatible.
 - [deep-gaurav/MusicPiped](https://github.com/deep-gaurav/MusicPiped) - A Materialistic Music player that streams music
 - [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
