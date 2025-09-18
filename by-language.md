@@ -1216,7 +1216,6 @@
 - [bjc/prosody](https://github.com/bjc/prosody) - IMPORTANT: due to a drive failure, as of 13-Mar-2021, the Mercurial repository had to be re-mirrored, which changed every commit SHA. The old SHAs and trees are backed up in the vault branches. Please
 - [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 - [tmolitor-stud-tu/mod_push_appserver](https://github.com/tmolitor-stud-tu/mod_push_appserver) - Simple and extendable appserver for XMPP pushes (aka. XEP-0357)
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
 
@@ -1511,6 +1510,7 @@
 - [horazont/muchopper](https://github.com/horazont/muchopper) - 
 - [WebThingsIO/docs](https://github.com/WebThingsIO/docs) - WebThings Documentation
 - [uhub/awesome-php](https://github.com/uhub/awesome-php) - A curated list of awesome PHP frameworks, libraries and software.
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 - [matomo-org/referrer-spam-list](https://github.com/matomo-org/referrer-spam-list) - Community-contributed list of referrer spammers. Comment +1 in any issue or Pull request and the spammer will be added to the list!
 - [disconnectme/disconnect-tracking-protection](https://github.com/disconnectme/disconnect-tracking-protection) - Canonical repository for the Disconnect services file
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
