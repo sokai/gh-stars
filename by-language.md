@@ -97,6 +97,7 @@
 
 ## C 
 
+- [Keruspe/GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
 - [BogdanTheGeek/semihost-ip](https://github.com/BogdanTheGeek/semihost-ip) - Running TCP/IP over SWD lines
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
