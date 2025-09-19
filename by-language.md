@@ -700,6 +700,7 @@
 
 ## JavaScript 
 
+- [DannyBattison/wp-rss-to-posts](https://github.com/DannyBattison/wp-rss-to-posts) - RSS feed aggregation directly into WP latest posts
 - [metaodi/openerz](https://github.com/metaodi/openerz) - OpenERZ is an open API to the waste collection of many different municipalities in Switzerland (e.g. Zurich, Basel, St. Gallen, Uster, Thalwil, Adliswil, Horgen etc.)
 - [SolninjaA/Chhoto-URL-Extension](https://github.com/SolninjaA/Chhoto-URL-Extension) - This extension allows for easy, shortened URL link generation using a Chhoto URL server.
 - [thunderbird/stormbox](https://github.com/thunderbird/stormbox) - A webmail.
@@ -1132,6 +1133,7 @@
 
 ## Kotlin 
 
+- [Commit451/LabCoat](https://github.com/Commit451/LabCoat) - GitLab client for Android. Mirror of project on GitLab
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 - [UrAvgCode/Chooser](https://github.com/UrAvgCode/Chooser) - An Android app to randomly select fingers on the screen
 - [traccar/traccar-client-android](https://github.com/traccar/traccar-client-android) - Traccar Client for Android
@@ -1564,6 +1566,10 @@
 
 ## PHP 
 
+- [cruisemaniac/wp-amazon-rss](https://github.com/cruisemaniac/wp-amazon-rss) - Wordpress Plugin to parse RSS Feeds from Amazon and convert them to Wordpress Posts.
+- [DevLabStudio/RSS-Rocket](https://github.com/DevLabStudio/RSS-Rocket) - Feed RSS Agreggator Automatic Blog Post to Wordpress
+- [RebelCode/wp-rss-aggregator](https://github.com/RebelCode/wp-rss-aggregator) - WP RSS Aggregator - an RSS feed import solution for WordPress
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [etruel/wpematico](https://github.com/etruel/wpematico) - 
 - [MbinOrg/mbin](https://github.com/MbinOrg/mbin) - Mbin: a federated content aggregator, voting, discussion and microblogging platform
 - [php-feed-io/feed-io](https://github.com/php-feed-io/feed-io) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
