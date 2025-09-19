@@ -1564,6 +1564,9 @@
 
 ## PHP 
 
+- [etruel/wpematico](https://github.com/etruel/wpematico) - 
+- [MbinOrg/mbin](https://github.com/MbinOrg/mbin) - Mbin: a federated content aggregator, voting, discussion and microblogging platform
+- [php-feed-io/feed-io](https://github.com/php-feed-io/feed-io) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
 - [bohdanpotuzhnyi/talerbarr](https://github.com/bohdanpotuzhnyi/talerbarr) - TalerBarr is a Dolibarr ERP & CRM module that bridges your catalogue with the GNU Taler payment ecosystem.
 - [ktolonen/ultiorganizer](https://github.com/ktolonen/ultiorganizer) - Ultiorganizer is a web application for online score keeping of Ultimate events.
 - [gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php) - 🐘 A PHP client for interacting with Gotenberg.
@@ -2461,6 +2464,7 @@
 
 ## SCSS 
 
+- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [miniMAC/magic](https://github.com/miniMAC/magic) - CSS3 Animations with special effects
 - [all-animation/all-animation](https://github.com/all-animation/all-animation) - All Animation.css is a set of nice and crazy css animations made with the purpose to bring life and interactions to your project. They are cross-browser animations which will give more emphases on you
 - [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
