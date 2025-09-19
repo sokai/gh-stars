@@ -300,6 +300,7 @@
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [porech/caddy-maxmind-geolocation](https://github.com/porech/caddy-maxmind-geolocation) - Caddy v2 module to filter requests based on source IP geolocation
 - [jhillyerd/agenix-template](https://github.com/jhillyerd/agenix-template) - NixOS module for templating agenix secrets
+- [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.).
 
 ## knowledge
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -1095,6 +1096,7 @@
 - [porech/caddy-maxmind-geolocation](https://github.com/porech/caddy-maxmind-geolocation) - Caddy v2 module to filter requests based on source IP geolocation
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist & Nextcloud support designed for GNOME
 - [Keruspe/GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
+- [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.).
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
@@ -1198,6 +1200,7 @@
 - [ktolonen/ultiorganizer](https://github.com/ktolonen/ultiorganizer) - Ultiorganizer is a web application for online score keeping of Ultimate events.
 - [thunderbird/stormbox](https://github.com/thunderbird/stormbox) - A webmail.
 - [tutunak/awesome-url-shortener](https://github.com/tutunak/awesome-url-shortener) - 
+- [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.).
 
 ## work
 - [oeg-upm/devops-infra](https://github.com/oeg-upm/devops-infra) - Public repository for an ontology network on DevOps infrastructure
