@@ -1566,6 +1566,10 @@
 
 ## PHP 
 
+- [kenijo/feedpiper](https://github.com/kenijo/feedpiper) - Convert HTML to Feed | Merge and Filter Feeds
+- [Codeinwp/feedzy-rss-feeds](https://github.com/Codeinwp/feedzy-rss-feeds) - FEEDZY RSS Feeds is an easy-to-use plugin giving you RSS aggregator and autoblogging functionality. Bring the best RSS feeds to your site.
+- [svandragt/lamb](https://github.com/svandragt/lamb) - Literally Another Micro Blog
+- [helsingborg-stad/import-rss-feed](https://github.com/helsingborg-stad/import-rss-feed) - Probably the last Wordpress RSS importer. Import items from RSS feed to any post type.
 - [cruisemaniac/wp-amazon-rss](https://github.com/cruisemaniac/wp-amazon-rss) - Wordpress Plugin to parse RSS Feeds from Amazon and convert them to Wordpress Posts.
 - [DevLabStudio/RSS-Rocket](https://github.com/DevLabStudio/RSS-Rocket) - Feed RSS Agreggator Automatic Blog Post to Wordpress
 - [RebelCode/wp-rss-aggregator](https://github.com/RebelCode/wp-rss-aggregator) - WP RSS Aggregator - an RSS feed import solution for WordPress
@@ -2669,6 +2673,7 @@
 
 ## TypeScript 
 
+- [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.) with JavaScript.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [Vito0912/forkmost](https://github.com/Vito0912/forkmost) - Forkmost is a fork of Docmost which is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
