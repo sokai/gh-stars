@@ -69,6 +69,7 @@
 - [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) - 🤳🥫 The new Open Food Facts mobile application for Android and iOS, crafted with Flutter and Dart
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
+- [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy
 
 ## backup
 - [digint/btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
@@ -600,6 +601,7 @@
 - [zhangjiayin/caddy-geoip2](https://github.com/zhangjiayin/caddy-geoip2) - caddy-geoip2
 - [fili/ip.app](https://github.com/fili/ip.app) - The official how-to documentation and code base for the ip.app website.
 - [wireapp/wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## nix
 - [NixOS/nix-constitutional-assembly](https://github.com/NixOS/nix-constitutional-assembly) - Home of the Nix Constitutional Assembly, there to establish a community-based governance
@@ -914,6 +916,7 @@
 - [wireapp/wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
+- [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy
 
 ## security
 - [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
@@ -1155,6 +1158,7 @@
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
+- [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
