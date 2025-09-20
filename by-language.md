@@ -341,6 +341,8 @@
 
 ## Go 
 
+- [zhangjiayin/caddy-geoip2](https://github.com/zhangjiayin/caddy-geoip2) - caddy-geoip2
+- [aablinov/caddy-geoip](https://github.com/aablinov/caddy-geoip) - Caddy plugin to resolve user GeoIP data
 - [guttermonk/mdrs](https://github.com/guttermonk/mdrs) - MarkDown Renderer for the terminal
 - [porech/caddy-maxmind-geolocation](https://github.com/porech/caddy-maxmind-geolocation) - Caddy v2 module to filter requests based on source IP geolocation
 - [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
@@ -478,6 +480,7 @@
 
 ## HTML 
 
+- [georgyo/ifconfig.io](https://github.com/georgyo/ifconfig.io) - 
 - [thinkst/canarytokens](https://github.com/thinkst/canarytokens) - Canarytokens helps track activity and actions on your network.
 - [yegortimoshenko/copperhead-takeover](https://github.com/yegortimoshenko/copperhead-takeover) - Documents related to the takeover of Copperhead Limited (CopperheadOS)
 - [OCA/pms](https://github.com/OCA/pms) - Property Management System on Odoo
@@ -700,6 +703,8 @@
 
 ## JavaScript 
 
+- [fili/ip.app](https://github.com/fili/ip.app) - The official how-to documentation and code base for the ip.app website.
+- [sapics/ip-location-db](https://github.com/sapics/ip-location-db) - ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
 - [DannyBattison/wp-rss-to-posts](https://github.com/DannyBattison/wp-rss-to-posts) - RSS feed aggregation directly into WP latest posts
 - [metaodi/openerz](https://github.com/metaodi/openerz) - OpenERZ is an open API to the waste collection of many different municipalities in Switzerland (e.g. Zurich, Basel, St. Gallen, Uster, Thalwil, Adliswil, Horgen etc.)
 - [SolninjaA/Chhoto-URL-Extension](https://github.com/SolninjaA/Chhoto-URL-Extension) - This extension allows for easy, shortened URL link generation using a Chhoto URL server.
@@ -2140,6 +2145,7 @@
 
 ## Perl 
 
+- [Moham3dRiahi/Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - Th3Inspector 🕵️ Best Tool For Information Gathering 🔎
 - [zonemaster/zonemaster](https://github.com/zonemaster/zonemaster) - The Zonemaster Project
 - [digint/btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
 - [liske/needrestart](https://github.com/liske/needrestart) - Restart daemons after library updates.
@@ -2164,6 +2170,7 @@
 
 ## Python 
 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [imputnet/helium-chromium](https://github.com/imputnet/helium-chromium) - Private, fast, and honest web browser based on Chromium
 - [kevinapps/githubstar](https://github.com/kevinapps/githubstar) - Export GitHub starred repositories, lists and topics to HTML, JSON, Markdown, or bookmark, grouped by language or topic, ordered by time, stargazer count etc.
 - [obeone/multi-registry-cache](https://github.com/obeone/multi-registry-cache) - Multi-registry cache for Docker/containerd, optimizing image pulls using the original registry image
@@ -2390,6 +2397,7 @@
 
 ## Rust 
 
+- [sysid/bkmr](https://github.com/sysid/bkmr) - A Unified CLI Tool for Bookmark, Snippet, and Knowledge Management
 - [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
