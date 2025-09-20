@@ -1191,7 +1191,6 @@
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [albertvaka/bettercounter](https://github.com/albertvaka/bettercounter) - A daily counter to track habits
 - [whyorean/AuroraStore](https://github.com/whyorean/AuroraStore) - 
-- [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [Rudloff/muzei-commons](https://github.com/Rudloff/muzei-commons) - Wikimedia Commons plugin for Muzei
 - [nextcloud/talk-android](https://github.com/nextcloud/talk-android) - 📱😀 Video & audio calls through Nextcloud on Android
 - [banasiak/MuzeiSaver](https://github.com/banasiak/MuzeiSaver) - A super simple way to save the currently displayed Muzei wallpaper image to a file.
