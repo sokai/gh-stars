@@ -342,6 +342,8 @@
 
 ## Go 
 
+- [whyvl/wireproxy](https://github.com/whyvl/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
+- [artem-russkikh/wireproxy-awg](https://github.com/artem-russkikh/wireproxy-awg) - AmneziaWG compatible wireguard client that exposes itself as a socks5 proxy
 - [zhangjiayin/caddy-geoip2](https://github.com/zhangjiayin/caddy-geoip2) - caddy-geoip2
 - [aablinov/caddy-geoip](https://github.com/aablinov/caddy-geoip) - Caddy plugin to resolve user GeoIP data
 - [guttermonk/mdrs](https://github.com/guttermonk/mdrs) - MarkDown Renderer for the terminal
@@ -481,6 +483,7 @@
 
 ## HTML 
 
+- [matrix-org/arewemlsyet](https://github.com/matrix-org/arewemlsyet) - arewemlsyet.com
 - [georgyo/ifconfig.io](https://github.com/georgyo/ifconfig.io) - 
 - [thinkst/canarytokens](https://github.com/thinkst/canarytokens) - Canarytokens helps track activity and actions on your network.
 - [yegortimoshenko/copperhead-takeover](https://github.com/yegortimoshenko/copperhead-takeover) - Documents related to the takeover of Copperhead Limited (CopperheadOS)
@@ -605,6 +608,7 @@
 
 ## Java 
 
+- [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 - [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [siyuan-note/siyuan-android](https://github.com/siyuan-note/siyuan-android) - SiYuan Android APP
 - [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
@@ -2397,6 +2401,7 @@
 
 ## Rust 
 
+- [openmls/openmls](https://github.com/openmls/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol
 - [sysid/bkmr](https://github.com/sysid/bkmr) - A Unified CLI Tool for Bookmark, Snippet, and Knowledge Management
 - [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
@@ -2681,6 +2686,7 @@
 
 ## TypeScript 
 
+- [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
 - [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.) with JavaScript.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [Vito0912/forkmost](https://github.com/Vito0912/forkmost) - Forkmost is a fork of Docmost which is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
