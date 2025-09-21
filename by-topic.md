@@ -4150,7 +4150,7 @@
 - [projectsend/projectsend](https://github.com/projectsend/projectsend) - ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple langua
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [nekofar/awesome-slim](https://github.com/nekofar/awesome-slim) - A curated list of awesome Slim framework packages and resources.
-- [nextcloud/twofactor_gateway](https://github.com/nextcloud/twofactor_gateway) - 🔑 Second factor provider using an external messaging gateway (SMS, Telegram, Signal)
+- [nextcloud/twofactor_gateway](https://github.com/nextcloud/twofactor_gateway) - 🔑 Second factor provider using an external messaging gateway (Signal, SMS, Telegram, WhatsApp and XMPP)
 - [voku/simple_html_dom](https://github.com/voku/simple_html_dom) - 📜 Modern Simple HTML DOM Parser for PHP
 - [paragonie/certainty](https://github.com/paragonie/certainty) - Automated cacert.pem management for PHP projects
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
@@ -4749,7 +4749,7 @@
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [lbuchs/WebAuthn](https://github.com/lbuchs/WebAuthn) - A simple PHP WebAuthn (FIDO2/Passkey) server library
-- [nextcloud/twofactor_gateway](https://github.com/nextcloud/twofactor_gateway) - 🔑 Second factor provider using an external messaging gateway (SMS, Telegram, Signal)
+- [nextcloud/twofactor_gateway](https://github.com/nextcloud/twofactor_gateway) - 🔑 Second factor provider using an external messaging gateway (Signal, SMS, Telegram, WhatsApp and XMPP)
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [paragonie/certainty](https://github.com/paragonie/certainty) - Automated cacert.pem management for PHP projects
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
@@ -5008,6 +5008,7 @@
 - [adeekshith/watomatic](https://github.com/adeekshith/watomatic) - Auto reply app to enable auto reply for messengers like WhatsApp and Facebook Messenger
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegr
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+- [nextcloud/twofactor_gateway](https://github.com/nextcloud/twofactor_gateway) - 🔑 Second factor provider using an external messaging gateway (Signal, SMS, Telegram, WhatsApp and XMPP)
 - [manzinello/mailgo](https://github.com/manzinello/mailgo) - 💌 mailgo, a new concept of mailto and tel links [deprecated]
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [zhukov/webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
