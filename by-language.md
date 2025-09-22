@@ -608,6 +608,7 @@
 
 ## Java 
 
+- [Hachimann/mlkit-barcode-scanning](https://github.com/Hachimann/mlkit-barcode-scanning) - Barcode scanner library for Android, based on ML Kit's barcode scanning API
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 - [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [siyuan-note/siyuan-android](https://github.com/siyuan-note/siyuan-android) - SiYuan Android APP
