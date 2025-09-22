@@ -3641,7 +3641,6 @@
 - [spymastermatt/thunderbird-monterail](https://github.com/spymastermatt/thunderbird-monterail) - A set of themes for thunderbird inspired by a Monterail blog post
 - [jaxl/JAXL](https://github.com/jaxl/JAXL) - Asynchronous, non-blocking I/O, event based PHP library  for writing custom TCP/IP client and server implementations.  From it's previous versions, library inherits a full blown stable support  for XM
 - [lunarthegrey/letsencrypt-to-prosody](https://github.com/lunarthegrey/letsencrypt-to-prosody) - Project moved to https://github.com/crypto-world/letsencrypt-to-prosody
-- [iNPUTmice/ComplianceTester](https://github.com/iNPUTmice/ComplianceTester) - 
 - [raptor2101/Mediathek](https://github.com/raptor2101/Mediathek) - 
 - [radgeek/feedwordpress](https://github.com/radgeek/feedwordpress) - FeedWordPress: simple and flexible Atom/RSS syndication for WordPress
 - [Freeyourgadget/Gadgetbridge](https://github.com/Freeyourgadget/Gadgetbridge) - We are on codeberg.org now! https://codeberg.org/Freeyourgadget/Gadgetbridge -  Gadgetbridge - A free and cloudless replacement for your gadget vendors' closed source Android applications. Supports Pe
