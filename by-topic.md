@@ -2775,7 +2775,7 @@
 - [metaodi/openerz](https://github.com/metaodi/openerz) - OpenERZ is an open API to the waste collection of many different municipalities in Switzerland (e.g. Zurich, Basel, St. Gallen, Uster, Thalwil, Adliswil, Horgen etc.)
 - [thinkst/canarytokens](https://github.com/thinkst/canarytokens) - Canarytokens helps track activity and actions on your network.
 - [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
-- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
+- [imputnet/helium](https://github.com/imputnet/helium) - Fast and private web browsing without interruptions
 - [BogdanTheGeek/semihost-ip](https://github.com/BogdanTheGeek/semihost-ip) - Running TCP/IP over SWD lines
 - [standard-for-public-code/standard-for-public-code](https://github.com/standard-for-public-code/standard-for-public-code) - The Standard for Public Code - a model for public organizations to build their own open source solutions to enable successful future reuse by and collaboration with similar public organizations in oth
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist & Nextcloud support designed for GNOME
