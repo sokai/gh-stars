@@ -687,7 +687,6 @@
 - [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files
 - [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
 - [timrdf/csv2rdf4lod-automation](https://github.com/timrdf/csv2rdf4lod-automation) - Shell script automation to support csv2rdf4lod converter
-- [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [jensstein/oandbackup](https://github.com/jensstein/oandbackup) - backup manager for android
 - [segler-alex/RadioDroid](https://github.com/segler-alex/RadioDroid) - radio browser app that uses www.radio-browser.info on android
 - [dimtion/Shaarlier](https://github.com/dimtion/Shaarlier) - Simple Android app for sharing links on Shaarli.
@@ -1212,6 +1211,7 @@
 - [openhab/openhab-android](https://github.com/openhab/openhab-android) - openHAB client for Android
 - [pacien/tincapp](https://github.com/pacien/tincapp) - Android binding and user interface for the tinc mesh VPN daemon.
 - [openHPI/xikolo-android](https://github.com/openHPI/xikolo-android) - 📱 Android App of the HPI MOOC Platform
+- [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [quarck/CalendarNotification](https://github.com/quarck/CalendarNotification) - Android app extending calendar notifications with snooze button and notifications persistence
 - [TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 
 - [mapzen/eraser-map](https://github.com/mapzen/eraser-map) - Privacy-focused mapping application for Android
@@ -2512,6 +2512,7 @@
 
 ## Shell 
 
+- [paldepind/projectdo](https://github.com/paldepind/projectdo) - Context-aware single-letter project commands to speed up your terminal workflow.
 - [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
 - [standard-for-public-code/standard-for-public-code](https://github.com/standard-for-public-code/standard-for-public-code) - The Standard for Public Code - a model for public organizations to build their own open source solutions to enable successful future reuse by and collaboration with similar public organizations in oth
 - [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy) - An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, registry.k8s.io, ghcr.io)
