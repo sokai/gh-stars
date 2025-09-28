@@ -1319,7 +1319,7 @@
 - [dtgagnon/nix-config](https://github.com/dtgagnon/nix-config) - My personal portable, extensible, NixOS configuration.
 - [nix-community/preservation](https://github.com/nix-community/preservation) - Nix tooling to enable declarative management of non-volatile system state. [maintainer=@WilliButz]
 - [Lassulus/vars](https://github.com/Lassulus/vars) - 
-- [viperML/nix-maid](https://github.com/viperML/nix-maid) - Systemd + Nix dotfile management
+- [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
 - [Libadoxon/mcmojave-hyprcursor](https://github.com/Libadoxon/mcmojave-hyprcursor) - The McMojave cursor theme ported to hyprcusor
 - [jpetrucciani/nix](https://github.com/jpetrucciani/nix) - ❄️ my nix modules, overlays, host configurations, and more!
 - [coldelectrons/unitedstatesofsmash](https://github.com/coldelectrons/unitedstatesofsmash) - One (nix flake) for all (my installs)
