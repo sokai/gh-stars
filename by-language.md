@@ -2513,6 +2513,7 @@
 
 ## Shell 
 
+- [macbeth/comfyui-truenas](https://github.com/macbeth/comfyui-truenas) - Docker image for Truenas of ComfyUI
 - [paldepind/projectdo](https://github.com/paldepind/projectdo) - Context-aware single-letter project commands to speed up your terminal workflow.
 - [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
 - [standard-for-public-code/standard-for-public-code](https://github.com/standard-for-public-code/standard-for-public-code) - The Standard for Public Code - a model for public organizations to build their own open source solutions to enable successful future reuse by and collaboration with similar public organizations in oth
