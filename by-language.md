@@ -1614,7 +1614,7 @@
 - [jeremykendall/php-domain-parser](https://github.com/jeremykendall/php-domain-parser) - Public Suffix List based domain parsing implemented in PHP
 - [RTAinJapan/rta-in-japan-twitter-api](https://github.com/RTAinJapan/rta-in-japan-twitter-api) - 
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
-- [verdigado/organization_folders](https://github.com/verdigado/organization_folders) - Organization Folders are Nextcloud Team Folders designed for large organizations, with permissions managed via an intuitive web interface.
+- [verdigado/organization_folders](https://github.com/verdigado/organization_folders) - The Organization Folders Nextcloud app is a new way to manage Team Folders (formerly known as group folders) and the permissions within them.
 - [Igel18/Berlussimo](https://github.com/Igel18/Berlussimo) - Hausverwaltung Software
 - [qbnm/Berlussimo](https://github.com/qbnm/Berlussimo) - Hausverwaltung Software
 - [Darkjeff/ultimateimmo](https://github.com/Darkjeff/ultimateimmo) - module dolibarr estate rent
