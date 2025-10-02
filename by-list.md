@@ -180,7 +180,7 @@
 - [Darkjeff/ultimateimmo](https://github.com/Darkjeff/ultimateimmo) - module dolibarr estate rent
 - [qbnm/Berlussimo](https://github.com/qbnm/Berlussimo) - Hausverwaltung Software
 - [Igel18/Berlussimo](https://github.com/Igel18/Berlussimo) - Hausverwaltung Software
-- [verdigado/organization_folders](https://github.com/verdigado/organization_folders) - Organization Folders are Nextcloud Team Folders designed for large organizations, with permissions managed via an intuitive web interface.
+- [verdigado/organization_folders](https://github.com/verdigado/organization_folders) - The Organization Folders Nextcloud app is a new way to manage Team Folders (formerly known as group folders) and the permissions within them.
 - [jasonxtn/Argus](https://github.com/jasonxtn/Argus) - The Ultimate Information Gathering Toolkit
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! \|\| 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -386,7 +386,7 @@
 - [mechtifs/wiggle](https://github.com/mechtifs/wiggle) - Gnome extension that magnifies the cursor when the mouse is moved rapidly.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [allotropia/nextcloud_files_libreoffice_edit](https://github.com/allotropia/nextcloud_files_libreoffice_edit) - Nextcloud App to edit files directly with LibreOffice (via WebDav)
-- [verdigado/organization_folders](https://github.com/verdigado/organization_folders) - Organization Folders are Nextcloud Team Folders designed for large organizations, with permissions managed via an intuitive web interface.
+- [verdigado/organization_folders](https://github.com/verdigado/organization_folders) - The Organization Folders Nextcloud app is a new way to manage Team Folders (formerly known as group folders) and the permissions within them.
 - [jasonxtn/Argus](https://github.com/jasonxtn/Argus) - The Ultimate Information Gathering Toolkit
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! \|\| 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -513,7 +513,7 @@
 - [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
 - [allotropia/nextcloud_files_libreoffice_edit](https://github.com/allotropia/nextcloud_files_libreoffice_edit) - Nextcloud App to edit files directly with LibreOffice (via WebDav)
 - [snowfallorg/flake](https://github.com/snowfallorg/flake) - Simplify Nix Flakes on the command line.
-- [verdigado/organization_folders](https://github.com/verdigado/organization_folders) - Organization Folders are Nextcloud Team Folders designed for large organizations, with permissions managed via an intuitive web interface.
+- [verdigado/organization_folders](https://github.com/verdigado/organization_folders) - The Organization Folders Nextcloud app is a new way to manage Team Folders (formerly known as group folders) and the permissions within them.
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! \|\| 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
@@ -1025,7 +1025,7 @@
 - [mechtifs/wiggle](https://github.com/mechtifs/wiggle) - Gnome extension that magnifies the cursor when the mouse is moved rapidly.
 - [allotropia/nextcloud_files_libreoffice_edit](https://github.com/allotropia/nextcloud_files_libreoffice_edit) - Nextcloud App to edit files directly with LibreOffice (via WebDav)
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-- [verdigado/organization_folders](https://github.com/verdigado/organization_folders) - Organization Folders are Nextcloud Team Folders designed for large organizations, with permissions managed via an intuitive web interface.
+- [verdigado/organization_folders](https://github.com/verdigado/organization_folders) - The Organization Folders Nextcloud app is a new way to manage Team Folders (formerly known as group folders) and the permissions within them.
 - [jasonxtn/Argus](https://github.com/jasonxtn/Argus) - The Ultimate Information Gathering Toolkit
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! \|\| 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
