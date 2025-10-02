@@ -2964,7 +2964,7 @@
 - [SorkinType/Merriweather](https://github.com/SorkinType/Merriweather) - Merriweather is a serif typeface. It is offered in Variable font format and static formats ( OTF, TTF WOFF etc).
 - [JulienMalka/artiflakery](https://github.com/JulienMalka/artiflakery) - A webserver for on the fly delivery of Nix flake artifacts
 - [Lassulus/vars](https://github.com/Lassulus/vars) - 
-- [verdigado/organization_folders](https://github.com/verdigado/organization_folders) - Organization Folders are Nextcloud Team Folders designed for large organizations, with permissions managed via an intuitive web interface.
+- [verdigado/organization_folders](https://github.com/verdigado/organization_folders) - The Organization Folders Nextcloud app is a new way to manage Team Folders (formerly known as group folders) and the permissions within them.
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
 - [snowfallorg/flake](https://github.com/snowfallorg/flake) - Simplify Nix Flakes on the command line.
 - [allotropia/nextcloud_files_libreoffice_edit](https://github.com/allotropia/nextcloud_files_libreoffice_edit) - Nextcloud App to edit files directly with LibreOffice (via WebDav)
