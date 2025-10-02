@@ -5055,7 +5055,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
-- [Jojo4GH/nav](https://github.com/Jojo4GH/nav) - The interactive and intuitive replacement for ls & cd!
+- [Jojo4GH/nav](https://github.com/Jojo4GH/nav) - 📂 The interactive and intuitive replacement for ls & cd!
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
