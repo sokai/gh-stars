@@ -342,6 +342,7 @@
 
 ## Go 
 
+- [inetaf/tcpproxy](https://github.com/inetaf/tcpproxy) - Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary)
 - [whyvl/wireproxy](https://github.com/whyvl/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
 - [artem-russkikh/wireproxy-awg](https://github.com/artem-russkikh/wireproxy-awg) - AmneziaWG compatible wireguard client that exposes itself as a socks5 proxy
 - [zhangjiayin/caddy-geoip2](https://github.com/zhangjiayin/caddy-geoip2) - caddy-geoip2
@@ -588,6 +589,7 @@
 
 ## Haskell 
 
+- [NixOS/SC-election-2025](https://github.com/NixOS/SC-election-2025) - 2025 Election for the Steering Committee
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
 - [simplex-chat/simplexmq](https://github.com/simplex-chat/simplexmq) - ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
@@ -1141,6 +1143,7 @@
 
 ## Kotlin 
 
+- [octoshrimpy/quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 - [Commit451/LabCoat](https://github.com/Commit451/LabCoat) - GitLab client for Android. Mirror of project on GitLab
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
@@ -1261,6 +1264,7 @@
 
 ## Nix 
 
+- [herobrauni/nx](https://github.com/herobrauni/nx) - 
 - [snugnug/hjem-rum](https://github.com/snugnug/hjem-rum) - A module collection for Hjem. [Maintainers=@Lunarnovaa, @nezia1]
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@willibutz @ma27]
 - [jhillyerd/agenix-template](https://github.com/jhillyerd/agenix-template) - NixOS module for templating agenix secrets
