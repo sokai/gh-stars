@@ -708,6 +708,7 @@
 
 ## JavaScript 
 
+- [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
 - [fili/ip.app](https://github.com/fili/ip.app) - The official how-to documentation and code base for the ip.app website.
 - [sapics/ip-location-db](https://github.com/sapics/ip-location-db) - ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
 - [DannyBattison/wp-rss-to-posts](https://github.com/DannyBattison/wp-rss-to-posts) - RSS feed aggregation directly into WP latest posts
@@ -1158,7 +1159,7 @@
 - [FliegendeWurst/TriliumDroid](https://github.com/FliegendeWurst/TriliumDroid) - Android client for Trilium Notes
 - [jrpie/launcher](https://github.com/jrpie/launcher) - A distraction-free, minimal homescreen for Android.
 - [FossifyOrg/Calendar](https://github.com/FossifyOrg/Calendar) - A simple calendar with events, customizable widgets and no ads.
-- [Jojo4GH/nav](https://github.com/Jojo4GH/nav) - 📂 The interactive and intuitive replacement for ls & cd!
+- [Jojo4GH/nav](https://github.com/Jojo4GH/nav) - ❯ The interactive and intuitive replacement for ls & cd!
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [home-assistant/android](https://github.com/home-assistant/android) - Home Assistant Companion for Android
 - [TJYSunset/Phocid](https://github.com/TJYSunset/Phocid) - A modern offline music player with familiar designs for Android 11+.
@@ -2179,6 +2180,7 @@
 
 ## Python 
 
+- [Thymis-io/thymis](https://github.com/Thymis-io/thymis) - Web-based platform for configuring, provisioning, updating, and monitoring (IoT-)devices and systems, powered by NixOS
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [kevinapps/githubstar](https://github.com/kevinapps/githubstar) - Export GitHub starred repositories, lists and topics to HTML, JSON, Markdown, or bookmark, grouped by language or topic, ordered by time, stargazer count etc.
