@@ -134,7 +134,6 @@
 - [bikeindex/bike_index](https://github.com/bikeindex/bike_index) - All the code for Bike Index, because we love you
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
-- [WonderCMS/wondercms](https://github.com/WonderCMS/wondercms) - Fast and small flat file CMS (5 files). Built with PHP, JSON database.
 - [ArchiveTeam/terroroftinytown](https://github.com/ArchiveTeam/terroroftinytown) - URLTeam's second generation of URL shortener archiving tools
 - [aciceri/agenix-shell](https://github.com/aciceri/agenix-shell) - 
 - [leafcloudhq/echoip](https://github.com/leafcloudhq/echoip) - IP address lookup service
@@ -485,7 +484,6 @@
 - [nextcloud/integration_paperless](https://github.com/nextcloud/integration_paperless) - Integration with the Paperless Document Management System.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
-- [WonderCMS/wondercms](https://github.com/WonderCMS/wondercms) - Fast and small flat file CMS (5 files). Built with PHP, JSON database.
 - [kalbasit/ncps](https://github.com/kalbasit/ncps) - Nix binary cache proxy service -- with local caching and signing.
 - [aciceri/agenix-shell](https://github.com/aciceri/agenix-shell) - 
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
