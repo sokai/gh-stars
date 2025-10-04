@@ -1581,6 +1581,7 @@
 
 ## PHP 
 
+- [flightphp/skeleton](https://github.com/flightphp/skeleton) - This is an example repository of how a more complex Flight project might be setup.
 - [kenijo/feedpiper](https://github.com/kenijo/feedpiper) - Convert HTML to Feed | Merge and Filter Feeds
 - [Codeinwp/feedzy-rss-feeds](https://github.com/Codeinwp/feedzy-rss-feeds) - FEEDZY RSS Feeds is an easy-to-use plugin giving you RSS aggregator and autoblogging functionality. Bring the best RSS feeds to your site.
 - [svandragt/lamb](https://github.com/svandragt/lamb) - Literally Another Micro Blog
