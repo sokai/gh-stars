@@ -599,7 +599,7 @@
 - [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
 - [wireapp/wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
-- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VSCode and OpenVSX extensions [maintainers: @deemp, @AmeerTaweel]
+- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - VS Code and OpenVSX extensions as Nix expressions
 - [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -1581,6 +1581,7 @@
 
 ## PHP 
 
+- [catfan/Medoo](https://github.com/catfan/Medoo) - The lightweight PHP database framework to accelerate the development.
 - [flightphp/skeleton](https://github.com/flightphp/skeleton) - This is an example repository of how a more complex Flight project might be setup.
 - [kenijo/feedpiper](https://github.com/kenijo/feedpiper) - Convert HTML to Feed | Merge and Filter Feeds
 - [Codeinwp/feedzy-rss-feeds](https://github.com/Codeinwp/feedzy-rss-feeds) - FEEDZY RSS Feeds is an easy-to-use plugin giving you RSS aggregator and autoblogging functionality. Bring the best RSS feeds to your site.
