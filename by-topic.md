@@ -2225,6 +2225,7 @@
 
 ## laravel 
 
+- [spatie/sheets](https://github.com/spatie/sheets) - Store & retrieve your static content in plain text files
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid) - ⚡ PowerGrid generates modern, powerful and easy-to-customize data tables using Laravel Livewire.
 - [alaouy/YouTube](https://github.com/alaouy/YouTube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
@@ -2441,6 +2442,7 @@
 
 ## markdown 
 
+- [spatie/sheets](https://github.com/spatie/sheets) - Store & retrieve your static content in plain text files
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [nextcloud/collectives](https://github.com/nextcloud/collectives) - Collectives is a Nextcloud App for activist and community projects to organize together.
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
