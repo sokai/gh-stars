@@ -2791,7 +2791,7 @@
 
 ## others 
 
-- [flightphp/skeleton](https://github.com/flightphp/skeleton) - This is an example repository of how a more complex Flight project might be setup.
+- [garyp/pocket-ding](https://github.com/garyp/pocket-ding) - A Progressive Web App (PWA) that provides an enhanced offline reading experience for bookmarks hosted on a Linkding server.
 - [feel-co/ndg](https://github.com/feel-co/ndg) - NDG: Not a Docs Generator
 - [NixOS/SC-election-2025](https://github.com/NixOS/SC-election-2025) - 2025 Election for the Steering Committee
 - [herobrauni/nx](https://github.com/herobrauni/nx) - 
@@ -4157,6 +4157,7 @@
 ## php 
 
 - [catfan/Medoo](https://github.com/catfan/Medoo) - The lightweight PHP database framework to accelerate the development.
+- [flightphp/skeleton](https://github.com/flightphp/skeleton) - This is an example repository of how a more complex Flight project might be setup.
 - [svandragt/lamb](https://github.com/svandragt/lamb) - Literally Another Micro Blog
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [bohdanpotuzhnyi/talerbarr](https://github.com/bohdanpotuzhnyi/talerbarr) - TalerBarr is a Dolibarr ERP & CRM module that bridges your catalogue with the GNU Taler payment ecosystem.
