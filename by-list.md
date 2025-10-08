@@ -788,7 +788,7 @@
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [linka-app/linka](https://github.com/linka-app/linka) - Cross-platform, Self-hosted & AI powered bookmark management app for linkding, an alternative to linkding front-end, with special optimization for search and quick open functions. Free and open source. Provide web app、PWA and desktop APP. Companion for browsers without bookmark like Arc.
 - [jakehamilton/config](https://github.com/jakehamilton/config) - My Nix configuration for packages, systems, etc.
-- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - VS Code Marketplace and Open VSX extensions as Nix expressions
+- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VS Code Marketplace and Open VSX extensions
 - [mgalgs/gnome-shell-system-monitor-next-applet](https://github.com/mgalgs/gnome-shell-system-monitor-next-applet) - Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
 - [nrbray/nixos-configuration](https://github.com/nrbray/nixos-configuration) - 
 - [gyunaev/birdtray](https://github.com/gyunaev/birdtray) - new mail system tray notification icon for Thunderbird
