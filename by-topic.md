@@ -288,6 +288,7 @@
 
 ## android 
 
+- [0xf104a/NextcloudServices](https://github.com/0xf104a/NextcloudServices) - Android app to send notifications from Nextcloud without using GCM(Google cloud messaging)
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 - [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) - 🤳🥫 The new Open Food Facts mobile application for Android and iOS, crafted with Flutter and Dart
@@ -1934,6 +1935,8 @@
 
 ## java 
 
+- [0xf104a/NextcloudServices](https://github.com/0xf104a/NextcloudServices) - Android app to send notifications from Nextcloud without using GCM(Google cloud messaging)
+- [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 - [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
 - [traccar/traccar-client-android](https://github.com/traccar/traccar-client-android) - Traccar Client for Android
@@ -2792,6 +2795,7 @@
 
 ## others 
 
+- [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [andre4ik3/agefs](https://github.com/andre4ik3/agefs) - FUSE filesystem that decrypts age secrets on the fly
 - [garyp/pocket-ding](https://github.com/garyp/pocket-ding) - A Progressive Web App (PWA) that provides an enhanced offline reading experience for bookmarks hosted on a Linkding server.
 - [feel-co/ndg](https://github.com/feel-co/ndg) - NDG: Not a Docs Generator
@@ -4840,6 +4844,7 @@
 
 ## self-hosted 
 
+- [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
 - [svandragt/lamb](https://github.com/svandragt/lamb) - Literally Another Micro Blog
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust.
