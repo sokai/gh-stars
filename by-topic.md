@@ -2792,6 +2792,7 @@
 
 ## others 
 
+- [andre4ik3/agefs](https://github.com/andre4ik3/agefs) - FUSE filesystem that decrypts age secrets on the fly
 - [garyp/pocket-ding](https://github.com/garyp/pocket-ding) - A Progressive Web App (PWA) that provides an enhanced offline reading experience for bookmarks hosted on a Linkding server.
 - [feel-co/ndg](https://github.com/feel-co/ndg) - NDG: Not a Docs Generator
 - [NixOS/SC-election-2025](https://github.com/NixOS/SC-election-2025) - 2025 Election for the Steering Committee
