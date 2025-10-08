@@ -600,7 +600,7 @@
 - [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
 - [wireapp/wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
-- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - VS Code Marketplace and Open VSX extensions as Nix expressions
+- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VS Code Marketplace and Open VSX extensions
 - [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
