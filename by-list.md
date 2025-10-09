@@ -463,7 +463,6 @@
 
 ## Nfra
 - [tessus/redis-stats](https://github.com/tessus/redis-stats) - A lightweight dashboard to show statistics about a Redis server.
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. READ ONLY MIRROR! Now on Codeberg instead: https://codeberg.org/superseriousbusiness/gotosocial
 - [radgeek/fwp-limit-size-of-posts](https://github.com/radgeek/fwp-limit-size-of-posts) - FWP+: Limit Size Of Posts
 - [jakehamilton/config](https://github.com/jakehamilton/config) - My Nix configuration for packages, systems, etc.
 - [sissbruecker/linkding-extension](https://github.com/sissbruecker/linkding-extension) - Companion extension for linkding
