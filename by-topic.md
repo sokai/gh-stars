@@ -1162,6 +1162,7 @@
 
 ## dotfiles 
 
+- [marcusramberg/nix-config](https://github.com/marcusramberg/nix-config) - My home manager and nixos / nix-darwin setup
 - [snugnug/hjem-rum](https://github.com/snugnug/hjem-rum) - A module collection for Hjem. [Maintainers=@Lunarnovaa, @nezia1]
 - [ourgal/snowfall](https://github.com/ourgal/snowfall) - NixOS dotfiles
 - [wueestry/nixos-config](https://github.com/wueestry/nixos-config) - Current nixos configuration using snowfall lib as flake structure
@@ -2793,6 +2794,7 @@
 
 ## others 
 
+- [anntnzrb/snowfall-lib](https://github.com/anntnzrb/snowfall-lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [vedmant/laravel-feed-reader](https://github.com/vedmant/laravel-feed-reader) - A simple RSS feed reader for Laravel
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [andre4ik3/agefs](https://github.com/andre4ik3/agefs) - FUSE filesystem that decrypts age secrets on the fly
