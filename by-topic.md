@@ -1646,6 +1646,7 @@
 - [phpmd/phpmd](https://github.com/phpmd/phpmd) - PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly frontend application for the raw metrics stream measure
 - [PrestaShop/php-ps-info](https://github.com/PrestaShop/php-ps-info) - Simple script that allows you to test if your current environment fulfills PrestaShop's system requirements, and offers suggestions for improvements.
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework
 - [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 - [nekofar/awesome-slim](https://github.com/nekofar/awesome-slim) - A curated list of awesome Slim framework packages and resources.
