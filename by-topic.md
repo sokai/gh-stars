@@ -496,6 +496,7 @@
 
 ## awesome 
 
+- [wearetechnative/awesome-flake-parts](https://github.com/wearetechnative/awesome-flake-parts) - A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Frestein/awesome-stars](https://github.com/Frestein/awesome-stars) - 🌟 Frestein's starred repos, updated daily!
 - [Frestein/gaze-stars](https://github.com/Frestein/gaze-stars) - 🌟 Generate Awesome List from GitHub starred lists!
@@ -528,6 +529,7 @@
 
 ## awesome-list 
 
+- [wearetechnative/awesome-flake-parts](https://github.com/wearetechnative/awesome-flake-parts) - A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Frestein/awesome-stars](https://github.com/Frestein/awesome-stars) - 🌟 Frestein's starred repos, updated daily!
 - [Frestein/gaze-stars](https://github.com/Frestein/gaze-stars) - 🌟 Generate Awesome List from GitHub starred lists!
@@ -2797,6 +2799,7 @@
 
 ## others 
 
+- [Gabriella439/nix-diff](https://github.com/Gabriella439/nix-diff) - Explain why two Nix derivations differ
 - [anntnzrb/snowfall-lib](https://github.com/anntnzrb/snowfall-lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [vedmant/laravel-feed-reader](https://github.com/vedmant/laravel-feed-reader) - A simple RSS feed reader for Laravel
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
