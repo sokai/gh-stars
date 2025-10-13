@@ -1268,6 +1268,7 @@
 
 ## Nix 
 
+- [getchoo/froyo](https://github.com/getchoo/froyo) - 🍨 A tasteful way to organize your Nix code
 - [anntnzrb/snowfall-lib](https://github.com/anntnzrb/snowfall-lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [marcusramberg/nix-config](https://github.com/marcusramberg/nix-config) - My home manager and nixos / nix-darwin setup
 - [andre4ik3/agefs](https://github.com/andre4ik3/agefs) - FUSE filesystem that decrypts age secrets on the fly
