@@ -449,6 +449,7 @@
 - [Keruspe/GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
 - [wireapp/wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
+- [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 
 ## mirror
 - [kevle1/windows-telemetry-blocklist](https://github.com/kevle1/windows-telemetry-blocklist) - Blocks outgoing Windows telemetry, compatible with Pi-Hole. 
