@@ -2799,6 +2799,7 @@
 
 ## others 
 
+- [getchoo/froyo](https://github.com/getchoo/froyo) - 🍨 A tasteful way to organize your Nix code
 - [Gabriella439/nix-diff](https://github.com/Gabriella439/nix-diff) - Explain why two Nix derivations differ
 - [anntnzrb/snowfall-lib](https://github.com/anntnzrb/snowfall-lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [vedmant/laravel-feed-reader](https://github.com/vedmant/laravel-feed-reader) - A simple RSS feed reader for Laravel
