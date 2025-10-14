@@ -1590,6 +1590,7 @@
 
 ## PHP 
 
+- [tt-rss/tt-rss](https://github.com/tt-rss/tt-rss) - A free, flexible, open-source, web-based news feed (RSS/Atom/other) reader and aggregator.
 - [spatie/laravel-feed](https://github.com/spatie/laravel-feed) - Easily generate RSS feeds
 - [vedmant/laravel-feed-reader](https://github.com/vedmant/laravel-feed-reader) - A simple RSS feed reader for Laravel
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
@@ -2423,6 +2424,7 @@
 
 ## Rust 
 
+- [nilla-nix/cli](https://github.com/nilla-nix/cli) - The command line interface for working with Nilla projects.
 - [feel-co/ndg](https://github.com/feel-co/ndg) - NDG: Not a Docs Generator
 - [openmls/openmls](https://github.com/openmls/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol
 - [sysid/bkmr](https://github.com/sysid/bkmr) - A Unified CLI Tool for Bookmark, Snippet, and Knowledge Management
