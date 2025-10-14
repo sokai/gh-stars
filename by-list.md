@@ -329,6 +329,7 @@
 - [spatie/sheets](https://github.com/spatie/sheets) - Store & retrieve your static content in plain text files
 - [cocur/slugify](https://github.com/cocur/slugify) - Converts a string to a slug. Includes integrations for Symfony, Silex, Laravel, Zend Framework 2, Twig, Nette and Latte.
 - [morgan3d/markdeep](https://github.com/morgan3d/markdeep) - Official public Markdeep source archive
+- [aelassas/movinin](https://github.com/aelassas/movinin) - Rental Property Management Platform with Mobile App
 
 ## knowledge
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -366,6 +367,8 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [morgan3d/markdeep](https://github.com/morgan3d/markdeep) - Official public Markdeep source archive
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
+- [marp-team/marp-core](https://github.com/marp-team/marp-core) - The core of Marp converter
 
 ## linux
 - [linuxhw/DMI](https://github.com/linuxhw/DMI) - Collect dmidecode reports and find most popular CPU, RAM and battery
@@ -933,6 +936,8 @@
 - [kalbasit/ncps](https://github.com/kalbasit/ncps) - Nix binary cache proxy service -- with local caching and signing.
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
 - [morgan3d/markdeep](https://github.com/morgan3d/markdeep) - Official public Markdeep source archive
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
+- [aelassas/movinin](https://github.com/aelassas/movinin) - Rental Property Management Platform with Mobile App
 
 ## security
 - [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
@@ -1178,6 +1183,9 @@
 - [Thymis-io/thymis](https://github.com/Thymis-io/thymis) - Web-based platform for configuring, provisioning, updating, and monitoring (IoT-)devices and systems, powered by NixOS
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
 - [morgan3d/markdeep](https://github.com/morgan3d/markdeep) - Official public Markdeep source archive
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
+- [marp-team/marp-core](https://github.com/marp-team/marp-core) - The core of Marp converter
+- [aelassas/movinin](https://github.com/aelassas/movinin) - Rental Property Management Platform with Mobile App
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
