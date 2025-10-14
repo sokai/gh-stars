@@ -2710,6 +2710,8 @@
 
 ## TypeScript 
 
+- [aelassas/movinin](https://github.com/aelassas/movinin) - Rental Property Management Platform with Mobile App
+- [marp-team/marp-core](https://github.com/marp-team/marp-core) - The core of Marp converter
 - [garyp/pocket-ding](https://github.com/garyp/pocket-ding) - A Progressive Web App (PWA) that provides an enhanced offline reading experience for bookmarks hosted on a Linkding server.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
