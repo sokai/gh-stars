@@ -939,6 +939,7 @@
 
 ## data-science 
 
+- [compdemocracy/polis](https://github.com/compdemocracy/polis) - :milky_way: Open Source AI for large scale open ended feedback
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [jwilber/roughViz](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
@@ -2803,6 +2804,8 @@
 
 ## others 
 
+- [NixOS/foundation](https://github.com/NixOS/foundation) - This is the home of the NixOS Foundation
+- [Nikola-Milovic/.dotfiles](https://github.com/Nikola-Milovic/.dotfiles) - My Nix flake that contains all of my system configurations
 - [nilla-nix/cli](https://github.com/nilla-nix/cli) - The command line interface for working with Nilla projects.
 - [tt-rss/tt-rss](https://github.com/tt-rss/tt-rss) - A free, flexible, open-source, web-based news feed (RSS/Atom/other) reader and aggregator.
 - [getchoo/froyo](https://github.com/getchoo/froyo) - 🍨 A tasteful way to organize your Nix code
