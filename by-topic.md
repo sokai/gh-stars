@@ -2451,6 +2451,7 @@
 
 ## markdown 
 
+- [marp-team/marp-core](https://github.com/marp-team/marp-core) - The core of Marp converter
 - [spatie/sheets](https://github.com/spatie/sheets) - Store & retrieve your static content in plain text files
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [nextcloud/collectives](https://github.com/nextcloud/collectives) - Collectives is a Nextcloud App for activist and community projects to organize together.
@@ -2553,6 +2554,7 @@
 
 ## mongodb 
 
+- [aelassas/movinin](https://github.com/aelassas/movinin) - Rental Property Management Platform with Mobile App
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [PHPSocialNetwork/phpfastcache](https://github.com/PHPSocialNetwork/phpfastcache) - A high-performance backend cache system.  It is intended for use in speeding up dynamic web applications by alleviating database load.  Well implemented, it can drops the database load to almost nothi
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -4611,6 +4613,7 @@
 
 ## react 
 
+- [aelassas/movinin](https://github.com/aelassas/movinin) - Rental Property Management Platform with Mobile App
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [outline/outline-icons](https://github.com/outline/outline-icons) - An iconset designed for the team knowledgebase Outline, but open to all.
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
@@ -4649,6 +4652,7 @@
 
 ## react-native 
 
+- [aelassas/movinin](https://github.com/aelassas/movinin) - Rental Property Management Platform with Mobile App
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
