@@ -617,6 +617,8 @@
 - [Thymis-io/thymis](https://github.com/Thymis-io/thymis) - Web-based platform for configuring, provisioning, updating, and monitoring (IoT-)devices and systems, powered by NixOS
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
 - [Nikola-Milovic/.dotfiles](https://github.com/Nikola-Milovic/.dotfiles) - My Nix flake that contains all of my system configurations
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 
 ## nix
 - [NixOS/nix-constitutional-assembly](https://github.com/NixOS/nix-constitutional-assembly) - Home of the Nix Constitutional Assembly, there to establish a community-based governance
@@ -750,6 +752,8 @@
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
 - [Nikola-Milovic/.dotfiles](https://github.com/Nikola-Milovic/.dotfiles) - My Nix flake that contains all of my system configurations
 - [NixOS/foundation](https://github.com/NixOS/foundation) - This is the home of the NixOS Foundation
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 
 ## nixolotl
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
@@ -1191,6 +1195,8 @@
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [marp-team/marp-core](https://github.com/marp-team/marp-core) - The core of Marp converter
 - [aelassas/movinin](https://github.com/aelassas/movinin) - Rental Property Management Platform with Mobile App
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
@@ -1306,6 +1312,8 @@
 - [spatie/sheets](https://github.com/spatie/sheets) - Store & retrieve your static content in plain text files
 - [cocur/slugify](https://github.com/cocur/slugify) - Converts a string to a slug. Includes integrations for Symfony, Silex, Laravel, Zend Framework 2, Twig, Nette and Latte.
 - [morgan3d/markdeep](https://github.com/morgan3d/markdeep) - Official public Markdeep source archive
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 
 ## work
 - [oeg-upm/devops-infra](https://github.com/oeg-upm/devops-infra) - Public repository for an ontology network on DevOps infrastructure
