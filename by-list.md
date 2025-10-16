@@ -331,6 +331,7 @@
 - [morgan3d/markdeep](https://github.com/morgan3d/markdeep) - Official public Markdeep source archive
 - [aelassas/movinin](https://github.com/aelassas/movinin) - Rental Property Management Platform with Mobile App
 - [Nikola-Milovic/.dotfiles](https://github.com/Nikola-Milovic/.dotfiles) - My Nix flake that contains all of my system configurations
+- [ethnt/e10](https://github.com/ethnt/e10) - Personal fleet of machines deployed by Nix
 
 ## knowledge
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -466,6 +467,7 @@
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [wyot1/GeoLite2-Unwalled](https://github.com/wyot1/GeoLite2-Unwalled) - Fresh GeoLite2 databases, for everyone.
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
+- [ethnt/e10](https://github.com/ethnt/e10) - Personal fleet of machines deployed by Nix
 
 ## Nfra
 - [tessus/redis-stats](https://github.com/tessus/redis-stats) - A lightweight dashboard to show statistics about a Redis server.
@@ -619,6 +621,7 @@
 - [Nikola-Milovic/.dotfiles](https://github.com/Nikola-Milovic/.dotfiles) - My Nix flake that contains all of my system configurations
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
+- [ethnt/e10](https://github.com/ethnt/e10) - Personal fleet of machines deployed by Nix
 
 ## nix
 - [NixOS/nix-constitutional-assembly](https://github.com/NixOS/nix-constitutional-assembly) - Home of the Nix Constitutional Assembly, there to establish a community-based governance
@@ -754,6 +757,7 @@
 - [NixOS/foundation](https://github.com/NixOS/foundation) - This is the home of the NixOS Foundation
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
+- [ethnt/e10](https://github.com/ethnt/e10) - Personal fleet of machines deployed by Nix
 
 ## nixolotl
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
@@ -980,6 +984,7 @@
 - [nix-community/flakelight](https://github.com/nix-community/flakelight) - Framework for simplifying flake setup [maintainer=@accelbread]
 - [BryceBeagle/nixos-config](https://github.com/BryceBeagle/nixos-config) - 
 - [PrimaMateria/nixos-hive](https://github.com/PrimaMateria/nixos-hive) - PrimaMateria's NixOS configuration
+- [ethnt/e10](https://github.com/ethnt/e10) - Personal fleet of machines deployed by Nix
 
 ## tools
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
