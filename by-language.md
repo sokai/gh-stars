@@ -310,6 +310,7 @@
 
 ## Dockerfile 
 
+- [yitsushi/phanpy-docker](https://github.com/yitsushi/phanpy-docker) - Unofficial Docker Image for Phanpy (Mastodon Web Client)
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [gregtwallace/certwarden](https://github.com/gregtwallace/certwarden) - Cert Warden is a centralized ACME Client. It provides an API for certificate consumers to fetch their individual keys and certs with API keys.
 - [PeterDaveHello/ipinfo.tw](https://github.com/PeterDaveHello/ipinfo.tw) - 🐳 A self-host  🙅 non-tracking, AD-🆓 ➕ 🍪-🆓 solution to show your IP ℹ️ Super small (🤏10MB)
