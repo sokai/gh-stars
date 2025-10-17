@@ -325,7 +325,6 @@
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
 - [numtide/blueprint](https://github.com/numtide/blueprint) - Standard folder structure for Nix projects
 - [Thymis-io/thymis](https://github.com/Thymis-io/thymis) - Web-based platform for configuring, provisioning, updating, and monitoring (IoT-)devices and systems, powered by NixOS
-- [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
 - [spatie/sheets](https://github.com/spatie/sheets) - Store & retrieve your static content in plain text files
 - [cocur/slugify](https://github.com/cocur/slugify) - Converts a string to a slug. Includes integrations for Symfony, Silex, Laravel, Zend Framework 2, Twig, Nette and Latte.
 - [morgan3d/markdeep](https://github.com/morgan3d/markdeep) - Official public Markdeep source archive
@@ -622,6 +621,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [ethnt/e10](https://github.com/ethnt/e10) - Personal fleet of machines deployed by Nix
+- [yitsushi/phanpy-docker](https://github.com/yitsushi/phanpy-docker) - Unofficial Docker Image for Phanpy (Mastodon Web Client)
 
 ## nix
 - [NixOS/nix-constitutional-assembly](https://github.com/NixOS/nix-constitutional-assembly) - Home of the Nix Constitutional Assembly, there to establish a community-based governance
