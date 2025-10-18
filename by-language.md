@@ -41,6 +41,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Mermaid](#mermaid)
 - [NCL](#ncl)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
@@ -713,6 +714,9 @@
 
 ## JavaScript 
 
+- [devhawk/vscode-markdown-sup](https://github.com/devhawk/vscode-markdown-sup) - 
+- [mjbvz/vscode-markdown-footnotes](https://github.com/mjbvz/vscode-markdown-footnotes) - Adds [^1] footnote syntax support to VS Code's built-in Markdown preview
+- [mjbvz/vscode-markdown-emoji](https://github.com/mjbvz/vscode-markdown-emoji) - VS Code extension that adds support for :emoji: syntax to the built-in markdown preview
 - [compdemocracy/polis](https://github.com/compdemocracy/polis) - :milky_way: Open Source AI for large scale open ended feedback
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
 - [fili/ip.app](https://github.com/fili/ip.app) - The official how-to documentation and code base for the ip.app website.
@@ -1263,6 +1267,10 @@
 ## Markdown 
 
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
+
+## Mermaid 
+
+- [bpruitt-goddard/vscode-mermaid-syntax-highlight](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight) - Markdown syntax support for the Mermaid charting language
 
 ## NCL 
 
@@ -2544,6 +2552,7 @@
 
 ## Shell 
 
+- [hedgedoc/cli](https://github.com/hedgedoc/cli) - A tiny CLI for HedgeDoc
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [macbeth/comfyui-truenas](https://github.com/macbeth/comfyui-truenas) - Docker image for Truenas of ComfyUI
 - [paldepind/projectdo](https://github.com/paldepind/projectdo) - Context-aware single-letter project commands to speed up your terminal workflow.
@@ -2720,6 +2729,7 @@
 
 ## TypeScript 
 
+- [mattbierner/vscode-emojisense](https://github.com/mattbierner/vscode-emojisense) - Emoji Autocomplete Plugin For VSCode
 - [aelassas/movinin](https://github.com/aelassas/movinin) - Rental Property Management Platform with Mobile App
 - [marp-team/marp-core](https://github.com/marp-team/marp-core) - The core of Marp converter
 - [garyp/pocket-ding](https://github.com/garyp/pocket-ding) - A Progressive Web App (PWA) that provides an enhanced offline reading experience for bookmarks hosted on a Linkding server.
