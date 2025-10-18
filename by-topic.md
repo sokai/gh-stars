@@ -2813,6 +2813,11 @@
 
 ## others 
 
+- [devhawk/vscode-markdown-sup](https://github.com/devhawk/vscode-markdown-sup) - 
+- [bpruitt-goddard/vscode-mermaid-syntax-highlight](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight) - Markdown syntax support for the Mermaid charting language
+- [mjbvz/vscode-markdown-footnotes](https://github.com/mjbvz/vscode-markdown-footnotes) - Adds [^1] footnote syntax support to VS Code's built-in Markdown preview
+- [mattbierner/vscode-emojisense](https://github.com/mattbierner/vscode-emojisense) - Emoji Autocomplete Plugin For VSCode
+- [mjbvz/vscode-markdown-emoji](https://github.com/mjbvz/vscode-markdown-emoji) - VS Code extension that adds support for :emoji: syntax to the built-in markdown preview
 - [yitsushi/phanpy-docker](https://github.com/yitsushi/phanpy-docker) - Unofficial Docker Image for Phanpy (Mastodon Web Client)
 - [ethnt/e10](https://github.com/ethnt/e10) - Personal fleet of machines deployed by Nix
 - [NixOS/foundation](https://github.com/NixOS/foundation) - This is the home of the NixOS Foundation
