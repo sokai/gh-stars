@@ -1595,6 +1595,7 @@
 
 ## PHP 
 
+- [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [tt-rss/tt-rss](https://github.com/tt-rss/tt-rss) - A free, flexible, open-source, web-based news feed (RSS/Atom/other) reader and aggregator.
 - [spatie/laravel-feed](https://github.com/spatie/laravel-feed) - Easily generate RSS feeds
 - [vedmant/laravel-feed-reader](https://github.com/vedmant/laravel-feed-reader) - A simple RSS feed reader for Laravel
