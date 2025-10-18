@@ -574,6 +574,7 @@
 
 ## bash 
 
+- [hedgedoc/cli](https://github.com/hedgedoc/cli) - A tiny CLI for HedgeDoc
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
@@ -684,6 +685,7 @@
 
 ## cli 
 
+- [hedgedoc/cli](https://github.com/hedgedoc/cli) - A tiny CLI for HedgeDoc
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [paldepind/projectdo](https://github.com/paldepind/projectdo) - Context-aware single-letter project commands to speed up your terminal workflow.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -2461,6 +2463,7 @@
 
 ## markdown 
 
+- [hedgedoc/cli](https://github.com/hedgedoc/cli) - A tiny CLI for HedgeDoc
 - [marp-team/marp-core](https://github.com/marp-team/marp-core) - The core of Marp converter
 - [spatie/sheets](https://github.com/spatie/sheets) - Store & retrieve your static content in plain text files
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
