@@ -883,7 +883,6 @@
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [daper/nextcloud-passwords-app](https://github.com/daper/nextcloud-passwords-app) - A mobile app based on react-native for Nextcloud Passwords App.
 - [kewisch/ical.js](https://github.com/kewisch/ical.js) - Javascript parser for ics (rfc5545) and vcard (rfc6350) data
-- [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
 - [philn/gnome-shell-gajim-extension](https://github.com/philn/gnome-shell-gajim-extension) - [UNMAINTAINED] Gajim IM integration in GNOME Shell
 - [ipsips/discgolfmetrix-wp-plugin](https://github.com/ipsips/discgolfmetrix-wp-plugin) - 
