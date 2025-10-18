@@ -23,6 +23,7 @@
 - [security](#security)
 - [smarthome](#smarthome)
 - [snowfall](#snowfall)
+- [todo](#todo)
 - [tools](#tools)
 - [webdev](#webdev)
 - [work](#work)
@@ -996,6 +997,10 @@
 - [BryceBeagle/nixos-config](https://github.com/BryceBeagle/nixos-config) - 
 - [PrimaMateria/nixos-hive](https://github.com/PrimaMateria/nixos-hive) - PrimaMateria's NixOS configuration
 - [ethnt/e10](https://github.com/ethnt/e10) - Personal fleet of machines deployed by Nix
+
+## todo
+- [devhawk/vscode-markdown-sup](https://github.com/devhawk/vscode-markdown-sup) - 
+- [bpruitt-goddard/vscode-mermaid-syntax-highlight](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight) - Markdown syntax support for the Mermaid charting language
 
 ## tools
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
