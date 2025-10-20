@@ -1336,7 +1336,7 @@
 - [Sveske-Juice/declarative-jellyfin](https://github.com/Sveske-Juice/declarative-jellyfin) - Nix flake to configure Jellyfin declaratively
 - [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
 - [edolstra/flake-compat](https://github.com/edolstra/flake-compat) - 
-- [0x5a4/nix-easyroam](https://github.com/0x5a4/nix-easyroam) - A NixOS Module for setting up easyroam
+- [einetuer/nix-easyroam](https://github.com/einetuer/nix-easyroam) - A NixOS Module for setting up easyroam
 - [SandWoodJones/gravelOS](https://github.com/SandWoodJones/gravelOS) - Personal NixOS config
 - [fricklerhandwerk/module-interfaces](https://github.com/fricklerhandwerk/module-interfaces) - A notion of function types and function application for the module system
 - [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
