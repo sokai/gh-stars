@@ -2816,6 +2816,7 @@
 
 ## others 
 
+- [hedgedoc/note-id-tool](https://github.com/hedgedoc/note-id-tool) - Tool to convert HedgeDoc 1.x note URLs into UUIDs and back
 - [tejing1/flake-programdb](https://github.com/tejing1/flake-programdb) - Restore command-not-found behavior for flake-based nixos systems
 - [devhawk/vscode-markdown-sup](https://github.com/devhawk/vscode-markdown-sup) - 
 - [bpruitt-goddard/vscode-mermaid-syntax-highlight](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight) - Markdown syntax support for the Mermaid charting language
