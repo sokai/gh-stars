@@ -2730,6 +2730,7 @@
 
 ## TypeScript 
 
+- [hedgedoc/note-id-tool](https://github.com/hedgedoc/note-id-tool) - Tool to convert HedgeDoc 1.x note URLs into UUIDs and back
 - [mattbierner/vscode-emojisense](https://github.com/mattbierner/vscode-emojisense) - Emoji Autocomplete Plugin For VSCode
 - [aelassas/movinin](https://github.com/aelassas/movinin) - Rental Property Management Platform with Mobile App
 - [marp-team/marp-core](https://github.com/marp-team/marp-core) - The core of Marp converter
