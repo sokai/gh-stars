@@ -334,6 +334,7 @@
 - [ethnt/e10](https://github.com/ethnt/e10) - Personal fleet of machines deployed by Nix
 - [mattbierner/vscode-emojisense](https://github.com/mattbierner/vscode-emojisense) - Emoji Autocomplete Plugin For VSCode 
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
+- [olafkfreund/nixos-template](https://github.com/olafkfreund/nixos-template) - A  template to start  you nixos journey.
 
 ## knowledge
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -625,6 +626,7 @@
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [ethnt/e10](https://github.com/ethnt/e10) - Personal fleet of machines deployed by Nix
 - [yitsushi/phanpy-docker](https://github.com/yitsushi/phanpy-docker) - Unofficial Docker Image for Phanpy (Mastodon Web Client)
+- [olafkfreund/nixos-template](https://github.com/olafkfreund/nixos-template) - A  template to start  you nixos journey.
 
 ## nix
 - [NixOS/nix-constitutional-assembly](https://github.com/NixOS/nix-constitutional-assembly) - Home of the Nix Constitutional Assembly, there to establish a community-based governance
@@ -762,6 +764,7 @@
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [ethnt/e10](https://github.com/ethnt/e10) - Personal fleet of machines deployed by Nix
 - [hedgedoc/cli](https://github.com/hedgedoc/cli) - A tiny CLI for HedgeDoc
+- [olafkfreund/nixos-template](https://github.com/olafkfreund/nixos-template) - A  template to start  you nixos journey.
 
 ## nixolotl
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
@@ -997,6 +1000,7 @@
 - [BryceBeagle/nixos-config](https://github.com/BryceBeagle/nixos-config) - 
 - [PrimaMateria/nixos-hive](https://github.com/PrimaMateria/nixos-hive) - PrimaMateria's NixOS configuration
 - [ethnt/e10](https://github.com/ethnt/e10) - Personal fleet of machines deployed by Nix
+- [olafkfreund/nixos-template](https://github.com/olafkfreund/nixos-template) - A  template to start  you nixos journey.
 
 ## todo
 - [devhawk/vscode-markdown-sup](https://github.com/devhawk/vscode-markdown-sup) - 
