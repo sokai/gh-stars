@@ -2816,6 +2816,7 @@
 
 ## others 
 
+- [olafkfreund/nixos-template](https://github.com/olafkfreund/nixos-template) - A  template to start  you nixos journey.
 - [danielmiessler/RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed) - A curated list of the most common and most interesting robots.txt disallowed directories.
 - [hedgedoc/note-id-tool](https://github.com/hedgedoc/note-id-tool) - Tool to convert HedgeDoc 1.x note URLs into UUIDs and back
 - [tejing1/flake-programdb](https://github.com/tejing1/flake-programdb) - Restore command-not-found behavior for flake-based nixos systems
