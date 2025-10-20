@@ -2553,6 +2553,7 @@
 
 ## Shell 
 
+- [danielmiessler/RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed) - A curated list of the most common and most interesting robots.txt disallowed directories.
 - [hedgedoc/cli](https://github.com/hedgedoc/cli) - A tiny CLI for HedgeDoc
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [macbeth/comfyui-truenas](https://github.com/macbeth/comfyui-truenas) - Docker image for Truenas of ComfyUI
