@@ -2440,6 +2440,7 @@
 
 ## Rust 
 
+- [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [nilla-nix/cli](https://github.com/nilla-nix/cli) - The command line interface for working with Nilla projects.
 - [feel-co/ndg](https://github.com/feel-co/ndg) - NDG: Not a Docs Generator
