@@ -345,6 +345,7 @@
 
 ## Go 
 
+- [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [inetaf/tcpproxy](https://github.com/inetaf/tcpproxy) - Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary)
