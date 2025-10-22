@@ -2817,6 +2817,9 @@
 
 ## others 
 
+- [webtui/webtui](https://github.com/webtui/webtui) - 
+- [panr/terminal-css](https://github.com/panr/terminal-css) - A simple, classless set of semantic styles derived from Hugo Terminal Theme
+- [vic/flake-aspects](https://github.com/vic/flake-aspects) - fake.modules transposition for aspect-oriented Dendritic Nix. with cross-aspect dependencies.
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [olafkfreund/nixos-template](https://github.com/olafkfreund/nixos-template) - A  template to start  you nixos journey.
 - [danielmiessler/RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed) - A curated list of the most common and most interesting robots.txt disallowed directories.
