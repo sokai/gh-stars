@@ -346,6 +346,7 @@
 
 ## Go 
 
+- [jippi/masto-guide](https://github.com/jippi/masto-guide) - 
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
