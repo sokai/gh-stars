@@ -1283,6 +1283,7 @@
 
 ## Nix 
 
+- [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
 - [vic/den](https://github.com/vic/den) - Create modular, aspect-oriented dendritic Nix host-configurations.
 - [vic/flake-aspects](https://github.com/vic/flake-aspects) - fake.modules transposition for aspect-oriented Dendritic Nix. with cross-aspect dependencies.
