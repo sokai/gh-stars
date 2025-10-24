@@ -2822,6 +2822,7 @@
 
 ## others 
 
+- [vic/den](https://github.com/vic/den) - Create modular, aspect-oriented dendritic Nix host-configurations.
 - [jippi/masto-guide](https://github.com/jippi/masto-guide) - 
 - [webtui/webtui](https://github.com/webtui/webtui) - 
 - [panr/terminal-css](https://github.com/panr/terminal-css) - A simple, classless set of semantic styles derived from Hugo Terminal Theme
@@ -4177,6 +4178,7 @@
 
 ## package-manager 
 
+- [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
 - [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
