@@ -2827,7 +2827,7 @@
 
 ## others 
 
-- [vic/den](https://github.com/vic/den) - Create modular, aspect-oriented dendritic Nix host-configurations.
+- [vic/den](https://github.com/vic/den) - Create modular, aspect-oriented dendritic Nix configurations.
 - [jippi/masto-guide](https://github.com/jippi/masto-guide) - 
 - [webtui/webtui](https://github.com/webtui/webtui) - 
 - [panr/terminal-css](https://github.com/panr/terminal-css) - A simple, classless set of semantic styles derived from Hugo Terminal Theme
