@@ -784,6 +784,7 @@
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [vic/dendrix](https://github.com/vic/dendrix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern.
 - [drupol/infra](https://github.com/drupol/infra) - Contains the configuration of every home computers
+- [tomasharkema/nix-config](https://github.com/tomasharkema/nix-config) - 
 
 ## nixolotl
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
@@ -1027,6 +1028,7 @@
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [vic/dendrix](https://github.com/vic/dendrix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern.
 - [drupol/infra](https://github.com/drupol/infra) - Contains the configuration of every home computers
+- [tomasharkema/nix-config](https://github.com/tomasharkema/nix-config) - 
 
 ## todo
 - [devhawk/vscode-markdown-sup](https://github.com/devhawk/vscode-markdown-sup) - 
