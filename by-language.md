@@ -1283,6 +1283,7 @@
 
 ## Nix 
 
+- [nifoc/dotfiles](https://github.com/nifoc/dotfiles) - Based on nixpkgs, nix-darwin and home-manager
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
 - [vic/den](https://github.com/vic/den) - Create modular, aspect-oriented dendritic Nix configurations.
