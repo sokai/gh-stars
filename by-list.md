@@ -348,6 +348,7 @@
 - [vic/dendrix](https://github.com/vic/dendrix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern.
 - [vic/den](https://github.com/vic/den) - Create modular, aspect-oriented dendritic Nix configurations.
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@ma27]
+- [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 
 ## knowledge
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -795,6 +796,7 @@
 - [tomasharkema/nix-config](https://github.com/tomasharkema/nix-config) - 
 - [vic/den](https://github.com/vic/den) - Create modular, aspect-oriented dendritic Nix configurations.
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@ma27]
+- [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 
 ## nixolotl
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
@@ -1041,6 +1043,7 @@
 - [drupol/infra](https://github.com/drupol/infra) - Contains the configuration of every home computers
 - [tomasharkema/nix-config](https://github.com/tomasharkema/nix-config) - 
 - [vic/den](https://github.com/vic/den) - Create modular, aspect-oriented dendritic Nix configurations.
+- [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 
 ## todo
 - [devhawk/vscode-markdown-sup](https://github.com/devhawk/vscode-markdown-sup) - 
