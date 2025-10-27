@@ -2830,6 +2830,7 @@
 
 ## others 
 
+- [Lehmanator/clan-config](https://github.com/Lehmanator/clan-config) - Personal Nix configs for clan.lol
 - [lessuselesss/flake-parts-modules-library](https://github.com/lessuselesss/flake-parts-modules-library) - 
 - [edrobertsrayne/nilfheim](https://github.com/edrobertsrayne/nilfheim) - My NixOS configuration
 - [dudeofawesome/nix-config](https://github.com/dudeofawesome/nix-config) - A multi-machine, multi-arch, multi-user, multi-os Nix config
