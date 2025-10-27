@@ -2830,6 +2830,11 @@
 
 ## others 
 
+- [lessuselesss/flake-parts-modules-library](https://github.com/lessuselesss/flake-parts-modules-library) - 
+- [edrobertsrayne/nilfheim](https://github.com/edrobertsrayne/nilfheim) - My NixOS configuration
+- [dudeofawesome/nix-config](https://github.com/dudeofawesome/nix-config) - A multi-machine, multi-arch, multi-user, multi-os Nix config
+- [quaoz/flake](https://github.com/quaoz/flake) - 
+- [lessuselesss/johnny-mnemonix](https://github.com/lessuselesss/johnny-mnemonix) - Agnostic Declarative Decimal System with johnny-decimal defaults
 - [vic/den](https://github.com/vic/den) - Create modular, aspect-oriented dendritic Nix configurations.
 - [jippi/masto-guide](https://github.com/jippi/masto-guide) - 
 - [webtui/webtui](https://github.com/webtui/webtui) - 
