@@ -367,7 +367,7 @@
 - [mholt/caddy-l4](https://github.com/mholt/caddy-l4) - Layer 4 (TCP/UDP) app for Caddy
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [mholt/caddy-dynamicdns](https://github.com/mholt/caddy-dynamicdns) - Caddy app that keeps your DNS records (A/AAAA) pointed at itself.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [chiefnoah/go-foks](https://github.com/chiefnoah/go-foks) - Go implementation of FOKS -- client and server
@@ -1353,7 +1353,7 @@
 - [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized for development environment, based on nixos-unified.
 - [Sveske-Juice/declarative-jellyfin](https://github.com/Sveske-Juice/declarative-jellyfin) - Nix flake to configure Jellyfin declaratively
 - [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
-- [edolstra/flake-compat](https://github.com/edolstra/flake-compat) - 
+- [NixOS/flake-compat](https://github.com/NixOS/flake-compat) - 
 - [einetuer/nix-easyroam](https://github.com/einetuer/nix-easyroam) - A NixOS Module for setting up easyroam
 - [SandWoodJones/gravelOS](https://github.com/SandWoodJones/gravelOS) - Personal NixOS config
 - [fricklerhandwerk/module-interfaces](https://github.com/fricklerhandwerk/module-interfaces) - A notion of function types and function application for the module system
