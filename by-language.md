@@ -1283,6 +1283,7 @@
 
 ## Nix 
 
+- [bzLem0n/periodic](https://github.com/bzLem0n/periodic) - Personal Home-manager and NixOS configurations for the devices on the lem0n.zapto.org network.
 - [Lehmanator/clan-config](https://github.com/Lehmanator/clan-config) - Personal Nix configs for clan.lol
 - [lessuselesss/flake-parts-modules-library](https://github.com/lessuselesss/flake-parts-modules-library) - 
 - [edrobertsrayne/nilfheim](https://github.com/edrobertsrayne/nilfheim) - My NixOS configuration
