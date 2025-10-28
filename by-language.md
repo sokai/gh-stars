@@ -346,6 +346,7 @@
 
 ## Go 
 
+- [numtide/nix-auth](https://github.com/numtide/nix-auth) - Nix access-token management tool
 - [jippi/masto-guide](https://github.com/jippi/masto-guide) - 
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -1283,6 +1284,7 @@
 
 ## Nix 
 
+- [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - 
 - [bzLem0n/periodic](https://github.com/bzLem0n/periodic) - Personal Home-manager and NixOS configurations for the devices on the lem0n.zapto.org network.
 - [Lehmanator/clan-config](https://github.com/Lehmanator/clan-config) - Personal Nix configs for clan.lol
 - [lessuselesss/flake-parts-modules-library](https://github.com/lessuselesss/flake-parts-modules-library) - 
@@ -2458,6 +2460,7 @@
 
 ## Rust 
 
+- [timothebot/lacy](https://github.com/timothebot/lacy) - Fast magical cd alternative for lacy terminal navigators
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [nilla-nix/cli](https://github.com/nilla-nix/cli) - The command line interface for working with Nilla projects.
