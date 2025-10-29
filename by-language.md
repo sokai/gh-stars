@@ -719,6 +719,7 @@
 
 ## JavaScript 
 
+- [mijorus/smile-gnome-extension](https://github.com/mijorus/smile-gnome-extension) - 
 - [Gruntfuggly/todo-tree](https://github.com/Gruntfuggly/todo-tree) - Use ripgrep to find TODO tags and display the results in a tree view
 - [devhawk/vscode-markdown-sup](https://github.com/devhawk/vscode-markdown-sup) - 
 - [mjbvz/vscode-markdown-footnotes](https://github.com/mjbvz/vscode-markdown-footnotes) - Adds [^1] footnote syntax support to VS Code's built-in Markdown preview
