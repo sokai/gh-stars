@@ -356,6 +356,7 @@
 - [bzLem0n/periodic](https://github.com/bzLem0n/periodic) - Personal Home-manager and NixOS configurations for the devices on the lem0n.zapto.org network.
 - [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - 
 - [igoutta/nix-frastructure](https://github.com/igoutta/nix-frastructure) - Infrastructure based in nix language with Flakes, using the modularity given by Flakes.parts and import-tree. Currently just for TUF workbook.
+- [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
 
 ## knowledge
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -1078,6 +1079,7 @@
 - [bzLem0n/periodic](https://github.com/bzLem0n/periodic) - Personal Home-manager and NixOS configurations for the devices on the lem0n.zapto.org network.
 - [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - 
 - [igoutta/nix-frastructure](https://github.com/igoutta/nix-frastructure) - Infrastructure based in nix language with Flakes, using the modularity given by Flakes.parts and import-tree. Currently just for TUF workbook.
+- [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
 
 ## todo
 - [devhawk/vscode-markdown-sup](https://github.com/devhawk/vscode-markdown-sup) - 
