@@ -805,7 +805,6 @@
 - [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI
 - [Hypfer/Valetudo](https://github.com/Hypfer/Valetudo) - Cloud replacement for vacuum robots enabling local-only operation
 - [aourednik/historical-basemaps](https://github.com/aourednik/historical-basemaps) - Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on global or continental scale
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [cansozbir/gnome-shell-toggle-night-light-extension](https://github.com/cansozbir/gnome-shell-toggle-night-light-extension) - This extension lets you toggle night-light from the top-bar by clicking it.
 - [muravjov/do-not-disturb](https://github.com/muravjov/do-not-disturb) - Do Not Disturb Time for GNOME Shell. Like in Slack :bell: :no_bell:
 - [ghostery/local-sheriff](https://github.com/ghostery/local-sheriff) - Think of Local sheriff as a recon tool in your browser (WebExtension). While you normally browse the internet, Local Sheriff works in the background to empower you in identifying what data points (PII
@@ -2856,6 +2855,7 @@
 - [threema-ch/threema-web](https://github.com/threema-ch/threema-web) - The Threema Web application.
 - [Drarig29/brackets-manager.js](https://github.com/Drarig29/brackets-manager.js) - A simple library to manage tournament brackets (round-robin, single elimination, double elimination).
 - [Drarig29/brackets-viewer.js](https://github.com/Drarig29/brackets-viewer.js) - A simple library to display tournament brackets (round-robin, single elimination, double elimination).
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [erictreacy/Mimic.css](https://github.com/erictreacy/Mimic.css) - A CSS Animation Library Because Everyone else was doing it at the time!
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
 - [marcantondahmen/automad](https://github.com/marcantondahmen/automad) - A flat-file content management system and template engine
