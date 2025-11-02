@@ -347,6 +347,7 @@
 
 ## Go 
 
+- [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [numtide/nix-auth](https://github.com/numtide/nix-auth) - Nix access-token management tool
 - [jippi/masto-guide](https://github.com/jippi/masto-guide) - 
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
