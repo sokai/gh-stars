@@ -2835,6 +2835,8 @@
 
 ## others 
 
+- [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config
+- [VentralDigital/InterProfileSharing](https://github.com/VentralDigital/InterProfileSharing) - Official repository of Inter Profile Sharing App for GrapheneOS/Android
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [uklans/cache-domains](https://github.com/uklans/cache-domains) - Domain Names required for LAN Content Cache DNS spoofing
 - [mijorus/smile-gnome-extension](https://github.com/mijorus/smile-gnome-extension) - 
