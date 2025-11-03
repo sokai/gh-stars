@@ -1301,7 +1301,7 @@
 - [nifoc/dotfiles](https://github.com/nifoc/dotfiles) - Based on nixpkgs, nix-darwin and home-manager
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
-- [vic/den](https://github.com/vic/den) - Create modular, aspect-oriented dendritic Nix configurations.
+- [vic/den](https://github.com/vic/den) - Modular, parametric aspect-oriented dendritic Nix configurations.
 - [vic/flake-aspects](https://github.com/vic/flake-aspects) - fake.modules transposition for aspect-oriented Dendritic Nix. with cross-aspect dependencies.
 - [olafkfreund/nixos-template](https://github.com/olafkfreund/nixos-template) - A  template to start  you nixos journey.
 - [tejing1/flake-programdb](https://github.com/tejing1/flake-programdb) - Restore command-not-found behavior for flake-based nixos systems
