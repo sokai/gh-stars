@@ -1158,6 +1158,7 @@
 
 ## Kotlin 
 
+- [VentralDigital/InterProfileSharing](https://github.com/VentralDigital/InterProfileSharing) - Official repository of Inter Profile Sharing App for GrapheneOS/Android
 - [octoshrimpy/quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 - [Commit451/LabCoat](https://github.com/Commit451/LabCoat) - GitLab client for Android. Mirror of project on GitLab
@@ -1285,6 +1286,8 @@
 
 ## Nix 
 
+- [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config
+- [ALinkbetweenNets/nix](https://github.com/ALinkbetweenNets/nix) - ALinkbetweenNets's NixOS Infratructure Configuration
 - [GaetanLepage/nix-config](https://github.com/GaetanLepage/nix-config) - NixOS configuration for my personal computers
 - [igoutta/nix-frastructure](https://github.com/igoutta/nix-frastructure) - Infrastructure based in nix language with Flakes, using the modularity given by Flakes.parts and import-tree. Currently just for TUF workbook.
 - [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - 
