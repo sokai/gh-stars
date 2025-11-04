@@ -2764,6 +2764,7 @@
 
 ## TypeScript 
 
+- [baxyz/firefox-profiles](https://github.com/baxyz/firefox-profiles) - This GNOME extension streamlines launching Firefox profiles from the indicator menu.
 - [StarlaneStudios/vscode-comment-anchors](https://github.com/StarlaneStudios/vscode-comment-anchors) - ⚓A Visual Studio Code extension that adds support for comment anchors 🔭
 - [hedgedoc/note-id-tool](https://github.com/hedgedoc/note-id-tool) - Tool to convert HedgeDoc 1.x note URLs into UUIDs and back
 - [mattbierner/vscode-emojisense](https://github.com/mattbierner/vscode-emojisense) - Emoji Autocomplete Plugin For VSCode
