@@ -2964,7 +2964,7 @@
 - [blaggacao/frappix](https://github.com/blaggacao/frappix) - Frappe on Nix
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
-- [chris-kruining/sneeuwvlok](https://github.com/chris-kruining/sneeuwvlok) - 
+- [chris-kruining/sneeuwvlok](https://github.com/chris-kruining/sneeuwvlok) - [MIRROR] Personal NixOS config
 - [divnix/hive](https://github.com/divnix/hive) - The secretly open NixOS-Society
 - [estao-immo/estao](https://github.com/estao-immo/estao) - estao® Immobilienlösung für Hausverwalter und Wohnungsunternehmen
 - [navariltd/utility-billing](https://github.com/navariltd/utility-billing) - The Utility Billing & Property Management App is a powerful addition to ERPNext, designed to streamline utility billing, property leasing, and tenant management. Ideal for municipal utilities, real es
