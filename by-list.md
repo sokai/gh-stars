@@ -359,6 +359,7 @@
 - [igoutta/nix-frastructure](https://github.com/igoutta/nix-frastructure) - Infrastructure based in nix language with Flakes, using the modularity given by Flakes.parts and import-tree. Currently just for TUF workbook.
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
 - [baxyz/firefox-profiles](https://github.com/baxyz/firefox-profiles) - This GNOME extension streamlines launching Firefox profiles from the indicator menu.
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## knowledge
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -1327,6 +1328,7 @@
 - [Gruntfuggly/todo-tree](https://github.com/Gruntfuggly/todo-tree) - Use ripgrep to find TODO tags and display the results in a tree view
 - [mijorus/smile-gnome-extension](https://github.com/mijorus/smile-gnome-extension) - 
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
@@ -1449,6 +1451,7 @@
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [jippi/masto-guide](https://github.com/jippi/masto-guide) - 
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## work
 - [oeg-upm/devops-infra](https://github.com/oeg-upm/devops-infra) - Public repository for an ontology network on DevOps infrastructure
