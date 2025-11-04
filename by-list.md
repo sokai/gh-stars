@@ -95,6 +95,7 @@
 - [deinstapel/cpupower](https://github.com/deinstapel/cpupower) - Manage the frequency scaling driver of your CPU (Intel Core and AMD Ryzen processors supported)
 - [mijorus/smile](https://github.com/mijorus/smile) - An emoji picker for linux, with custom tags support and localization. I'll also put some random emojis here 🦁🐾🦔🦇
 - [mijorus/smile-gnome-extension](https://github.com/mijorus/smile-gnome-extension) - 
+- [baxyz/firefox-profiles](https://github.com/baxyz/firefox-profiles) - This GNOME extension streamlines launching Firefox profiles from the indicator menu.
 
 ## dev
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -357,6 +358,7 @@
 - [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - 
 - [igoutta/nix-frastructure](https://github.com/igoutta/nix-frastructure) - Infrastructure based in nix language with Flakes, using the modularity given by Flakes.parts and import-tree. Currently just for TUF workbook.
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
+- [baxyz/firefox-profiles](https://github.com/baxyz/firefox-profiles) - This GNOME extension streamlines launching Firefox profiles from the indicator menu.
 
 ## knowledge
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -486,6 +488,7 @@
 - [mijorus/smile](https://github.com/mijorus/smile) - An emoji picker for linux, with custom tags support and localization. I'll also put some random emojis here 🦁🐾🦔🦇
 - [mijorus/smile-gnome-extension](https://github.com/mijorus/smile-gnome-extension) - 
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
+- [baxyz/firefox-profiles](https://github.com/baxyz/firefox-profiles) - This GNOME extension streamlines launching Firefox profiles from the indicator menu.
 
 ## mirror
 - [kevle1/windows-telemetry-blocklist](https://github.com/kevle1/windows-telemetry-blocklist) - Blocks outgoing Windows telemetry, compatible with Pi-Hole. 
