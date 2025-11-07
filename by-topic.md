@@ -2842,6 +2842,7 @@
 
 ## others 
 
+- [nohello-net/site](https://github.com/nohello-net/site) - 
 - [Petro31/a-file-logger](https://github.com/Petro31/a-file-logger) - Brings home-assistant.log back in the config folder
 - [scripting/feedlandInstall](https://github.com/scripting/feedlandInstall) - Instructions for setting up a FeedLand server.
 - [baxyz/firefox-profiles](https://github.com/baxyz/firefox-profiles) - This GNOME extension streamlines launching Firefox profiles from the indicator menu.
