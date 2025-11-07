@@ -721,6 +721,7 @@
 
 ## JavaScript 
 
+- [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [mijorus/smile-gnome-extension](https://github.com/mijorus/smile-gnome-extension) - 
 - [Gruntfuggly/todo-tree](https://github.com/Gruntfuggly/todo-tree) - Use ripgrep to find TODO tags and display the results in a tree view
 - [devhawk/vscode-markdown-sup](https://github.com/devhawk/vscode-markdown-sup) - 
@@ -2239,6 +2240,7 @@
 
 ## Python 
 
+- [Petro31/a-file-logger](https://github.com/Petro31/a-file-logger) - Brings home-assistant.log back in the config folder
 - [mijorus/smile](https://github.com/mijorus/smile) - An emoji picker for linux, with custom tags support and localization. I'll also put some random emojis here 🦁🐾🦔🦇
 - [Thymis-io/thymis](https://github.com/Thymis-io/thymis) - Web-based platform for configuring, provisioning, updating, and monitoring (IoT-)devices and systems, powered by NixOS
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
