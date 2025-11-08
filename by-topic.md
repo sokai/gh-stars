@@ -612,6 +612,7 @@
 
 ## bootstrap 
 
+- [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [alexey-trofimov/documentation-template](https://github.com/alexey-trofimov/documentation-template) - This is an HTML template for creating documentation for WordPress themes, for website templates, and for themes for any other CMS.
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -1353,6 +1354,7 @@
 
 ## font 
 
+- [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [mishamyrt/Lilex](https://github.com/mishamyrt/Lilex) - 🤘Open source programming font
 - [marella/material-design-icons](https://github.com/marella/material-design-icons) - Latest icon fonts and optimized SVGs for material design icons.
@@ -2844,6 +2846,8 @@
 
 ## others 
 
+- [tomas/skel.css](https://github.com/tomas/skel.css) - A reworked version of the Skeleton CSS boilerplate.
+- [dvicory/homelab](https://github.com/dvicory/homelab) - 
 - [Maka-77x/nix-test](https://github.com/Maka-77x/nix-test) - 
 - [nohello-net/site](https://github.com/nohello-net/site) - 
 - [Petro31/a-file-logger](https://github.com/Petro31/a-file-logger) - Brings home-assistant.log back in the config folder
