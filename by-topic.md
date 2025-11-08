@@ -1181,6 +1181,7 @@
 
 ## dotfiles 
 
+- [Lord-Valen/configuration.nix](https://github.com/Lord-Valen/configuration.nix) - My dotfiles, but on NixOS!
 - [ALinkbetweenNets/nix](https://github.com/ALinkbetweenNets/nix) - ALinkbetweenNets's NixOS Infratructure Configuration
 - [GaetanLepage/nix-config](https://github.com/GaetanLepage/nix-config) - NixOS configuration for my personal computers
 - [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - 
@@ -1250,6 +1251,7 @@
 
 ## emacs 
 
+- [Lord-Valen/configuration.nix](https://github.com/Lord-Valen/configuration.nix) - My dotfiles, but on NixOS!
 - [TLATER/dotfiles](https://github.com/TLATER/dotfiles) - Dotfiles deployed with nix/home-manager. Feel free to take what you like!
 - [bqv/rc](https://github.com/bqv/rc) - Structured system configuration (I moved from NixOS to GuixSD)
 
@@ -2842,6 +2844,7 @@
 
 ## others 
 
+- [Maka-77x/nix-test](https://github.com/Maka-77x/nix-test) - 
 - [nohello-net/site](https://github.com/nohello-net/site) - 
 - [Petro31/a-file-logger](https://github.com/Petro31/a-file-logger) - Brings home-assistant.log back in the config folder
 - [scripting/feedlandInstall](https://github.com/scripting/feedlandInstall) - Instructions for setting up a FeedLand server.
