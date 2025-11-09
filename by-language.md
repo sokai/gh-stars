@@ -2593,6 +2593,7 @@
 
 ## Shell 
 
+- [emmanuel-ferdman/gh-gonest](https://github.com/emmanuel-ferdman/gh-gonest) - :octocat: GitHub CLI extension that automatically detects and removes ghost notifications from banned/deleted repos
 - [uklans/cache-domains](https://github.com/uklans/cache-domains) - Domain Names required for LAN Content Cache DNS spoofing
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 - [danielmiessler/RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed) - A curated list of the most common and most interesting robots.txt disallowed directories.
