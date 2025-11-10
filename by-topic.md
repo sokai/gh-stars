@@ -2852,6 +2852,7 @@
 
 ## others 
 
+- [sini/nix-config](https://github.com/sini/nix-config) - NixOS Configuration
 - [tomas/skel.css](https://github.com/tomas/skel.css) - A reworked version of the Skeleton CSS boilerplate.
 - [dvicory/homelab](https://github.com/dvicory/homelab) - 
 - [Maka-77x/nix-test](https://github.com/Maka-77x/nix-test) - 
