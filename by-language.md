@@ -1289,6 +1289,7 @@
 
 ## Nix 
 
+- [shimeoki/nixconfig](https://github.com/shimeoki/nixconfig) - My NixOS configuration as a flake.
 - [sini/nix-config](https://github.com/sini/nix-config) - NixOS Configuration
 - [dvicory/homelab](https://github.com/dvicory/homelab) - 
 - [Lord-Valen/configuration.nix](https://github.com/Lord-Valen/configuration.nix) - My dotfiles, but on NixOS!
