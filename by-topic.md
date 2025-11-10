@@ -2970,7 +2970,7 @@
 - [wellWINeo/nix-anysync](https://github.com/wellWINeo/nix-anysync) - Any-Sync NixOS flake
 - [opencloud-eu/android](https://github.com/opencloud-eu/android) - 🤖
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
-- [dafitt/schallernetz](https://github.com/dafitt/schallernetz) - My servers declared with NixOS
+- [dafitt/schallernetz](https://github.com/dafitt/schallernetz) - My servers declared with Snowfallorg-lib
 - [caddy-dns/hetzner](https://github.com/caddy-dns/hetzner) - Caddy module: dns.providers.hetzner
 - [caddy-dns/desec](https://github.com/caddy-dns/desec) - deSEC module for Caddy
 - [Mop-u/nix-lancache](https://github.com/Mop-u/nix-lancache) - A Flake for running LanCache.net on NixOS
