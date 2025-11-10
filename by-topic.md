@@ -2852,6 +2852,7 @@
 
 ## others 
 
+- [shimeoki/nixconfig](https://github.com/shimeoki/nixconfig) - My NixOS configuration as a flake.
 - [sini/nix-config](https://github.com/sini/nix-config) - NixOS Configuration
 - [tomas/skel.css](https://github.com/tomas/skel.css) - A reworked version of the Skeleton CSS boilerplate.
 - [dvicory/homelab](https://github.com/dvicory/homelab) - 
