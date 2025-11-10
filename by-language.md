@@ -1333,7 +1333,7 @@
 - [wueestry/nixos-config](https://github.com/wueestry/nixos-config) - Current nixos configuration using snowfall lib as flake structure
 - [mightyiam/infra](https://github.com/mightyiam/infra) - Shahar "Dawn" Or's Nix-powered "IT infrastructure" repository
 - [wellWINeo/nix-anysync](https://github.com/wellWINeo/nix-anysync) - Any-Sync NixOS flake
-- [dafitt/schallernetz](https://github.com/dafitt/schallernetz) - My servers declared with NixOS
+- [dafitt/schallernetz](https://github.com/dafitt/schallernetz) - My servers declared with Snowfallorg-lib
 - [Mop-u/nix-lancache](https://github.com/Mop-u/nix-lancache) - A Flake for running LanCache.net on NixOS
 - [nixcloud/nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - This nixpkgs extension, called nixcloud-webservices, focuses on ease of deployment of web-related technologies.
 - [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) - 
