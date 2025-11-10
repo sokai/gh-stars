@@ -3179,8 +3179,8 @@
 - [mollyim/mollyim-android-unifiedpush](https://github.com/mollyim/mollyim-android-unifiedpush) - Molly with UnifiedPush support (Archived).
 - [kiernanroche/pico-comments](https://github.com/kiernanroche/pico-comments) - A comments plugin for Pico CMS
 - [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
-- [versatiles-org/versatiles-documentation](https://github.com/versatiles-org/versatiles-documentation) - Documentation on VersaTiles
-- [versatiles-org/versatiles-fonts](https://github.com/versatiles-org/versatiles-fonts) - versatiles-fonts
+- [versatiles-org/versatiles-documentation](https://github.com/versatiles-org/versatiles-documentation) - Documentation for the VersaTiles ecosystem.
+- [versatiles-org/versatiles-fonts](https://github.com/versatiles-org/versatiles-fonts) - Repository of open-source SDF fonts optimized for MapLibre GL JS rendering.
 - [fufroma/smartsieve](https://github.com/fufroma/smartsieve) - Unofficial github repository of Smartsieve
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [nextcloud/whiteboard](https://github.com/nextcloud/whiteboard) - Create & collaborate on an infinite canvas!
