@@ -348,7 +348,7 @@
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [vic/dendrix](https://github.com/vic/dendrix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern.
-- [vic/den](https://github.com/vic/den) - Modular, parametric aspect-oriented dendritic Nix configurations.
+- [vic/den](https://github.com/vic/den) - Modular, context-aware and aspect-oriented dendritic Nix configurations.
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@ma27]
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
@@ -663,7 +663,7 @@
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [vic/dendrix](https://github.com/vic/dendrix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern.
-- [vic/den](https://github.com/vic/den) - Modular, parametric aspect-oriented dendritic Nix configurations.
+- [vic/den](https://github.com/vic/den) - Modular, context-aware and aspect-oriented dendritic Nix configurations.
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@ma27]
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
 - [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS + nix-darwin + home-manager configuration in a single flake, while providing a consistent interface at DX and UX level.
@@ -816,7 +816,7 @@
 - [vic/dendrix](https://github.com/vic/dendrix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern.
 - [drupol/infra](https://github.com/drupol/infra) - Contains the configuration of every home computers
 - [tomasharkema/nix-config](https://github.com/tomasharkema/nix-config) - 
-- [vic/den](https://github.com/vic/den) - Modular, parametric aspect-oriented dendritic Nix configurations.
+- [vic/den](https://github.com/vic/den) - Modular, context-aware and aspect-oriented dendritic Nix configurations.
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@ma27]
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 - [nifoc/dotfiles](https://github.com/nifoc/dotfiles) - Based on nixpkgs, nix-darwin and home-manager
@@ -1080,7 +1080,7 @@
 - [vic/dendrix](https://github.com/vic/dendrix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern.
 - [drupol/infra](https://github.com/drupol/infra) - Contains the configuration of every home computers
 - [tomasharkema/nix-config](https://github.com/tomasharkema/nix-config) - 
-- [vic/den](https://github.com/vic/den) - Modular, parametric aspect-oriented dendritic Nix configurations.
+- [vic/den](https://github.com/vic/den) - Modular, context-aware and aspect-oriented dendritic Nix configurations.
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
 - [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized for development environment, based on nixos-unified. 
