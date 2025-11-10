@@ -1289,6 +1289,7 @@
 
 ## Nix 
 
+- [sini/nix-config](https://github.com/sini/nix-config) - NixOS Configuration
 - [dvicory/homelab](https://github.com/dvicory/homelab) - 
 - [Lord-Valen/configuration.nix](https://github.com/Lord-Valen/configuration.nix) - My dotfiles, but on NixOS!
 - [Maka-77x/nix-test](https://github.com/Maka-77x/nix-test) - 
