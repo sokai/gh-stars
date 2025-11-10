@@ -2621,7 +2621,7 @@
 - [ngandrass/truenas-spindown-timer](https://github.com/ngandrass/truenas-spindown-timer) - Monitors drive I/O and forces HDD spindown after a given idle period. Resistant to S.M.A.R.T. reads.
 - [fndov/nixedit](https://github.com/fndov/nixedit) - NixOS Multipurpose CLI/TUI Utility
 - [latchset/clevis](https://github.com/latchset/clevis) - Automated Encryption Framework
-- [versatiles-org/versatiles-fonts](https://github.com/versatiles-org/versatiles-fonts) - versatiles-fonts
+- [versatiles-org/versatiles-fonts](https://github.com/versatiles-org/versatiles-fonts) - Repository of open-source SDF fonts optimized for MapLibre GL JS rendering.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [totoroot/curlcard](https://github.com/totoroot/curlcard) - curl your digital business card
@@ -2844,7 +2844,7 @@
 - [devrsi0n/chirpy](https://github.com/devrsi0n/chirpy) - 💬 A privacy-friendly and customizable Disqus (comment system) alternate. 注重隐私保护和定制化的评论系统。
 - [beabee-communityrm/monorepo](https://github.com/beabee-communityrm/monorepo) - Beabee is a platform for community journalism
 - [b310-digital/teammapper](https://github.com/b310-digital/teammapper) - Mindmapping made simple: Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate on mindmaps.
-- [versatiles-org/versatiles-documentation](https://github.com/versatiles-org/versatiles-documentation) - Documentation on VersaTiles
+- [versatiles-org/versatiles-documentation](https://github.com/versatiles-org/versatiles-documentation) - Documentation for the VersaTiles ecosystem.
 - [nextcloud/whiteboard](https://github.com/nextcloud/whiteboard) - Create & collaborate on an infinite canvas!
 - [trpc/trpc-openapi](https://github.com/trpc/trpc-openapi) - OpenAPI support for tRPC 🧩
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
