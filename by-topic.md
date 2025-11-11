@@ -3099,7 +3099,7 @@
 - [mechtifs/wiggle](https://github.com/mechtifs/wiggle) - Gnome extension that magnifies the cursor when the mouse is moved rapidly.
 - [sbs20/scanservjs](https://github.com/sbs20/scanservjs) - SANE scanner nodejs web ui
 - [qitechgmbh/control](https://github.com/qitechgmbh/control) - Next Generation Machine Interface
-- [okfn/opendataeditor](https://github.com/okfn/opendataeditor) - The Open Data Editor (ODE) is a no-code application to explore, validate and publish data in a simple way. Forever free and open source project powered by the Frictionless Framework.
+- [okfn/opendataeditor](https://github.com/okfn/opendataeditor) - The Open Data Editor (ODE) is a no-code application to explore and validate tabular data in a simple way. Forever free and open source project powered by the Frictionless Framework.
 - [OtaK/McMojave-hyprcursor](https://github.com/OtaK/McMojave-hyprcursor) - Pure SVG Hyprcursor port of the amazing McMojave XCursor theme by @vinceluice
 - [Libadoxon/mcmojave-hyprcursor](https://github.com/Libadoxon/mcmojave-hyprcursor) - The McMojave cursor theme ported to hyprcusor
 - [Juve45/batstat](https://github.com/Juve45/batstat) - CLI battery status for linux
