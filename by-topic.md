@@ -2852,6 +2852,9 @@
 
 ## others 
 
+- [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
+- [silnrsi/font-gentium](https://github.com/silnrsi/font-gentium) - Fonts for languages and writing systems that use Latin, Cyrillic, and Greek scripts
+- [latex3/hyperref](https://github.com/latex3/hyperref) - Hypertext support for LaTeX
 - [thefranke/rss-librarian](https://github.com/thefranke/rss-librarian) - A read-it-later service for RSS purists
 - [shimeoki/nixconfig](https://github.com/shimeoki/nixconfig) - My NixOS configuration as a flake.
 - [sini/nix-config](https://github.com/sini/nix-config) - NixOS Configuration
