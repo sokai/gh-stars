@@ -693,6 +693,7 @@
 
 ## cli 
 
+- [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace
 - [timothebot/lacy](https://github.com/timothebot/lacy) - Fast magical cd alternative for lacy terminal navigators
 - [hedgedoc/cli](https://github.com/hedgedoc/cli) - A tiny CLI for HedgeDoc
@@ -1492,6 +1493,7 @@
 
 ## go 
 
+- [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [georgyo/ifconfig.io](https://github.com/georgyo/ifconfig.io) - 
 - [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
