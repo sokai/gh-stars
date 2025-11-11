@@ -2249,6 +2249,7 @@
 
 ## Python 
 
+- [silnrsi/font-gentium](https://github.com/silnrsi/font-gentium) - Fonts for languages and writing systems that use Latin, Cyrillic, and Greek scripts
 - [Petro31/a-file-logger](https://github.com/Petro31/a-file-logger) - Brings home-assistant.log back in the config folder
 - [mijorus/smile](https://github.com/mijorus/smile) - An emoji picker for linux, with custom tags support and localization. I'll also put some random emojis here 🦁🐾🦔🦇
 - [Thymis-io/thymis](https://github.com/Thymis-io/thymis) - Web-based platform for configuring, provisioning, updating, and monitoring (IoT-)devices and systems, powered by NixOS
@@ -2756,6 +2757,7 @@
 
 ## TeX 
 
+- [latex3/hyperref](https://github.com/latex3/hyperref) - Hypertext support for LaTeX
 - [RichardLitt/low-resource-languages](https://github.com/RichardLitt/low-resource-languages) - Resources for conservation, development, and documentation of low resource (human) languages.
 - [uplug/Vortraege](https://github.com/uplug/Vortraege) - Die Vorträge der upLUG
 - [LibraryCarpentry/Top-10-FAIR](https://github.com/LibraryCarpentry/Top-10-FAIR) - Top 10 FAIR Data & Software Things
@@ -2777,6 +2779,7 @@
 
 ## TypeScript 
 
+- [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [nohello-net/site](https://github.com/nohello-net/site) - 
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
