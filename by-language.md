@@ -1365,7 +1365,7 @@
 - [ratson/conflake](https://github.com/ratson/conflake) - Conflake Config Flakes!
 - [getchoo/borealis](https://github.com/getchoo/borealis) - 🚢 my dotfiles, nix configurations, and personal infra
 - [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) - a flake module to ease creating and managing multiple hosts in your nix flake.
-- [viicslen/nixos](https://github.com/viicslen/nixos) - 
+- [viicslen-nix/nixos](https://github.com/viicslen-nix/nixos) - 
 - [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS + nix-darwin + home-manager configuration in a single flake, while providing a consistent interface at DX and UX level.
 - [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized for development environment, based on nixos-unified.
 - [Sveske-Juice/declarative-jellyfin](https://github.com/Sveske-Juice/declarative-jellyfin) - Nix flake to configure Jellyfin declaratively
