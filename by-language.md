@@ -347,6 +347,7 @@
 
 ## Go 
 
+- [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [numtide/nix-auth](https://github.com/numtide/nix-auth) - Nix access-token management tool
 - [jippi/masto-guide](https://github.com/jippi/masto-guide) - 
@@ -2481,6 +2482,7 @@
 
 ## Rust 
 
+- [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace
 - [timothebot/lacy](https://github.com/timothebot/lacy) - Fast magical cd alternative for lacy terminal navigators
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
