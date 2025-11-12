@@ -2784,6 +2784,7 @@
 
 ## TypeScript 
 
+- [johnnydecimal/index-spec](https://github.com/johnnydecimal/index-spec) - A 'formal' specification for the index file. And any other data structures.
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [nohello-net/site](https://github.com/nohello-net/site) - 
