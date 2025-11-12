@@ -494,6 +494,7 @@
 
 ## HTML 
 
+- [MStankiewiczOfficial/RedirectTube](https://github.com/MStankiewiczOfficial/RedirectTube) - Open YouTube links in FreeTube
 - [tomas/skel.css](https://github.com/tomas/skel.css) - A reworked version of the Skeleton CSS boilerplate.
 - [scripting/feedlandInstall](https://github.com/scripting/feedlandInstall) - Instructions for setting up a FeedLand server.
 - [panr/terminal-css](https://github.com/panr/terminal-css) - A simple, classless set of semantic styles derived from Hugo Terminal Theme
@@ -723,6 +724,7 @@
 
 ## JavaScript 
 
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [mijorus/smile-gnome-extension](https://github.com/mijorus/smile-gnome-extension) - 
 - [Gruntfuggly/todo-tree](https://github.com/Gruntfuggly/todo-tree) - Use ripgrep to find TODO tags and display the results in a tree view
