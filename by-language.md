@@ -2482,6 +2482,7 @@
 
 ## Rust 
 
+- [JayanAXHF/filessh](https://github.com/JayanAXHF/filessh) - A fast and convenient TUI file browser for remote servers
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace
 - [timothebot/lacy](https://github.com/timothebot/lacy) - Fast magical cd alternative for lacy terminal navigators
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
