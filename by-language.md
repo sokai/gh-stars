@@ -1292,6 +1292,7 @@
 
 ## Nix 
 
+- [xdbr/fleet](https://github.com/xdbr/fleet) - 
 - [shimeoki/nixconfig](https://github.com/shimeoki/nixconfig) - My NixOS configuration as a flake.
 - [sini/nix-config](https://github.com/sini/nix-config) - NixOS Configuration
 - [dvicory/homelab](https://github.com/dvicory/homelab) - 
@@ -2484,6 +2485,7 @@
 
 ## Rust 
 
+- [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 - [JayanAXHF/filessh](https://github.com/JayanAXHF/filessh) - A fast and convenient TUI file browser for remote servers
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace
 - [timothebot/lacy](https://github.com/timothebot/lacy) - Fast magical cd alternative for lacy terminal navigators
