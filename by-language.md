@@ -1246,6 +1246,7 @@
 
 ## Lua 
 
+- [pipelight/normal.nixos](https://github.com/pipelight/normal.nixos) - Nixos configuration modules for desktop (Still for paranoids and hypochondriacs)
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [ourgal/snowfall](https://github.com/ourgal/snowfall) - NixOS dotfiles
 - [ehllie/dotfiles](https://github.com/ehllie/dotfiles) - Nix flake with my system configuration
@@ -1292,6 +1293,10 @@
 
 ## Nix 
 
+- [the-moonwitch/dots-nix](https://github.com/the-moonwitch/dots-nix) - Nix Blueprint dots
+- [xdbr/fleet](https://github.com/xdbr/fleet) - 
+- [pipelight/crocuda.nixos](https://github.com/pipelight/crocuda.nixos) - Nixos configuration modules for servers (and paranoids and hypocondriacs)
+- [bivsk/nix-iv](https://github.com/bivsk/nix-iv) - Personal NixOS configurations
 - [shimeoki/nixconfig](https://github.com/shimeoki/nixconfig) - My NixOS configuration as a flake.
 - [sini/nix-config](https://github.com/sini/nix-config) - NixOS Configuration
 - [dvicory/homelab](https://github.com/dvicory/homelab) - 
