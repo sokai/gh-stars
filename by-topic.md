@@ -2857,6 +2857,11 @@
 
 ## others 
 
+- [the-moonwitch/dots-nix](https://github.com/the-moonwitch/dots-nix) - Nix Blueprint dots
+- [xdbr/fleet](https://github.com/xdbr/fleet) - 
+- [pipelight/crocuda.nixos](https://github.com/pipelight/crocuda.nixos) - Nixos configuration modules for servers (and paranoids and hypocondriacs)
+- [pipelight/normal.nixos](https://github.com/pipelight/normal.nixos) - Nixos configuration modules for desktop (Still for paranoids and hypochondriacs)
+- [bivsk/nix-iv](https://github.com/bivsk/nix-iv) - Personal NixOS configurations
 - [johnnydecimal/index-spec](https://github.com/johnnydecimal/index-spec) - A 'formal' specification for the index file. And any other data structures.
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [silnrsi/font-gentium](https://github.com/silnrsi/font-gentium) - Fonts for languages and writing systems that use Latin, Cyrillic, and Greek scripts
