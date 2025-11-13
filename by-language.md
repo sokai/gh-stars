@@ -1293,6 +1293,8 @@
 
 ## Nix 
 
+- [putquo/nixconf](https://github.com/putquo/nixconf) - My nix-based configuration files
+- [nix-community/nixago](https://github.com/nix-community/nixago) - Generate configuration files using Nix [maintainer=@jmgilman]
 - [the-moonwitch/dots-nix](https://github.com/the-moonwitch/dots-nix) - Nix Blueprint dots
 - [xdbr/fleet](https://github.com/xdbr/fleet) - 
 - [pipelight/crocuda.nixos](https://github.com/pipelight/crocuda.nixos) - Nixos configuration modules for servers (and paranoids and hypocondriacs)
