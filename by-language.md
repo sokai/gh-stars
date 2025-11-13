@@ -1292,7 +1292,6 @@
 
 ## Nix 
 
-- [xdbr/fleet](https://github.com/xdbr/fleet) - 
 - [shimeoki/nixconfig](https://github.com/shimeoki/nixconfig) - My NixOS configuration as a flake.
 - [sini/nix-config](https://github.com/sini/nix-config) - NixOS Configuration
 - [dvicory/homelab](https://github.com/dvicory/homelab) - 
