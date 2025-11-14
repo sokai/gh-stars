@@ -1163,6 +1163,7 @@
 
 ## Kotlin 
 
+- [die-tageszeitung/taz-neo](https://github.com/die-tageszeitung/taz-neo) - android reader app for the German newspaper taz
 - [VentralDigital/InterProfileSharing](https://github.com/VentralDigital/InterProfileSharing) - Official repository of Inter Profile Sharing App for GrapheneOS/Android
 - [octoshrimpy/quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
