@@ -292,6 +292,7 @@
 
 ## android 
 
+- [die-tageszeitung/taz-neo](https://github.com/die-tageszeitung/taz-neo) - android reader app for the German newspaper taz
 - [0xf104a/NextcloudServices](https://github.com/0xf104a/NextcloudServices) - Android app to send notifications from Nextcloud without using GCM(Google cloud messaging)
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
