@@ -1189,6 +1189,7 @@
 
 ## dotfiles 
 
+- [yunfachi/nix-config](https://github.com/yunfachi/nix-config) - My NixOS and Home Manager flake for all my hosts, built with Denix
 - [clo4/nix-dotfiles](https://github.com/clo4/nix-dotfiles) - Manages my nix-darwin Mac, standalone Home Manager Mac, and NixOS home server. Public domain, unless noted otherwise.
 - [Lord-Valen/configuration.nix](https://github.com/Lord-Valen/configuration.nix) - My dotfiles, but on NixOS!
 - [ALinkbetweenNets/nix](https://github.com/ALinkbetweenNets/nix) - ALinkbetweenNets's NixOS Infratructure Configuration
