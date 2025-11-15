@@ -1189,6 +1189,7 @@
 
 ## dotfiles 
 
+- [stepbrobd/dotfiles](https://github.com/stepbrobd/dotfiles) - yet another dotfiles repo with nix
 - [yunfachi/nix-config](https://github.com/yunfachi/nix-config) - My NixOS and Home Manager flake for all my hosts, built with Denix
 - [clo4/nix-dotfiles](https://github.com/clo4/nix-dotfiles) - Manages my nix-darwin Mac, standalone Home Manager Mac, and NixOS home server. Public domain, unless noted otherwise.
 - [Lord-Valen/configuration.nix](https://github.com/Lord-Valen/configuration.nix) - My dotfiles, but on NixOS!
@@ -2687,6 +2688,7 @@
 
 ## neovim 
 
+- [stepbrobd/dotfiles](https://github.com/stepbrobd/dotfiles) - yet another dotfiles repo with nix
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [pineapplegiant/spaceduck](https://github.com/pineapplegiant/spaceduck) - 🚀 🦆 An intergalactic space theme for Vim, Terminal, and more!
 - [ehllie/dotfiles](https://github.com/ehllie/dotfiles) - Nix flake with my system configuration
@@ -2867,6 +2869,7 @@
 
 ## others 
 
+- [stepbrobd/autopilot](https://github.com/stepbrobd/autopilot) - flake parts with autoloading
 - [platomav/CPUMicrocodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA & Freescale CPU Microcode Repositories
 - [niksingh710/nsearch](https://github.com/niksingh710/nsearch) - Packages Search for Nixos/Nixpkgs
 - [mariolopjr/infra](https://github.com/mariolopjr/infra) - 
