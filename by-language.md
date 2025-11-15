@@ -1293,6 +1293,7 @@
 
 ## Nix 
 
+- [binarin/nixos-config](https://github.com/binarin/nixos-config) - NixOS configurations for all my machines
 - [yunfachi/nix-config](https://github.com/yunfachi/nix-config) - My NixOS and Home Manager flake for all my hosts, built with Denix
 - [clo4/nix-dotfiles](https://github.com/clo4/nix-dotfiles) - Manages my nix-darwin Mac, standalone Home Manager Mac, and NixOS home server. Public domain, unless noted otherwise.
 - [putquo/nixconf](https://github.com/putquo/nixconf) - My nix-based configuration files
