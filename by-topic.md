@@ -2866,6 +2866,7 @@
 
 ## others 
 
+- [jpoliv/wakeonlan](https://github.com/jpoliv/wakeonlan) - Perl script for waking up computers via Wake-On-LAN magic packets
 - [binarin/nixos-config](https://github.com/binarin/nixos-config) - NixOS configurations for all my machines
 - [putquo/nixconf](https://github.com/putquo/nixconf) - My nix-based configuration files
 - [the-moonwitch/dots-nix](https://github.com/the-moonwitch/dots-nix) - Nix Blueprint dots
