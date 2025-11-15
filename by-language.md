@@ -1449,7 +1449,7 @@
 - [macsiwase/nix-mainConfigs](https://github.com/macsiwase/nix-mainConfigs) - Mac's NixOS Configurations
 - [DavidRConnell/nix-home-manager](https://github.com/DavidRConnell/nix-home-manager) - Nix configuration using home-manager
 - [eh8/chenglab](https://github.com/eh8/chenglab) - a straightforward NixOS setup for my homelab and personal computers
-- [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module
+- [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server NixOS Module
 - [infinisil/sanix](https://github.com/infinisil/sanix) - Sane stable stateless NixOS setup
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix
 - [linyinfeng/dotfiles](https://github.com/linyinfeng/dotfiles) - My personal NixOS configurations.
