@@ -1534,6 +1534,7 @@
 
 ## golang 
 
+- [SR-G/sleep-on-lan](https://github.com/SR-G/sleep-on-lan) - Multi-platform process allowing to sleep on LAN a linux or windows computer, through wake-on-lan (reversed) magic packets or through HTTP REST requests.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
 - [whyvl/wireproxy](https://github.com/whyvl/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
@@ -2865,6 +2866,7 @@
 
 ## others 
 
+- [binarin/nixos-config](https://github.com/binarin/nixos-config) - NixOS configurations for all my machines
 - [putquo/nixconf](https://github.com/putquo/nixconf) - My nix-based configuration files
 - [the-moonwitch/dots-nix](https://github.com/the-moonwitch/dots-nix) - Nix Blueprint dots
 - [xdbr/fleet](https://github.com/xdbr/fleet) - 
