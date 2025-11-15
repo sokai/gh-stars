@@ -1295,6 +1295,8 @@
 
 ## Nix 
 
+- [e-tho/ucodenix](https://github.com/e-tho/ucodenix) - Microcode updates for AMD CPUs on NixOS
+- [niksingh710/nsearch](https://github.com/niksingh710/nsearch) - Packages Search for Nixos/Nixpkgs
 - [mariolopjr/infra](https://github.com/mariolopjr/infra) - 
 - [brittonr/clan-user-proposal](https://github.com/brittonr/clan-user-proposal) - 
 - [binarin/nixos-config](https://github.com/binarin/nixos-config) - NixOS configurations for all my machines
@@ -1524,6 +1526,7 @@
 
 ## Others 
 
+- [platomav/CPUMicrocodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA & Freescale CPU Microcode Repositories
 - [protesilaos/aporetic](https://github.com/protesilaos/aporetic) - Aporetic fonts are a custom build of Iosevka with different style and metrics than the default. This is the successor to my "Iosevka Comfy" fonts.
 - [NixOS/foundation](https://github.com/NixOS/foundation) - This is the home of the NixOS Foundation
 - [wearetechnative/awesome-flake-parts](https://github.com/wearetechnative/awesome-flake-parts) - A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.
