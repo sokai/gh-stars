@@ -2866,6 +2866,7 @@
 
 ## others 
 
+- [mariolopjr/infra](https://github.com/mariolopjr/infra) - 
 - [brittonr/clan-user-proposal](https://github.com/brittonr/clan-user-proposal) - 
 - [jpoliv/wakeonlan](https://github.com/jpoliv/wakeonlan) - Perl script for waking up computers via Wake-On-LAN magic packets
 - [binarin/nixos-config](https://github.com/binarin/nixos-config) - NixOS configurations for all my machines
