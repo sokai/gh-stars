@@ -1295,6 +1295,7 @@
 
 ## Nix 
 
+- [T0PSH31F/Grandline-Gang](https://github.com/T0PSH31F/Grandline-Gang) - NixOS configuration for luffy machine using clan-core flake-parts template
 - [stepbrobd/dotfiles](https://github.com/stepbrobd/dotfiles) - yet another dotfiles repo with nix
 - [stepbrobd/autopilot](https://github.com/stepbrobd/autopilot) - flake parts with autoloading
 - [e-tho/ucodenix](https://github.com/e-tho/ucodenix) - Microcode updates for AMD CPUs on NixOS
