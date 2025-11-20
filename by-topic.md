@@ -2873,6 +2873,7 @@
 
 ## others 
 
+- [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [Stupremee/nix](https://github.com/Stupremee/nix) - My NixOs dotfiles for my machines
 - [open-reception/appointment-booking-software](https://github.com/open-reception/appointment-booking-software) - End-to-end encrypted appointment booking platform
 - [nix-systems/nix-systems](https://github.com/nix-systems/nix-systems) - Externally extensible flake systems
@@ -2886,7 +2887,6 @@
 - [binarin/nixos-config](https://github.com/binarin/nixos-config) - NixOS configurations for all my machines
 - [putquo/nixconf](https://github.com/putquo/nixconf) - My nix-based configuration files
 - [the-moonwitch/dots-nix](https://github.com/the-moonwitch/dots-nix) - Nix Blueprint dots
-- [xdbr/fleet](https://github.com/xdbr/fleet) - 
 - [pipelight/crocuda.nixos](https://github.com/pipelight/crocuda.nixos) - Nixos configuration modules for servers (and paranoids and hypocondriacs)
 - [pipelight/normal.nixos](https://github.com/pipelight/normal.nixos) - Nixos configuration modules for desktop (Still for paranoids and hypochondriacs)
 - [bivsk/nix-iv](https://github.com/bivsk/nix-iv) - Personal NixOS configurations
