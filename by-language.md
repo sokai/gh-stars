@@ -627,6 +627,7 @@
 
 ## Java 
 
+- [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [0xf104a/NextcloudServices](https://github.com/0xf104a/NextcloudServices) - Android app to send notifications from Nextcloud without using GCM(Google cloud messaging)
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
 - [Hachimann/mlkit-barcode-scanning](https://github.com/Hachimann/mlkit-barcode-scanning) - Barcode scanner library for Android, based on ML Kit's barcode scanning API
@@ -1308,7 +1309,6 @@
 - [putquo/nixconf](https://github.com/putquo/nixconf) - My nix-based configuration files
 - [nix-community/nixago](https://github.com/nix-community/nixago) - Generate configuration files using Nix [maintainer=@jmgilman]
 - [the-moonwitch/dots-nix](https://github.com/the-moonwitch/dots-nix) - Nix Blueprint dots
-- [xdbr/fleet](https://github.com/xdbr/fleet) - 
 - [pipelight/crocuda.nixos](https://github.com/pipelight/crocuda.nixos) - Nixos configuration modules for servers (and paranoids and hypocondriacs)
 - [bivsk/nix-iv](https://github.com/bivsk/nix-iv) - Personal NixOS configurations
 - [shimeoki/nixconfig](https://github.com/shimeoki/nixconfig) - My NixOS configuration as a flake.
