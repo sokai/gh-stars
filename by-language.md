@@ -1250,7 +1250,6 @@
 
 - [pipelight/normal.nixos](https://github.com/pipelight/normal.nixos) - Nixos configuration modules for desktop (Still for paranoids and hypochondriacs)
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
-- [ourgal/snowfall](https://github.com/ourgal/snowfall) - NixOS dotfiles
 - [ehllie/dotfiles](https://github.com/ehllie/dotfiles) - Nix flake with my system configuration
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [bjc/prosody](https://github.com/bjc/prosody) - IMPORTANT: due to a drive failure, as of 13-Mar-2021, the Mercurial repository had to be re-mirrored, which changed every commit SHA. The old SHAs and trees are backed up in the vault branches. Please
@@ -1351,6 +1350,7 @@
 - [BryceBeagle/nixos-config](https://github.com/BryceBeagle/nixos-config) - 
 - [nix-community/flakelight](https://github.com/nix-community/flakelight) - Framework for simplifying flake setup [maintainer=@accelbread]
 - [truxnell/nix-config](https://github.com/truxnell/nix-config) - My nix & nixos home setup
+- [ourgal/snowfall](https://github.com/ourgal/snowfall) - NixOS dotfiles
 - [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS) - This repository contains the the configuration files for my NixOS instance. NixOS is a linux distribution that allows reproducibility. The point of the repository is such that I can store my configura
 - [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
 - [wueestry/nixos-config](https://github.com/wueestry/nixos-config) - Current nixos configuration using snowfall lib as flake structure
