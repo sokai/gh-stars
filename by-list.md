@@ -829,6 +829,7 @@
 - [igoutta/nix-frastructure](https://github.com/igoutta/nix-frastructure) - Infrastructure based in nix language with Flakes, using the modularity given by Flakes.parts and import-tree. Currently just for TUF workbook.
 - [mijorus/smile](https://github.com/mijorus/smile) - An emoji picker for linux, with custom tags support and localization. I'll also put some random emojis here 🦁🐾🦔🦇
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 
 ## nixolotl
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
