@@ -99,6 +99,7 @@
 
 ## C 
 
+- [leahneukirchen/mblaze](https://github.com/leahneukirchen/mblaze) - Unix utilities to deal with Maildir
 - [Autossh/autossh](https://github.com/Autossh/autossh) - This is an unofficial image,If you are the owner, you can apply for ownership.
 - [Keruspe/GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
 - [BogdanTheGeek/semihost-ip](https://github.com/BogdanTheGeek/semihost-ip) - Running TCP/IP over SWD lines
@@ -2806,6 +2807,7 @@
 
 ## TypeScript 
 
+- [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 - [open-reception/appointment-booking-software](https://github.com/open-reception/appointment-booking-software) - End-to-end encrypted appointment booking platform
 - [johnnydecimal/index-spec](https://github.com/johnnydecimal/index-spec) - A 'formal' specification for the index file. And any other data structures.
