@@ -2886,6 +2886,9 @@
 
 ## others 
 
+- [xdbr/fleet](https://github.com/xdbr/fleet) - 
+- [antholeole/home-server](https://github.com/antholeole/home-server) - 
+- [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
 - [oddlama/agenix-rekey](https://github.com/oddlama/agenix-rekey) - An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity
 - [yaxitech/ragenix](https://github.com/yaxitech/ragenix) - age-encrypted secrets for NixOS; drop-in replacement for agenix
 - [bagbag/nstdl](https://github.com/bagbag/nstdl) - Personal NixOS Standard Library
