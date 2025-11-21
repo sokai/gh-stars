@@ -20,6 +20,7 @@
 - [nix](#nix)
 - [nixolotl](#nixolotl)
 - [personal](#personal)
+- [respect](#respect)
 - [security](#security)
 - [smarthome](#smarthome)
 - [snowfall](#snowfall)
@@ -674,6 +675,7 @@
 - [bzLem0n/periodic](https://github.com/bzLem0n/periodic) - Personal Home-manager and NixOS configurations for the devices on the lem0n.zapto.org network.
 - [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - 
 - [igoutta/nix-frastructure](https://github.com/igoutta/nix-frastructure) - Infrastructure based in nix language with Flakes, using the modularity given by Flakes.parts and import-tree. Currently just for TUF workbook.
+- [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 
 ## nix
 - [NixOS/nix-constitutional-assembly](https://github.com/NixOS/nix-constitutional-assembly) - Home of the Nix Constitutional Assembly, there to establish a community-based governance
@@ -834,6 +836,7 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [vic/vix](https://github.com/vic/vix) - Vic's *Nix config.
 - [edrobertsrayne/niflheim](https://github.com/edrobertsrayne/niflheim) - My NixOS configuration
+- [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
 
 ## nixolotl
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
@@ -1046,6 +1049,10 @@
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [despora/diaspora](https://github.com/despora/diaspora) - Distributed and contextual social networking. Repository of my custom Diaspora pod "Despora"
+- [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
+
+## respect
+- [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
 
 ## security
 - [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
