@@ -375,6 +375,7 @@
 - [McArthur-Alford/commonix](https://github.com/McArthur-Alford/commonix) - 
 - [OsiPog/nix-config](https://github.com/OsiPog/nix-config) - NixOS configurations for all of my systems
 - [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
+- [xdbr/fleet](https://github.com/xdbr/fleet) - 
 
 ## knowledge
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -725,6 +726,7 @@
 - [niksingh710/nsearch](https://github.com/niksingh710/nsearch) - Packages Search for Nixos/Nixpkgs
 - [oddlama/agenix-rekey](https://github.com/oddlama/agenix-rekey) - An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity
 - [antholeole/home-server](https://github.com/antholeole/home-server) - 
+- [xdbr/fleet](https://github.com/xdbr/fleet) - 
 
 ## nix.snowfall
 - [wueestry/nixos-config](https://github.com/wueestry/nixos-config) - Current nixos configuration using snowfall lib as flake structure
