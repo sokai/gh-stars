@@ -1295,6 +1295,7 @@
 
 ## Nix 
 
+- [vic/vix](https://github.com/vic/vix) - Vic's *Nix config.
 - [Stupremee/nix](https://github.com/Stupremee/nix) - My NixOs dotfiles for my machines
 - [T0PSH31F/Grandline-Gang](https://github.com/T0PSH31F/Grandline-Gang) - NixOS configuration for luffy machine using clan-core flake-parts template
 - [stepbrobd/dotfiles](https://github.com/stepbrobd/dotfiles) - yet another dotfiles repo with nix
