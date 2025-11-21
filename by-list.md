@@ -374,6 +374,7 @@
 - [leahneukirchen/mblaze](https://github.com/leahneukirchen/mblaze) - Unix utilities to deal with Maildir
 - [McArthur-Alford/commonix](https://github.com/McArthur-Alford/commonix) - 
 - [OsiPog/nix-config](https://github.com/OsiPog/nix-config) - NixOS configurations for all of my systems
+- [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
 
 ## knowledge
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -685,6 +686,7 @@
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
 - [oddlama/agenix-rekey](https://github.com/oddlama/agenix-rekey) - An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity
+- [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
 
 ## nix.blueprint
 - [OsiPog/nix-config](https://github.com/OsiPog/nix-config) - NixOS configurations for all of my systems
@@ -700,6 +702,7 @@
 - [Krutonium/NewNix](https://github.com/Krutonium/NewNix) - The latest version of my NixOS config, re-written.
 - [McArthur-Alford/commonix](https://github.com/McArthur-Alford/commonix) - 
 - [raydrivers/nixconfig](https://github.com/raydrivers/nixconfig) - My NixOS configuration
+- [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
 
 ## nix.parts
 - [polarmutex/nix-config](https://github.com/polarmutex/nix-config) - nix dotfiles for nixos and userspace
@@ -721,6 +724,7 @@
 - [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config
 - [niksingh710/nsearch](https://github.com/niksingh710/nsearch) - Packages Search for Nixos/Nixpkgs
 - [oddlama/agenix-rekey](https://github.com/oddlama/agenix-rekey) - An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity
+- [antholeole/home-server](https://github.com/antholeole/home-server) - 
 
 ## nix.snowfall
 - [wueestry/nixos-config](https://github.com/wueestry/nixos-config) - Current nixos configuration using snowfall lib as flake structure
