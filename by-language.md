@@ -1296,6 +1296,20 @@
 
 ## Nix 
 
+- [xdbr/fleet](https://github.com/xdbr/fleet) - 
+- [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
+- [oddlama/agenix-rekey](https://github.com/oddlama/agenix-rekey) - An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity
+- [bagbag/nstdl](https://github.com/bagbag/nstdl) - Personal NixOS Standard Library
+- [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
+- [Anomalocaridid/dotfiles](https://github.com/Anomalocaridid/dotfiles) - My personal dotfiles for NixOS
+- [OsiPog/nix-config](https://github.com/OsiPog/nix-config) - NixOS configurations for all of my systems
+- [raydrivers/nixconfig](https://github.com/raydrivers/nixconfig) - My NixOS configuration
+- [McArthur-Alford/commonix](https://github.com/McArthur-Alford/commonix) - 
+- [polarmutex/nix-config](https://github.com/polarmutex/nix-config) - nix dotfiles for nixos and userspace
+- [Krutonium/NewNix](https://github.com/Krutonium/NewNix) - The latest version of my NixOS config, re-written.
+- [imlonghao/flakes](https://github.com/imlonghao/flakes) - 
+- [Occhima/nix-conf](https://github.com/Occhima/nix-conf) - 
+- [reo101/rix101](https://github.com/reo101/rix101) - My NixOS, nix-on-droid and nix-darwin configs.
 - [vic/vix](https://github.com/vic/vix) - Vic's *Nix config.
 - [Stupremee/nix](https://github.com/Stupremee/nix) - My NixOs dotfiles for my machines
 - [T0PSH31F/Grandline-Gang](https://github.com/T0PSH31F/Grandline-Gang) - NixOS configuration for luffy machine using clan-core flake-parts template
@@ -2278,6 +2292,7 @@
 
 ## Python 
 
+- [quodlibet/quodlibet](https://github.com/quodlibet/quodlibet) - Music player and music library manager for Linux, Windows, and macOS
 - [silnrsi/font-gentium](https://github.com/silnrsi/font-gentium) - Fonts for languages and writing systems that use Latin, Cyrillic, and Greek scripts
 - [Petro31/a-file-logger](https://github.com/Petro31/a-file-logger) - Brings home-assistant.log back in the config folder
 - [mijorus/smile](https://github.com/mijorus/smile) - An emoji picker for linux, with custom tags support and localization. I'll also put some random emojis here 🦁🐾🦔🦇
@@ -2510,6 +2525,8 @@
 
 ## Rust 
 
+- [yaxitech/ragenix](https://github.com/yaxitech/ragenix) - age-encrypted secrets for NixOS; drop-in replacement for agenix
+- [deltarocks/fleet](https://github.com/deltarocks/fleet) - NixOS cluster configuration tool
 - [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 - [JayanAXHF/filessh](https://github.com/JayanAXHF/filessh) - A fast and convenient TUI file browser for remote servers
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace
@@ -2810,6 +2827,7 @@
 
 ## TypeScript 
 
+- [antholeole/home-server](https://github.com/antholeole/home-server) - 
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 - [open-reception/appointment-booking-software](https://github.com/open-reception/appointment-booking-software) - End-to-end encrypted appointment booking platform
