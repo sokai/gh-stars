@@ -18,6 +18,7 @@
 - [mirror](#mirror)
 - [Nfra](#nfra)
 - [nix.blueprint](#nix.blueprint)
+- [nix.clan](#nix.clan)
 - [nix.den](#nix.den)
 - [nix.nix](#nix.nix)
 - [nix.parts](#nix.parts)
@@ -25,6 +26,7 @@
 - [nix.utils](#nix.utils)
 - [nixolotl](#nixolotl)
 - [NixOS](#nixos)
+- [NixOS.25.11](#nixos.25.11)
 - [personal](#personal)
 - [respect](#respect)
 - [security](#security)
@@ -522,7 +524,6 @@
 - [sissbruecker/linkding-extension](https://github.com/sissbruecker/linkding-extension) - Companion extension for linkding
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [kradalby/dotfiles](https://github.com/kradalby/dotfiles) - monorepo for everything in my tech life.
-- [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 - [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - Lan Tian's NixOS Configuration
 - [D4ndellion/nixos-matrix-modules](https://github.com/D4ndellion/nixos-matrix-modules) - NixOS modules for matrix related services
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -684,9 +685,14 @@
 - [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - 
 - [igoutta/nix-frastructure](https://github.com/igoutta/nix-frastructure) - Infrastructure based in nix language with Flakes, using the modularity given by Flakes.parts and import-tree. Currently just for TUF workbook.
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
+- [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
 
 ## nix.blueprint
 - [OsiPog/nix-config](https://github.com/OsiPog/nix-config) - NixOS configurations for all of my systems
+- [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
+
+## nix.clan
+- [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 
 ## nix.den
 - [vic/vix](https://github.com/vic/vix) - Vic's *Nix config.
@@ -713,6 +719,8 @@
 - [felschr/nixos-config](https://github.com/felschr/nixos-config) - Mirror of my NixOS configuration
 - [mightyiam/infra](https://github.com/mightyiam/infra) - Shahar "Dawn" Or's Nix-powered "IT infrastructure" repository
 - [edrobertsrayne/niflheim](https://github.com/edrobertsrayne/niflheim) - My NixOS configuration
+- [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config
+- [niksingh710/nsearch](https://github.com/niksingh710/nsearch) - Packages Search for Nixos/Nixpkgs
 
 ## nix.snowfall
 - [wueestry/nixos-config](https://github.com/wueestry/nixos-config) - Current nixos configuration using snowfall lib as flake structure
@@ -727,7 +735,6 @@
 - [drupol/infra](https://github.com/drupol/infra) - Contains the configuration of every home computers
 - [tomasharkema/nix-config](https://github.com/tomasharkema/nix-config) - 
 - [vic/den](https://github.com/vic/den) - Modular, context-aware and aspect-oriented dendritic Nix configurations.
-- [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
 - [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized for development environment, based on nixos-unified. 
 - [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS + nix-darwin + home-manager configuration in a single flake, while providing a consistent interface at DX and UX level.
@@ -735,9 +742,12 @@
 - [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - 
 - [igoutta/nix-frastructure](https://github.com/igoutta/nix-frastructure) - Infrastructure based in nix language with Flakes, using the modularity given by Flakes.parts and import-tree. Currently just for TUF workbook.
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
+- [bagbag/nstdl](https://github.com/bagbag/nstdl) - Personal NixOS Standard Library
+- [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 
 ## nix.utils
 - [ALinkbetweenNets/nix](https://github.com/ALinkbetweenNets/nix) - ALinkbetweenNets's NixOS Infratructure Configuration
+- [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 
 ## nixolotl
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
@@ -939,7 +949,6 @@
 - [wueestry/nixos-config](https://github.com/wueestry/nixos-config) - Current nixos configuration using snowfall lib as flake structure
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
-- [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
@@ -985,7 +994,6 @@
 - [tomasharkema/nix-config](https://github.com/tomasharkema/nix-config) - 
 - [vic/den](https://github.com/vic/den) - Modular, context-aware and aspect-oriented dendritic Nix configurations.
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@ma27]
-- [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 - [nifoc/dotfiles](https://github.com/nifoc/dotfiles) - Based on nixpkgs, nix-darwin and home-manager
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
 - [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized for development environment, based on nixos-unified. 
@@ -1001,6 +1009,11 @@
 - [nukdokplex/ncaa](https://github.com/nukdokplex/ncaa) - A collection of crap to make my hosts boot and some other prekoldesses
 - [polarmutex/nix-config](https://github.com/polarmutex/nix-config) - nix dotfiles for nixos and userspace
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
+- [e-tho/ucodenix](https://github.com/e-tho/ucodenix) - Microcode updates for AMD CPUs on NixOS
+- [niksingh710/nsearch](https://github.com/niksingh710/nsearch) - Packages Search for Nixos/Nixpkgs
+
+## NixOS.25.11
+- [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
 
 ## personal
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
@@ -1393,6 +1406,8 @@
 - [McArthur-Alford/commonix](https://github.com/McArthur-Alford/commonix) - 
 - [deltarocks/fleet](https://github.com/deltarocks/fleet) - NixOS cluster configuration tool
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
+- [niksingh710/nsearch](https://github.com/niksingh710/nsearch) - Packages Search for Nixos/Nixpkgs
+- [bagbag/nstdl](https://github.com/bagbag/nstdl) - Personal NixOS Standard Library
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
