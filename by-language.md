@@ -1296,6 +1296,7 @@
 
 ## Nix 
 
+- [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - It’s not “just dotfiles” - it's extreme modularity that looks and feels like a NixOS flake. It's Voice-driven DevOps, it's a declarative home automation system, it's a self-contained auto-documenting 
 - [xdbr/fleet](https://github.com/xdbr/fleet) - 
 - [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
 - [oddlama/agenix-rekey](https://github.com/oddlama/agenix-rekey) - An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity
