@@ -704,6 +704,7 @@
 - [McArthur-Alford/commonix](https://github.com/McArthur-Alford/commonix) - 
 - [raydrivers/nixconfig](https://github.com/raydrivers/nixconfig) - My NixOS configuration
 - [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
+- [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - It’s not “just dotfiles” - it's extreme modularity that looks and feels like a NixOS flake. It's Voice-driven DevOps, it's a declarative home automation system, it's a self-contained auto-documenting monster.
 
 ## nix.parts
 - [polarmutex/nix-config](https://github.com/polarmutex/nix-config) - nix dotfiles for nixos and userspace
