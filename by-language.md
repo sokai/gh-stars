@@ -1296,6 +1296,7 @@
 
 ## Nix 
 
+- [Czichy/nixos](https://github.com/Czichy/nixos) - 
 - [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - It’s not “just dotfiles” - it's extreme modularity that looks and feels like a NixOS flake. It's Voice-driven DevOps, it's a declarative home automation system, it's a self-contained auto-documenting 
 - [xdbr/fleet](https://github.com/xdbr/fleet) - 
 - [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
