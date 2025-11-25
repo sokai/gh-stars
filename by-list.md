@@ -1137,6 +1137,9 @@
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [despora/diaspora](https://github.com/despora/diaspora) - Distributed and contextual social networking. Repository of my custom Diaspora pod "Despora"
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
+- [adamoutler/HassOSArgonOneAddon](https://github.com/adamoutler/HassOSArgonOneAddon) - A Home Assistant Addon for Argon One Fan Control. 
+- [adamoutler/HassOSConfigurator](https://github.com/adamoutler/HassOSConfigurator) - A set of Add-Ons to configure HassOS For various platforms and development purposes.
+- [Argon40Tech/Argon-ONE-i2c-Codes](https://github.com/Argon40Tech/Argon-ONE-i2c-Codes) - This is a list of i2c Codes utilized by Argon ONE Raspberry Pi Cases
 
 ## respect
 - [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
@@ -1170,6 +1173,9 @@
 - [ngandrass/truenas-spindown-timer](https://github.com/ngandrass/truenas-spindown-timer) - Monitors drive I/O and forces HDD spindown after a given idle period. Resistant to S.M.A.R.T. reads.
 - [Koenkk/Z-Stack-firmware](https://github.com/Koenkk/Z-Stack-firmware) - Compilation instructions and hex files for Z-Stack firmwares
 - [stefanthoss/family-e-ink-dashboard](https://github.com/stefanthoss/family-e-ink-dashboard) - E-Ink dashboard showing weather and a family calendar running on an Inkplate 10, rendering done in a Docker container
+- [adamoutler/HassOSArgonOneAddon](https://github.com/adamoutler/HassOSArgonOneAddon) - A Home Assistant Addon for Argon One Fan Control. 
+- [adamoutler/HassOSConfigurator](https://github.com/adamoutler/HassOSConfigurator) - A set of Add-Ons to configure HassOS For various platforms and development purposes.
+- [Argon40Tech/Argon-ONE-i2c-Codes](https://github.com/Argon40Tech/Argon-ONE-i2c-Codes) - This is a list of i2c Codes utilized by Argon ONE Raspberry Pi Cases
 
 ## todo
 - [devhawk/vscode-markdown-sup](https://github.com/devhawk/vscode-markdown-sup) - 
@@ -1423,6 +1429,7 @@
 - [yaxitech/ragenix](https://github.com/yaxitech/ragenix) - age-encrypted secrets for NixOS; drop-in replacement for agenix
 - [oddlama/agenix-rekey](https://github.com/oddlama/agenix-rekey) - An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
+- [Argon40Tech/Argon-ONE-i2c-Codes](https://github.com/Argon40Tech/Argon-ONE-i2c-Codes) - This is a list of i2c Codes utilized by Argon ONE Raspberry Pi Cases
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
