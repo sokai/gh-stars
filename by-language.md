@@ -1548,6 +1548,7 @@
 
 ## Others 
 
+- [Argon40Tech/Argon-ONE-i2c-Codes](https://github.com/Argon40Tech/Argon-ONE-i2c-Codes) - This is a list of i2c Codes utilized by Argon ONE Raspberry Pi Cases
 - [tolkonepiu/best-of-nix](https://github.com/tolkonepiu/best-of-nix) - 🏆  A ranked list of the best resources in the Nix community. Updated weekly.
 - [nix-systems/nix-systems](https://github.com/nix-systems/nix-systems) - Externally extensible flake systems
 - [platomav/CPUMicrocodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA & Freescale CPU Microcode Repositories
@@ -2648,6 +2649,8 @@
 
 ## Shell 
 
+- [adamoutler/HassOSConfigurator](https://github.com/adamoutler/HassOSConfigurator) - A set of Add-Ons to configure HassOS For various platforms and development purposes.
+- [adamoutler/HassOSArgonOneAddon](https://github.com/adamoutler/HassOSArgonOneAddon) - A Home Assistant Addon for Argon One Fan Control.
 - [emmanuel-ferdman/gh-gonest](https://github.com/emmanuel-ferdman/gh-gonest) - :octocat: GitHub CLI extension that automatically detects and removes ghost notifications from banned/deleted repos
 - [uklans/cache-domains](https://github.com/uklans/cache-domains) - Domain Names required for LAN Content Cache DNS spoofing
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
