@@ -2905,6 +2905,9 @@
 
 ## others 
 
+- [Argon40Tech/Argon-ONE-i2c-Codes](https://github.com/Argon40Tech/Argon-ONE-i2c-Codes) - This is a list of i2c Codes utilized by Argon ONE Raspberry Pi Cases
+- [adamoutler/HassOSConfigurator](https://github.com/adamoutler/HassOSConfigurator) - A set of Add-Ons to configure HassOS For various platforms and development purposes.
+- [adamoutler/HassOSArgonOneAddon](https://github.com/adamoutler/HassOSArgonOneAddon) - A Home Assistant Addon for Argon One Fan Control.
 - [Czichy/nixos](https://github.com/Czichy/nixos) - 
 - [xdbr/fleet](https://github.com/xdbr/fleet) - 
 - [antholeole/home-server](https://github.com/antholeole/home-server) - 
