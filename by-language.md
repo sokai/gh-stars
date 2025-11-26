@@ -1295,6 +1295,7 @@
 
 ## Nix 
 
+- [etu/nixconfig](https://github.com/etu/nixconfig) - My NixOS config
 - [Czichy/nixos](https://github.com/Czichy/nixos) - 
 - [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - It’s not “just dotfiles” - it's extreme modularity that looks and feels like a NixOS flake. It's Voice-driven DevOps, it's a declarative home automation system, it's a self-contained auto-documenting 
 - [xdbr/fleet](https://github.com/xdbr/fleet) - 
@@ -1520,7 +1521,6 @@
 - [ymatsiuk/nixos-config](https://github.com/ymatsiuk/nixos-config) - Dell XPS 13 NixOS and home-manager configuration
 - [mbund/nix-config](https://github.com/mbund/nix-config) - Personal NixOS and home-manager configuration for all my machines
 - [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) - NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
-- [etu/nixconfig](https://github.com/etu/nixconfig) - My NixOS config
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [ellmau/nixos](https://github.com/ellmau/nixos) - 
 - [Misterio77/nix-config](https://github.com/Misterio77/nix-config) - Personal nixos and home-manager configurations.
