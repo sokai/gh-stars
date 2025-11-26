@@ -694,12 +694,14 @@
 ## nix.blueprint
 - [OsiPog/nix-config](https://github.com/OsiPog/nix-config) - NixOS configurations for all of my systems
 - [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
+- [etu/nixconfig](https://github.com/etu/nixconfig) - My NixOS config
 
 ## nix.clan
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 
 ## nix.den
 - [vic/vix](https://github.com/vic/vix) - Vic's *Nix config.
+- [mariolopjr/infra](https://github.com/mariolopjr/infra) - 
 
 ## nix.nix
 - [Krutonium/NewNix](https://github.com/Krutonium/NewNix) - The latest version of my NixOS config, re-written.
