@@ -8,6 +8,7 @@
 - [ai](#ai)
 - [ajax](#ajax)
 - [algorithm](#algorithm)
+- [algorithms](#algorithms)
 - [amphp](#amphp)
 - [analytics](#analytics)
 - [android](#android)
@@ -271,6 +272,10 @@
 - [ded/reqwest](https://github.com/ded/reqwest) - browser asynchronous http requests
 
 ## algorithm 
+
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+
+## algorithms 
 
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
