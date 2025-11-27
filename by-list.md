@@ -379,6 +379,7 @@
 - [xdbr/fleet](https://github.com/xdbr/fleet) - 
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+- [nezia1/flocon](https://github.com/nezia1/flocon) - my nixos system configuration (mirrored from my private forgejo instance)
 
 ## knowledge
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -694,6 +695,7 @@
 - [oddlama/agenix-rekey](https://github.com/oddlama/agenix-rekey) - An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity
 - [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
+- [nezia1/flocon](https://github.com/nezia1/flocon) - my nixos system configuration (mirrored from my private forgejo instance)
 
 ## nix.blueprint
 - [OsiPog/nix-config](https://github.com/OsiPog/nix-config) - NixOS configurations for all of my systems
@@ -742,6 +744,8 @@
 - [Czichy/nixos](https://github.com/Czichy/nixos) - 
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
 - [onixcomputer/onix-core](https://github.com/onixcomputer/onix-core) - OnixComputer infrastructure core repository
+- [binarin/nixos-config](https://github.com/binarin/nixos-config) - NixOS configurations for all my machines
+- [nezia1/flocon](https://github.com/nezia1/flocon) - my nixos system configuration (mirrored from my private forgejo instance)
 
 ## nix.snowfall
 - [wueestry/nixos-config](https://github.com/wueestry/nixos-config) - Current nixos configuration using snowfall lib as flake structure
