@@ -754,6 +754,7 @@
 - [binarin/nixos-config](https://github.com/binarin/nixos-config) - NixOS configurations for all my machines
 - [nezia1/flocon](https://github.com/nezia1/flocon) - my nixos system configuration (mirrored from my private forgejo instance)
 - [tbaumann/nix-conf](https://github.com/tbaumann/nix-conf) - My nix config
+- [sini/nix-config](https://github.com/sini/nix-config) - NixOS Configuration
 
 ## nix.snowfall
 - [wueestry/nixos-config](https://github.com/wueestry/nixos-config) - Current nixos configuration using snowfall lib as flake structure
