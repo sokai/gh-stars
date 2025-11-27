@@ -2929,6 +2929,7 @@
 
 ## others 
 
+- [tbaumann/nix-conf](https://github.com/tbaumann/nix-conf) - My nix config
 - [nezia1/flocon](https://github.com/nezia1/flocon) - my nixos system configuration (mirrored from my private forgejo instance)
 - [onixcomputer/onix-core](https://github.com/onixcomputer/onix-core) - OnixComputer infrastructure core repository
 - [esselius/kfg](https://github.com/esselius/kfg) - 
