@@ -268,7 +268,7 @@
 
 ## Clojure 
 
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
@@ -1690,6 +1690,7 @@
 
 ## PHP 
 
+- [phpnuke/phpnuke](https://github.com/phpnuke/phpnuke) - PHP-Nuke is a web-based automated news publishing and content management system based on PHP and MySQL.
 - [thefranke/rss-librarian](https://github.com/thefranke/rss-librarian) - A read-it-later service for RSS purists
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [tt-rss/tt-rss](https://github.com/tt-rss/tt-rss) - A free, flexible, open-source, web-based news feed (RSS/Atom/other) reader and aggregator.
