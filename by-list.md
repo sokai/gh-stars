@@ -27,6 +27,7 @@
 - [nixolotl](#nixolotl)
 - [NixOS](#nixos)
 - [NixOS.25.11](#nixos.25.11)
+- [nixpkgs](#nixpkgs)
 - [personal](#personal)
 - [respect](#respect)
 - [security](#security)
@@ -384,6 +385,7 @@
 - [tbaumann/nix-conf](https://github.com/tbaumann/nix-conf) - My nix config
 - [r-pufky/docs](https://github.com/r-pufky/docs) - Generic service & computer documentation.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 
 ## knowledge
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -517,6 +519,7 @@
 - [baxyz/firefox-profiles](https://github.com/baxyz/firefox-profiles) - This GNOME extension streamlines launching Firefox profiles from the indicator menu.
 - [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
+- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 
 ## mirror
 - [kevle1/windows-telemetry-blocklist](https://github.com/kevle1/windows-telemetry-blocklist) - Blocks outgoing Windows telemetry, compatible with Pi-Hole. 
@@ -1050,6 +1053,9 @@
 ## NixOS.25.11
 - [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
 
+## nixpkgs
+- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
+
 ## personal
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
@@ -1459,6 +1465,7 @@
 - [digint/btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
 - [r-pufky/docs](https://github.com/r-pufky/docs) - Generic service & computer documentation.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
@@ -1651,6 +1658,7 @@
 - [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME
 - [Keruspe/GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
+- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 
 ## License
 
