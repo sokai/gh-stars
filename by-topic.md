@@ -2933,6 +2933,7 @@
 
 ## others 
 
+- [phpnuke/phpnuke](https://github.com/phpnuke/phpnuke) - PHP-Nuke is a web-based automated news publishing and content management system based on PHP and MySQL.
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [maeve-oake/nixos-config](https://github.com/maeve-oake/nixos-config) - 
 - [tbaumann/nix-conf](https://github.com/tbaumann/nix-conf) - My nix config
