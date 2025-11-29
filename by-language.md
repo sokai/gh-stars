@@ -351,6 +351,7 @@
 
 ## Go 
 
+- [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [SR-G/sleep-on-lan](https://github.com/SR-G/sleep-on-lan) - Multi-platform process allowing to sleep on LAN a linux or windows computer, through wake-on-lan (reversed) magic packets or through HTTP REST requests.
 - [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
@@ -1296,6 +1297,8 @@
 
 ## Nix 
 
+- [joshprk/flake](https://github.com/joshprk/flake) - Personal NixOS system configuration
+- [felinefyi/nix-public](https://github.com/felinefyi/nix-public) - 
 - [mzonski/nixos-config](https://github.com/mzonski/nixos-config) - 
 - [maeve-oake/nixos-config](https://github.com/maeve-oake/nixos-config) - 
 - [tbaumann/nix-conf](https://github.com/tbaumann/nix-conf) - My nix config
