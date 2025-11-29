@@ -2933,6 +2933,11 @@
 
 ## others 
 
+- [felinefyi/nix-public](https://github.com/felinefyi/nix-public) - 
+- [wg-lux/luxnix](https://github.com/wg-lux/luxnix) - 
+- [mzonski/nixos-config](https://github.com/mzonski/nixos-config) - 
+- [scidonia/bookwyrm-client](https://github.com/scidonia/bookwyrm-client) - The bookwyrm client library
+- [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
 - [phpnuke/phpnuke](https://github.com/phpnuke/phpnuke) - PHP-Nuke is a web-based automated news publishing and content management system based on PHP and MySQL.
 - [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 - [maeve-oake/nixos-config](https://github.com/maeve-oake/nixos-config) - 
