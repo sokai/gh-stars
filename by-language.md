@@ -499,6 +499,7 @@
 
 ## HTML 
 
+- [wg-lux/luxnix](https://github.com/wg-lux/luxnix) - 
 - [MStankiewiczOfficial/RedirectTube](https://github.com/MStankiewiczOfficial/RedirectTube) - Open YouTube links in FreeTube
 - [tomas/skel.css](https://github.com/tomas/skel.css) - A reworked version of the Skeleton CSS boilerplate.
 - [scripting/feedlandInstall](https://github.com/scripting/feedlandInstall) - Instructions for setting up a FeedLand server.
