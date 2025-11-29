@@ -970,6 +970,7 @@
 - [e-tho/ucodenix](https://github.com/e-tho/ucodenix) - Microcode updates for AMD CPUs on NixOS
 - [niksingh710/nsearch](https://github.com/niksingh710/nsearch) - Packages Search for Nixos/Nixpkgs
 - [nix-community/nixos-facter-modules](https://github.com/nix-community/nixos-facter-modules) - A series of NixOS modules to be used in conjunction with https://github.com/nix-community/nixos-facter [maintainer=@brianmcgee,@Mic92]
+- [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 
 ## NixOS.25.11
 - [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
@@ -1397,6 +1398,7 @@
 - [nix-community/nixos-facter-modules](https://github.com/nix-community/nixos-facter-modules) - A series of NixOS modules to be used in conjunction with https://github.com/nix-community/nixos-facter [maintainer=@brianmcgee,@Mic92]
 - [milieuim/vaultix](https://github.com/milieuim/vaultix) - Secret managing scheme for NixOS
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
+- [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
