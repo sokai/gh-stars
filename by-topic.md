@@ -1859,7 +1859,7 @@
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [pfefferle/wordpress-webmention](https://github.com/pfefferle/wordpress-webmention) - A Webmention plugin for WordPress
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
+- [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
 - [thephpleague/commonmark](https://github.com/thephpleague/commonmark) - Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 - [antonioribeiro/google2fa](https://github.com/antonioribeiro/google2fa) - A One Time Password Authentication package, compatible with Google Authenticator.
 - [jelhan/croodle](https://github.com/jelhan/croodle) - Croodle is a web application to schedule a date or to do a poll on a general topics.
@@ -4222,7 +4222,7 @@
 - [auduno/headtrackr](https://github.com/auduno/headtrackr) - Javascript library for headtracking via webcam and WebRTC/getUserMedia
 - [remy/twitterlib](https://github.com/remy/twitterlib) - Twitter JavaScript API library
 - [vlucas/bulletphp](https://github.com/vlucas/bulletphp) - A resource-oriented micro PHP framework
-- [yohang/CalendR](https://github.com/yohang/CalendR) - The missing PHP 5.3+ calendar management library.
+- [yohang/CalendR](https://github.com/yohang/CalendR) - A modern, object-oriented calendar management library for PHP 8.2+.
 - [marcolago/flowtime.js](https://github.com/marcolago/flowtime.js) - Flowtime.js HTML5/CSS3/JS Websites and Presentation Framework
 - [regisb/reveal.js-fullscreen-img](https://github.com/regisb/reveal.js-fullscreen-img) - [DEPRECATED] Display gorgeous fullscreen images in reveal.js presentations
 - [FH-Potsdam/fh-potsdam.github.com](https://github.com/FH-Potsdam/fh-potsdam.github.com) - Index of public and open source projects created at the University of Applied Sciences in Potsdam, Germany
