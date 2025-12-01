@@ -1052,7 +1052,6 @@
 - [ruipgil/scraperjs](https://github.com/ruipgil/scraperjs) - A complete and versatile web scraper.
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 - [refactory-id/bootstrap-markdown](https://github.com/refactory-id/bootstrap-markdown) - Bootstrap plugin for markdown editing
-- [Luracast/Restler](https://github.com/Luracast/Restler) - Simple and effective multi-format Web API Server to host your PHP API as Pragmatic REST and/or RESTful API
 - [bryanbraun/anchorjs](https://github.com/bryanbraun/anchorjs) - Add deep anchor links to your docs.
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
@@ -2177,6 +2176,7 @@
 - [wvrzel/simpleCalDAV](https://github.com/wvrzel/simpleCalDAV) - A simple php CalDAV-Client library. Connect, create, change, delete... easy to use
 - [phacility/phabricator](https://github.com/phacility/phabricator) - Effective June 1, 2021: Phabricator is no longer actively maintained.
 - [fxpio/composer-asset-plugin](https://github.com/fxpio/composer-asset-plugin) - NPM/Bower Dependency Manager for Composer
+- [Luracast/Restler](https://github.com/Luracast/Restler) - Simple and effective multi-format Web API Server to host your PHP API as Pragmatic REST and/or RESTful API
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [entomb/slim-json-api](https://github.com/entomb/slim-json-api) - Slim extension to implement fast JSON API's
 - [sabre-io/vobject](https://github.com/sabre-io/vobject) - :date: The VObject library for PHP allows you to easily parse and manipulate iCalendar and vCard objects
