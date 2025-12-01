@@ -2218,7 +2218,7 @@
 - [dcramer/wp-lifestream](https://github.com/dcramer/wp-lifestream) - Lifestreaming plugin for Wordpress
 - [pfefferle/SemPress](https://github.com/pfefferle/SemPress) - A highly semantic WordPress Theme with HTML5 templates, responsive and seo optimized. SemPress supports most of the new HTML5 tags, the new HTML5 input-types, microformats, microformats v2 and microda
 - [vlucas/bulletphp](https://github.com/vlucas/bulletphp) - A resource-oriented micro PHP framework
-- [yohang/CalendR](https://github.com/yohang/CalendR) - The missing PHP 5.3+ calendar management library.
+- [yohang/CalendR](https://github.com/yohang/CalendR) - A modern, object-oriented calendar management library for PHP 8.2+.
 - [rashidul0405/url-shortener-Laravel](https://github.com/rashidul0405/url-shortener-Laravel) - URL shortener project on Laravel
 - [xeoncross/markedup](https://github.com/xeoncross/markedup) - A markdown to HTML and HTML to markdown converter
 - [msurguy/blog](https://github.com/msurguy/blog) - Simple Blog made in Laravel
@@ -3005,7 +3005,7 @@
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
+- [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
 - [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin.
 - [Automattic/wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com
 - [jsxc/jsxc](https://github.com/jsxc/jsxc) - :speech_balloon: Real-time xmpp chat application with video calls, file transfer and encrypted communication.
