@@ -1152,7 +1152,7 @@
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [b310-digital/mindwendel](https://github.com/b310-digital/mindwendel) - Brainstorm, organize, and prioritize ideas effortlessly. Use it as a collaborative planning board or for live brainstormings within your team.
 - [b310-digital/teammapper](https://github.com/b310-digital/teammapper) - Mindmapping made simple: Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate on mindmaps.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
@@ -1650,7 +1650,7 @@
 - [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - A suite of utilities to help with software supply chain challenges on nix targets
 - [monal-im/fpush](https://github.com/monal-im/fpush) - Scalable push server for XMPP
 - [pretalx/pretalx](https://github.com/pretalx/pretalx) - Conference planning tool: CfP, scheduling, speaker management
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
