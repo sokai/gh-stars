@@ -1054,6 +1054,7 @@
 
 ## deployment 
 
+- [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
@@ -1448,6 +1449,7 @@
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [laravel/lumen](https://github.com/laravel/lumen) - The Laravel Lumen Framework.
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
+- [Luracast/Restler](https://github.com/Luracast/Restler) - Zero-boilerplate REST API framework for PHP 8+. Auto-generates routes, docs, validation.
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 
 ## frontend 
@@ -4609,7 +4611,7 @@
 - [cristidraghici/Freenom-PHP-Class](https://github.com/cristidraghici/Freenom-PHP-Class) - Freenom.com API wrapper for PHP.
 - [phacility/phabricator](https://github.com/phacility/phabricator) - Effective June 1, 2021: Phabricator is no longer actively maintained.
 - [fxpio/composer-asset-plugin](https://github.com/fxpio/composer-asset-plugin) - NPM/Bower Dependency Manager for Composer
-- [Luracast/Restler](https://github.com/Luracast/Restler) - Simple and effective multi-format Web API Server to host your PHP API as Pragmatic REST and/or RESTful API
+- [Luracast/Restler](https://github.com/Luracast/Restler) - Zero-boilerplate REST API framework for PHP 8+. Auto-generates routes, docs, validation.
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
@@ -4942,6 +4944,7 @@
 - [apilayer/restcountries](https://github.com/apilayer/restcountries) - Get information about countries via a RESTful API
 - [ManuelGil/REST-Api-with-Slim-PHP](https://github.com/ManuelGil/REST-Api-with-Slim-PHP) - REST API with PHP Slim Framework 3 and MySQL
 - [mevdschee/php-crud-api](https://github.com/mevdschee/php-crud-api) - Single file PHP script that adds a REST API to a SQL database
+- [Luracast/Restler](https://github.com/Luracast/Restler) - Zero-boilerplate REST API framework for PHP 8+. Auto-generates routes, docs, validation.
 
 ## reverse-engineering 
 
