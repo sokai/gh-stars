@@ -2176,7 +2176,7 @@
 - [wvrzel/simpleCalDAV](https://github.com/wvrzel/simpleCalDAV) - A simple php CalDAV-Client library. Connect, create, change, delete... easy to use
 - [phacility/phabricator](https://github.com/phacility/phabricator) - Effective June 1, 2021: Phabricator is no longer actively maintained.
 - [fxpio/composer-asset-plugin](https://github.com/fxpio/composer-asset-plugin) - NPM/Bower Dependency Manager for Composer
-- [Luracast/Restler](https://github.com/Luracast/Restler) - Simple and effective multi-format Web API Server to host your PHP API as Pragmatic REST and/or RESTful API
+- [Luracast/Restler](https://github.com/Luracast/Restler) - Zero-boilerplate REST API framework for PHP 8+. Auto-generates routes, docs, validation.
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [entomb/slim-json-api](https://github.com/entomb/slim-json-api) - Slim extension to implement fast JSON API's
 - [sabre-io/vobject](https://github.com/sabre-io/vobject) - :date: The VObject library for PHP allows you to easily parse and manipulate iCalendar and vCard objects
@@ -2540,6 +2540,7 @@
 
 ## Rust 
 
+- [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [yaxitech/ragenix](https://github.com/yaxitech/ragenix) - age-encrypted secrets for NixOS; drop-in replacement for agenix
 - [deltarocks/fleet](https://github.com/deltarocks/fleet) - NixOS cluster configuration tool
