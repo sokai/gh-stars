@@ -732,6 +732,7 @@
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
 - [onixcomputer/onix-core](https://github.com/onixcomputer/onix-core) - OnixComputer infrastructure core repository
 - [tbaumann/nix-conf](https://github.com/tbaumann/nix-conf) - My nix config
+- [brittonr/clan-user-proposal](https://github.com/brittonr/clan-user-proposal) - 
 
 ## nix.den
 - [vic/vix](https://github.com/vic/vix) - Vic's *Nix config.
