@@ -580,11 +580,13 @@
 
 ## aws 
 
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [mozilla-services/autopush-rs](https://github.com/mozilla-services/autopush-rs) - Push Server in Rust
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
 ## azure 
 
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 
 ## backend 
@@ -1112,6 +1114,7 @@
 
 ## devops 
 
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
@@ -5030,6 +5033,7 @@
 
 ## security 
 
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 - [openmls/openmls](https://github.com/openmls/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol
