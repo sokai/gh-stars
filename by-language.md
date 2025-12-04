@@ -2893,7 +2893,7 @@
 - [henryclw/jsonhero-web](https://github.com/henryclw/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
-- [withstudiocms/studiocms](https://github.com/withstudiocms/studiocms) - Headless CMS for Astro, built with Astro, that provides a user-friendly and configurable dashboard for content management
+- [withstudiocms/studiocms](https://github.com/withstudiocms/studiocms) - Dedicated SSR (Server-side-rendered) Astro native Headless CMS, build from the ground up for the Astro community and by Astro community members
 - [darkterminal/mylibsqladmin](https://github.com/darkterminal/mylibsqladmin) - MylibSQLAdmin - A Modern libSQL Database Management Platform
 - [daeuniverse/daed](https://github.com/daeuniverse/daed) - daed, A modern web dashboard for dae.
 - [jamdotdev/jam-dev-utilities](https://github.com/jamdotdev/jam-dev-utilities) - Lightweight utils set - fast and open-source. It's got cmd+k search & everything's client-side. No ads, your data stays local.
