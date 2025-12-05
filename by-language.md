@@ -1304,6 +1304,7 @@
 
 ## Nix 
 
+- [songpola/nixos-config](https://github.com/songpola/nixos-config) - 
 - [joshprk/flake](https://github.com/joshprk/flake) - Personal NixOS system configuration
 - [felinefyi/nix-public](https://github.com/felinefyi/nix-public) - 
 - [mzonski/nixos-config](https://github.com/mzonski/nixos-config) - 
@@ -1443,9 +1444,7 @@
 - [jpetrucciani/nix](https://github.com/jpetrucciani/nix) - ❄️ my nix modules, overlays, host configurations, and more!
 - [coldelectrons/unitedstatesofsmash](https://github.com/coldelectrons/unitedstatesofsmash) - One (nix flake) for all (my installs)
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
-- [Nebucatnetzer/nixos](https://github.com/Nebucatnetzer/nixos) - 
 - [haennes/dotfiles](https://github.com/haennes/dotfiles) - 
-- [ldryt/infra](https://github.com/ldryt/infra) - Nix flake and Terraform code for the ldryt.dev environment and infrastructure.
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations
 - [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) - Opinionated, integrated and shared NixOS modules
 - [micaplush/x](https://github.com/micaplush/x) - Monorepo for most of the stuff I'm doing now (sanitized version for publishing)
@@ -1459,7 +1458,6 @@
 - [jalil-salame/configuration.nix](https://github.com/jalil-salame/configuration.nix) - My NixOS configuration as a NixOS module
 - [RaitoBezarius/nixos-shim](https://github.com/RaitoBezarius/nixos-shim) - Shim and related binaries signed via Hydra
 - [tomasharkema/nix-config](https://github.com/tomasharkema/nix-config) - 
-- [msfjarvis/dotfiles](https://github.com/msfjarvis/dotfiles) - I definitely don't understand the 'dot' concept
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [nix-community/raspberry-pi-nix](https://github.com/nix-community/raspberry-pi-nix) - NixOS modules to aid in configuring NixOS for raspberry pi products
 - [ehllie/ez-configs](https://github.com/ehllie/ez-configs) - A flake-parts module for simple nixos, darwin and home-manager configurations using project directory structure
