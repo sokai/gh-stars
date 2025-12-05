@@ -1374,7 +1374,6 @@
 - [anntnzrb/snowfall-lib](https://github.com/anntnzrb/snowfall-lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [marcusramberg/nix-config](https://github.com/marcusramberg/nix-config) - My home manager and nixos / nix-darwin setup
 - [andre4ik3/agefs](https://github.com/andre4ik3/agefs) - FUSE filesystem that decrypts age secrets on the fly
-- [herobrauni/nx](https://github.com/herobrauni/nx) - 
 - [snugnug/hjem-rum](https://github.com/snugnug/hjem-rum) - A module collection for Hjem. [Maintainers=@Lunarnovaa, @nezia1]
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@ma27]
 - [jhillyerd/agenix-template](https://github.com/jhillyerd/agenix-template) - NixOS module for templating agenix secrets
@@ -2853,7 +2852,7 @@
 ## TypeScript 
 
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
-- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
+- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [antholeole/home-server](https://github.com/antholeole/home-server) - 
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
