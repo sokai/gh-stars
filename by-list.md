@@ -20,7 +20,7 @@
 - [Nfra](#nfra)
 - [nix_blueprint](#nix_blueprint)
 - [nix_clan](#nix_clan)
-- [nix.den](#nix.den)
+- [nix_den](#nix_den)
 - [nix_denix](#nix_denix)
 - [nix_nix](#nix_nix)
 - [nix_parts](#nix_parts)
@@ -407,6 +407,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
+- [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 
 ## knowledge
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -555,6 +556,8 @@
 - [TheAlexDev23/power-options](https://github.com/TheAlexDev23/power-options) - Most feature-complete Linux GUI power management solution.
 - [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 
 ## mirror
 - [kevle1/windows-telemetry-blocklist](https://github.com/kevle1/windows-telemetry-blocklist) - Blocks outgoing Windows telemetry, compatible with Pi-Hole. 
@@ -738,6 +741,8 @@
 - [nezia1/flocon](https://github.com/nezia1/flocon) - my nixos system configuration (mirrored from my private forgejo instance)
 - [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [Turtlecute33/toolz](https://github.com/Turtlecute33/toolz) - A simple and user-friendly website to test and verify your ad-blockers and DNS filters
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 
 ## nix_blueprint
 - [OsiPog/nix-config](https://github.com/OsiPog/nix-config) - NixOS configurations for all of my systems
@@ -754,7 +759,7 @@
 - [brittonr/clan-user-proposal](https://github.com/brittonr/clan-user-proposal) - 
 - [marcusramberg/nix-config](https://github.com/marcusramberg/nix-config) - My home manager and nixos / nix-darwin setup
 
-## nix.den
+## nix_den
 - [vic/vix](https://github.com/vic/vix) - Vic's *Nix config.
 - [mariolopjr/infra](https://github.com/mariolopjr/infra) - 
 - [esselius/kfg](https://github.com/esselius/kfg) - 
@@ -762,6 +767,7 @@
 ## nix_denix
 - [mzonski/nixos-config](https://github.com/mzonski/nixos-config) - 
 - [songpola/nixos-config](https://github.com/songpola/nixos-config) - 
+- [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 
 ## nix_nix
 - [Krutonium/NewNix](https://github.com/Krutonium/NewNix) - The latest version of my NixOS config, re-written.
@@ -818,7 +824,6 @@
 - [PrimaMateria/nixos-hive](https://github.com/PrimaMateria/nixos-hive) - PrimaMateria's NixOS configuration
 - [ethnt/e10](https://github.com/ethnt/e10) - Personal fleet of machines deployed by Nix
 - [olafkfreund/nixos-template](https://github.com/olafkfreund/nixos-template) - A  template to start  you nixos journey.
-- [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [vic/dendrix](https://github.com/vic/dendrix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern. Mirror from https://tangled.org/oeiuwq.com/dendrix. Discussions at https://oeiuwq.zulipchat.com/join/nqp26cd4kngon6mo3ncgnuap/ 
 - [drupol/infra](https://github.com/drupol/infra) - Contains the configuration of every home computers
@@ -842,6 +847,7 @@
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 - [numtide/nix-auth](https://github.com/numtide/nix-auth) - Nix access-token management tool
+- [olafkfreund/nixos_config](https://github.com/olafkfreund/nixos_config) - My private nixos_config
 
 ## NixOS
 - [NixOS/nix-constitutional-assembly](https://github.com/NixOS/nix-constitutional-assembly) - Home of the Nix Constitutional Assembly, there to establish a community-based governance
@@ -948,7 +954,6 @@
 - [hedgedoc/cli](https://github.com/hedgedoc/cli) - A tiny CLI for HedgeDoc
 - [olafkfreund/nixos-template](https://github.com/olafkfreund/nixos-template) - A  template to start  you nixos journey.
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server
-- [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [vic/dendrix](https://github.com/vic/dendrix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern. Mirror from https://tangled.org/oeiuwq.com/dendrix. Discussions at https://oeiuwq.zulipchat.com/join/nqp26cd4kngon6mo3ncgnuap/ 
 - [drupol/infra](https://github.com/drupol/infra) - Contains the configuration of every home computers
@@ -1002,6 +1007,8 @@
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 
 ## personal
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
@@ -1126,6 +1133,8 @@
 - [aveao/PebbleArchive](https://github.com/aveao/PebbleArchive) - Archives of various Pebble related files (as Pebble Technology Corp went bankrupt)
 - [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only.
 - [coredevices/PebbleOS](https://github.com/coredevices/PebbleOS) - 
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [nel0x/syncthing-android](https://github.com/nel0x/syncthing-android) - Syncthing - A Syncthing Wrapper for Android.
 
 ## security
 - [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
@@ -1445,6 +1454,9 @@
 - [aveao/PebbleArchive](https://github.com/aveao/PebbleArchive) - Archives of various Pebble related files (as Pebble Technology Corp went bankrupt)
 - [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only.
 - [coredevices/PebbleOS](https://github.com/coredevices/PebbleOS) - 
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [takahashim/mastodon-access-token](https://github.com/takahashim/mastodon-access-token) - Access Token Generator for Mastodon API
+- [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
@@ -1571,6 +1583,7 @@
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
 
 ## work
 - [oeg-upm/devops-infra](https://github.com/oeg-upm/devops-infra) - Public repository for an ontology network on DevOps infrastructure
