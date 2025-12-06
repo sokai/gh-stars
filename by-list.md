@@ -6,6 +6,7 @@
 
 ## Contents
 - [android](#android)
+- [awesome](#awesome)
 - [backup](#backup)
 - [dead](#dead)
 - [desktop](#desktop)
@@ -28,7 +29,6 @@
 - [NixOS](#nixos)
 - [nixpkgs](#nixpkgs)
 - [personal](#personal)
-- [respect](#respect)
 - [security](#security)
 - [smarthome](#smarthome)
 - [todo](#todo)
@@ -82,6 +82,13 @@
 - [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Customizable and privacy-conscious open-source clock, based on AOSP Clock
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [nel0x/syncthing-android](https://github.com/nel0x/syncthing-android) - Syncthing - A Syncthing Wrapper for Android.
+
+## awesome
+- [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
+- [quodlibet/quodlibet](https://github.com/quodlibet/quodlibet) - Music player and music library manager for Linux, Windows, and macOS
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
+- [KonradIT/HEROPebble](https://github.com/KonradIT/HEROPebble) - Unofficial GoPro App for Pebble smartwatches
+- [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only.
 
 ## backup
 - [digint/btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
@@ -1115,11 +1122,9 @@
 - [catppuccin/cursors](https://github.com/catppuccin/cursors) - 🐁 Soothing pastel cursors for GTK/Plasma/Hyprland
 - [muhammad23012009/PebbleFirmware](https://github.com/muhammad23012009/PebbleFirmware) - 
 - [bmacphail/pebblefw](https://github.com/bmacphail/pebblefw) - The ultimate Pebble smartwatch firmware archive
-
-## respect
-- [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
-- [quodlibet/quodlibet](https://github.com/quodlibet/quodlibet) - Music player and music library manager for Linux, Windows, and macOS
-- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
+- [KonradIT/HEROPebble](https://github.com/KonradIT/HEROPebble) - Unofficial GoPro App for Pebble smartwatches
+- [aveao/PebbleArchive](https://github.com/aveao/PebbleArchive) - Archives of various Pebble related files (as Pebble Technology Corp went bankrupt)
+- [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only.
 
 ## security
 - [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
@@ -1435,6 +1440,9 @@
 - [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) - a flake module to ease creating and managing multiple hosts in your nix flake.
 - [muhammad23012009/PebbleFirmware](https://github.com/muhammad23012009/PebbleFirmware) - 
 - [bmacphail/pebblefw](https://github.com/bmacphail/pebblefw) - The ultimate Pebble smartwatch firmware archive
+- [KonradIT/HEROPebble](https://github.com/KonradIT/HEROPebble) - Unofficial GoPro App for Pebble smartwatches
+- [aveao/PebbleArchive](https://github.com/aveao/PebbleArchive) - Archives of various Pebble related files (as Pebble Technology Corp went bankrupt)
+- [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only.
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
