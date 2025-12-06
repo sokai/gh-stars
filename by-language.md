@@ -95,6 +95,7 @@
 
 ## Blade 
 
+- [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit) - 
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [coreui/coreui-free-laravel-admin-template](https://github.com/coreui/coreui-free-laravel-admin-template) - CoreUI Free Laravel Bootstrap Admin Template
 
@@ -360,6 +361,8 @@
 
 ## Go 
 
+- [aceeric/ociregistry](https://github.com/aceeric/ociregistry) - Golang pull-only, pull-through, caching OCI distribution server
+- [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [g0rbe/caddy-crawler](https://github.com/g0rbe/caddy-crawler) - Request Matcher module for Caddy to detect crawlers. Mirror of https://git.gorbe.io/caddy/crawler
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
@@ -512,6 +515,7 @@
 
 ## HTML 
 
+- [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - 
 - [takahashim/mastodon-access-token](https://github.com/takahashim/mastodon-access-token) - Access Token Generator for Mastodon API
 - [aveao/PebbleArchive](https://github.com/aveao/PebbleArchive) - Archives of various Pebble related files (as Pebble Technology Corp went bankrupt)
 - [wg-lux/luxnix](https://github.com/wg-lux/luxnix) - 
@@ -1313,6 +1317,8 @@
 
 ## Nix 
 
+- [soulwhisper/nix-config](https://github.com/soulwhisper/nix-config) - 
+- [tiiuae/ghaf](https://github.com/tiiuae/ghaf) - TII SSRC Secure Technologies: Ghaf Framework
 - [olafkfreund/nixos_config](https://github.com/olafkfreund/nixos_config) - My private nixos_config
 - [conroy-cheers/system-config](https://github.com/conroy-cheers/system-config) - NixOS/home-manager config
 - [songpola/nixos-config](https://github.com/songpola/nixos-config) - 
@@ -1572,6 +1578,7 @@
 
 ## Others 
 
+- [8bitsaver/maxmind-geoip](https://github.com/8bitsaver/maxmind-geoip) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 - [bmacphail/pebblefw](https://github.com/bmacphail/pebblefw) - The ultimate Pebble smartwatch firmware archive
 - [muhammad23012009/PebbleFirmware](https://github.com/muhammad23012009/PebbleFirmware) - 
 - [Argon40Tech/Argon-ONE-i2c-Codes](https://github.com/Argon40Tech/Argon-ONE-i2c-Codes) - This is a list of i2c Codes utilized by Argon ONE Raspberry Pi Cases
@@ -1711,6 +1718,9 @@
 
 ## PHP 
 
+- [paulund/content-markdown](https://github.com/paulund/content-markdown) - Use this to display markdown content on a laravel site.
+- [prezet/prezet](https://github.com/prezet/prezet) - 🚀 Markdown Blogging for Laravel!
+- [jgivoni/flysystem-cache-adapter](https://github.com/jgivoni/flysystem-cache-adapter) - The PSR-6 compliant adapter decorator for Flysystem v3 that caches file metadata to improve performance.
 - [phpnuke/phpnuke](https://github.com/phpnuke/phpnuke) - PHP-Nuke is a web-based automated news publishing and content management system based on PHP and MySQL.
 - [thefranke/rss-librarian](https://github.com/thefranke/rss-librarian) - A read-it-later service for RSS purists
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
