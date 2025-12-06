@@ -360,6 +360,8 @@
 
 ## Go 
 
+- [g0rbe/caddy-crawler](https://github.com/g0rbe/caddy-crawler) - Request Matcher module for Caddy to detect crawlers. Mirror of https://git.gorbe.io/caddy/crawler
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [SR-G/sleep-on-lan](https://github.com/SR-G/sleep-on-lan) - Multi-platform process allowing to sleep on LAN a linux or windows computer, through wake-on-lan (reversed) magic packets or through HTTP REST requests.
@@ -510,6 +512,7 @@
 
 ## HTML 
 
+- [takahashim/mastodon-access-token](https://github.com/takahashim/mastodon-access-token) - Access Token Generator for Mastodon API
 - [aveao/PebbleArchive](https://github.com/aveao/PebbleArchive) - Archives of various Pebble related files (as Pebble Technology Corp went bankrupt)
 - [wg-lux/luxnix](https://github.com/wg-lux/luxnix) - 
 - [MStankiewiczOfficial/RedirectTube](https://github.com/MStankiewiczOfficial/RedirectTube) - Open YouTube links in FreeTube
@@ -642,6 +645,7 @@
 
 ## Java 
 
+- [writingtool-org/writingtool](https://github.com/writingtool-org/writingtool) - 
 - [nel0x/syncthing-android](https://github.com/nel0x/syncthing-android) - Syncthing - A Syncthing Wrapper for Android.
 - [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [0xf104a/NextcloudServices](https://github.com/0xf104a/NextcloudServices) - Android app to send notifications from Nextcloud without using GCM(Google cloud messaging)
@@ -1309,6 +1313,7 @@
 
 ## Nix 
 
+- [olafkfreund/nixos_config](https://github.com/olafkfreund/nixos_config) - My private nixos_config
 - [conroy-cheers/system-config](https://github.com/conroy-cheers/system-config) - NixOS/home-manager config
 - [songpola/nixos-config](https://github.com/songpola/nixos-config) - 
 - [joshprk/flake](https://github.com/joshprk/flake) - Personal NixOS system configuration
