@@ -17,16 +17,15 @@
 - [linux](#linux)
 - [mirror](#mirror)
 - [Nfra](#nfra)
-- [nix.blueprint](#nix.blueprint)
-- [nix.clan](#nix.clan)
+- [nix_blueprint](#nix_blueprint)
+- [nix_clan](#nix_clan)
 - [nix.den](#nix.den)
-- [nix.denix](#nix.denix)
-- [nix.nix](#nix.nix)
-- [nix.parts](#nix.parts)
-- [nix.snowfall](#nix.snowfall)
-- [nix.utils](#nix.utils)
+- [nix_denix](#nix_denix)
+- [nix_nix](#nix_nix)
+- [nix_parts](#nix_parts)
+- [nix_snowfall](#nix_snowfall)
+- [nix_utils](#nix_utils)
 - [NixOS](#nixos)
-- [NixOS.25.11](#nixos.25.11)
 - [nixpkgs](#nixpkgs)
 - [personal](#personal)
 - [respect](#respect)
@@ -82,6 +81,7 @@
 - [nucleus-ffm/foss_warn](https://github.com/nucleus-ffm/foss_warn) - An unofficial open source application to get emergency alerts.
 - [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Customizable and privacy-conscious open-source clock, based on AOSP Clock
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+- [nel0x/syncthing-android](https://github.com/nel0x/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 
 ## backup
 - [digint/btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
@@ -223,7 +223,6 @@
 - [Jojo4GH/nav](https://github.com/Jojo4GH/nav) - ❯ The interactive and intuitive replacement for ls & cd!
 - [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [danpros/htmly](https://github.com/danpros/htmly) - Simple and fast databaseless PHP blogging platform, and Flat-File CMS
 - [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - This is a mirror of https://codeberg.org/fsfe/reuse-tool
 - [unfrl/dug](https://github.com/unfrl/dug) - A global DNS propagation checker that gives pretty output. Written in dotnet core
@@ -631,7 +630,6 @@
 - [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - This is a mirror of https://codeberg.org/fsfe/reuse-tool
 - [umap-project/umap](https://github.com/umap-project/umap) - uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site.
 - [pipelight/boulette](https://github.com/pipelight/boulette) - A terminal confirmation prompt that prevents you from accidentally damaging remote hosts.
@@ -733,30 +731,31 @@
 - [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [Turtlecute33/toolz](https://github.com/Turtlecute33/toolz) - A simple and user-friendly website to test and verify your ad-blockers and DNS filters
 
-## nix.blueprint
+## nix_blueprint
 - [OsiPog/nix-config](https://github.com/OsiPog/nix-config) - NixOS configurations for all of my systems
 - [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
 - [etu/nixconfig](https://github.com/etu/nixconfig) - My NixOS config
 - [maeve-oake/nixos-config](https://github.com/maeve-oake/nixos-config) - 
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 
-## nix.clan
+## nix_clan
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
 - [onixcomputer/onix-core](https://github.com/onixcomputer/onix-core) - OnixComputer infrastructure core repository
 - [tbaumann/nix-conf](https://github.com/tbaumann/nix-conf) - My nix config
 - [brittonr/clan-user-proposal](https://github.com/brittonr/clan-user-proposal) - 
+- [marcusramberg/nix-config](https://github.com/marcusramberg/nix-config) - My home manager and nixos / nix-darwin setup
 
 ## nix.den
 - [vic/vix](https://github.com/vic/vix) - Vic's *Nix config.
 - [mariolopjr/infra](https://github.com/mariolopjr/infra) - 
 - [esselius/kfg](https://github.com/esselius/kfg) - 
 
-## nix.denix
+## nix_denix
 - [mzonski/nixos-config](https://github.com/mzonski/nixos-config) - 
 - [songpola/nixos-config](https://github.com/songpola/nixos-config) - 
 
-## nix.nix
+## nix_nix
 - [Krutonium/NewNix](https://github.com/Krutonium/NewNix) - The latest version of my NixOS config, re-written.
 - [McArthur-Alford/commonix](https://github.com/McArthur-Alford/commonix) - 
 - [raydrivers/nixconfig](https://github.com/raydrivers/nixconfig) - My NixOS configuration
@@ -765,7 +764,7 @@
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 - [felinefyi/nix-public](https://github.com/felinefyi/nix-public) - 
 
-## nix.parts
+## nix_parts
 - [polarmutex/nix-config](https://github.com/polarmutex/nix-config) - nix dotfiles for nixos and userspace
 - [imlonghao/flakes](https://github.com/imlonghao/flakes) - 
 - [Occhima/nix-conf](https://github.com/Occhima/nix-conf) - 
@@ -797,8 +796,12 @@
 - [scidonia/bookwyrm-client](https://github.com/scidonia/bookwyrm-client) - The bookwyrm client library
 - [milieuim/vaultix](https://github.com/milieuim/vaultix) - Secret managing scheme for NixOS
 - [joshprk/flake](https://github.com/joshprk/flake) - Personal NixOS system configuration
+- [marcusramberg/nix-config](https://github.com/marcusramberg/nix-config) - My home manager and nixos / nix-darwin setup
+- [quaoz/flake](https://github.com/quaoz/flake) - 
+- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) - a flake module to ease creating and managing multiple hosts in your nix flake.
+- [mariolopjr/infra](https://github.com/mariolopjr/infra) - 
 
-## nix.snowfall
+## nix_snowfall
 - [wueestry/nixos-config](https://github.com/wueestry/nixos-config) - Current nixos configuration using snowfall lib as flake structure
 - [nix-community/flakelight](https://github.com/nix-community/flakelight) - Framework for simplifying flake setup [maintainer=@accelbread]
 - [BryceBeagle/nixos-config](https://github.com/BryceBeagle/nixos-config) - 
@@ -823,7 +826,7 @@
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [wg-lux/luxnix](https://github.com/wg-lux/luxnix) - 
 
-## nix.utils
+## nix_utils
 - [ALinkbetweenNets/nix](https://github.com/ALinkbetweenNets/nix) - ALinkbetweenNets's NixOS Infratructure Configuration
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [yaxitech/ragenix](https://github.com/yaxitech/ragenix) - age-encrypted secrets for NixOS; drop-in replacement for agenix
@@ -962,9 +965,6 @@
 - [nix-community/nixos-facter-modules](https://github.com/nix-community/nixos-facter-modules) - A series of NixOS modules to be used in conjunction with https://github.com/nix-community/nixos-facter [maintainer=@brianmcgee,@Mic92]
 - [tolkonepiu/best-of-nix](https://github.com/tolkonepiu/best-of-nix) - 🏆  A ranked list of the best resources in the Nix community. Updated weekly.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
-
-## NixOS.25.11
-- [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
 
 ## nixpkgs
 - [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
@@ -1261,7 +1261,6 @@
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositories and doesn't include patches not relevant to the build targets used on GrapheneOS.
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - This is a mirror of https://codeberg.org/fsfe/reuse-tool
 - [unfrl/dug](https://github.com/unfrl/dug) - A global DNS propagation checker that gives pretty output. Written in dotnet core
 - [umap-project/umap](https://github.com/umap-project/umap) - uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site.
@@ -1429,6 +1428,8 @@
 - [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) - A unified NixOS tooling replacement for nixos-* utilities [maintainer=@water-sucks] 
 - [latchset/clevis](https://github.com/latchset/clevis) - Automated Encryption Framework
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [nel0x/syncthing-android](https://github.com/nel0x/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
+- [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) - a flake module to ease creating and managing multiple hosts in your nix flake.
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
@@ -1554,6 +1555,7 @@
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ## work
 - [oeg-upm/devops-infra](https://github.com/oeg-upm/devops-infra) - Public repository for an ontology network on DevOps infrastructure
