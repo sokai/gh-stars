@@ -2948,6 +2948,8 @@
 
 ## others 
 
+- [muhammad23012009/PebbleFirmware](https://github.com/muhammad23012009/PebbleFirmware) - 
+- [conroy-cheers/system-config](https://github.com/conroy-cheers/system-config) - NixOS/home-manager config
 - [songpola/nixos-config](https://github.com/songpola/nixos-config) - 
 - [Turtlecute33/toolz](https://github.com/Turtlecute33/toolz) - A simple and user-friendly website to test and verify your ad-blockers and DNS filters
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
