@@ -809,6 +809,7 @@
 - [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) - a flake module to ease creating and managing multiple hosts in your nix flake.
 - [mariolopjr/infra](https://github.com/mariolopjr/infra) - 
 - [conroy-cheers/system-config](https://github.com/conroy-cheers/system-config) - NixOS/home-manager config
+- [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS + nix-darwin + home-manager configuration in a single flake, while providing a consistent interface at DX and UX level.
 
 ## nix_snowfall
 - [wueestry/nixos-config](https://github.com/wueestry/nixos-config) - Current nixos configuration using snowfall lib as flake structure
@@ -825,7 +826,6 @@
 - [vic/den](https://github.com/vic/den) - Modular, context-aware and aspect-oriented dendritic Nix configurations. Mirror from https://tangled.org/oeiuwq.com/den, Discussions at https://oeiuwq.zulipchat.com/join/nqp26cd4kngon6mo3ncgnuap/
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
 - [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized for development environment, based on nixos-unified. 
-- [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS + nix-darwin + home-manager configuration in a single flake, while providing a consistent interface at DX and UX level.
 - [bzLem0n/periodic](https://github.com/bzLem0n/periodic) - Personal Home-manager and NixOS configurations for the devices on the lem0n.zapto.org network.
 - [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - 
 - [igoutta/nix-frastructure](https://github.com/igoutta/nix-frastructure) - Infrastructure based in nix language with Flakes, using the modularity given by Flakes.parts and import-tree. Currently just for TUF workbook.
@@ -957,7 +957,6 @@
 - [nifoc/dotfiles](https://github.com/nifoc/dotfiles) - Based on nixpkgs, nix-darwin and home-manager
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
 - [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized for development environment, based on nixos-unified. 
-- [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS + nix-darwin + home-manager configuration in a single flake, while providing a consistent interface at DX and UX level.
 - [ourgal/snowfall](https://github.com/ourgal/snowfall) - NixOS dotfiles 
 - [bzLem0n/periodic](https://github.com/bzLem0n/periodic) - Personal Home-manager and NixOS configurations for the devices on the lem0n.zapto.org network.
 - [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - 
