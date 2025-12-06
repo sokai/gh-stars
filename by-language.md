@@ -639,7 +639,7 @@
 
 ## Java 
 
-- [nel0x/syncthing-android](https://github.com/nel0x/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
+- [nel0x/syncthing-android](https://github.com/nel0x/syncthing-android) - Syncthing - A Syncthing Wrapper for Android.
 - [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [0xf104a/NextcloudServices](https://github.com/0xf104a/NextcloudServices) - Android app to send notifications from Nextcloud without using GCM(Google cloud messaging)
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
