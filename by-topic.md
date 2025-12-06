@@ -2948,6 +2948,9 @@
 
 ## others 
 
+- [aveao/PebbleArchive](https://github.com/aveao/PebbleArchive) - Archives of various Pebble related files (as Pebble Technology Corp went bankrupt)
+- [KonradIT/HEROPebble](https://github.com/KonradIT/HEROPebble) - Unofficial GoPro App for Pebble smartwatches
+- [bmacphail/pebblefw](https://github.com/bmacphail/pebblefw) - The ultimate Pebble smartwatch firmware archive
 - [muhammad23012009/PebbleFirmware](https://github.com/muhammad23012009/PebbleFirmware) - 
 - [conroy-cheers/system-config](https://github.com/conroy-cheers/system-config) - NixOS/home-manager config
 - [songpola/nixos-config](https://github.com/songpola/nixos-config) - 
