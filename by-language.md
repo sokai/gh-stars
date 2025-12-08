@@ -1718,6 +1718,8 @@
 
 ## PHP 
 
+- [flatpressblog/flatpress](https://github.com/flatpressblog/flatpress) - FlatPress is a lightweight, easy-to-set-up flat-file blogging engine.
+- [parsedown/parsedown](https://github.com/parsedown/parsedown) - Better Markdown Parser in PHP
 - [paulund/content-markdown](https://github.com/paulund/content-markdown) - Use this to display markdown content on a laravel site.
 - [prezet/prezet](https://github.com/prezet/prezet) - 🚀 Markdown Blogging for Laravel!
 - [jgivoni/flysystem-cache-adapter](https://github.com/jgivoni/flysystem-cache-adapter) - The PSR-6 compliant adapter decorator for Flysystem v3 that caches file metadata to improve performance.
@@ -2873,6 +2875,7 @@
 
 ## TypeScript 
 
+- [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit.
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [antholeole/home-server](https://github.com/antholeole/home-server) - 
