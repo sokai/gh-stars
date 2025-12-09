@@ -199,7 +199,6 @@
 - [coqui-ai/STT](https://github.com/coqui-ai/STT) - 🐸STT - The deep learning toolkit for Speech-to-Text. Training and deploying STT models has never been so easy.
 - [google/lyra](https://github.com/google/lyra) - A Very Low-Bitrate Codec for Speech Compression
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [ckb-next/ckb-next](https://github.com/ckb-next/ckb-next) - RGB Driver for Linux
@@ -563,6 +562,7 @@
 - [nextcloud/cookbook](https://github.com/nextcloud/cookbook) - 🍲 A library for all your recipes
 - [jenil/bulmaswatch](https://github.com/jenil/bulmaswatch) - Themes for Bulma
 - [cutenode/no-boilerplate](https://github.com/cutenode/no-boilerplate) - A no boilerplate website.
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [TriumphLLC/Blend4Web](https://github.com/TriumphLLC/Blend4Web) - Blend4Web is a tool for interactive 3D visualization on the Internet
 - [editdata/awesome-data-ui](https://github.com/editdata/awesome-data-ui) - Open source projects, demos, paid services, etc. that demonstrate approaches to editing & managing data through a user interface.
 - [beoutbreakprepared/nCoV2019](https://github.com/beoutbreakprepared/nCoV2019) - Location for summaries and analysis of data related to n-CoV 2019, first reported in Wuhan, China
@@ -751,7 +751,6 @@
 ## JavaScript 
 
 - [KonradIT/HEROPebble](https://github.com/KonradIT/HEROPebble) - Unofficial GoPro App for Pebble smartwatches
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [mijorus/smile-gnome-extension](https://github.com/mijorus/smile-gnome-extension) - 
 - [Gruntfuggly/todo-tree](https://github.com/Gruntfuggly/todo-tree) - Use ripgrep to find TODO tags and display the results in a tree view
@@ -3072,6 +3071,7 @@
 
 ## Vue 
 
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [sharevb/it-tools](https://github.com/sharevb/it-tools) - My additions (and of others) to it-tools! (Collection of handy online tools for developers, with great UX. )
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
