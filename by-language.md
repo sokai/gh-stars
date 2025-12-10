@@ -299,6 +299,7 @@
 
 ## Dart 
 
+- [traccar/traccar-client](https://github.com/traccar/traccar-client) - Traccar Client app
 - [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) - 🤳🥫 The new Open Food Facts mobile application for Android and iOS, crafted with Flutter and Dart
 - [nucleus-ffm/foss_warn](https://github.com/nucleus-ffm/foss_warn) - An unofficial open source application to get emergency alerts.
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client.
@@ -360,6 +361,7 @@
 
 ## Go 
 
+- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [aceeric/ociregistry](https://github.com/aceeric/ociregistry) - Golang pull-only, pull-through, caching OCI distribution server
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [g0rbe/caddy-crawler](https://github.com/g0rbe/caddy-crawler) - Request Matcher module for Caddy to detect crawlers. Mirror of https://git.gorbe.io/caddy/crawler
@@ -1596,7 +1598,7 @@
 - [LinkSheet/nightly](https://github.com/LinkSheet/nightly) - LinkSheet Nightly Release Repository
 - [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.
 - [restic/others](https://github.com/restic/others) - Exhaustive list of backup solutions for Linux
-- [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nix flake-parts usage pattern in which every Nix file is a flake-parts module
+- [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern in which every Nix file is a top-level module
 - [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report) - Report and track banking app compatibility with GrapheneOS, including which workarounds may be required.
 - [github/GreenSoftwareDirectory](https://github.com/github/GreenSoftwareDirectory) - Welcome to GitHub's Green Software Directory!
 - [voiceroy/mupdf-android-viewer](https://github.com/voiceroy/mupdf-android-viewer) - Android SDK: viewer
@@ -2875,6 +2877,7 @@
 
 ## TypeScript 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit.
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
