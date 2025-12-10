@@ -3214,7 +3214,7 @@
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [nukdokplex/ncaa](https://github.com/nukdokplex/ncaa) - A collection of crap to make my hosts boot and some other prekoldesses
-- [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nix flake-parts usage pattern in which every Nix file is a flake-parts module
+- [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern in which every Nix file is a top-level module
 - [bryanhonof/webtech-compose](https://github.com/bryanhonof/webtech-compose) - 
 - [jfly/snow](https://github.com/jfly/snow) - 
 - [vdbe/infra](https://github.com/vdbe/infra) - 
