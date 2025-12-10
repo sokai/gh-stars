@@ -2610,7 +2610,7 @@
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [milieuim/vaultix](https://github.com/milieuim/vaultix) - Secret managing scheme for NixOS
-- [dvdsk/microbin](https://github.com/dvdsk/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
+- [yara-blue/microbin](https://github.com/yara-blue/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
 - [oddlama/idmail](https://github.com/oddlama/idmail) - An email alias and account management interface for self-hosted mailservers
 - [pipelight/boulette](https://github.com/pipelight/boulette) - A terminal confirmation prompt that prevents you from accidentally damaging remote hosts.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
