@@ -420,6 +420,7 @@
 - [mholt/caddy-dynamicdns](https://github.com/mholt/caddy-dynamicdns) - Caddy app that keeps your DNS records (A/AAAA) pointed at itself.
 - [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - Lan Tian's NixOS Configuration
 - [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit.
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
 
 ## knowledge
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -465,6 +466,7 @@
 - [scidonia/bookwyrm-client](https://github.com/scidonia/bookwyrm-client) - The bookwyrm client library
 - [typemill/typemill](https://github.com/typemill/typemill) - Typemill is a flat-file CMS based on Markdown and designed for informational websites like documentation, manuals, and handbooks.
 - [NatLibFi/Skosmos](https://github.com/NatLibFi/Skosmos) - Thesaurus and controlled vocabulary browser using SKOS and SPARQL
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
 
 ## linux
 - [linuxhw/DMI](https://github.com/linuxhw/DMI) - Collect dmidecode reports and find most popular CPU, RAM and battery
@@ -1497,6 +1499,7 @@
 - [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit.
 - [NatLibFi/Skosmos](https://github.com/NatLibFi/Skosmos) - Thesaurus and controlled vocabulary browser using SKOS and SPARQL
 - [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
@@ -1635,6 +1638,7 @@
 - [8bitsaver/maxmind-geoip](https://github.com/8bitsaver/maxmind-geoip) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 - [parsedown/parsedown](https://github.com/parsedown/parsedown) - Better Markdown Parser in PHP
 - [flatpressblog/flatpress](https://github.com/flatpressblog/flatpress) - FlatPress is a lightweight, easy-to-set-up flat-file blogging engine.
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
 
 ## work
 - [oeg-upm/devops-infra](https://github.com/oeg-upm/devops-infra) - Public repository for an ontology network on DevOps infrastructure
