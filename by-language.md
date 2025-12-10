@@ -1598,7 +1598,7 @@
 - [LinkSheet/nightly](https://github.com/LinkSheet/nightly) - LinkSheet Nightly Release Repository
 - [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.
 - [restic/others](https://github.com/restic/others) - Exhaustive list of backup solutions for Linux
-- [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern in which every Nix file is a top-level module
+- [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
 - [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report) - Report and track banking app compatibility with GrapheneOS, including which workarounds may be required.
 - [github/GreenSoftwareDirectory](https://github.com/github/GreenSoftwareDirectory) - Welcome to GitHub's Green Software Directory!
 - [voiceroy/mupdf-android-viewer](https://github.com/voiceroy/mupdf-android-viewer) - Android SDK: viewer
@@ -2572,6 +2572,7 @@
 
 ## Rust 
 
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [yaxitech/ragenix](https://github.com/yaxitech/ragenix) - age-encrypted secrets for NixOS; drop-in replacement for agenix
