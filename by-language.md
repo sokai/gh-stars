@@ -763,7 +763,6 @@
 - [mjbvz/vscode-markdown-emoji](https://github.com/mjbvz/vscode-markdown-emoji) - VS Code extension that adds support for :emoji: syntax to the built-in markdown preview
 - [compdemocracy/polis](https://github.com/compdemocracy/polis) - :milky_way: Open Source AI for large scale open ended feedback
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
-- [fili/ip.app](https://github.com/fili/ip.app) - The official how-to documentation and code base for the ip.app website.
 - [sapics/ip-location-db](https://github.com/sapics/ip-location-db) - ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
 - [DannyBattison/wp-rss-to-posts](https://github.com/DannyBattison/wp-rss-to-posts) - RSS feed aggregation directly into WP latest posts
 - [metaodi/openerz](https://github.com/metaodi/openerz) - OpenERZ is an open API to the waste collection of many different municipalities in Switzerland (e.g. Zurich, Basel, St. Gallen, Uster, Thalwil, Adliswil, Horgen etc.)
