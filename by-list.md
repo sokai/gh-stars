@@ -785,6 +785,7 @@
 - [etu/nixconfig](https://github.com/etu/nixconfig) - My NixOS config
 - [maeve-oake/nixos-config](https://github.com/maeve-oake/nixos-config) - 
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
+- [numtide/blueprint](https://github.com/numtide/blueprint) - Standard folder structure for Nix projects
 
 ## nix_clan
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
@@ -892,7 +893,6 @@
 - [NixOS/nix-constitutional-assembly](https://github.com/NixOS/nix-constitutional-assembly) - Home of the Nix Constitutional Assembly, there to establish a community-based governance
 - [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) - The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka] 
 - [ad-si/nix-companies](https://github.com/ad-si/nix-companies) - Curated list of companies that use Nix / NixOS in production
-- [numtide/blueprint](https://github.com/numtide/blueprint) - Standard folder structure for Nix projects
 - [ArchiveTeam/terroroftinytown](https://github.com/ArchiveTeam/terroroftinytown) - URLTeam's second generation of URL shortener archiving tools
 - [aciceri/agenix-shell](https://github.com/aciceri/agenix-shell) - 
 - [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) - A unified NixOS tooling replacement for nixos-* utilities [maintainer=@water-sucks] 
