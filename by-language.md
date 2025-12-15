@@ -1317,6 +1317,8 @@
 
 ## Nix 
 
+- [oake/nix-things](https://github.com/oake/nix-things) - 
+- [anna-oake/nixos-config](https://github.com/anna-oake/nixos-config) - 
 - [soulwhisper/nix-config](https://github.com/soulwhisper/nix-config) - 
 - [tiiuae/ghaf](https://github.com/tiiuae/ghaf) - TII SSRC Secure Technologies: Ghaf Framework
 - [olafkfreund/nixos_config](https://github.com/olafkfreund/nixos_config) - My private nixos_config
