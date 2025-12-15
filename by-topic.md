@@ -2970,6 +2970,8 @@
 
 ## others 
 
+- [oake/nix-things](https://github.com/oake/nix-things) - 
+- [anna-oake/nixos-config](https://github.com/anna-oake/nixos-config) - 
 - [parsedown/parsedown](https://github.com/parsedown/parsedown) - Better Markdown Parser in PHP
 - [soulwhisper/nix-config](https://github.com/soulwhisper/nix-config) - 
 - [8bitsaver/maxmind-geoip](https://github.com/8bitsaver/maxmind-geoip) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
