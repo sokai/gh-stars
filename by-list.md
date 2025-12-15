@@ -22,6 +22,7 @@
 - [nix_clan](#nix_clan)
 - [nix_den](#nix_den)
 - [nix_denix](#nix_denix)
+- [nix_hjem](#nix_hjem)
 - [nix_nix](#nix_nix)
 - [nix_parts](#nix_parts)
 - [nix_snowfall](#nix_snowfall)
@@ -788,6 +789,7 @@
 - [numtide/blueprint](https://github.com/numtide/blueprint) - Standard folder structure for Nix projects
 - [anna-oake/nixos-config](https://github.com/anna-oake/nixos-config) - 
 - [oake/nix-things](https://github.com/oake/nix-things) - 
+- [christoph00/nixcfg](https://github.com/christoph00/nixcfg) - 
 
 ## nix_clan
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
@@ -806,6 +808,9 @@
 - [mzonski/nixos-config](https://github.com/mzonski/nixos-config) - 
 - [songpola/nixos-config](https://github.com/songpola/nixos-config) - 
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
+
+## nix_hjem
+- [christoph00/nixcfg](https://github.com/christoph00/nixcfg) - 
 
 ## nix_nix
 - [Krutonium/NewNix](https://github.com/Krutonium/NewNix) - The latest version of my NixOS config, re-written.
