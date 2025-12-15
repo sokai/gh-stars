@@ -786,6 +786,8 @@
 - [maeve-oake/nixos-config](https://github.com/maeve-oake/nixos-config) - 
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [numtide/blueprint](https://github.com/numtide/blueprint) - Standard folder structure for Nix projects
+- [anna-oake/nixos-config](https://github.com/anna-oake/nixos-config) - 
+- [oake/nix-things](https://github.com/oake/nix-things) - 
 
 ## nix_clan
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
