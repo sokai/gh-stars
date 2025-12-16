@@ -719,6 +719,7 @@
 
 ## cli 
 
+- [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [JayanAXHF/filessh](https://github.com/JayanAXHF/filessh) - A fast and convenient TUI file browser for remote servers
 - [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu
@@ -2971,6 +2972,11 @@
 
 ## others 
 
+- [anialic/nixy](https://github.com/anialic/nixy) - Nixy, a minimal NixOS/Darwin/Home Manager framework
+- [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
+- [cid-chan/urknall](https://github.com/cid-chan/urknall) - Nix Module System for Infrastructure Provisioning
+- [Codys-Wright/nix-config](https://github.com/Codys-Wright/nix-config) - 
+- [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
 - [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 - [oake/nix-things](https://github.com/oake/nix-things) - 
 - [anna-oake/nixos-config](https://github.com/anna-oake/nixos-config) - 
