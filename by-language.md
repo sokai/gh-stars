@@ -1317,6 +1317,7 @@
 
 ## Nix 
 
+- [anialic/nixy](https://github.com/anialic/nixy) - Nixy, a minimal NixOS/Darwin/Home Manager framework
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [cid-chan/urknall](https://github.com/cid-chan/urknall) - Nix Module System for Infrastructure Provisioning
 - [Codys-Wright/nix-config](https://github.com/Codys-Wright/nix-config) - 
