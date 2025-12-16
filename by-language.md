@@ -360,6 +360,7 @@
 
 ## Go 
 
+- [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [aceeric/ociregistry](https://github.com/aceeric/ociregistry) - Golang pull-only, pull-through, caching OCI distribution server
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
@@ -1316,6 +1317,7 @@
 
 ## Nix 
 
+- [niksingh710/ndots](https://github.com/niksingh710/ndots) - NixOs/Nix Config using flake (flake-parts).
 - [oake/nix-things](https://github.com/oake/nix-things) - 
 - [anna-oake/nixos-config](https://github.com/anna-oake/nixos-config) - 
 - [soulwhisper/nix-config](https://github.com/soulwhisper/nix-config) - 
