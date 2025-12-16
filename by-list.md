@@ -587,7 +587,6 @@
 
 ## mirror
 - [kevle1/windows-telemetry-blocklist](https://github.com/kevle1/windows-telemetry-blocklist) - Blocks outgoing Windows telemetry, compatible with Pi-Hole. 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations 
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 - [NixOS/flake-compat](https://github.com/NixOS/flake-compat) - 
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
@@ -809,6 +808,7 @@
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 - [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
 - [getchoo/froyo](https://github.com/getchoo/froyo) - 🍨 A tasteful way to organize your Nix code
+- [Codys-Wright/nix-config](https://github.com/Codys-Wright/nix-config) - 
 
 ## nix_hjem
 - [christoph00/nixcfg](https://github.com/christoph00/nixcfg) - 
@@ -867,6 +867,7 @@
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
 - [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - 
 - [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations 
 
 ## nix_snowfall
 - [wueestry/nixos-config](https://github.com/wueestry/nixos-config) - Current nixos configuration using snowfall lib as flake structure
@@ -902,6 +903,7 @@
 - [olafkfreund/nixos_config](https://github.com/olafkfreund/nixos_config) - My private nixos_config
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [cid-chan/urknall](https://github.com/cid-chan/urknall) - Nix Module System for Infrastructure Provisioning
 
 ## NixOS
 - [NixOS/nix-constitutional-assembly](https://github.com/NixOS/nix-constitutional-assembly) - Home of the Nix Constitutional Assembly, there to establish a community-based governance
@@ -912,7 +914,6 @@
 - [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) - A unified NixOS tooling replacement for nixos-* utilities [maintainer=@water-sucks] 
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [jakehamilton/jakehamilton.dev](https://github.com/jakehamilton/jakehamilton.dev) - 
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations 
 - [redhat-performance/tuned](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) - Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
