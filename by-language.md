@@ -1317,6 +1317,9 @@
 
 ## Nix 
 
+- [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
+- [cid-chan/urknall](https://github.com/cid-chan/urknall) - Nix Module System for Infrastructure Provisioning
+- [Codys-Wright/nix-config](https://github.com/Codys-Wright/nix-config) - 
 - [niksingh710/ndots](https://github.com/niksingh710/ndots) - NixOs/Nix Config using flake (flake-parts).
 - [oake/nix-things](https://github.com/oake/nix-things) - 
 - [anna-oake/nixos-config](https://github.com/anna-oake/nixos-config) - 
@@ -2574,6 +2577,7 @@
 
 ## Rust 
 
+- [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
