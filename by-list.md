@@ -316,7 +316,6 @@
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267
 - [shizunge/endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh (SSH tarpit) exporting Prometheus metrics, visualized by a Grafana dashboard.
-- [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
 - [milieuim/vaultix](https://github.com/milieuim/vaultix) - Secret managing scheme for NixOS
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
@@ -543,7 +542,6 @@
 - [caddy-dns/hetzner](https://github.com/caddy-dns/hetzner) - Caddy module: dns.providers.hetzner
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [boffbowsh/nix-lancache](https://github.com/boffbowsh/nix-lancache) - A Flake for running LanCache.net on NixOS
-- [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [BoidCMS/BoidCMS](https://github.com/BoidCMS/BoidCMS) - Flat file CMS for building simple websites and blogs
@@ -780,6 +778,7 @@
 - [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 
 ## nix_blueprint
 - [OsiPog/nix-config](https://github.com/OsiPog/nix-config) - NixOS configurations for all of my systems
@@ -874,6 +873,7 @@
 - [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations 
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
+- [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
 
 ## nix_snowfall
 - [wueestry/nixos-config](https://github.com/wueestry/nixos-config) - Current nixos configuration using snowfall lib as flake structure
@@ -982,7 +982,6 @@
 - [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs
 - [boffbowsh/nix-lancache](https://github.com/boffbowsh/nix-lancache) - A Flake for running LanCache.net on NixOS
 - [shizunge/endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh (SSH tarpit) exporting Prometheus metrics, visualized by a Grafana dashboard.
-- [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [brainhivenl/steiger](https://github.com/brainhivenl/steiger) - High-performance container build orchestrator with native Bazel, Nix and Docker BuildKit
 - [nix-community/flakelight](https://github.com/nix-community/flakelight) - Framework for simplifying flake setup [maintainer=@accelbread]
@@ -1032,6 +1031,7 @@
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 
 ## nixpkgs
 - [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
@@ -1067,6 +1067,7 @@
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
+- [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
 
 ## personal
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
@@ -1396,7 +1397,6 @@
 - [wellWINeo/nix-anysync](https://github.com/wellWINeo/nix-anysync) - Any-Sync NixOS flake
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap/34267
 - [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
-- [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [UrAvgCode/Chooser](https://github.com/UrAvgCode/Chooser) - An Android app to randomly select fingers on the screen
 - [brainhivenl/steiger](https://github.com/brainhivenl/steiger) - High-performance container build orchestrator with native Bazel, Nix and Docker BuildKit
@@ -1536,6 +1536,7 @@
 - [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
