@@ -585,6 +585,7 @@
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
+- [suderman/deterministic-ssh-keygen](https://github.com/suderman/deterministic-ssh-keygen) - 
 
 ## mirror
 - [kevle1/windows-telemetry-blocklist](https://github.com/kevle1/windows-telemetry-blocklist) - Blocks outgoing Windows telemetry, compatible with Pi-Hole. 
@@ -913,6 +914,7 @@
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [cid-chan/urknall](https://github.com/cid-chan/urknall) - Nix Module System for Infrastructure Provisioning
+- [suderman/deterministic-ssh-keygen](https://github.com/suderman/deterministic-ssh-keygen) - 
 
 ## NixOS
 - [NixOS/nix-constitutional-assembly](https://github.com/NixOS/nix-constitutional-assembly) - Home of the Nix Constitutional Assembly, there to establish a community-based governance
@@ -1542,6 +1544,7 @@
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
+- [suderman/deterministic-ssh-keygen](https://github.com/suderman/deterministic-ssh-keygen) - 
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
