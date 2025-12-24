@@ -1038,6 +1038,7 @@
 - [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
+- [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
 
 ## nixpkgs
 - [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
