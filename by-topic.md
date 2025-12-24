@@ -2980,6 +2980,7 @@
 
 ## others 
 
+- [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
 - [suderman/deterministic-ssh-keygen](https://github.com/suderman/deterministic-ssh-keygen) - 
 - [anialic/nixy](https://github.com/anialic/nixy) - Nixy, a minimal NixOS/Darwin/Home Manager framework
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
