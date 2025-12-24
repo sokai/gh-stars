@@ -1318,6 +1318,7 @@
 
 ## Nix 
 
+- [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
 - [anialic/nixy](https://github.com/anialic/nixy) - Nixy, a minimal NixOS/Darwin/Home Manager framework
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [cid-chan/urknall](https://github.com/cid-chan/urknall) - Nix Module System for Infrastructure Provisioning
