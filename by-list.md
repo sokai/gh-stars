@@ -1039,6 +1039,7 @@
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
+- [cyberus-ctrl-os/nixpkgs](https://github.com/cyberus-ctrl-os/nixpkgs) - CTRL-OS LTS Branches of Nixpkgs/NixOS
 
 ## nixpkgs
 - [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
@@ -1076,6 +1077,7 @@
 - [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
 - [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
+- [cyberus-ctrl-os/nixpkgs](https://github.com/cyberus-ctrl-os/nixpkgs) - CTRL-OS LTS Branches of Nixpkgs/NixOS
 
 ## personal
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
