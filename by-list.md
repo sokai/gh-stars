@@ -365,7 +365,7 @@
 - [webtui/webtui](https://github.com/webtui/webtui) - 
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
-- [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
+- [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My entire infrastructure and computing environment.
 - [vic/dendrix](https://github.com/vic/dendrix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern. Mirror from https://tangled.org/oeiuwq.com/dendrix. Discussions at https://oeiuwq.zulipchat.com/join/nqp26cd4kngon6mo3ncgnuap/ 
 - [vic/den](https://github.com/vic/den) - Modular, context-aware and aspect-oriented dendritic Nix configurations.
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@ma27]
@@ -748,7 +748,7 @@
 - [olafkfreund/nixos-template](https://github.com/olafkfreund/nixos-template) - A  template to start  you nixos journey.
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
-- [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
+- [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My entire infrastructure and computing environment.
 - [vic/dendrix](https://github.com/vic/dendrix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern. Mirror from https://tangled.org/oeiuwq.com/dendrix. Discussions at https://oeiuwq.zulipchat.com/join/nqp26cd4kngon6mo3ncgnuap/ 
 - [vic/den](https://github.com/vic/den) - Modular, context-aware and aspect-oriented dendritic Nix configurations.
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@ma27]
@@ -887,7 +887,7 @@
 - [PrimaMateria/nixos-hive](https://github.com/PrimaMateria/nixos-hive) - PrimaMateria's NixOS configuration
 - [ethnt/e10](https://github.com/ethnt/e10) - Personal fleet of machines deployed by Nix
 - [olafkfreund/nixos-template](https://github.com/olafkfreund/nixos-template) - A  template to start  you nixos journey.
-- [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
+- [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My entire infrastructure and computing environment.
 - [vic/dendrix](https://github.com/vic/dendrix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern. Mirror from https://tangled.org/oeiuwq.com/dendrix. Discussions at https://oeiuwq.zulipchat.com/join/nqp26cd4kngon6mo3ncgnuap/ 
 - [drupol/infra](https://github.com/drupol/infra) - Contains the configuration of every home computers
 - [tomasharkema/nix-config](https://github.com/tomasharkema/nix-config) - 
@@ -1014,7 +1014,7 @@
 - [hedgedoc/cli](https://github.com/hedgedoc/cli) - A tiny CLI for HedgeDoc
 - [olafkfreund/nixos-template](https://github.com/olafkfreund/nixos-template) - A  template to start  you nixos journey.
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server
-- [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
+- [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My entire infrastructure and computing environment.
 - [vic/dendrix](https://github.com/vic/dendrix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern. Mirror from https://tangled.org/oeiuwq.com/dendrix. Discussions at https://oeiuwq.zulipchat.com/join/nqp26cd4kngon6mo3ncgnuap/ 
 - [drupol/infra](https://github.com/drupol/infra) - Contains the configuration of every home computers
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@ma27]
