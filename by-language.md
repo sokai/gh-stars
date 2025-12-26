@@ -1334,7 +1334,6 @@
 - [conroy-cheers/system-config](https://github.com/conroy-cheers/system-config) - NixOS/home-manager config
 - [songpola/nixos-config](https://github.com/songpola/nixos-config) - 
 - [joshprk/flake](https://github.com/joshprk/flake) - Personal NixOS system configuration
-- [felinefyi/nix-public](https://github.com/felinefyi/nix-public) - 
 - [mzonski/nixos-config](https://github.com/mzonski/nixos-config) - 
 - [maeve-oake/nixos-config](https://github.com/maeve-oake/nixos-config) - 
 - [tbaumann/nix-conf](https://github.com/tbaumann/nix-conf) - My nix config
