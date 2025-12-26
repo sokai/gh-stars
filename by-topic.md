@@ -3072,7 +3072,6 @@
 - [sini/nix-config](https://github.com/sini/nix-config) - NixOS Configuration
 - [tomas/skel.css](https://github.com/tomas/skel.css) - A reworked version of the Skeleton CSS boilerplate.
 - [dvicory/homelab](https://github.com/dvicory/homelab) - 
-- [Maka-77x/nix-test](https://github.com/Maka-77x/nix-test) - 
 - [nohello-net/site](https://github.com/nohello-net/site) - 
 - [Petro31/a-file-logger](https://github.com/Petro31/a-file-logger) - Brings home-assistant.log back in the config folder
 - [scripting/feedlandInstall](https://github.com/scripting/feedlandInstall) - Instructions for setting up a FeedLand server.
