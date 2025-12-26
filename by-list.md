@@ -827,7 +827,6 @@
 - [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
 - [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - It’s not “just dotfiles” - it's extreme modularity that looks and feels like a NixOS flake. It's Voice-driven DevOps, it's a declarative home automation system, it's a self-contained auto-documenting monster.
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
-- [felinefyi/nix-public](https://github.com/felinefyi/nix-public) - 
 - [eh8/chenglab](https://github.com/eh8/chenglab) - a straightforward NixOS setup for my homelab and personal computers
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [anialic/nixy](https://github.com/anialic/nixy) - Nixy, a minimal NixOS/Darwin/Home Manager framework
