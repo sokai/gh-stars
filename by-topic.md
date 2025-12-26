@@ -3013,7 +3013,6 @@
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [joshprk/flake](https://github.com/joshprk/flake) - Personal NixOS system configuration
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
-- [felinefyi/nix-public](https://github.com/felinefyi/nix-public) - 
 - [wg-lux/luxnix](https://github.com/wg-lux/luxnix) - 
 - [mzonski/nixos-config](https://github.com/mzonski/nixos-config) - 
 - [scidonia/bookwyrm-client](https://github.com/scidonia/bookwyrm-client) - The bookwyrm client library
