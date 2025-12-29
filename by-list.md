@@ -84,6 +84,7 @@
 - [nel0x/syncthing-android](https://github.com/nel0x/syncthing-android) - Syncthing - A Syncthing Wrapper for Android.
 - [traccar/traccar-client](https://github.com/traccar/traccar-client) - Traccar Client app
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [linkwarden/builds](https://github.com/linkwarden/builds) - Official release builds for Linkwarden.
 
 ## awesome
 - [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
@@ -472,6 +473,7 @@
 - [typemill/typemill](https://github.com/typemill/typemill) - Typemill is a flat-file CMS based on Markdown and designed for informational websites like documentation, manuals, and handbooks.
 - [NatLibFi/Skosmos](https://github.com/NatLibFi/Skosmos) - Thesaurus and controlled vocabulary browser using SKOS and SPARQL
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
+- [linkwarden/builds](https://github.com/linkwarden/builds) - Official release builds for Linkwarden.
 
 ## linux
 - [linuxhw/DMI](https://github.com/linuxhw/DMI) - Collect dmidecode reports and find most popular CPU, RAM and battery
@@ -1206,6 +1208,7 @@
 - [nel0x/syncthing-android](https://github.com/nel0x/syncthing-android) - Syncthing - A Syncthing Wrapper for Android.
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [linkwarden/builds](https://github.com/linkwarden/builds) - Official release builds for Linkwarden.
 
 ## security
 - [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
