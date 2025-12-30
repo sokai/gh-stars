@@ -878,7 +878,7 @@
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
 - [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - 
 - [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations 
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - my over complex system configurations 
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
 - [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
 
