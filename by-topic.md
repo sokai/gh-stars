@@ -1268,7 +1268,7 @@
 - [hmajid2301/nixicle](https://github.com/hmajid2301/nixicle) - My dotfiles always changing 🙈
 - [getchoo/borealis](https://github.com/getchoo/borealis) - 🚢 my dotfiles, nix configurations, and personal infra
 - [jpetrucciani/nix](https://github.com/jpetrucciani/nix) - ❄️ my nix modules, overlays, host configurations, and more!
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - my over complex system configurations
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 - [felschr/nixos-config](https://github.com/felschr/nixos-config) - Mirror of my NixOS configuration
 - [abehidek/nix-config](https://github.com/abehidek/nix-config) - System, packages and dev shells configured using Nix, NixOS and nixpkgs
@@ -1741,7 +1741,7 @@
 - [home-assistant/android](https://github.com/home-assistant/android) - Home Assistant Companion for Android
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - my over complex system configurations
 - [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) - Opinionated, integrated and shared NixOS modules
 - [simPod/GrafanaJsonDatasource](https://github.com/simPod/GrafanaJsonDatasource) - Grafana datasource to load JSON data over your arbitrary HTTP backend
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
@@ -2464,7 +2464,7 @@
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping) - Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
 - [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
 - [TheAlexDev23/power-options](https://github.com/TheAlexDev23/power-options) - Most feature-complete Linux GUI power management solution.
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - my over complex system configurations
 - [fndov/nixedit](https://github.com/fndov/nixedit) - NixOS Multipurpose CLI/TUI Utility
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
