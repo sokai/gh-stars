@@ -3023,7 +3023,7 @@
 - [scidonia/bookwyrm-client](https://github.com/scidonia/bookwyrm-client) - The bookwyrm client library
 - [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
 - [phpnuke/phpnuke](https://github.com/phpnuke/phpnuke) - PHP-Nuke is a web-based automated news publishing and content management system based on PHP and MySQL.
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [maeve-oake/nixos-config](https://github.com/maeve-oake/nixos-config) - 
 - [tbaumann/nix-conf](https://github.com/tbaumann/nix-conf) - My nix config
 - [nezia1/flocon](https://github.com/nezia1/flocon) - my nixos system configuration (mirrored from my private forgejo instance)
