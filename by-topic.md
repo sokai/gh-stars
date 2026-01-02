@@ -1562,6 +1562,7 @@
 
 ## go 
 
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [georgyo/ifconfig.io](https://github.com/georgyo/ifconfig.io) - 
@@ -4478,6 +4479,7 @@
 
 ## php 
 
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [flatpressblog/flatpress](https://github.com/flatpressblog/flatpress) - FlatPress is a lightweight, easy-to-set-up flat-file blogging engine.
 - [Dolibarr/dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web applicat
 - [spatie/laravel-feed](https://github.com/spatie/laravel-feed) - Easily generate RSS feeds
