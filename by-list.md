@@ -904,6 +904,7 @@
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [wg-lux/luxnix](https://github.com/wg-lux/luxnix) - 
+- [quaoz/flake](https://github.com/quaoz/flake) - 
 
 ## nix_unified
 - [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized for development environment, based on nixos-unified. 
@@ -1561,6 +1562,7 @@
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
+- [splitbrain/php-ico](https://github.com/splitbrain/php-ico) - PHP ICO - The PHP ICO Generator
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
@@ -1706,6 +1708,7 @@
 - [yara-blue/microbin](https://github.com/yara-blue/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
+- [splitbrain/php-ico](https://github.com/splitbrain/php-ico) - PHP ICO - The PHP ICO Generator
 
 ## work
 - [oeg-upm/devops-infra](https://github.com/oeg-upm/devops-infra) - Public repository for an ontology network on DevOps infrastructure
