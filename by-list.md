@@ -428,6 +428,7 @@
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [numtide/nix-auth](https://github.com/numtide/nix-auth) - Nix access-token management tool
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
+- [Platonic-Systems/secrix](https://github.com/Platonic-Systems/secrix) - 
 
 ## knowledge
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -789,6 +790,7 @@
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
+- [Platonic-Systems/secrix](https://github.com/Platonic-Systems/secrix) - 
 
 ## nix_blueprint
 - [OsiPog/nix-config](https://github.com/OsiPog/nix-config) - NixOS configurations for all of my systems
@@ -1043,6 +1045,7 @@
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
 - [cyberus-ctrl-os/nixpkgs](https://github.com/cyberus-ctrl-os/nixpkgs) - CTRL-OS LTS Branches of Nixpkgs/NixOS
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
+- [Platonic-Systems/secrix](https://github.com/Platonic-Systems/secrix) - 
 
 ## nixpkgs
 - [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
