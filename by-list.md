@@ -427,6 +427,7 @@
 - [evcc-io/hassio-addon](https://github.com/evcc-io/hassio-addon) - Hass.io add-on for EVCC
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [numtide/nix-auth](https://github.com/numtide/nix-auth) - Nix access-token management tool
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 
 ## knowledge
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -590,6 +591,7 @@
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [suderman/deterministic-ssh-keygen](https://github.com/suderman/deterministic-ssh-keygen) - 
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 
 ## mirror
 - [kevle1/windows-telemetry-blocklist](https://github.com/kevle1/windows-telemetry-blocklist) - Blocks outgoing Windows telemetry, compatible with Pi-Hole. 
@@ -1080,6 +1082,7 @@
 - [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [cyberus-ctrl-os/nixpkgs](https://github.com/cyberus-ctrl-os/nixpkgs) - CTRL-OS LTS Branches of Nixpkgs/NixOS
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 
 ## personal
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
@@ -1554,6 +1557,7 @@
 - [suderman/deterministic-ssh-keygen](https://github.com/suderman/deterministic-ssh-keygen) - 
 - [yara-blue/microbin](https://github.com/yara-blue/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
@@ -1697,6 +1701,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [php-feed-io/feed-io](https://github.com/php-feed-io/feed-io) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
 - [yara-blue/microbin](https://github.com/yara-blue/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 
 ## work
 - [oeg-upm/devops-infra](https://github.com/oeg-upm/devops-infra) - Public repository for an ontology network on DevOps infrastructure
