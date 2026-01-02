@@ -3443,7 +3443,6 @@
 - [germanztz/gnome-shell-extension-rclone-manager](https://github.com/germanztz/gnome-shell-extension-rclone-manager) - Is like Dropbox sync client but for more than 30 services, adds an indicator to the top panel so you can manage the rclone profiles configured in your system, perform operations such as mount as remot
 - [jcwillox/hass-auto-backup](https://github.com/jcwillox/hass-auto-backup) - 🗃️ Improved Backup Service for Home Assistant that can Automatically Remove Backups and Supports Generational Backup Schemes.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [secshellnet/nixos](https://github.com/secshellnet/nixos) - NixOS flake for servers
 - [LGUG2Z/nixos-wsl-starter](https://github.com/LGUG2Z/nixos-wsl-starter) - A sane, batteries-included starter template for running NixOS on WSL
 - [EmergentMind/nix-config](https://github.com/EmergentMind/nix-config) - A continually evolving multi-user, multi-host NixOS configuration.
 - [tweag/genealogos](https://github.com/tweag/genealogos) - Genealogos, a Nix sbom generator
