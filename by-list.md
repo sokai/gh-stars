@@ -838,6 +838,7 @@
 - [eh8/chenglab](https://github.com/eh8/chenglab) - a straightforward NixOS setup for my homelab and personal computers
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [anialic/nixy](https://github.com/anialic/nixy) - Nixy, a minimal NixOS/Darwin/Home Manager framework
+- [darkone-linux/darkone-nixos-framework](https://github.com/darkone-linux/darkone-nixos-framework) - A multi-user, multi-host, multi-network NixOS configuration framework.
 
 ## nix_parts
 - [polarmutex/nix-config](https://github.com/polarmutex/nix-config) - nix dotfiles for nixos and userspace
@@ -886,6 +887,7 @@
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - my over complex system configurations 
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
 - [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
+- [chadac/nix-config-modules](https://github.com/chadac/nix-config-modules) - Flake modules for multi-host joint NixOS + home-manager configs
 
 ## nix_snowfall
 - [wueestry/nixos-config](https://github.com/wueestry/nixos-config) - Current nixos configuration using snowfall lib as flake structure
@@ -923,6 +925,7 @@
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [cid-chan/urknall](https://github.com/cid-chan/urknall) - Nix Module System for Infrastructure Provisioning
 - [suderman/deterministic-ssh-keygen](https://github.com/suderman/deterministic-ssh-keygen) - 
+- [0xCCF4/noxa](https://github.com/0xCCF4/noxa) - Management tool for a multi-host NixOS configuration
 
 ## NixOS
 - [NixOS/nix-constitutional-assembly](https://github.com/NixOS/nix-constitutional-assembly) - Home of the Nix Constitutional Assembly, there to establish a community-based governance
@@ -1565,6 +1568,9 @@
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
 - [splitbrain/php-ico](https://github.com/splitbrain/php-ico) - PHP ICO - The PHP ICO Generator
+- [0xCCF4/noxa](https://github.com/0xCCF4/noxa) - Management tool for a multi-host NixOS configuration
+- [chadac/nix-config-modules](https://github.com/chadac/nix-config-modules) - Flake modules for multi-host joint NixOS + home-manager configs
+- [darkone-linux/darkone-nixos-framework](https://github.com/darkone-linux/darkone-nixos-framework) - A multi-user, multi-host, multi-network NixOS configuration framework.
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
