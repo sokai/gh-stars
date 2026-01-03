@@ -1789,7 +1789,7 @@
 - [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [astro/nix-openwrt-imagebuilder](https://github.com/astro/nix-openwrt-imagebuilder) - Build OpenWRT images in Nix derivations
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [notthebee/nix-config](https://github.com/notthebee/nix-config) - Configuration files for my NixOS and nix-darwin machines. Moved to https://git.notthebe.ee/notthebee/nix-config
 - [vpsfreecz/vpsadminos](https://github.com/vpsfreecz/vpsadminos) - Host for Linux system containers based on NixOS, ZFS and LXC
 - [reckenrode/nixos-configs](https://github.com/reckenrode/nixos-configs) - My NixOS and nix-darwin configs
