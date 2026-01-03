@@ -2347,6 +2347,7 @@
 
 ## Python 
 
+- [christiaangoossens/hass-oidc-auth](https://github.com/christiaangoossens/hass-oidc-auth) - OpenID Connect authentication provider for Home Assistant
 - [suderman/deterministic-ssh-keygen](https://github.com/suderman/deterministic-ssh-keygen) - 
 - [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 - [scidonia/bookwyrm-client](https://github.com/scidonia/bookwyrm-client) - The bookwyrm client library
@@ -2428,7 +2429,7 @@
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [jonlabelle/docker-network-tools](https://github.com/jonlabelle/docker-network-tools) - A Docker image with various network tools pre-installed.
 - [thorstenMueller/Thorsten-Voice](https://github.com/thorstenMueller/Thorsten-Voice) - Thorsten-Voice: A free to use, offline working, high quality german TTS voice should be available for every project without any license struggling.
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
