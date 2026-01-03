@@ -2988,6 +2988,8 @@
 
 ## others 
 
+- [chadac/nix-config-modules](https://github.com/chadac/nix-config-modules) - Flake modules for multi-host joint NixOS + home-manager configs
+- [0xCCF4/noxa](https://github.com/0xCCF4/noxa) - Management tool for a multi-host NixOS configuration
 - [splitbrain/php-ico](https://github.com/splitbrain/php-ico) - PHP ICO - The PHP ICO Generator
 - [Platonic-Systems/secrix](https://github.com/Platonic-Systems/secrix) - 
 - [linkwarden/builds](https://github.com/linkwarden/builds) - Official release builds for Linkwarden.
