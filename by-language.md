@@ -1015,7 +1015,7 @@
 - [douglascrockford/JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript
 - [dollarshaveclub/reframe.js](https://github.com/dollarshaveclub/reframe.js) - 🖼  Reframe unresponsive elements responsively.
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. New development has moved to Wami https://github.com/wekan/wami . Non-English translations at https://app.transifex.com/wekan/wekan only.
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. New English strings for new features at imports/i18n/data/en.i18n.json . Non-English translations at https://app.transifex.com/wekan/wekan only.
 - [dkniffin/webtrees-openstreetmap](https://github.com/dkniffin/webtrees-openstreetmap) - Openstreetmap plugin for webtrees
 - [caspg/datamaps.co](https://github.com/caspg/datamaps.co) - Datamaps.co is a free and simple platform for creating visualizations with data maps.
 - [jackmoore/colorbox](https://github.com/jackmoore/colorbox) - A light-weight, customizable lightbox plugin for jQuery
