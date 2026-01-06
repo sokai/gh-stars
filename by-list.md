@@ -1051,6 +1051,7 @@
 - [cyberus-ctrl-os/nixpkgs](https://github.com/cyberus-ctrl-os/nixpkgs) - CTRL-OS LTS Branches of Nixpkgs/NixOS
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [Platonic-Systems/secrix](https://github.com/Platonic-Systems/secrix) - 
+- [hustlerone/Snork](https://github.com/hustlerone/Snork) - NixOS configuration framework that doesn't suck.
 
 ## nixpkgs
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
