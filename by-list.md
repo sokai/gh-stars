@@ -842,6 +842,7 @@
 - [anialic/nixy](https://github.com/anialic/nixy) - Nixy, a minimal NixOS/Darwin/Home Manager framework
 - [darkone-linux/darkone-nixos-framework](https://github.com/darkone-linux/darkone-nixos-framework) - A multi-user, multi-host, multi-network NixOS configuration framework.
 - [adisbladis/adios](https://github.com/adisbladis/adios) - 
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 
 ## nix_parts
 - [polarmutex/nix-config](https://github.com/polarmutex/nix-config) - nix dotfiles for nixos and userspace
