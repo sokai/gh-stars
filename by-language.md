@@ -1321,6 +1321,7 @@
 
 ## Nix 
 
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOS deployments of DD-IX
 - [numtide/nixos-passthru-cache](https://github.com/numtide/nixos-passthru-cache) - Create a copy of https://cache.nixos.org for your infrastructure
 - [adisbladis/adios](https://github.com/adisbladis/adios) - 
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
