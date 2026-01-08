@@ -755,6 +755,7 @@
 
 ## JavaScript 
 
+- [Sanjai-Shaarugesh/Advanced-Weather-Companion](https://github.com/Sanjai-Shaarugesh/Advanced-Weather-Companion) - Advanced Weather is a feature-rich GNOME Shell extension that provides detailed and customizable weather information right on your desktop. With support for multiple locations, advanced forecasting, a
 - [KonradIT/HEROPebble](https://github.com/KonradIT/HEROPebble) - Unofficial GoPro App for Pebble smartwatches
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [mijorus/smile-gnome-extension](https://github.com/mijorus/smile-gnome-extension) - 
@@ -1320,6 +1321,7 @@
 
 ## Nix 
 
+- [numtide/nixos-passthru-cache](https://github.com/numtide/nixos-passthru-cache) - Create a copy of https://cache.nixos.org for your infrastructure
 - [adisbladis/adios](https://github.com/adisbladis/adios) - 
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [hustlerone/Snork](https://github.com/hustlerone/Snork) - NixOS configuration framework that doesn't suck.
