@@ -27,12 +27,12 @@
 - [nix_snowfall](#nix_snowfall)
 - [nix_unified](#nix_unified)
 - [nix_utils](#nix_utils)
-- [NixOS](#nixos)
+- [nixos](#nixos)
+- [nixos_module](#nixos_module)
 - [nixpkgs](#nixpkgs)
 - [personal](#personal)
 - [security](#security)
 - [smarthome](#smarthome)
-- [todo](#todo)
 - [tools](#tools)
 - [webdev](#webdev)
 - [work](#work)
@@ -122,6 +122,7 @@
 - [quodlibet/quodlibet](https://github.com/quodlibet/quodlibet) - Music player and music library manager for Linux, Windows, and macOS
 - [andrzej-az/cpupower4](https://github.com/andrzej-az/cpupower4) - 
 - [catppuccin/cursors](https://github.com/catppuccin/cursors) - 🐁 Soothing pastel cursors for GTK/Plasma/Hyprland
+- [Sanjai-Shaarugesh/Advanced-Weather-Companion](https://github.com/Sanjai-Shaarugesh/Advanced-Weather-Companion) - Advanced Weather is a feature-rich GNOME Shell extension that provides detailed and customizable weather information right on your desktop. With support for multiple locations, advanced forecasting, and beautiful visualizations, this extension transforms how you interact with weather data.
 
 ## dev
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -433,6 +434,9 @@
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [numtide/nixos-passthru-cache](https://github.com/numtide/nixos-passthru-cache) - Create a copy of https://cache.nixos.org for your infrastructure
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
+- [bpruitt-goddard/vscode-mermaid-syntax-highlight](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight) - Markdown syntax support for the Mermaid charting language
+- [devhawk/vscode-markdown-sup](https://github.com/devhawk/vscode-markdown-sup) - 
+- [Janik-Haag/NixOS-DNS](https://github.com/Janik-Haag/NixOS-DNS) - Manage your dns zones with NixOS
 
 ## knowledge
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -798,6 +802,7 @@
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [numtide/nixos-passthru-cache](https://github.com/numtide/nixos-passthru-cache) - Create a copy of https://cache.nixos.org for your infrastructure
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
+- [Janik-Haag/NixOS-DNS](https://github.com/Janik-Haag/NixOS-DNS) - Manage your dns zones with NixOS
 
 ## nix_blueprint
 - [OsiPog/nix-config](https://github.com/OsiPog/nix-config) - NixOS configurations for all of my systems
@@ -939,7 +944,7 @@
 - [suderman/deterministic-ssh-keygen](https://github.com/suderman/deterministic-ssh-keygen) - 
 - [0xCCF4/noxa](https://github.com/0xCCF4/noxa) - Management tool for a multi-host NixOS configuration
 
-## NixOS
+## nixos
 - [NixOS/nix-constitutional-assembly](https://github.com/NixOS/nix-constitutional-assembly) - Home of the Nix Constitutional Assembly, there to establish a community-based governance
 - [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) - The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka] 
 - [ad-si/nix-companies](https://github.com/ad-si/nix-companies) - Curated list of companies that use Nix / NixOS in production
@@ -1064,6 +1069,9 @@
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [Platonic-Systems/secrix](https://github.com/Platonic-Systems/secrix) - 
 - [hustlerone/Snork](https://github.com/hustlerone/Snork) - NixOS configuration framework that doesn't suck.
+
+## nixos_module
+- [Janik-Haag/NixOS-DNS](https://github.com/Janik-Haag/NixOS-DNS) - Manage your dns zones with NixOS
 
 ## nixpkgs
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
@@ -1268,13 +1276,6 @@
 - [Argon40Tech/Argon-ONE-i2c-Codes](https://github.com/Argon40Tech/Argon-ONE-i2c-Codes) - This is a list of i2c Codes utilized by Argon ONE Raspberry Pi Cases
 - [evcc-io/hassio-addon](https://github.com/evcc-io/hassio-addon) - Hass.io add-on for EVCC
 - [christiaangoossens/hass-oidc-auth](https://github.com/christiaangoossens/hass-oidc-auth) - OpenID Connect authentication provider for Home Assistant
-
-## todo
-- [devhawk/vscode-markdown-sup](https://github.com/devhawk/vscode-markdown-sup) - 
-- [bpruitt-goddard/vscode-mermaid-syntax-highlight](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight) - Markdown syntax support for the Mermaid charting language
-- [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server
-- [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
-- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 
 ## tools
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
