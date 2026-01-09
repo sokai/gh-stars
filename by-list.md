@@ -854,6 +854,7 @@
 - [adisbladis/adios](https://github.com/adisbladis/adios) - 
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOS deployments of DD-IX
+- [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
 
 ## nix_parts
 - [polarmutex/nix-config](https://github.com/polarmutex/nix-config) - nix dotfiles for nixos and userspace
@@ -1594,6 +1595,7 @@
 - [numtide/nixos-passthru-cache](https://github.com/numtide/nixos-passthru-cache) - Create a copy of https://cache.nixos.org for your infrastructure
 - [Sanjai-Shaarugesh/Advanced-Weather-Companion](https://github.com/Sanjai-Shaarugesh/Advanced-Weather-Companion) - Advanced Weather is a feature-rich GNOME Shell extension that provides detailed and customizable weather information right on your desktop. With support for multiple locations, advanced forecasting, and beautiful visualizations, this extension transforms how you interact with weather data.
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
+- [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
