@@ -2905,6 +2905,7 @@
 
 ## TypeScript 
 
+- [danvk/webdiff](https://github.com/danvk/webdiff) - Two-column web-based git difftool
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit.
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
