@@ -810,6 +810,7 @@
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [Janik-Haag/NixOS-DNS](https://github.com/Janik-Haag/NixOS-DNS) - Manage your dns zones with NixOS
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 
 ## nix_blueprint
 - [OsiPog/nix-config](https://github.com/OsiPog/nix-config) - NixOS configurations for all of my systems
@@ -933,6 +934,7 @@
 - [gytis-ivaskevicius/flake-utils-plus](https://github.com/gytis-ivaskevicius/flake-utils-plus) - Use Nix flakes without any fluff.
 - [wg-lux/luxnix](https://github.com/wg-lux/luxnix) - 
 - [quaoz/flake](https://github.com/quaoz/flake) - 
+- [msfjarvis/dotfiles](https://github.com/msfjarvis/dotfiles) - I definitely don't understand the 'dot' concept
 
 ## nix_unified
 - [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized for development environment, based on nixos-unified. 
@@ -1121,6 +1123,7 @@
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [Sanjai-Shaarugesh/Advanced-Weather-Companion](https://github.com/Sanjai-Shaarugesh/Advanced-Weather-Companion) - Advanced Weather is a feature-rich GNOME Shell extension that provides detailed and customizable weather information right on your desktop. With support for multiple locations, advanced forecasting, and beautiful visualizations, this extension transforms how you interact with weather data.
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 
 ## personal
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
@@ -1253,6 +1256,7 @@
 - [Sanjai-Shaarugesh/Advanced-Weather-Companion](https://github.com/Sanjai-Shaarugesh/Advanced-Weather-Companion) - Advanced Weather is a feature-rich GNOME Shell extension that provides detailed and customizable weather information right on your desktop. With support for multiple locations, advanced forecasting, and beautiful visualizations, this extension transforms how you interact with weather data.
 - [radgeek/feedwordpress](https://github.com/radgeek/feedwordpress) - FeedWordPress: simple and flexible Atom/RSS syndication for WordPress
 - [nextcloud/forms](https://github.com/nextcloud/forms) - 📝 Simple form & survey app for Nextcloud
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 
 ## security
 - [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
@@ -1608,6 +1612,7 @@
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [nextcloud/forms](https://github.com/nextcloud/forms) - 📝 Simple form & survey app for Nextcloud
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
@@ -1760,6 +1765,7 @@
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [nextcloud/forms](https://github.com/nextcloud/forms) - 📝 Simple form & survey app for Nextcloud
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 
 ## work
 - [oeg-upm/devops-infra](https://github.com/oeg-upm/devops-infra) - Public repository for an ontology network on DevOps infrastructure
