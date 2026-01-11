@@ -101,6 +101,7 @@
 
 ## C 
 
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [coredevices/PebbleOS](https://github.com/coredevices/PebbleOS) - 
 - [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will 
 - [leahneukirchen/mblaze](https://github.com/leahneukirchen/mblaze) - Unix utilities to deal with Maildir
@@ -1323,6 +1324,7 @@
 
 ## Nix 
 
+- [msfjarvis/dotfiles](https://github.com/msfjarvis/dotfiles) - I definitely don't understand the 'dot' concept
 - [hyperparabolic/nix-config](https://github.com/hyperparabolic/nix-config) - Multihost nixos flake and scripts focused on reproducibility
 - [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOS deployments of DD-IX
 - [numtide/nixos-passthru-cache](https://github.com/numtide/nixos-passthru-cache) - Create a copy of https://cache.nixos.org for your infrastructure
