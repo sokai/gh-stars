@@ -757,6 +757,7 @@
 
 ## JavaScript 
 
+- [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
 - [Sanjai-Shaarugesh/Advanced-Weather-Companion](https://github.com/Sanjai-Shaarugesh/Advanced-Weather-Companion) - Advanced Weather is a feature-rich GNOME Shell extension that provides detailed and customizable weather information right on your desktop. With support for multiple locations, advanced forecasting, a
 - [KonradIT/HEROPebble](https://github.com/KonradIT/HEROPebble) - Unofficial GoPro App for Pebble smartwatches
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
@@ -1324,6 +1325,7 @@
 
 ## Nix 
 
+- [edouardparis/nixos-config](https://github.com/edouardparis/nixos-config) - 
 - [msfjarvis/dotfiles](https://github.com/msfjarvis/dotfiles) - I definitely don't understand the 'dot' concept
 - [hyperparabolic/nix-config](https://github.com/hyperparabolic/nix-config) - Multihost nixos flake and scripts focused on reproducibility
 - [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOS deployments of DD-IX
