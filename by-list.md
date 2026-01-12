@@ -230,7 +230,7 @@
 - [jsha/unboundtest](https://github.com/jsha/unboundtest) - Web service to test DNS resolution against Unbound with config similar to Let's Encrypt
 - [Dacid99/LinkDroid-for-Linkwarden](https://github.com/Dacid99/LinkDroid-for-Linkwarden) - A companion android app for the Linkwarden project. It enables you to upload links via the share context menu and to quickly access the webinterface.  This repository is just a mirror, please go to the gitlab repo to contribute code. 
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
-- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
+- [fruitcake/laravel-debugbar](https://github.com/fruitcake/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch,@nyarly]
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [Jojo4GH/nav](https://github.com/Jojo4GH/nav) - ❯ The interactive and intuitive replacement for ls & cd!
@@ -1387,7 +1387,7 @@
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [lkrms/pretty-php](https://github.com/lkrms/pretty-php) - The opinionated PHP code formatter
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
-- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
+- [fruitcake/laravel-debugbar](https://github.com/fruitcake/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch,@nyarly]
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
@@ -1673,7 +1673,7 @@
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX. 
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [lkrms/pretty-php](https://github.com/lkrms/pretty-php) - The opinionated PHP code formatter
-- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
+- [fruitcake/laravel-debugbar](https://github.com/fruitcake/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch,@nyarly]
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
