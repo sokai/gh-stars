@@ -866,6 +866,7 @@
 - [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOS deployments of DD-IX
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
 - [edouardparis/nixos-config](https://github.com/edouardparis/nixos-config) - 
+- [jakubgs/nixos-config](https://github.com/jakubgs/nixos-config) - Configuration for my hosts running NixOS
 
 ## nix_parts
 - [polarmutex/nix-config](https://github.com/polarmutex/nix-config) - nix dotfiles for nixos and userspace
