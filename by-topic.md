@@ -1747,7 +1747,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [LibreSign/libresign](https://github.com/LibreSign/libresign) - ✍️ Nextcloud app to sign PDF documents
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
-- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
+- [fruitcake/laravel-debugbar](https://github.com/fruitcake/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
 - [do-community/dns-tool](https://github.com/do-community/dns-tool) - A set of browser-based DNS tools for DigitalOcean Community.
@@ -2406,7 +2406,7 @@
 - [fumeapp/laranuxt](https://github.com/fumeapp/laranuxt) - Laravel and Nuxt.js boilerplate
 - [asbiin/laravel-webauthn](https://github.com/asbiin/laravel-webauthn) - Webauthn adapter for Laravel
 - [laradashboard/laradashboard](https://github.com/laradashboard/laradashboard) - ⚡ Lara Dashboard - CMS by Laravel - All In One solution to start your Laravel Application from Basic to Enterprise. Manages Users, Roles, Permissions, Modules, Settings, Translations, Contents, Monito
-- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
+- [fruitcake/laravel-debugbar](https://github.com/fruitcake/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory API Generation Platform - API Wrapper for SQL Server, Snowflake, MySQL, and more!
 - [cachethq/core](https://github.com/cachethq/core) - 🚦 The core for Cachet, the open-source, self-hosted status page system.
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire
