@@ -2911,6 +2911,7 @@
 
 ## TypeScript 
 
+- [modernweb-dev/web](https://github.com/modernweb-dev/web) - Guides, tools and libraries for modern web development.
 - [gristlabs/grist-desktop](https://github.com/gristlabs/grist-desktop) - Desktop Grist, packaged with Electron
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [thomsa/auktiva](https://github.com/thomsa/auktiva) - A feature-rich auction platform for creating and managing private or public auctions. Supports real-time bidding with live updates, multiple currencies, flexible item end dates, anonymous bidding opti
