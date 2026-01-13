@@ -1789,6 +1789,7 @@
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
+- [modernweb-dev/web](https://github.com/modernweb-dev/web) - Guides, tools and libraries for modern web development.
 
 ## work
 - [oeg-upm/devops-infra](https://github.com/oeg-upm/devops-infra) - Public repository for an ontology network on DevOps infrastructure
