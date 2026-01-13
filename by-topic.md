@@ -1258,6 +1258,7 @@
 
 ## dotfiles 
 
+- [cameronraysmith/vanixiets](https://github.com/cameronraysmith/vanixiets) - ❄️ van niets iets ⚙️ infrastructure from "nix" with flake-parts and clan
 - [msfjarvis/dotfiles](https://github.com/msfjarvis/dotfiles) - I definitely don't understand the 'dot' concept
 - [hyperparabolic/nix-config](https://github.com/hyperparabolic/nix-config) - Multihost nixos flake and scripts focused on reproducibility
 - [niksingh710/ndots](https://github.com/niksingh710/ndots) - NixOs/Nix Config using flake (flake-parts).
