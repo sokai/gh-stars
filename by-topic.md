@@ -3429,7 +3429,6 @@
 - [mapsme/omim](https://github.com/mapsme/omim) - 🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android
 - [RaitoBezarius/nixos-shim](https://github.com/RaitoBezarius/nixos-shim) - Shim and related binaries signed via Hydra
 - [cafkafk/nix-weather](https://github.com/cafkafk/nix-weather) - Check Cache Availablility of NixOS Configurations
-- [tomasharkema/nix-config](https://github.com/tomasharkema/nix-config) - 
 - [devrsi0n/chirpy](https://github.com/devrsi0n/chirpy) - 💬 A privacy-friendly and customizable Disqus (comment system) alternate. 注重隐私保护和定制化的评论系统。
 - [ssotax/ssotax](https://github.com/ssotax/ssotax) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
 - [robchahin/sso-wall-of-shame](https://github.com/robchahin/sso-wall-of-shame) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
