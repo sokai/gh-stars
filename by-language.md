@@ -1501,7 +1501,6 @@
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
 - [jalil-salame/configuration.nix](https://github.com/jalil-salame/configuration.nix) - My NixOS configuration as a NixOS module
 - [RaitoBezarius/nixos-shim](https://github.com/RaitoBezarius/nixos-shim) - Shim and related binaries signed via Hydra
-- [tomasharkema/nix-config](https://github.com/tomasharkema/nix-config) - 
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [nix-community/raspberry-pi-nix](https://github.com/nix-community/raspberry-pi-nix) - NixOS modules to aid in configuring NixOS for raspberry pi products
 - [ehllie/ez-configs](https://github.com/ehllie/ez-configs) - A flake-parts module for simple nixos, darwin and home-manager configurations using project directory structure
