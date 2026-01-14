@@ -148,6 +148,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [tjko/jpegoptim](https://github.com/tjko/jpegoptim) - jpegoptim - utility to optimize/compress JPEG files
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
+- [ecsec/open-ecard](https://github.com/ecsec/open-ecard) - Client side implementation of the eCard-API-Framework (BSI TR-03112) and related international standards, such as ISO/IEC 24727.
 - [daringer/asus-fan](https://github.com/daringer/asus-fan) - Kernel module to get/set (both) fan speed(s) on ASUS Zenbooks
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [bq/aquaris-M5](https://github.com/bq/aquaris-M5) - Linux Kernel source code for the device bq Aquaris M5
@@ -166,6 +167,7 @@
 
 ## C++ 
 
+- [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 - [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
@@ -1274,7 +1276,6 @@
 - [quarck/CalendarNotification](https://github.com/quarck/CalendarNotification) - Android app extending calendar notifications with snooze button and notifications persistence
 - [TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 
 - [mapzen/eraser-map](https://github.com/mapzen/eraser-map) - Privacy-focused mapping application for Android
-- [ecsec/open-ecard](https://github.com/ecsec/open-ecard) - Client side implementation of the eCard-API-Framework (BSI TR-03112) and related international standards, such as ISO/IEC 24727.
 - [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 - [owncloud/android](https://github.com/owncloud/android) - :phone: The ownCloud Android App
 
@@ -2603,6 +2604,7 @@
 
 ## Rust 
 
+- [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data.
 - [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
