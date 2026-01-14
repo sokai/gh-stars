@@ -616,6 +616,7 @@
 - [gristlabs/grist-desktop](https://github.com/gristlabs/grist-desktop) - Desktop Grist, packaged with Electron
 - [mijorus/gearlever](https://github.com/mijorus/gearlever) - Manage AppImages with ease 📦
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+- [UshakovVasilii/gnome-shell-extension-freon](https://github.com/UshakovVasilii/gnome-shell-extension-freon) - Shows CPU temperature, disk temperature, video card temperature (NVIDIA/Catalyst/Bumblebee&NVIDIA), voltage and fan RPM
 
 ## mirror
 - [kevle1/windows-telemetry-blocklist](https://github.com/kevle1/windows-telemetry-blocklist) - Blocks outgoing Windows telemetry, compatible with Pi-Hole. 
@@ -1636,6 +1637,7 @@
 - [gristlabs/grist-desktop](https://github.com/gristlabs/grist-desktop) - Desktop Grist, packaged with Electron
 - [mijorus/gearlever](https://github.com/mijorus/gearlever) - Manage AppImages with ease 📦
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+- [UshakovVasilii/gnome-shell-extension-freon](https://github.com/UshakovVasilii/gnome-shell-extension-freon) - Shows CPU temperature, disk temperature, video card temperature (NVIDIA/Catalyst/Bumblebee&NVIDIA), voltage and fan RPM
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
