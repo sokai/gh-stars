@@ -875,6 +875,7 @@
 
 ## config 
 
+- [SchweGELBin/nix-config](https://github.com/SchweGELBin/nix-config) - My Nix configs
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 - [mrzool/dotfiles](https://github.com/mrzool/dotfiles) - Config files for my *nix systems
 - [mrzool/bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
@@ -1259,6 +1260,7 @@
 
 ## dotfiles 
 
+- [SchweGELBin/nix-config](https://github.com/SchweGELBin/nix-config) - My Nix configs
 - [cameronraysmith/vanixiets](https://github.com/cameronraysmith/vanixiets) - ❄️ van niets iets ⚙️ infrastructure from "nix" with flake-parts and clan
 - [msfjarvis/dotfiles](https://github.com/msfjarvis/dotfiles) - I definitely don't understand the 'dot' concept
 - [hyperparabolic/nix-config](https://github.com/hyperparabolic/nix-config) - Multihost nixos flake and scripts focused on reproducibility
