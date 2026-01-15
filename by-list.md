@@ -889,6 +889,7 @@
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
 - [edouardparis/nixos-config](https://github.com/edouardparis/nixos-config) - 
 - [jakubgs/nixos-config](https://github.com/jakubgs/nixos-config) - Configuration for my hosts running NixOS
+- [SchweGELBin/nix-config](https://github.com/SchweGELBin/nix-config) - My Nix configs
 
 ## nix_parts
 - [polarmutex/nix-config](https://github.com/polarmutex/nix-config) - nix dotfiles for nixos and userspace
