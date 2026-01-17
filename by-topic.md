@@ -2596,6 +2596,7 @@
 
 ## macos 
 
+- [Sovereign-Engineering/obscuravpn-client](https://github.com/Sovereign-Engineering/obscuravpn-client) - Obscura VPN Rust library and App (macOS only for now)
 - [reo101/rix101](https://github.com/reo101/rix101) - My NixOS, nix-on-droid and nix-darwin configs.
 - [vic/vix](https://github.com/vic/vix) - Vic's *Nix config.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
@@ -5094,6 +5095,7 @@
 
 ## rust 
 
+- [Sovereign-Engineering/obscuravpn-client](https://github.com/Sovereign-Engineering/obscuravpn-client) - Obscura VPN Rust library and App (macOS only for now)
 - [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data.
 - [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace.
