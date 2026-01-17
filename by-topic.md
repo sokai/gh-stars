@@ -3559,7 +3559,7 @@
 - [pdewacht/brlaser](https://github.com/pdewacht/brlaser) - Brother laser printer driver
 - [Xantios/mimey](https://github.com/Xantios/mimey) - PHP package for converting file extensions to MIME types and vice versa.
 - [garritfra/positive_hackernews](https://github.com/garritfra/positive_hackernews) - The Positive Hacker News RSS Feed! 🌟
-- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VS Code Marketplace and Open VSX extensions [maintainers=@deemp,@ameertaweel]
+- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VS Code Marketplace and Open VSX extensions [maintainers=@deemp, @ameertaweel]
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pClou
 - [pqina/flip](https://github.com/pqina/flip) - ⏳ The online version of the classic flip clock
 - [MrKrisKrisu/netcup-api](https://github.com/MrKrisKrisu/netcup-api) - PHP Library to communicate to the netcup GmbH CCP and DNS API
