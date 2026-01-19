@@ -1286,7 +1286,7 @@
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [bjc/prosody](https://github.com/bjc/prosody) - IMPORTANT: due to a drive failure, as of 13-Mar-2021, the Mercurial repository had to be re-mirrored, which changed every commit SHA. The old SHAs and trees are backed up in the vault branches. Please
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [tmolitor-stud-tu/mod_push_appserver](https://github.com/tmolitor-stud-tu/mod_push_appserver) - Simple and extendable appserver for XMPP pushes (aka. XEP-0357)
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
 
