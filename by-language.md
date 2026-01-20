@@ -1220,7 +1220,6 @@
 - [TJYSunset/Phocid](https://github.com/TJYSunset/Phocid) - A modern offline music player with familiar designs for Android 11+.
 - [ProtonMail/android-mail](https://github.com/ProtonMail/android-mail) - Proton Mail Android app
 - [protonpass/android-pass](https://github.com/protonpass/android-pass) - Android code for the Proton Pass application
-- [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.
 - [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
 - [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
 - [mollyim/mollyim-android-unifiedpush](https://github.com/mollyim/mollyim-android-unifiedpush) - Molly with UnifiedPush support (Archived).
@@ -2762,6 +2761,7 @@
 - [ngandrass/truenas-spindown-timer](https://github.com/ngandrass/truenas-spindown-timer) - Monitors drive I/O and forces HDD spindown after a given idle period. Resistant to S.M.A.R.T. reads.
 - [fndov/nixedit](https://github.com/fndov/nixedit) - NixOS Multipurpose CLI/TUI Utility
 - [latchset/clevis](https://github.com/latchset/clevis) - Automated Encryption Framework
+- [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.
 - [versatiles-org/versatiles-fonts](https://github.com/versatiles-org/versatiles-fonts) - Repository of open-source SDF fonts optimized for MapLibre GL JS rendering.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
