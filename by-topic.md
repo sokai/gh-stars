@@ -5368,7 +5368,7 @@
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [ab77/netflix-proxy](https://github.com/ab77/netflix-proxy) - Smart DNS proxy to watch Netflix
-- [nickola/web-console](https://github.com/nickola/web-console) - :desktop_computer: Simple web-based shell in your browser (outdated)
+- [nickola/web-console](https://github.com/nickola/web-console) - :desktop_computer: Web-based shell in your browser
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
@@ -5793,7 +5793,7 @@
 - [jenil/chota](https://github.com/jenil/chota) - A micro (3kb) CSS framework
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
-- [nickola/web-console](https://github.com/nickola/web-console) - :desktop_computer: Simple web-based shell in your browser (outdated)
+- [nickola/web-console](https://github.com/nickola/web-console) - :desktop_computer: Web-based shell in your browser
 - [tariqbuilds/linux-dash](https://github.com/tariqbuilds/linux-dash) - A beautiful web dashboard for Linux
 
 ## web-assembly 
