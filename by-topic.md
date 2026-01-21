@@ -3400,7 +3400,7 @@
 - [imincik/containerfile-nix](https://github.com/imincik/containerfile-nix) - Build Dockerfile / Containerfile with Nix
 - [jakehamilton/jakehamilton.dev](https://github.com/jakehamilton/jakehamilton.dev) - 
 - [janboddez/indieblocks](https://github.com/janboddez/indieblocks) - Use blocks, and, optionally, "short-form" post types to more easily "IndieWebify" your WordPress site.
-- [zhuozhiyongde/gaze-stars](https://github.com/zhuozhiyongde/gaze-stars) - 
+- [zhuozhiyongde/gaze-stars](https://github.com/zhuozhiyongde/gaze-stars) - A GitHub Action to auto-generate a categorized README of your starred repositories with a Table of Contents.
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 - [mipmip/hm-ricing-mode](https://github.com/mipmip/hm-ricing-mode) - Ricing mode utility for Home Manager
 - [didactiklabs/nixbook](https://github.com/didactiklabs/nixbook) - Laptop NixOS Configuration
