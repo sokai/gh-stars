@@ -173,7 +173,7 @@
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
-- [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Offical FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
+- [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) - Official FUTO Keyboard Issue Tracker and Source Mirror of https://gitlab.futo.org/keyboard/latinime
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [Juve45/batstat](https://github.com/Juve45/batstat) - CLI battery status for linux
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
@@ -1324,6 +1324,7 @@
 
 ## Nix 
 
+- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [SchweGELBin/nix-config](https://github.com/SchweGELBin/nix-config) - My Nix configs
 - [cameronraysmith/vanixiets](https://github.com/cameronraysmith/vanixiets) - ❄️ van niets iets ⚙️ infrastructure from "nix" with flake-parts and clan
 - [jakubgs/nixos-config](https://github.com/jakubgs/nixos-config) - Configuration for my hosts running NixOS
