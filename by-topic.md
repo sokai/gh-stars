@@ -5724,7 +5724,7 @@
 - [Rafficer/linux-cli-community](https://github.com/Rafficer/linux-cli-community) - Linux command-line client for ProtonVPN. Written in Python.
 - [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client
 - [costela/wesher](https://github.com/costela/wesher) - wireguard overlay mesh network manager
-- [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server NixOS Module
+- [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) - The Media Server NixOS Module
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
