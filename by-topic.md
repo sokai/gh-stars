@@ -3659,7 +3659,6 @@
 - [cgogolin/penandpdf](https://github.com/cgogolin/penandpdf) - Pen&PDF is a PDF viewer and annotation app for Android built on top of MuPDF.
 - [hankhank10/fakeface](https://github.com/hankhank10/fakeface) - An RESTful API for thispersondoesnotexist
 - [picocss/examples](https://github.com/picocss/examples) - Minimalist templates to discover Pico in action
-- [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
 - [CauldronDevelopmentLLC/oh-brother](https://github.com/CauldronDevelopmentLLC/oh-brother) - A simple cross-platform utility written in Python which can update Brother printer firmwares
 - [bitfireAT/icsx5](https://github.com/bitfireAT/icsx5) - ICSx⁵ is an Android app to subscribe to remote or local iCalendar files (like time tables of your school/university or event files of your sports team).
 - [tombenj/advanced-random-posts-widget](https://github.com/tombenj/advanced-random-posts-widget) - Provides flexible and advanced random posts widget. Allows you to display them with thumbnails, post excerpt, multiple category and more.
@@ -5156,6 +5155,7 @@
 - [oberblastmeister/trashy](https://github.com/oberblastmeister/trashy) - a cli system trash manager, alternative to rm and trash-cli
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
+- [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
