@@ -2010,7 +2010,7 @@
 - [loewexy/pdnsmanager](https://github.com/loewexy/pdnsmanager) - A simple administration interface for PowerDNS nameserver.
 - [flextype/flextype](https://github.com/flextype/flextype) - Modern Open Source Flat Files Content Management System.
 - [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
-- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so
+- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based
 - [PHPCompatibility/PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) - PHP Compatibility check for PHP_CodeSniffer
 - [yongfook/sweetcron](https://github.com/yongfook/sweetcron) - A self-hosted lifestreaming platform built in PHP
 - [ozdemirburak/json-csv](https://github.com/ozdemirburak/json-csv) - JSON to CSV and CSV to JSON converters in PHP.
