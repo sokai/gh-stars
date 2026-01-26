@@ -656,6 +656,7 @@
 
 ## Java 
 
+- [nicho92/MtgDesktopCompanion](https://github.com/nicho92/MtgDesktopCompanion) - Cards manager for magic the gathering
 - [writingtool-org/writingtool](https://github.com/writingtool-org/writingtool) - 
 - [nel0x/syncthing-android](https://github.com/nel0x/syncthing-android) - Syncthing - A Syncthing Wrapper for Android.
 - [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
