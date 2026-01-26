@@ -147,6 +147,7 @@
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [malware](#malware)
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
@@ -2637,6 +2638,15 @@
 - [monal-im/Monal](https://github.com/monal-im/Monal) - Monal for XMPP (iOS and macOS)
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
+## malware 
+
+- [Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist) - The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web 
+- [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+- [phpMussel/phpMussel](https://github.com/phpMussel/phpMussel) - PHP-based anti-virus anti-trojan anti-malware solution.
+- [mitchellkrogza/nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker) - Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for 
+
 ## markdown 
 
 - [paulund/content-markdown](https://github.com/paulund/content-markdown) - Use this to display markdown content on a laravel site.
@@ -3317,7 +3327,6 @@
 - [boffbowsh/nix-lancache](https://github.com/boffbowsh/nix-lancache) - A Flake for running LanCache.net on NixOS
 - [yara-blue/microbin](https://github.com/yara-blue/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server
-- [Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist) - The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web 
 - [oddlama/idmail](https://github.com/oddlama/idmail) - An email alias and account management interface for self-hosted mailservers
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
 - [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit) - 
@@ -3846,7 +3855,6 @@
 - [duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
 - [LineageOS/android_device_oneplus_oneplus3](https://github.com/LineageOS/android_device_oneplus_oneplus3) - 
 - [nextcloud/documentserver_community](https://github.com/nextcloud/documentserver_community) - Document server for onlyoffice
-- [mitchellkrogza/nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker) - Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for 
 - [RaymiiOrg/cipherli.st](https://github.com/RaymiiOrg/cipherli.st) - Ciplerli.st - strong ciphers for NGINX, Apache and Lighttpd
 - [cweiske/surrogator](https://github.com/cweiske/surrogator) - simple libravatar server
 - [slacka/WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
