@@ -1304,6 +1304,7 @@
 
 ## Makefile 
 
+- [kdl-org/kdl](https://github.com/kdl-org/kdl) - the kdl document language specifications
 - [allotropia/nextcloud_files_libreoffice_edit](https://github.com/allotropia/nextcloud_files_libreoffice_edit) - Nextcloud App to edit files directly with LibreOffice (via WebDav)
 - [kika/fixedsys](https://github.com/kika/fixedsys) - Fixedsys Excelsior font with programming ligatures
 - [pipewire-debian/pipewire-debian](https://github.com/pipewire-debian/pipewire-debian) - Upstream Version of pipewire, wireplumber, roc-toolkit & blueman for debian/ubuntu
@@ -1755,6 +1756,7 @@
 
 ## PHP 
 
+- [kdl-org/kdl-php](https://github.com/kdl-org/kdl-php) - A KDL parser for PHP.
 - [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push) - Nextcloud extension to support WebDAV-Push on calendars/address books
 - [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group or team. https://github.com/nextcloud-releases/groupfolders
 - [splitbrain/php-ico](https://github.com/splitbrain/php-ico) - PHP ICO - The PHP ICO Generator
