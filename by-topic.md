@@ -3036,6 +3036,7 @@
 
 ## others 
 
+- [thefossguy/nixos-needsreboot](https://github.com/thefossguy/nixos-needsreboot) - Determine if you need to reboot your NixOS machine
 - [kdl-org/kdl-php](https://github.com/kdl-org/kdl-php) - A KDL parser for PHP.
 - [nicho92/MtgDesktopCompanion](https://github.com/nicho92/MtgDesktopCompanion) - Cards manager for magic the gathering
 - [daskladas/nixhist](https://github.com/daskladas/nixhist) - A TUI for viewing, comparing, and managing NixOS generations
