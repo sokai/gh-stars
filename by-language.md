@@ -1021,7 +1021,7 @@
 - [cburschka/cadence](https://github.com/cburschka/cadence) - A strophe.js-powered XMPP web client for chatrooms.
 - [ondras/wwwsqldesigner](https://github.com/ondras/wwwsqldesigner) - WWW SQL Designer, your online SQL diagramming tool
 - [partkeepr/PartKeepr](https://github.com/partkeepr/PartKeepr) - Open Source Inventory Management
-- [nocoo/infoviz](https://github.com/nocoo/infoviz) - Information visualization.
+- [nocoo/infoviz](https://github.com/nocoo/infoviz) - A lightweight JavaScript library for creating beautiful, interactive data visualizations. Supports multiple chart types with flexible customization options.
 - [douglascrockford/JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript
 - [dollarshaveclub/reframe.js](https://github.com/dollarshaveclub/reframe.js) - 🖼  Reframe unresponsive elements responsively.
 - [ajaxorg/ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
