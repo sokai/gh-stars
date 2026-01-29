@@ -1967,6 +1967,7 @@
 
 ## html 
 
+- [helgeklein/WordPress-Hugo-Migration-Scripts-HTML-Markdown](https://github.com/helgeklein/WordPress-Hugo-Migration-Scripts-HTML-Markdown) - WordPress to Hugo migration scripts, conversion from HTML to Markdown, comments
 - [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - 
 - [gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php) - 🐘 A PHP client for interacting with Gotenberg.
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
@@ -2653,6 +2654,7 @@
 
 ## markdown 
 
+- [helgeklein/WordPress-Hugo-Migration-Scripts-HTML-Markdown](https://github.com/helgeklein/WordPress-Hugo-Migration-Scripts-HTML-Markdown) - WordPress to Hugo migration scripts, conversion from HTML to Markdown, comments
 - [paulund/content-markdown](https://github.com/paulund/content-markdown) - Use this to display markdown content on a laravel site.
 - [prezet/prezet](https://github.com/prezet/prezet) - 🚀 Markdown Blogging for Laravel!
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
@@ -5909,6 +5911,7 @@
 
 ## wordpress 
 
+- [helgeklein/WordPress-Hugo-Migration-Scripts-HTML-Markdown](https://github.com/helgeklein/WordPress-Hugo-Migration-Scripts-HTML-Markdown) - WordPress to Hugo migration scripts, conversion from HTML to Markdown, comments
 - [Codeinwp/feedzy-rss-feeds](https://github.com/Codeinwp/feedzy-rss-feeds) - FEEDZY RSS Feeds is an easy-to-use plugin giving you RSS aggregator and autoblogging functionality. Bring the best RSS feeds to your site.
 - [pfefferle/wordpress-rss-club](https://github.com/pfefferle/wordpress-rss-club) - 1st rule of RSS Club is “Don’t Talk About RSS Club”.
 - [johnbillion/wp_mail](https://github.com/johnbillion/wp_mail) - Documentation for all the situations where WordPress core sends an email, how and when they happen, and how to filter or disable each one.
