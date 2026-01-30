@@ -363,6 +363,7 @@
 
 ## Go 
 
+- [oz123/coredns-netbox-plugin](https://github.com/oz123/coredns-netbox-plugin) - A coredns plugin to get dns records from Netbox
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
@@ -2754,6 +2755,7 @@
 
 ## Shell 
 
+- [LinkStackOrg/linkstack-docker](https://github.com/LinkStackOrg/linkstack-docker) - A simple to set up docker variant of LinkStack. LinkStack is a highly customizable link sharing platform with an intuitive, easy to use user interface.
 - [thias/glim](https://github.com/thias/glim) - GRUB Live ISO Multiboot
 - [adamoutler/HassOSConfigurator](https://github.com/adamoutler/HassOSConfigurator) - A set of Add-Ons to configure HassOS For various platforms and development purposes.
 - [adamoutler/HassOSArgonOneAddon](https://github.com/adamoutler/HassOSArgonOneAddon) - A Home Assistant Addon for Argon One Fan Control.
