@@ -154,6 +154,7 @@
 - [nicho92/MtgDesktopCompanion](https://github.com/nicho92/MtgDesktopCompanion) - Cards manager for magic the gathering
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 
 ## dev
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -703,6 +704,7 @@
 - [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
 - [thias/glim](https://github.com/thias/glim) - GRUB Live ISO Multiboot
 - [oz123/coredns-netbox-plugin](https://github.com/oz123/coredns-netbox-plugin) - A coredns plugin to get dns records from Netbox
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 
 ## mirror
 - [kevle1/windows-telemetry-blocklist](https://github.com/kevle1/windows-telemetry-blocklist) - Blocks outgoing Windows telemetry, compatible with Pi-Hole. 
@@ -1443,6 +1445,7 @@
 - [session-foundation/session-android](https://github.com/session-foundation/session-android) - Session Android - A Decentralized, Onion Routed, Private Messenger
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 
 ## smarthome
 - [tbnobody/OpenDTU](https://github.com/tbnobody/OpenDTU) - Software for ESP32 to talk to Hoymiles/TSUN/Solenso Inverters
@@ -1841,6 +1844,7 @@
 - [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 - [LinkStackOrg/linkstack-docker](https://github.com/LinkStackOrg/linkstack-docker) - A simple to set up docker variant of LinkStack. LinkStack is a highly customizable link sharing platform with an intuitive, easy to use user interface.
 - [oz123/coredns-netbox-plugin](https://github.com/oz123/coredns-netbox-plugin) - A coredns plugin to get dns records from Netbox
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
