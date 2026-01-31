@@ -1758,6 +1758,7 @@
 
 ## PHP 
 
+- [sqids/sqids-php](https://github.com/sqids/sqids-php) - Official PHP port of Sqids. Generate short unique IDs from numbers.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [kdl-org/kdl-php](https://github.com/kdl-org/kdl-php) - A KDL parser for PHP.
 - [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push) - Nextcloud extension to support WebDAV-Push on calendars/address books
