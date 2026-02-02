@@ -3053,6 +3053,7 @@
 
 ## others 
 
+- [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - [thefossguy/nixos-needsreboot](https://github.com/thefossguy/nixos-needsreboot) - Determine if you need to reboot your NixOS machine
 - [kdl-org/kdl-php](https://github.com/kdl-org/kdl-php) - A KDL parser for PHP.
 - [nicho92/MtgDesktopCompanion](https://github.com/nicho92/MtgDesktopCompanion) - Cards manager for magic the gathering
