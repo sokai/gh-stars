@@ -1115,7 +1115,7 @@
 - [inverse-inc/sogo-connector.tb24](https://github.com/inverse-inc/sogo-connector.tb24) - 
 - [mbielanczuk/jQuery.Gantt](https://github.com/mbielanczuk/jQuery.Gantt) - jQuery Gantt Chart
 - [dmr/jquery.ganttView](https://github.com/dmr/jquery.ganttView) - An editable jQuery Gantt chart plugin.
-- [aaronrussell/jquery-simply-countable](https://github.com/aaronrussell/jquery-simply-countable) - jQuery plugin that provides a character counter for any text input or textarea.
+- [aaronrussell-x/jquery-simply-countable](https://github.com/aaronrussell-x/jquery-simply-countable) - jQuery plugin that provides a character counter for any text input or textarea.
 - [rotundasoftware/jquery.autogrow-textarea](https://github.com/rotundasoftware/jquery.autogrow-textarea) - A jquery plugin for automatic vertical or horizontal growing of text areas.
 - [dciccale/placeholder-enhanced](https://github.com/dciccale/placeholder-enhanced) - Placeholder Enhanced enhance the use of HTML5 placeholder attribute providing cross-browser support & styling
 - [jquery-backstretch/jquery-backstretch](https://github.com/jquery-backstretch/jquery-backstretch) - Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will 
