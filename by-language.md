@@ -2944,6 +2944,7 @@
 
 ## TypeScript 
 
+- [voku/AmysEcho](https://github.com/voku/AmysEcho) - This repository contains the development work for my little girl — to help her be understood, to help her learn, and to help others understand her world.
 - [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
