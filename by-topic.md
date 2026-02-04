@@ -1722,6 +1722,7 @@
 
 ## hacktoberfest 
 
+- [nextcloud/tables](https://github.com/nextcloud/tables) - 🍱 Nextcloud tables app
 - [oz123/coredns-netbox-plugin](https://github.com/oz123/coredns-netbox-plugin) - A coredns plugin to get dns records from Netbox
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins
