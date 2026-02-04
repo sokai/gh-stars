@@ -964,7 +964,6 @@
 - [addyosmani/basket.js](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading files with localStorage
 - [chrisdiana/cms.js](https://github.com/chrisdiana/cms.js) - Client-Side JavaScript Site Generator
 - [gbv/picatextarea](https://github.com/gbv/picatextarea) - HTML editor interface with syntax highlighting for PICA+ data
-- [movim/movim](https://github.com/movim/movim) - Movim - Decentralized social platform
 - [terkelg/facon](https://github.com/terkelg/facon) - Tiny utility (365B) to create DOM elements with manner.
 - [conversejs/converse.js](https://github.com/conversejs/converse.js) - Web-based XMPP/Jabber chat written in JavaScript
 - [signalapp/libsignal-protocol-javascript](https://github.com/signalapp/libsignal-protocol-javascript) - This library is no longer maintained. libsignal-protocol-javascript was an implementation of the Signal Protocol, written in JavaScript. It has been replaced by libsignal-client’s typesafe TypeScript 
@@ -2084,6 +2083,7 @@
 - [Codeception/Codeception](https://github.com/Codeception/Codeception) - Full-stack testing PHP framework
 - [cweagans/composer-patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer
 - [webmozart/path-util](https://github.com/webmozart/path-util) - A robust cross-platform utility for normalizing, comparing and modifying file paths.
+- [movim/movim](https://github.com/movim/movim) - Movim - Decentralized social platform
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [rotexsoft/slim-skeleton-mvc-app](https://github.com/rotexsoft/slim-skeleton-mvc-app) - This is a template web-application (powered by SlimPHP), that can be extended to build more complex web applications.
 - [ksdev-pl/Slim-Image-Archive](https://github.com/ksdev-pl/Slim-Image-Archive) - Simple, fast and secure archive for images
