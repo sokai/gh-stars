@@ -511,7 +511,6 @@
 - [wireapp/wire-android](https://github.com/wireapp/wire-android) - 🤖 Wire client for Android
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
-- [daskladas/nixhist](https://github.com/daskladas/nixhist) - A TUI for viewing, comparing, and managing NixOS generations
 - [faukah/dix](https://github.com/faukah/dix) - Diff Nix
 - [nicho92/MtgDesktopCompanion](https://github.com/nicho92/MtgDesktopCompanion) - Cards manager for magic the gathering
 - [kdl-org/kdl](https://github.com/kdl-org/kdl) - the kdl document language specifications
@@ -947,7 +946,6 @@
 - [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push) - Nextcloud extension to support WebDAV-Push on calendars/address books
 - [nextcloud/tasks](https://github.com/nextcloud/tasks) - :white_check_mark: Tasks app for Nextcloud
 - [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
-- [daskladas/nixhist](https://github.com/daskladas/nixhist) - A TUI for viewing, comparing, and managing NixOS generations
 - [faukah/dix](https://github.com/faukah/dix) - Diff Nix
 - [daeuniverse/flake.nix](https://github.com/daeuniverse/flake.nix) - Nix flake for dae and daed
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
@@ -1106,7 +1104,6 @@
 - [cid-chan/urknall](https://github.com/cid-chan/urknall) - Nix Module System for Infrastructure Provisioning
 - [suderman/deterministic-ssh-keygen](https://github.com/suderman/deterministic-ssh-keygen) - 
 - [0xCCF4/noxa](https://github.com/0xCCF4/noxa) - Management tool for a multi-host NixOS configuration
-- [daskladas/nixhist](https://github.com/daskladas/nixhist) - A TUI for viewing, comparing, and managing NixOS generations
 - [nicho92/MtgDesktopCompanion](https://github.com/nicho92/MtgDesktopCompanion) - Cards manager for magic the gathering
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
@@ -1859,7 +1856,6 @@
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [nextcloud/tasks](https://github.com/nextcloud/tasks) - :white_check_mark: Tasks app for Nextcloud
 - [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
-- [daskladas/nixhist](https://github.com/daskladas/nixhist) - A TUI for viewing, comparing, and managing NixOS generations
 - [faukah/dix](https://github.com/faukah/dix) - Diff Nix
 - [kdl-org/kdl-php](https://github.com/kdl-org/kdl-php) - A KDL parser for PHP.
 - [kdl-org/kdl](https://github.com/kdl-org/kdl) - the kdl document language specifications
@@ -2235,7 +2231,6 @@
 - [gristlabs/grist-desktop](https://github.com/gristlabs/grist-desktop) - Desktop Grist, packaged with Electron
 - [mijorus/gearlever](https://github.com/mijorus/gearlever) - Manage AppImages with ease 📦
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-- [daskladas/nixhist](https://github.com/daskladas/nixhist) - A TUI for viewing, comparing, and managing NixOS generations
 
 ## License
 
