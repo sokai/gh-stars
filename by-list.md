@@ -97,6 +97,7 @@
 - [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Document scanning app 
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 
 ## awesome
 - [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
@@ -158,6 +159,7 @@
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 
 ## dev
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -577,6 +579,7 @@
 - [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 - [LinkStackOrg/linkstack-docker](https://github.com/LinkStackOrg/linkstack-docker) - A simple to set up docker variant of LinkStack. LinkStack is a highly customizable link sharing platform with an intuitive, easy to use user interface.
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 
 ## linux
 - [linuxhw/DMI](https://github.com/linuxhw/DMI) - Collect dmidecode reports and find most popular CPU, RAM and battery
@@ -1875,6 +1878,7 @@
 - [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [craigk5n/webcalendar](https://github.com/craigk5n/webcalendar) - WebCalendar is a PHP application used to maintain a calendar for a single user or an intranet group of users. It can also be configured as an event calendar.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
@@ -2050,6 +2054,7 @@
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [craigk5n/webcalendar](https://github.com/craigk5n/webcalendar) - WebCalendar is a PHP application used to maintain a calendar for a single user or an intranet group of users. It can also be configured as an event calendar.
 - [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 
 ## work
 - [oeg-upm/devops-infra](https://github.com/oeg-upm/devops-infra) - Public repository for an ontology network on DevOps infrastructure
@@ -2109,6 +2114,7 @@
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [openfoodfacts/search-a-licious](https://github.com/openfoodfacts/search-a-licious) - 🍊🔎 A pluggable search service for large collections of objects (like Open Food Facts)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 
 ## xolotl
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
