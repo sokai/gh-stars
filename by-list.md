@@ -117,6 +117,8 @@
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [voku/AmysEcho](https://github.com/voku/AmysEcho) - This repository contains the development work for my little girl — to help her be understood, to help her learn, and to help others understand her world.
 - [openmls/openmls](https://github.com/openmls/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol
+- [xsf/xmpp.org](https://github.com/xsf/xmpp.org) - xmpp.org website (builds: https://github.com/xsf/xmpp.org/actions)
+- [cookiemumbles/justmytoots.com](https://github.com/cookiemumbles/justmytoots.com) - 
 
 ## backup
 - [digint/btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
@@ -1460,6 +1462,7 @@
 - [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software
 - [GeopJr/Tuba](https://github.com/GeopJr/Tuba) - Browse the Fediverse
 - [hg1337/homeassistant-dwd](https://github.com/hg1337/homeassistant-dwd) - Custom component for Home Assistant that integrates weather data (measurements and forecasts) of Deutscher Wetterdienst (DWD).
+- [cookiemumbles/justmytoots.com](https://github.com/cookiemumbles/justmytoots.com) - 
 
 ## security
 - [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
