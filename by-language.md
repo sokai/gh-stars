@@ -520,6 +520,7 @@
 
 ## HTML 
 
+- [xsf/xmpp.org](https://github.com/xsf/xmpp.org) - xmpp.org website (builds: https://github.com/xsf/xmpp.org/actions)
 - [ghuntley/how-to-ralph-wiggum](https://github.com/ghuntley/how-to-ralph-wiggum) - The Ralph Wiggum Technique—the AI development methodology that reduces software costs to less than a fast food worker's wage.
 - [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - 
 - [takahashim/mastodon-access-token](https://github.com/takahashim/mastodon-access-token) - Access Token Generator for Mastodon API
@@ -759,6 +760,7 @@
 
 ## JavaScript 
 
+- [cookiemumbles/justmytoots.com](https://github.com/cookiemumbles/justmytoots.com) - 
 - [nextcloud/tables](https://github.com/nextcloud/tables) - 🍱 Nextcloud tables app
 - [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 - [nextcloud/tasks](https://github.com/nextcloud/tasks) - :white_check_mark: Tasks app for Nextcloud
