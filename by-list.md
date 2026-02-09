@@ -542,6 +542,8 @@
 - [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software
 - [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10] 
+- [jdemaeyer/brightsky](https://github.com/jdemaeyer/brightsky) - JSON API for DWD's open weather data.
+- [Pirate-Weather/pirate-weather-code](https://github.com/Pirate-Weather/pirate-weather-code) - Code for the Pirate Weather API
 
 ## knowledge
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -2108,6 +2110,7 @@
 - [buwx/meteogram](https://github.com/buwx/meteogram) - Meteogram for a DWD MOSMIX station
 - [TurboDuke77/DWD-Meteogram](https://github.com/TurboDuke77/DWD-Meteogram) - Meteogram Wetter für DWD MOSMIX station
 - [jdemaeyer/brightsky](https://github.com/jdemaeyer/brightsky) - JSON API for DWD's open weather data.
+- [Pirate-Weather/pirate-weather-code](https://github.com/Pirate-Weather/pirate-weather-code) - Code for the Pirate Weather API
 
 ## work
 - [oeg-upm/devops-infra](https://github.com/oeg-upm/devops-infra) - Public repository for an ontology network on DevOps infrastructure
