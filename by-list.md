@@ -1016,7 +1016,7 @@
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 - [eh8/chenglab](https://github.com/eh8/chenglab) - a straightforward NixOS setup for my homelab and personal computers
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
-- [anialic/nixy](https://github.com/anialic/nixy) - Schema-driven configuration framework
+- [anialic/nixy](https://github.com/anialic/nixy) - A minimalist Nix framework decoupling configuration via schema, traits, and nodes. 
 - [darkone-linux/darkone-nixos-framework](https://github.com/darkone-linux/darkone-nixos-framework) - A multi-user, multi-host, multi-network NixOS configuration framework.
 - [adisbladis/adios](https://github.com/adisbladis/adios) - 
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
