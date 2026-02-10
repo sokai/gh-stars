@@ -1127,6 +1127,7 @@
 - [0xCCF4/noxa](https://github.com/0xCCF4/noxa) - Management tool for a multi-host NixOS configuration
 - [nicho92/MtgDesktopCompanion](https://github.com/nicho92/MtgDesktopCompanion) - Cards manager for magic the gathering
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+- [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
 
 ## nixos
 - [NixOS/nix-constitutional-assembly](https://github.com/NixOS/nix-constitutional-assembly) - Home of the Nix Constitutional Assembly, there to establish a community-based governance
