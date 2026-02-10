@@ -101,6 +101,7 @@
 
 ## C 
 
+- [sudo-project/sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [coredevices/PebbleOS](https://github.com/coredevices/PebbleOS) - 
 - [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will 
@@ -803,6 +804,7 @@
 - [sitespeedio/browsertime](https://github.com/sitespeedio/browsertime) - Measure and Optimize Web Performance
 - [SiegeEngineers/aoe2techtree](https://github.com/SiegeEngineers/aoe2techtree) - Age of Empires II Tech Tree
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
+- [LibreSign/libresign](https://github.com/LibreSign/libresign) - ✍️ Nextcloud app to sign PDF documents
 - [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign) - 🔥 The free & Open Source DocuSign alternative
 - [citizenspring/openletter](https://github.com/citizenspring/openletter) - Create an open letter and get people to sign it
 - [viicslen-nix/nixos](https://github.com/viicslen-nix/nixos) - 
@@ -1812,7 +1814,6 @@
 - [asbiin/laravel-webauthn](https://github.com/asbiin/laravel-webauthn) - Webauthn adapter for Laravel
 - [laradashboard/laradashboard](https://github.com/laradashboard/laradashboard) - ⚡ Lara Dashboard - CMS by Laravel - All In One solution to start your Laravel Application from Basic to Enterprise. Manages Users, Roles, Permissions, Modules, Settings, Translations, Contents, Monito
 - [kevquirk/journal](https://github.com/kevquirk/journal) - 
-- [LibreSign/libresign](https://github.com/LibreSign/libresign) - ✍️ Nextcloud app to sign PDF documents
 - [fruitcake/laravel-debugbar](https://github.com/fruitcake/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [lkrms/pretty-php](https://github.com/lkrms/pretty-php) - The opinionated PHP code formatter
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
@@ -2636,6 +2637,7 @@
 
 ## Rust 
 
+- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [thefossguy/nixos-needsreboot](https://github.com/thefossguy/nixos-needsreboot) - Determine if you need to reboot your NixOS machine
 - [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data.
 - [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
