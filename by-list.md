@@ -447,7 +447,7 @@
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [leahneukirchen/mblaze](https://github.com/leahneukirchen/mblaze) - Unix utilities to deal with Maildir
-- [McArthur-Alford/commonix](https://github.com/McArthur-Alford/commonix) - 
+- [mira-alford/commonix](https://github.com/mira-alford/commonix) - 
 - [OsiPog/nix-config](https://github.com/OsiPog/nix-config) - NixOS configurations for all of my systems
 - [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
 - [xdbr/fleet](https://github.com/xdbr/fleet) - 
@@ -1021,7 +1021,7 @@
 
 ## nix_nix
 - [Krutonium/NewNix](https://github.com/Krutonium/NewNix) - The latest version of my NixOS config, re-written.
-- [McArthur-Alford/commonix](https://github.com/McArthur-Alford/commonix) - 
+- [mira-alford/commonix](https://github.com/mira-alford/commonix) - 
 - [raydrivers/nixconfig](https://github.com/raydrivers/nixconfig) - My NixOS configuration
 - [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
 - [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - It’s not “just dotfiles” - it's extreme modularity that looks and feels like a NixOS flake. It's Voice-driven DevOps, it's a declarative home automation system, it's a self-contained auto-documenting monster.
@@ -1776,7 +1776,7 @@
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [leahneukirchen/mblaze](https://github.com/leahneukirchen/mblaze) - Unix utilities to deal with Maildir
 - [stepbrobd/autopilot](https://github.com/stepbrobd/autopilot) - flake parts with autoloading
-- [McArthur-Alford/commonix](https://github.com/McArthur-Alford/commonix) - 
+- [mira-alford/commonix](https://github.com/mira-alford/commonix) - 
 - [deltarocks/fleet](https://github.com/deltarocks/fleet) - NixOS cluster configuration tool
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [niksingh710/nsearch](https://github.com/niksingh710/nsearch) - Packages Search for Nixos/Nixpkgs
