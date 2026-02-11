@@ -71,6 +71,7 @@
 - [Text](#text)
 - [Twig](#twig)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
@@ -3132,6 +3133,10 @@
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [jkbrzt/rrule](https://github.com/jkbrzt/rrule) - JavaScript library for working with recurrence rules for calendar dates as defined in the iCalendar RFC and more.
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
+
+## Typst 
+
+- [drupol/master-thesis](https://github.com/drupol/master-thesis) - Pol Dellaiera's Master Thesis - Reproducibility In Software Engineering
 
 ## Vala 
 
