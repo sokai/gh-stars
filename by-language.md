@@ -2241,7 +2241,7 @@
 - [guzzle/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
 - [laravel/lumen](https://github.com/laravel/lumen) - The Laravel Lumen Framework.
 - [cocur/slugify](https://github.com/cocur/slugify) - Converts a string to a slug. Includes integrations for Symfony, Silex, Laravel, Zend Framework 2, Twig, Nette and Latte.
-- [DivineOmega/cachet.php](https://github.com/DivineOmega/cachet.php) - 📛 PHP client library for the Cachet API
+- [Jord-JD/cachet.php](https://github.com/Jord-JD/cachet.php) - 📛 PHP client library for the Cachet API
 - [multiOTP/multiotp](https://github.com/multiOTP/multiotp) - multiOTP open source strong two factor authentication PHP library, OATH certified, with TOTP, HOTP, Mobile-OTP, YubiKey, SMS, QRcode provisioning, etc.
 - [soderlind/read-offline](https://github.com/soderlind/read-offline) - Read Offline allows you to download posts and pages. You can download the post as PDF, ePub and markdown
 - [chnm/anthologize](https://github.com/chnm/anthologize) - Anthologize is a free, open-source, WordPress-based platform for publishing. Grab posts from your WordPress blog, pull  in feeds from external sites, or create new content directly in Anthologize. The
