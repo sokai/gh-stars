@@ -2123,7 +2123,7 @@
 - [netsensei/europeana](https://github.com/netsensei/europeana) - A PHP client library which implements the Europeana REST API (http://labs.europeana.eu/api)
 - [panique/huge](https://github.com/panique/huge) - Simple user-authentication solution, embedded into a small framework.
 - [desarrolla2/Cache](https://github.com/desarrolla2/Cache) - A simple cache library. Implements different adapters that you can use and change easily by a manager or similar.
-- [VisualAppeal/PHP-Auto-Update](https://github.com/VisualAppeal/PHP-Auto-Update) - PHP auto-update class. Let the user upgrade their installations automatically.
+- [codigyde/PHP-Auto-Update](https://github.com/codigyde/PHP-Auto-Update) - PHP auto-update class. Let the user upgrade their installations automatically.
 - [outroll/vesta](https://github.com/outroll/vesta) - VESTA Control Panel
 - [ltb-project/self-service-password](https://github.com/ltb-project/self-service-password) - Web interface to change and reset password in an LDAP directory
 - [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
