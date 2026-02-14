@@ -985,6 +985,7 @@
 - [nextcloud/tables](https://github.com/nextcloud/tables) - 🍱 Nextcloud tables app
 - [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix) - Manages Podman containers and networks on NixOS via Quadlet.
 - [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution featuring a user-friendly web interface for easy device management and connectivity.
+- [oddlama/kanidm-provision](https://github.com/oddlama/kanidm-provision) - A small utility to help with kanidm provisioning
 
 ## nix_blueprint
 - [OsiPog/nix-config](https://github.com/OsiPog/nix-config) - NixOS configurations for all of my systems
@@ -1332,6 +1333,7 @@
 - [GeopJr/Tuba](https://github.com/GeopJr/Tuba) - Browse the Fediverse
 - [cachix/secretspec](https://github.com/cachix/secretspec) - Declarative secrets, every environment, any provider.
 - [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution featuring a user-friendly web interface for easy device management and connectivity.
+- [oddlama/kanidm-provision](https://github.com/oddlama/kanidm-provision) - A small utility to help with kanidm provisioning
 
 ## personal
 - [srid/emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
@@ -1527,6 +1529,7 @@
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [sudo-project/sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user
 - [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution featuring a user-friendly web interface for easy device management and connectivity.
+- [oddlama/kanidm-provision](https://github.com/oddlama/kanidm-provision) - A small utility to help with kanidm provisioning
 
 ## smarthome
 - [tbnobody/OpenDTU](https://github.com/tbnobody/OpenDTU) - Software for ESP32 to talk to Hoymiles/TSUN/Solenso Inverters
@@ -1951,6 +1954,7 @@
 - [sudo-project/sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix) - Manages Podman containers and networks on NixOS via Quadlet.
+- [oddlama/kanidm-provision](https://github.com/oddlama/kanidm-provision) - A small utility to help with kanidm provisioning
 
 ## webdev
 - [thephpleague/flysystem](https://github.com/thephpleague/flysystem) - Abstraction for local and remote filesystems
