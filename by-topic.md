@@ -3061,6 +3061,7 @@
 
 ## others 
 
+- [oddlama/kanidm-provision](https://github.com/oddlama/kanidm-provision) - A small utility to help with kanidm provisioning
 - [Nriver/pocket-trilium](https://github.com/Nriver/pocket-trilium) - Trilium in my pocket :)
 - [drupol/master-thesis](https://github.com/drupol/master-thesis) - Pol Dellaiera's Master Thesis - Reproducibility In Software Engineering
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
@@ -4738,7 +4739,7 @@
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 - [panique/huge](https://github.com/panique/huge) - Simple user-authentication solution, embedded into a small framework.
-- [VisualAppeal/PHP-Auto-Update](https://github.com/VisualAppeal/PHP-Auto-Update) - PHP auto-update class. Let the user upgrade their installations automatically.
+- [codigyde/PHP-Auto-Update](https://github.com/codigyde/PHP-Auto-Update) - PHP auto-update class. Let the user upgrade their installations automatically.
 - [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
 - [ParvulaCMS/parvula](https://github.com/ParvulaCMS/parvula) - A simple & flexible CMS generated from flat files with a complete RESTful API
 - [DirectoryLister/DirectoryLister](https://github.com/DirectoryLister/DirectoryLister) - 📂 Directory Lister is the easiest way to expose the contents of any web-accessible folder for browsing and sharing.
