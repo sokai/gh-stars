@@ -4285,7 +4285,7 @@
 - [mosladil/handbrakecli](https://github.com/mosladil/handbrakecli) - Script for automatic conversion
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 - [mozilla/server-side-tls](https://github.com/mozilla/server-side-tls) - Server side TLS Tools
-- [DivineOmega/cachet.php](https://github.com/DivineOmega/cachet.php) - 📛 PHP client library for the Cachet API
+- [Jord-JD/cachet.php](https://github.com/Jord-JD/cachet.php) - 📛 PHP client library for the Cachet API
 - [chnm/anthologize](https://github.com/chnm/anthologize) - Anthologize is a free, open-source, WordPress-based platform for publishing. Grab posts from your WordPress blog, pull  in feeds from external sites, or create new content directly in Anthologize. The
 - [XLordKX/kodi](https://github.com/XLordKX/kodi) - kodi plugins & addons
 - [graulund/tweetnest](https://github.com/graulund/tweetnest) - NO LONGER MAINTAINED. MESSAGE ME IF YOU WANT TO MAINTAIN THIS. :) A browsable, searchable and easily customizable  archive and backup for your tweets
