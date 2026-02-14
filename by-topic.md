@@ -1182,6 +1182,7 @@
 
 ## docker 
 
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution featuring a user-friendly web interface for easy device management and connectivity.
 - [LinkStackOrg/linkstack-docker](https://github.com/LinkStackOrg/linkstack-docker) - A simple to set up docker variant of LinkStack. LinkStack is a highly customizable link sharing platform with an intuitive, easy to use user interface.
 - [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
@@ -1543,6 +1544,7 @@
 
 ## git 
 
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [bulletmark/edir](https://github.com/bulletmark/edir) - Program to rename, remove, and copy files and directories using your editor
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
@@ -1598,6 +1600,7 @@
 
 ## go 
 
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu
@@ -1635,6 +1638,7 @@
 
 ## golang 
 
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [aceeric/ociregistry](https://github.com/aceeric/ociregistry) - Golang pull-only, pull-through, caching OCI distribution server
@@ -5328,6 +5332,7 @@
 
 ## self-hosted 
 
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [LinkStackOrg/linkstack-docker](https://github.com/LinkStackOrg/linkstack-docker) - A simple to set up docker variant of LinkStack. LinkStack is a highly customizable link sharing platform with an intuitive, easy to use user interface.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -5544,6 +5549,7 @@
 
 ## tailwindcss 
 
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.) with JavaScript.
@@ -5661,6 +5667,7 @@
 
 ## typescript 
 
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
