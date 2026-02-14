@@ -911,7 +911,7 @@
 - [UshakovVasilii/gnome-shell-extension-freon](https://github.com/UshakovVasilii/gnome-shell-extension-freon) - Shows CPU temperature, disk temperature, video card temperature (NVIDIA/Catalyst/Bumblebee&NVIDIA), voltage and fan RPM
 - [riccardoscalco/textures](https://github.com/riccardoscalco/textures) - Textures.js is a JavaScript library for creating SVG patterns
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings and streams
 - [adaxi/audio-output-switcher](https://github.com/adaxi/audio-output-switcher) - Gnome Shell Extension: Adds a switch for choosing audio output to the system menu.
 - [anduchs/audio-input-switcher](https://github.com/anduchs/audio-input-switcher) - I discontinued working on this. Please see https://github.com/adaxi/audio-output-switcher
 - [fluorjs/fluor](https://github.com/fluorjs/fluor) - Sprinkle interactivity on your design
