@@ -1280,6 +1280,7 @@
 - [niksingh710/ndots](https://github.com/niksingh710/ndots) - NixOs/Nix Config using flake (flake-parts).
 - [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - It’s not “just dotfiles” - it's extreme modularity that looks and feels like a NixOS flake. It's Voice-driven DevOps, it's a declarative home automation system, it's a self-contained auto-documenting 
 - [Anomalocaridid/dotfiles](https://github.com/Anomalocaridid/dotfiles) - My personal dotfiles for NixOS
+- [vic/vix](https://github.com/vic/vix) - Vic's *Nix config.
 - [stepbrobd/dotfiles](https://github.com/stepbrobd/dotfiles) - yet another dotfiles repo with nix
 - [yunfachi/nix-config](https://github.com/yunfachi/nix-config) - My NixOS and Home Manager flake for all my hosts, built with Denix
 - [clo4/nix-dotfiles](https://github.com/clo4/nix-dotfiles) - Manages my nix-darwin Mac, standalone Home Manager Mac, and NixOS home server. Public domain, unless noted otherwise.
