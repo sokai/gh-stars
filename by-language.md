@@ -2213,7 +2213,7 @@
 - [oscarotero/simple-crud](https://github.com/oscarotero/simple-crud) - PHP library to provide magic CRUD in MySQL/Sqlite databases with zero configuration
 - [php-gettext/Gettext](https://github.com/php-gettext/Gettext) - PHP library to collect and manipulate gettext (.po, .mo, .php, .json, etc)
 - [andrey900/SlimCMS](https://github.com/andrey900/SlimCMS) - SlimCMS - lightweight CMS based on slim 3 framework
-- [idno/known](https://github.com/idno/known) - A social publishing platform.
+- [idno/idno](https://github.com/idno/idno) - A social publishing platform.
 - [jsoares/ttrss-plugin-feedstatistics](https://github.com/jsoares/ttrss-plugin-feedstatistics) - Simple feed statistics for Tiny Tiny RSS
 - [GerHobbelt/nicejson-php](https://github.com/GerHobbelt/nicejson-php) - A function to format JSON nicely with PHP.
 - [sentora/sentora-core](https://github.com/sentora/sentora-core) - Sentora is a web hosting control panel written in PHP for *NIX
