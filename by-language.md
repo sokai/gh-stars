@@ -2386,6 +2386,7 @@
 
 ## PowerShell 
 
+- [Chrystalkey/landtagszusammenfasser](https://github.com/Chrystalkey/landtagszusammenfasser) - Ein Versuch Landespolitik transparenter zu machen, inspiriert vom Bundestagszusammenfasser(bundestagszusammenfasser.de)
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 
 ## Puppet 
