@@ -842,7 +842,7 @@
 - [formtools/core](https://github.com/formtools/core) - The Form Tools Core.
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [andrey900/SlimCMS](https://github.com/andrey900/SlimCMS) - SlimCMS - lightweight CMS based on slim 3 framework
-- [idno/known](https://github.com/idno/known) - A social publishing platform.
+- [idno/idno](https://github.com/idno/idno) - A social publishing platform.
 - [zenphoto/zenphoto](https://github.com/zenphoto/zenphoto) - The Zenphoto open-source gallery and CMS project
 
 ## code 
@@ -4788,7 +4788,7 @@
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [krzysiekpiasecki/Gentelella](https://github.com/krzysiekpiasecki/Gentelella) - Welcome to Gentelella -  Responsive Bootstrap Admin Application based on the Foundation of Symfony and Gentelella!
 - [joshdick/miniProxy](https://github.com/joshdick/miniProxy) - 🚨⚠️ UNMAINTAINED!  ⚠️🚨 A simple PHP web proxy.
-- [idno/known](https://github.com/idno/known) - A social publishing platform.
+- [idno/idno](https://github.com/idno/idno) - A social publishing platform.
 - [sentora/sentora-core](https://github.com/sentora/sentora-core) - Sentora is a web hosting control panel written in PHP for *NIX
 - [claviska/SimpleImage](https://github.com/claviska/SimpleImage) - A PHP class that makes working with images and GD as simple as possible.
 - [pel/pel](https://github.com/pel/pel) - PHP Exif Library - library for reading and writing Exif headers in JPEG and TIFF files using PHP.
