@@ -754,6 +754,14 @@
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace.
+- [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
+- [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
+- [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
+- [pforret/bashew](https://github.com/pforret/bashew) - bash script micro-framework - from small stand-alone script to complex projects with CI/CD and testing
+- [ralish/bash-script-template](https://github.com/ralish/bash-script-template) - A best practices Bash script template with several useful functions
+- [neithere/argh](https://github.com/neithere/argh) - An argparse wrapper that doesn't make you say "argh" each time you deal with it.
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [sudo-project/sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 
@@ -925,7 +933,6 @@
 - [ourgal/snowfall](https://github.com/ourgal/snowfall) - NixOS dotfiles 
 - [bzLem0n/periodic](https://github.com/bzLem0n/periodic) - Personal Home-manager and NixOS configurations for the devices on the lem0n.zapto.org network.
 - [igoutta/nix-frastructure](https://github.com/igoutta/nix-frastructure) - Infrastructure based in nix language with Flakes, using the modularity given by Flakes.parts and import-tree. Currently just for TUF workbook.
-- [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
 - [oddlama/agenix-rekey](https://github.com/oddlama/agenix-rekey) - An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity
 - [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
@@ -947,6 +954,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
+- [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
@@ -1436,7 +1444,6 @@
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [despora/diaspora](https://github.com/despora/diaspora) - Distributed and contextual social networking. Repository of my custom Diaspora pod "Despora"
-- [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [adamoutler/HassOSArgonOneAddon](https://github.com/adamoutler/HassOSArgonOneAddon) - A Home Assistant Addon for Argon One Fan Control. 
 - [adamoutler/HassOSConfigurator](https://github.com/adamoutler/HassOSConfigurator) - A set of Add-Ons to configure HassOS For various platforms and development purposes.
 - [Argon40Tech/Argon-ONE-i2c-Codes](https://github.com/Argon40Tech/Argon-ONE-i2c-Codes) - This is a list of i2c Codes utilized by Argon ONE Raspberry Pi Cases
@@ -1451,6 +1458,7 @@
 - [KonradIT/HEROPebble](https://github.com/KonradIT/HEROPebble) - Unofficial GoPro App for Pebble smartwatches
 - [aveao/PebbleArchive](https://github.com/aveao/PebbleArchive) - Archives of various Pebble related files (as Pebble Technology Corp went bankrupt)
 - [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only.
+- [coredevices/PebbleOS](https://github.com/coredevices/PebbleOS) - 
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [nel0x/syncthing-android](https://github.com/nel0x/syncthing-android) - Syncthing - A Syncthing Wrapper for Android.
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
