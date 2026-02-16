@@ -1963,6 +1963,7 @@
 
 ## home-assistant 
 
+- [hassio-addons/addon-wireguard](https://github.com/hassio-addons/addon-wireguard) - WireGuard - Home Assistant Community Add-ons
 - [home-assistant/android](https://github.com/home-assistant/android) - Home Assistant Companion for Android
 - [jcwillox/hassio-rclone-backup](https://github.com/jcwillox/hassio-rclone-backup) - Home Assistant addon to automatically sync backups to remote locations using Rclone
 - [hg1337/homeassistant-dwd](https://github.com/hg1337/homeassistant-dwd) - Custom component for Home Assistant that integrates weather data (measurements and forecasts) of Deutscher Wetterdienst (DWD).
@@ -5800,6 +5801,7 @@
 
 ## vpn 
 
+- [hassio-addons/addon-wireguard](https://github.com/hassio-addons/addon-wireguard) - WireGuard - Home Assistant Community Add-ons
 - [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution featuring a user-friendly web interface for easy device management and connectivity.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data.
