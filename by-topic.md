@@ -3069,6 +3069,7 @@
 
 ## others 
 
+- [bcyran/jetkvm-wireguard-setup](https://github.com/bcyran/jetkvm-wireguard-setup) - Automated installation script and Docker-based cross-compilation environment for deploying WireGuard VPN on JetKVM devices.
 - [bigmoby/hassio-repository-addon](https://github.com/bigmoby/hassio-repository-addon) - Home Assistant Bigmoby Add-ons
 - [Chrystalkey/landtagszusammenfasser](https://github.com/Chrystalkey/landtagszusammenfasser) - Ein Versuch Landespolitik transparenter zu machen, inspiriert vom Bundestagszusammenfasser(bundestagszusammenfasser.de)
 - [oddlama/kanidm-provision](https://github.com/oddlama/kanidm-provision) - A small utility to help with kanidm provisioning
