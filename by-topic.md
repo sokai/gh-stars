@@ -2488,6 +2488,7 @@
 
 ## library 
 
+- [vic/flake-aspects](https://github.com/vic/flake-aspects) - fake.modules transposition for aspect-oriented Dendritic Nix with cross-aspect dependency resolution.
 - [asbiin/laravel-webauthn](https://github.com/asbiin/laravel-webauthn) - Webauthn adapter for Laravel
 - [azuyalabs/yasumi](https://github.com/azuyalabs/yasumi) - The easy PHP Library for calculating holidays
 - [meyfa/php-svg](https://github.com/meyfa/php-svg) - Vector graphics (SVG) library for PHP
@@ -3227,7 +3228,6 @@
 - [jippi/masto-guide](https://github.com/jippi/masto-guide) - 
 - [webtui/webtui](https://github.com/webtui/webtui) - 
 - [panr/terminal-css](https://github.com/panr/terminal-css) - A simple, classless set of semantic styles derived from Hugo Terminal Theme
-- [vic/flake-aspects](https://github.com/vic/flake-aspects) - fake.modules transposition for aspect-oriented Dendritic Nix. with cross-aspect dependencies. Mirror from https://tangled.org/oeiuwq.com/flake-aspects. Discussions at https://oeiuwq.zulipchat.com/join
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [olafkfreund/nixos-template](https://github.com/olafkfreund/nixos-template) - A  template to start  you nixos journey.
 - [danielmiessler/RobotsDisallowed](https://github.com/danielmiessler/RobotsDisallowed) - A curated list of the most common and most interesting robots.txt disallowed directories.
