@@ -1320,7 +1320,6 @@
 
 - [kdl-org/kdl](https://github.com/kdl-org/kdl) - the kdl document language specifications
 - [allotropia/nextcloud_files_libreoffice_edit](https://github.com/allotropia/nextcloud_files_libreoffice_edit) - Nextcloud App to edit files directly with LibreOffice (via WebDav)
-- [kika/fixedsys](https://github.com/kika/fixedsys) - Fixedsys Excelsior font with programming ligatures
 - [pipewire-debian/pipewire-debian](https://github.com/pipewire-debian/pipewire-debian) - Upstream Version of pipewire, wireplumber, roc-toolkit & blueman for debian/ubuntu
 - [jikamens/IMAPReceivedDate](https://github.com/jikamens/IMAPReceivedDate) - Thunderbird "IMAP Received Date" extension
 - [ungoogled-software/ungoogled-chromium-debian](https://github.com/ungoogled-software/ungoogled-chromium-debian) - Debian, Ubuntu, and others packaging for ungoogled-chromium
@@ -2725,6 +2724,7 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [mollyim/mollysocket](https://github.com/mollyim/mollysocket) - MollySocket allows getting Signal notifications via UnifiedPush.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [kika/fixedsys](https://github.com/kika/fixedsys) - Fixedsys Excelsior font with programming ligatures
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [tweag/genealogos](https://github.com/tweag/genealogos) - Genealogos, a Nix sbom generator
 - [nixops4/nixops4](https://github.com/nixops4/nixops4) - Deploy with Nix and manage resources declaratively
