@@ -272,6 +272,7 @@
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
 - [tabulapdf/tabula](https://github.com/tabulapdf/tabula) - Tabula is a tool for liberating data tables trapped inside PDF files
 - [deshack/melany](https://github.com/deshack/melany) - Melany, a simple responsive WordPress theme focused on content, everywhere.
+- [pfefferle/openwebicons](https://github.com/pfefferle/openwebicons) - A font!
 - [FH-Potsdam/fh-potsdam.github.com](https://github.com/FH-Potsdam/fh-potsdam.github.com) - Index of public and open source projects created at the University of Applied Sciences in Potsdam, Germany
 - [melle/ffp-webdesign](https://github.com/melle/ffp-webdesign) - Freifunk Potsdam website templates and skind
 - [murtaugh/HTML5-Reset](https://github.com/murtaugh/HTML5-Reset) - A simple set of best practices to get HTML5 projects off on the right foot.
@@ -622,7 +623,6 @@
 - [blueimp/Bootstrap-Image-Gallery](https://github.com/blueimp/Bootstrap-Image-Gallery) - This project is deprecated in favor of blueimp Gallery.
 - [javiereguiluz/easybook](https://github.com/javiereguiluz/easybook) - Book publishing as easy as it should be (built with Symfony components)
 - [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
-- [pfefferle/openwebicons](https://github.com/pfefferle/openwebicons) - A font!
 - [farhadi/html5sortable](https://github.com/farhadi/html5sortable) - Lightweight jQuery plugin to create sortable lists and grids using native HTML5 drag and drop API.
 - [taitems/jQuery.Gantt](https://github.com/taitems/jQuery.Gantt) - jQuery Gantt Chart
 - [marianoguerra/rst2html5](https://github.com/marianoguerra/rst2html5) - transform restructuredtext documents to html5 + twitter's bootstrap css, deck.js or reveal.js
@@ -1432,7 +1432,7 @@
 - [nifoc/dotfiles](https://github.com/nifoc/dotfiles) - Based on nixpkgs, nix-darwin and home-manager
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My entire infrastructure and computing environment.
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
-- [vic/den](https://github.com/vic/den) - Context-aware and aspect-oriented Dendritic Nix configuration framework.
+- [vic/den](https://github.com/vic/den) - Context-driven aspect-oriented Dendritic Nix configuration framework.
 - [vic/flake-aspects](https://github.com/vic/flake-aspects) - fake.modules transposition for aspect-oriented Dendritic Nix with cross-aspect dependency resolution.
 - [olafkfreund/nixos-template](https://github.com/olafkfreund/nixos-template) - A  template to start  you nixos journey.
 - [tejing1/flake-programdb](https://github.com/tejing1/flake-programdb) - Restore command-not-found behavior for flake-based nixos systems
