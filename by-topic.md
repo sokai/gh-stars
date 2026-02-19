@@ -3228,7 +3228,7 @@
 - [dudeofawesome/nix-config](https://github.com/dudeofawesome/nix-config) - A multi-machine, multi-arch, multi-user, multi-os Nix config
 - [quaoz/flake](https://github.com/quaoz/flake) - 
 - [lessuselesss/johnny-mnemonix](https://github.com/lessuselesss/johnny-mnemonix) - Agnostic Declarative Decimal System with johnny-decimal defaults
-- [vic/den](https://github.com/vic/den) - Context-aware and aspect-oriented Dendritic Nix configuration framework.
+- [vic/den](https://github.com/vic/den) - Context-driven aspect-oriented Dendritic Nix configuration framework.
 - [jippi/masto-guide](https://github.com/jippi/masto-guide) - 
 - [webtui/webtui](https://github.com/webtui/webtui) - 
 - [panr/terminal-css](https://github.com/panr/terminal-css) - A simple, classless set of semantic styles derived from Hugo Terminal Theme
