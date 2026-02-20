@@ -462,7 +462,7 @@
 - [alaouy/YouTube](https://github.com/alaouy/YouTube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
 - [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory is a secure, self-hosted enterprise data access platform that provides governed API access to any data source, connecting enterprise applications and on-prem LLMs with role-based access a
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
+- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
 - [OpenPodcastAPI/api-specs](https://github.com/OpenPodcastAPI/api-specs) - Open Podcast API specifications
 - [simPod/GrafanaJsonDatasource](https://github.com/simPod/GrafanaJsonDatasource) - Grafana datasource to load JSON data over your arbitrary HTTP backend
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -717,7 +717,7 @@
 
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [sitespeedio/browsertime](https://github.com/sitespeedio/browsertime) - Measure and Optimize Web Performance
-- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
+- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
@@ -1203,7 +1203,7 @@
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [cafkafk/rime](https://github.com/cafkafk/rime) - Nix Flake Input Versioning
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
+- [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
 - [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE
 - [origranot/reduced.to](https://github.com/origranot/reduced.to) - Free Modern URL Reducer. Make sure to share love by giving it a star.🌟 Have a great day!
 - [WardPearce/paaster](https://github.com/WardPearce/paaster) - Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confiden
