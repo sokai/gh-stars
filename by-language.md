@@ -2188,7 +2188,7 @@
 - [mnsami/composer-custom-directory-installer](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install differenty types of composer packages in custom directories outside the default composer default installation path which is in the vendor folder.
 - [claytondaley/yourls-api-delete](https://github.com/claytondaley/yourls-api-delete) - Plugin for YOURLS adding a "delete" action to the API
 - [phpmetrics/PhpMetrics](https://github.com/phpmetrics/PhpMetrics) - Beautiful and understandable static analysis tool for PHP
-- [froxlor/Froxlor](https://github.com/froxlor/Froxlor) - The server administration software for your needs - The official Froxlor development Git repository
+- [froxlor/froxlor](https://github.com/froxlor/froxlor) - The server administration software for your needs - The official Froxlor development Git repository
 - [PhotoBackup/server-php](https://github.com/PhotoBackup/server-php) - The PHP PhotoBackup server implementation
 - [mledoze/countries](https://github.com/mledoze/countries) - World countries in JSON, YAML, CSV and XML. Any help is welcome!
 - [danielmewes/php-rql](https://github.com/danielmewes/php-rql) - A PHP client driver for the RethinkDB query language (ReQL).
