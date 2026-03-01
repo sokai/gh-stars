@@ -538,7 +538,7 @@
 
 - [tolkonepiu/best-of-nix](https://github.com/tolkonepiu/best-of-nix) - 🏆  A ranked list of the best resources in the Nix community. Updated weekly.
 - [wearetechnative/awesome-flake-parts](https://github.com/wearetechnative/awesome-flake-parts) - A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [Frestein/awesome-stars](https://github.com/Frestein/awesome-stars) - 🌟 Frestein's starred repos, updated daily!
 - [Frestein/gaze-stars](https://github.com/Frestein/gaze-stars) - 🌟 Generate Awesome List from GitHub starred lists!
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
@@ -572,7 +572,7 @@
 
 - [tolkonepiu/best-of-nix](https://github.com/tolkonepiu/best-of-nix) - 🏆  A ranked list of the best resources in the Nix community. Updated weekly.
 - [wearetechnative/awesome-flake-parts](https://github.com/wearetechnative/awesome-flake-parts) - A curated list of awesome flake-parts resources, modules, and examples. Flake-parts is a framework for writing Nix Flakes.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [Frestein/awesome-stars](https://github.com/Frestein/awesome-stars) - 🌟 Frestein's starred repos, updated daily!
 - [Frestein/gaze-stars](https://github.com/Frestein/gaze-stars) - 🌟 Generate Awesome List from GitHub starred lists!
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
