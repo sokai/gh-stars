@@ -390,7 +390,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [inetaf/tcpproxy](https://github.com/inetaf/tcpproxy) - Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary)
-- [whyvl/wireproxy](https://github.com/whyvl/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
+- [windtf/wireproxy](https://github.com/windtf/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
 - [artem-russkikh/wireproxy-awg](https://github.com/artem-russkikh/wireproxy-awg) - AmneziaWG compatible wireguard client that exposes itself as a socks5 proxy
 - [zhangjiayin/caddy-geoip2](https://github.com/zhangjiayin/caddy-geoip2) - caddy-geoip2
 - [aablinov/caddy-geoip](https://github.com/aablinov/caddy-geoip) - Caddy plugin to resolve user GeoIP data
@@ -1428,7 +1428,7 @@
 - [nifoc/dotfiles](https://github.com/nifoc/dotfiles) - Based on nixpkgs, nix-darwin and home-manager
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My entire infrastructure and computing environment.
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
-- [vic/den](https://github.com/vic/den) - Context-driven aspect-oriented Dendritic Nix configurations
+- [vic/den](https://github.com/vic/den) - Aspect-oriented context-driven Dendritic Nix configurations
 - [vic/flake-aspects](https://github.com/vic/flake-aspects) - fake.modules transposition for aspect-oriented Dendritic Nix with cross-aspect dependency resolution.
 - [olafkfreund/nixos-template](https://github.com/olafkfreund/nixos-template) - A  template to start  you nixos journey.
 - [tejing1/flake-programdb](https://github.com/tejing1/flake-programdb) - Restore command-not-found behavior for flake-based nixos systems
