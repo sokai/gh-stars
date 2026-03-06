@@ -1104,6 +1104,7 @@
 - [theproductguy/ThreeDots](https://github.com/theproductguy/ThreeDots) - ThreeDots is a customizable jQuery plugin for the smart truncation of text.  It shortens provided text to fit specified dimensions and appends the desired ellipsis style if/when truncation occurs.
 - [LodLive/LodLive](https://github.com/LodLive/LodLive) - browse the web of data - a SPARQL navigator
 - [LeaVerou/talks-list](https://github.com/LeaVerou/talks-list) - Automatic talks list, generated from JSON. Unmaintained, use Mavo instead.
+- [owncloud/notes](https://github.com/owncloud/notes) - :notebook_with_decorative_cover: Notes app for ownCloud
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [tholman/zenpen](https://github.com/tholman/zenpen) - A minimalist writing zone.
 - [ajaxorg/ace-builds](https://github.com/ajaxorg/ace-builds) - Packaged version of Ace code editor
@@ -2917,7 +2918,6 @@
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [owncloud/impersonate](https://github.com/owncloud/impersonate) - Allow administrators to become a different user
-- [owncloud/notes](https://github.com/owncloud/notes) - :notebook_with_decorative_cover: Notes app for ownCloud
 
 ## Svelte 
 
