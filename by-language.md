@@ -2014,7 +2014,7 @@
 - [Admidio/admidio](https://github.com/Admidio/admidio) - Admidio is a free open source user management system for websites of organizations and groups. The system has a flexible role model so that it’s possible to reflect the structure and permissions of yo
 - [rmbinder/Geburtstagsliste](https://github.com/rmbinder/Geburtstagsliste) - Plugin Geburtstagsliste für die Online-Mitgliederverwaltung Admidio
 - [RocketMan/plugin-imap-user-auth](https://github.com/RocketMan/plugin-imap-user-auth) - IMAP User Authentication Plugin for Kanboard.  Login to Kanboard using your IMAP credentials.
-- [bbalet/jorani](https://github.com/bbalet/jorani) - Leave and Overtime Management System
+- [jorani/jorani](https://github.com/jorani/jorani) - Leave and Overtime Management System
 - [rmbinder/Mitgliedsbeitrag](https://github.com/rmbinder/Mitgliedsbeitrag) - Plugin Mitgliedsbeitrag für die Online-Mitgliederverwaltung Admidio
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [maxpozdeev/mytinytodo](https://github.com/maxpozdeev/mytinytodo) - Your tiny todo list
