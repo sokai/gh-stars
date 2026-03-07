@@ -3921,7 +3921,7 @@
 - [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found i
 - [rmbinder/Geburtstagsliste](https://github.com/rmbinder/Geburtstagsliste) - Plugin Geburtstagsliste für die Online-Mitgliederverwaltung Admidio
 - [RocketMan/plugin-imap-user-auth](https://github.com/RocketMan/plugin-imap-user-auth) - IMAP User Authentication Plugin for Kanboard.  Login to Kanboard using your IMAP credentials.
-- [bbalet/jorani](https://github.com/bbalet/jorani) - Leave and Overtime Management System
+- [jorani/jorani](https://github.com/jorani/jorani) - Leave and Overtime Management System
 - [dnsviz/dnsviz](https://github.com/dnsviz/dnsviz) - 
 - [rmbinder/Mitgliedsbeitrag](https://github.com/rmbinder/Mitgliedsbeitrag) - Plugin Mitgliedsbeitrag für die Online-Mitgliederverwaltung Admidio
 - [maxpozdeev/mytinytodo](https://github.com/maxpozdeev/mytinytodo) - Your tiny todo list
