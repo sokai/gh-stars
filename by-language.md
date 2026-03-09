@@ -1677,7 +1677,6 @@
 - [rose-pine/rose-pine-theme](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [pixelfed/mobile-app](https://github.com/pixelfed/mobile-app) - Placeholder app repo for issues
-- [r-pufky/docs](https://github.com/r-pufky/docs) - Generic service & computer documentation.
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [web-auth/doc](https://github.com/web-auth/doc) - Documentation
 - [yackermann/awesome-webauthn](https://github.com/yackermann/awesome-webauthn) - 🔐 A curated list of awesome WebAuthn and Passkey resources
@@ -2834,6 +2833,7 @@
 - [fertkir/utils](https://github.com/fertkir/utils) - Miscellaneous scripts
 - [crate-ci/gh-install](https://github.com/crate-ci/gh-install) - Install from github releases
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
+- [r-pufky/docs](https://github.com/r-pufky/docs) - Generic service & computer documentation.
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [mpalourdio/xps13](https://github.com/mpalourdio/xps13) - :neckbeard: DELL xps13 2015 (9343) Linux Support
 - [warnerbryce/DocumentServer](https://github.com/warnerbryce/DocumentServer) - ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and en
