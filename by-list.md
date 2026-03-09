@@ -1063,7 +1063,16 @@
 
 ## nix_dendritic
 
-- No repositories
+- [vic/vix](https://github.com/vic/vix) - Vic's *Nix config (dotfiles for many unixes)
+- [mariolopjr/infra](https://github.com/mariolopjr/infra) - 
+- [esselius/kfg](https://github.com/esselius/kfg) - 
+- [vic/den](https://github.com/vic/den) - Aspect-oriented, context-driven Dendritic Nix configurations
+- [mzonski/nixos-config](https://github.com/mzonski/nixos-config) - 
+- [songpola/nixos-config](https://github.com/songpola/nixos-config) - 
+- [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
+- [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
+- [getchoo/froyo](https://github.com/getchoo/froyo) - 🍨 A tasteful way to organize your Nix code
+- [Codys-Wright/nix-config](https://github.com/Codys-Wright/nix-config) - 
 
 <a name="nix_hjem"></a>
 
