@@ -629,7 +629,6 @@
 - [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 - [swisnl/jQuery-contextMenu](https://github.com/swisnl/jQuery-contextMenu) - jQuery contextMenu plugin & polyfill
 - [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
-- [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [docbook/xslt20-stylesheets](https://github.com/docbook/xslt20-stylesheets) - These are the XSLT 2.0 (or later) stylesheets for DocBook
 - [desandro/masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout plugin
 
@@ -1180,6 +1179,7 @@
 - [zmack/jquery-expandable](https://github.com/zmack/jquery-expandable) - A jQuery plugin that auto-expands textareas to fit the contents as a user types.
 - [briancray/tooltipsy](https://github.com/briancray/tooltipsy) - Introducing a jQuery tooltip plugin for control-obsessed designers.
 - [megolla/S6](https://github.com/megolla/S6) - S6 – HTML5 Presentations
+- [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [LeaVerou/inspire.js](https://github.com/LeaVerou/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
 - [zurb/flickrbomb](https://github.com/zurb/flickrbomb) - flickrBomb provides an easy way for you to fill your prototypes with relevant content, and not just those dull gray placeholder images.
 - [fnagel/jquery-ui](https://github.com/fnagel/jquery-ui) - A fork of jQuery UI: WIP branches, legacy Selectmenu Widget (branch: selectmenu) and an accessible version of jQuery UI Tabs (outdated, branch: tabs accessability)
