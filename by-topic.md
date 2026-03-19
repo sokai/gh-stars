@@ -5844,6 +5844,7 @@
 - [LibreSign/libresign](https://github.com/LibreSign/libresign) - ✍️ Nextcloud app to sign PDF documents
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [nextcloud/forms](https://github.com/nextcloud/forms) - 📝 Simple form & survey app for Nextcloud
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 - [mimecorg/webissues](https://github.com/mimecorg/webissues) - WebIssues team collaboration system.
@@ -5868,7 +5869,6 @@
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [nextcloud/forms](https://github.com/nextcloud/forms) - 📝 Simple form & survey app for Nextcloud
-- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [statping-ng/statping-ng](https://github.com/statping-ng/statping-ng) - An updated drop-in for statping. A Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
