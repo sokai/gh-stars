@@ -419,7 +419,7 @@
 - [outline/outline-icons](https://github.com/outline/outline-icons) - An iconset designed for the team knowledgebase Outline, but open to all. 
 - [nix-community/flakelight](https://github.com/nix-community/flakelight) - Framework for simplifying flake setup [maintainer=@accelbread]
 - [PrimaMateria/nixos-hive](https://github.com/PrimaMateria/nixos-hive) - PrimaMateria's NixOS configuration
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [rophy/kutt](https://github.com/rophy/kutt) - Free Modern URL Shortener.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [BoidCMS/BoidCMS](https://github.com/BoidCMS/BoidCMS) - Flat file CMS for building simple websites and blogs
@@ -720,7 +720,7 @@
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [boffbowsh/nix-lancache](https://github.com/boffbowsh/nix-lancache) - A Flake for running LanCache.net on NixOS
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [BoidCMS/BoidCMS](https://github.com/BoidCMS/BoidCMS) - Flat file CMS for building simple websites and blogs
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
@@ -1404,7 +1404,7 @@
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace.
 - [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
@@ -1595,7 +1595,7 @@
 - [jsha/unboundtest](https://github.com/jsha/unboundtest) - Web service to test DNS resolution against Unbound with config similar to Let's Encrypt
 - [pipelight/boulette](https://github.com/pipelight/boulette) - A terminal confirmation prompt that prevents you from accidentally damaging remote hosts.
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [openmls/openmls](https://github.com/openmls/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol
 - [wireapp/wire-server](https://github.com/wireapp/wire-server) - 🇪🇺 Wire back-end services
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
@@ -1820,7 +1820,7 @@
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [UrAvgCode/Chooser](https://github.com/UrAvgCode/Chooser) - An Android app to randomly select fingers on the screen
 - [brainhivenl/steiger](https://github.com/brainhivenl/steiger) - High-performance container build orchestrator with native Bazel, Nix and Docker BuildKit
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [rophy/kutt](https://github.com/rophy/kutt) - Free Modern URL Shortener.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [BoidCMS/BoidCMS](https://github.com/BoidCMS/BoidCMS) - Flat file CMS for building simple websites and blogs
@@ -2296,7 +2296,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [Qloapps/QloApps](https://github.com/Qloapps/QloApps) - QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps offers a Property Management System (PMS), a Booking Engine, and an attractive Hotel Website. Elevate hotel operations with QloApps to streamline processes and provide an enhanced experience for both hoteliers and guests.
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
