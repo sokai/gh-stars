@@ -4367,7 +4367,7 @@
 - [scottkosty/install-tl-ubuntu](https://github.com/scottkosty/install-tl-ubuntu) - Install script for TeX Live on Ubuntu
 - [ThinkUpLLC/ThinkUp](https://github.com/ThinkUpLLC/ThinkUp) - ThinkUp gives you insights into your social networking activity on Twitter, Facebook, Instagram, and beyond.
 - [themehybrid/hybrid-core](https://github.com/themehybrid/hybrid-core) - Official repository for the Hybrid Core WordPress development framework.
-- [HowardMei/slimjp](https://github.com/HowardMei/slimjp) - Security maintenance update for existing users only and a new plugin is under development to replace it. Rename to "Slimjp" to avoid trademark concerns from Automattic.
+- [LeoMeiH/slimjp](https://github.com/LeoMeiH/slimjp) - Security maintenance update for existing users only and a new plugin is under development to replace it. Rename to "Slimjp" to avoid trademark concerns from Automattic.
 - [owncloud/notes](https://github.com/owncloud/notes) - :notebook_with_decorative_cover: Notes app for ownCloud
 - [sayakb/sticky-notes](https://github.com/sayakb/sticky-notes) - Sticky notes is a free open-source pastebin application.
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
