@@ -2503,7 +2503,7 @@
 
 ## library 
 
-- [vic/flake-aspects](https://github.com/vic/flake-aspects) - fake.modules transposition for aspect-oriented Dendritic Nix with cross-aspect dependency resolution.
+- [vic/flake-aspects](https://github.com/vic/flake-aspects) - flake.modules transposition for aspect-oriented Dendritic Nix with cross-aspect dependency resolution.
 - [asbiin/laravel-webauthn](https://github.com/asbiin/laravel-webauthn) - Webauthn adapter for Laravel
 - [azuyalabs/yasumi](https://github.com/azuyalabs/yasumi) - The easy PHP Library for calculating holidays
 - [meyfa/php-svg](https://github.com/meyfa/php-svg) - Vector graphics (SVG) library for PHP
