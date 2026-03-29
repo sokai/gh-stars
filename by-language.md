@@ -429,7 +429,7 @@
 - [restic/rest-server](https://github.com/restic/rest-server) - Rest Server is a high performance HTTP server that implements restic's REST backend API.
 - [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server
-- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal
+- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
 - [FiloSottile/captive-browser](https://github.com/FiloSottile/captive-browser) - A dedicated Chrome instance to log into captive portals without messing with DNS settings.
 - [jsha/unboundtest](https://github.com/jsha/unboundtest) - Web service to test DNS resolution against Unbound with config similar to Let's Encrypt
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
