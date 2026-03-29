@@ -3088,6 +3088,7 @@
 
 ## others 
 
+- [abdalmoniem/Caffeinate](https://github.com/abdalmoniem/Caffeinate) - Caffeinate is an App that helps android developers Keep their phone's screen On while developing
 - [bcyran/jetkvm-wireguard-setup](https://github.com/bcyran/jetkvm-wireguard-setup) - Automated installation script and Docker-based cross-compilation environment for deploying WireGuard VPN on JetKVM devices.
 - [bigmoby/hassio-repository-addon](https://github.com/bigmoby/hassio-repository-addon) - Home Assistant Bigmoby Add-ons
 - [Chrystalkey/landtagszusammenfasser](https://github.com/Chrystalkey/landtagszusammenfasser) - Ein Versuch Landespolitik transparenter zu machen, inspiriert vom Bundestagszusammenfasser(bundestagszusammenfasser.de)
