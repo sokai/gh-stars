@@ -1150,7 +1150,7 @@
 - [tiiuae/ghaf](https://github.com/tiiuae/ghaf) - TII SSRC Secure Technologies: Ghaf Framework
 - [soulwhisper/nix-config](https://github.com/soulwhisper/nix-config) - 
 - [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - Lan Tian's NixOS Configuration
-- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh]
 - [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - 
 - [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - my over complex system configurations 
@@ -1951,7 +1951,7 @@
 - [traccar/traccar-client](https://github.com/traccar/traccar-client) - Traccar Client app
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh]
 - [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 - [php-feed-io/feed-io](https://github.com/php-feed-io/feed-io) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
 - [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
