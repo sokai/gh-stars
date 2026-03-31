@@ -1556,7 +1556,7 @@
 - [leona-ya/nixfiles](https://github.com/leona-ya/nixfiles) - 
 - [fooker/dns.nix](https://github.com/fooker/dns.nix) - NixOS module for DNS zone declaration
 - [Janik-Haag/nixbox](https://github.com/Janik-Haag/nixbox) - nix ipam implantation - your documentation is your configuration
-- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh]
 - [telent/liminix](https://github.com/telent/liminix) - Mirror of gti.telent.net:dan/liminix
 - [D4ndellion/nixos-matrix-modules](https://github.com/D4ndellion/nixos-matrix-modules) - NixOS modules for matrix related services
 - [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - Lan Tian's NixOS Configuration
