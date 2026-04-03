@@ -98,7 +98,6 @@
 ## Blade 
 
 - [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit) - 
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [coreui/coreui-free-laravel-admin-template](https://github.com/coreui/coreui-free-laravel-admin-template) - CoreUI Free Laravel Bootstrap Admin Template
 
 ## C 
@@ -895,6 +894,7 @@
 - [oscarmorrison/md-page](https://github.com/oscarmorrison/md-page) - 📝 create a webpage with just markdown
 - [eonpatapon/gnome-shell-extension-caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine) - Disable screensaver and auto suspend
 - [awesomemotive/all-in-one-seo-pack](https://github.com/awesomemotive/all-in-one-seo-pack) - All in One SEO plugin for WordPress SEO
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [jquery/jquery-migrate](https://github.com/jquery/jquery-migrate) - A development tool to help migrate away from APIs and features that have been or will be removed from jQuery core
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [nextcloud/files_texteditor](https://github.com/nextcloud/files_texteditor) - :page_facing_up: Text editor for plaintext files
