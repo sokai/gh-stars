@@ -3385,7 +3385,6 @@
 - [3333juul/snowflake](https://github.com/3333juul/snowflake) - 
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [nukdokplex/ncaa](https://github.com/nukdokplex/ncaa) - A collection of crap to make my hosts boot and some other prekoldesses
 - [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
 - [bryanhonof/webtech-compose](https://github.com/bryanhonof/webtech-compose) - 
 - [jfly/snow](https://github.com/jfly/snow) - 
