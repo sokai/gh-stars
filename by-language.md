@@ -698,7 +698,6 @@
 - [TheOkayJK/Android-Files-Shortcut](https://github.com/TheOkayJK/Android-Files-Shortcut) - A simple fast shortcut for the hidden files app on android
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [sk22/megalodon](https://github.com/sk22/megalodon) - Abandoned. Pink modification of the official Mastodon for Android app
-- [m-i-n-a-r/randomix](https://github.com/m-i-n-a-r/randomix) - 🎲 An open source app to choose randomly between numbers, answers, options and so on
 - [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy
 - [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Customizable, privacy‑first, open-source clock app inspired by AOSP Clock
 - [SecUSo/privacy-friendly-solitaire](https://github.com/SecUSo/privacy-friendly-solitaire) - Privacy Friendly App to play Solitaire.
@@ -1266,6 +1265,7 @@
 - [oxygen-updater/oxygen-updater](https://github.com/oxygen-updater/oxygen-updater) - Oxygen Updater is a third-party app for OnePlus devices that allows you to install official OTA (over-the-air) updates ASAP. Ensure your device is up-to-date — it's quick, easy, and free!
 - [bitfireAT/icsx5](https://github.com/bitfireAT/icsx5) - ICSx⁵ is an Android app to subscribe to remote or local iCalendar files (like time tables of your school/university or event files of your sports team).
 - [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
+- [m-i-n-a-r/randomix](https://github.com/m-i-n-a-r/randomix) - 🎲 An open source app to choose randomly between numbers, answers, options and so on
 - [MatteCarra/AccA](https://github.com/MatteCarra/AccA) - Acc app allows to edit acc config file and add a tile to start and stop acc deamon
 - [csicar/Ning](https://github.com/csicar/Ning) - Network-Scanner for Android
 - [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app
