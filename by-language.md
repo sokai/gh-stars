@@ -1962,7 +1962,7 @@
 - [aaroneaton/better-yourls](https://github.com/aaroneaton/better-yourls) - Source code for the Better YOURLS WordPress plugin
 - [pluginkollektiv/blacklist-updater](https://github.com/pluginkollektiv/blacklist-updater) - Automatic updating of the comment blacklist in WordPress with antispam keys from GitHub.
 - [pluginkollektiv/cachify](https://github.com/pluginkollektiv/cachify) - Smart but efficient cache solution for WordPress. Use DB, HDD, APC or Memcached for storing your blog pages. Make WordPress faster!
-- [PHPSocialNetwork/phpfastcache](https://github.com/PHPSocialNetwork/phpfastcache) - A high-performance backend cache system.  It is intended for use in speeding up dynamic web applications by alleviating database load.  Well implemented, it can drops the database load to almost nothi
+- [TruCopilot/phpfastcache](https://github.com/TruCopilot/phpfastcache) - A high-performance backend cache system.  It is intended for use in speeding up dynamic web applications by alleviating database load.  Well implemented, it can drops the database load to almost nothi
 - [hybridauth/hybridauth](https://github.com/hybridauth/hybridauth) - Open source social sign on PHP Library. HybridAuth goal is to act as an abstract api between your application and various social apis and identities providers such as Facebook, Twitter and Google.
 - [creecros/Group_assign](https://github.com/creecros/Group_assign) - Kanboard Plugin to Assign Tasks to Groups and multiple users
 - [docpht/docpht](https://github.com/docpht/docpht) - With DocPHT you can take notes and quickly document anything and without the use of any database.
