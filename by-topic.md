@@ -3253,7 +3253,7 @@
 - [dudeofawesome/nix-config](https://github.com/dudeofawesome/nix-config) - A multi-machine, multi-arch, multi-user, multi-os Nix config
 - [quaoz/flake](https://github.com/quaoz/flake) - 
 - [lessuselesss/johnny-mnemonix](https://github.com/lessuselesss/johnny-mnemonix) - Agnostic Declarative Decimal System with johnny-decimal defaults
-- [vic/den](https://github.com/vic/den) - Aspect-oriented, context-driven Dendritic Nix configurations
+- [vic/den](https://github.com/vic/den) - Aspect-oriented, context-driven Dendritic Nix configurations. [maintainer = @vic, @sini, @HeitorAugustoLN, @Gwenodai, @theutz]
 - [jippi/masto-guide](https://github.com/jippi/masto-guide) - 
 - [webtui/webtui](https://github.com/webtui/webtui) - 
 - [panr/terminal-css](https://github.com/panr/terminal-css) - A simple, classless set of semantic styles derived from Hugo Terminal Theme
@@ -3479,7 +3479,7 @@
 - [qwd/Icons](https://github.com/qwd/Icons) - 和风天气开源图标字体库 Open source weather icons && fonts for QWeather
 - [Tomorrow-IO-API/tomorrow-weather-codes](https://github.com/Tomorrow-IO-API/tomorrow-weather-codes) - The official collection of Tomorrow.io weather icons
 - [bundesAPI/dwd-api](https://github.com/bundesAPI/dwd-api) - 
-- [basmilius/weather-icons](https://github.com/basmilius/weather-icons) - Free to use animated weather icons.
+- [basmilius/meteocons](https://github.com/basmilius/meteocons) - Weather icons that feel alive. Beautiful, hand-crafted animated weather icons.
 - [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
 - [haennes/dotfiles](https://github.com/haennes/dotfiles) - 
 - [RackTables/racktables](https://github.com/RackTables/racktables) - RackTables current development repository
