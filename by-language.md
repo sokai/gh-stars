@@ -987,6 +987,7 @@
 - [notepadqq/notepadqq](https://github.com/notepadqq/notepadqq) - A simple, general-purpose editor for Linux
 - [PolymerElements/font-roboto-local](https://github.com/PolymerElements/font-roboto-local) - 
 - [orbitaloop/WebSqlSync](https://github.com/orbitaloop/WebSqlSync) - Synchronize a local WebSQL DB to a server
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [documentcloud/document-viewer](https://github.com/documentcloud/document-viewer) - The NYTimes Document Viewer
 - [tuupola/lazyload](https://github.com/tuupola/lazyload) - Vanilla JavaScript plugin for lazyloading images
@@ -2115,7 +2116,6 @@
 - [jacklenox/susty](https://github.com/jacklenox/susty) - 🌍 A tiny WordPress theme focused on being as  sustainable as possible. https://sustywp.com
 - [ColorlibHQ/Activello](https://github.com/ColorlibHQ/Activello) - WordPress Bootstrap blog theme with doeznes of options using WordPress Customizer
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
-- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
 - [sbriskin/ifconfig.php](https://github.com/sbriskin/ifconfig.php) - Simple PHP script to show IP, UserAgent and some other info like ifconfig.me do.
 - [netsensei/europeana](https://github.com/netsensei/europeana) - A PHP client library which implements the Europeana REST API (http://labs.europeana.eu/api)
