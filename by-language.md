@@ -2665,7 +2665,7 @@
 - [nilla-nix/cli](https://github.com/nilla-nix/cli) - The command line interface for working with Nilla projects.
 - [feel-co/ndg](https://github.com/feel-co/ndg) - NDG: Not a Docs Generator
 - [openmls/openmls](https://github.com/openmls/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol
-- [sysid/bkmr](https://github.com/sysid/bkmr) - A Unified CLI Tool for Bookmark, Snippet, and Knowledge Management
+- [sysid/bkmr](https://github.com/sysid/bkmr) - Knowledge Management for Humans and Agents
 - [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - A cross-platform network monitoring terminal UI tool built with Rust.
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
