@@ -754,7 +754,7 @@
 - [hedgedoc/cli](https://github.com/hedgedoc/cli) - A tiny CLI for HedgeDoc
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [paldepind/projectdo](https://github.com/paldepind/projectdo) - Context-aware single-letter project commands to speed up your terminal workflow.
-- [sysid/bkmr](https://github.com/sysid/bkmr) - A Unified CLI Tool for Bookmark, Snippet, and Knowledge Management
+- [sysid/bkmr](https://github.com/sysid/bkmr) - Knowledge Management for Humans and Agents
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [zk-org/zk](https://github.com/zk-org/zk) - Plain text note-taking assistant
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
@@ -5214,7 +5214,7 @@
 - [timothebot/lacy](https://github.com/timothebot/lacy) - Fast magical cd alternative for lacy terminal navigators
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [openmls/openmls](https://github.com/openmls/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol
-- [sysid/bkmr](https://github.com/sysid/bkmr) - A Unified CLI Tool for Bookmark, Snippet, and Knowledge Management
+- [sysid/bkmr](https://github.com/sysid/bkmr) - Knowledge Management for Humans and Agents
 - [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust.
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [mozilla-services/autopush-rs](https://github.com/mozilla-services/autopush-rs) - Push Server in Rust
@@ -5513,7 +5513,7 @@
 ## sqlite 
 
 - [catfan/Medoo](https://github.com/catfan/Medoo) - The lightweight PHP database framework to accelerate the development.
-- [sysid/bkmr](https://github.com/sysid/bkmr) - A Unified CLI Tool for Bookmark, Snippet, and Knowledge Management
+- [sysid/bkmr](https://github.com/sysid/bkmr) - Knowledge Management for Humans and Agents
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
