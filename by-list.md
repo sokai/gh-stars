@@ -1101,7 +1101,7 @@
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
 - [edouardparis/nixos-config](https://github.com/edouardparis/nixos-config) - 
 - [jakubgs/nixos-config](https://github.com/jakubgs/nixos-config) - Configuration for my hosts running NixOS
-- [SchweGELBin/nix-config](https://github.com/SchweGELBin/nix-config) - My Nix configs
+- [SchweGELBin/nix-config](https://github.com/SchweGELBin/nix-config) - SchweGELBin's Nix configs
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [faukah/dix](https://github.com/faukah/dix) - Diff Nix
 - [thefossguy/nixos-needsreboot](https://github.com/thefossguy/nixos-needsreboot) - Determine if you need to reboot your NixOS machine
