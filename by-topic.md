@@ -1286,7 +1286,7 @@
 - [cameronraysmith/vanixiets](https://github.com/cameronraysmith/vanixiets) - ❄️ van niets iets ⚙️ infrastructure from "nix" with flake-parts and clan
 - [msfjarvis/dotfiles](https://github.com/msfjarvis/dotfiles) - I definitely don't understand the 'dot' concept
 - [hyperparabolic/nix-config](https://github.com/hyperparabolic/nix-config) - Multihost nixos flake and scripts focused on reproducibility
-- [niksingh710/ndots](https://github.com/niksingh710/ndots) - NixOs/Nix Config using flake (flake-parts).
+- [semi710/ndots](https://github.com/semi710/ndots) - NixOs/Nix Config using flake (flake-parts).
 - [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - It’s not “just dotfiles” - it's extreme modularity that looks and feels like a NixOS flake. It's Voice-driven DevOps, it's a declarative home automation system, it's a self-contained auto-documenting 
 - [Anomalocaridid/dotfiles](https://github.com/Anomalocaridid/dotfiles) - My personal dotfiles for NixOS
 - [vic/vix](https://github.com/vic/vix) - Vic's *Nix config (dotfiles for many unixes)
@@ -3214,7 +3214,7 @@
 - [T0PSH31F/Grandline-Gang](https://github.com/T0PSH31F/Grandline-Gang) - NixOS configuration for luffy machine using clan-core flake-parts template
 - [stepbrobd/autopilot](https://github.com/stepbrobd/autopilot) - flake parts with autoloading
 - [platomav/CPUMicrocodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA & Freescale CPU Microcode Repositories
-- [niksingh710/nsearch](https://github.com/niksingh710/nsearch) - Packages Search for Nixos/Nixpkgs
+- [semi710/nsearch](https://github.com/semi710/nsearch) - Packages Search for Nixos/Nixpkgs
 - [mariolopjr/infra](https://github.com/mariolopjr/infra) - 
 - [brittonr/clan-user-proposal](https://github.com/brittonr/clan-user-proposal) - 
 - [jpoliv/wakeonlan](https://github.com/jpoliv/wakeonlan) - Perl script for waking up computers via Wake-On-LAN magic packets
