@@ -1366,7 +1366,7 @@
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [cid-chan/urknall](https://github.com/cid-chan/urknall) - Nix Module System for Infrastructure Provisioning
 - [Codys-Wright/nix-config](https://github.com/Codys-Wright/nix-config) - 
-- [niksingh710/ndots](https://github.com/niksingh710/ndots) - NixOs/Nix Config using flake (flake-parts).
+- [semi710/ndots](https://github.com/semi710/ndots) - NixOs/Nix Config using flake (flake-parts).
 - [oake/nix-things](https://github.com/oake/nix-things) - 
 - [anna-oake/nixos-config](https://github.com/anna-oake/nixos-config) - 
 - [soulwhisper/nix-config](https://github.com/soulwhisper/nix-config) - 
@@ -1403,7 +1403,7 @@
 - [T0PSH31F/Grandline-Gang](https://github.com/T0PSH31F/Grandline-Gang) - NixOS configuration for luffy machine using clan-core flake-parts template
 - [stepbrobd/autopilot](https://github.com/stepbrobd/autopilot) - flake parts with autoloading
 - [e-tho/ucodenix](https://github.com/e-tho/ucodenix) - Microcode updates for AMD CPUs on NixOS
-- [niksingh710/nsearch](https://github.com/niksingh710/nsearch) - Packages Search for Nixos/Nixpkgs
+- [semi710/nsearch](https://github.com/semi710/nsearch) - Packages Search for Nixos/Nixpkgs
 - [mariolopjr/infra](https://github.com/mariolopjr/infra) - 
 - [brittonr/clan-user-proposal](https://github.com/brittonr/clan-user-proposal) - 
 - [binarin/nixos-config](https://github.com/binarin/nixos-config) - NixOS configurations for all my machines
