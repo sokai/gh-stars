@@ -3479,7 +3479,7 @@
 - [qwd/Icons](https://github.com/qwd/Icons) - 和风天气开源图标字体库 Open source weather icons && fonts for QWeather
 - [Tomorrow-IO-API/tomorrow-weather-codes](https://github.com/Tomorrow-IO-API/tomorrow-weather-codes) - The official collection of Tomorrow.io weather icons
 - [bundesAPI/dwd-api](https://github.com/bundesAPI/dwd-api) - 
-- [basmilius/meteocons](https://github.com/basmilius/meteocons) - Weather icons that feel alive. Beautiful, hand-crafted animated weather icons.
+- [basmilius/meteocons](https://github.com/basmilius/meteocons) - Beautiful, hand-crafted animated weather icons that feel alive.
 - [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
 - [haennes/dotfiles](https://github.com/haennes/dotfiles) - 
 - [RackTables/racktables](https://github.com/RackTables/racktables) - RackTables current development repository
