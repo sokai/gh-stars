@@ -1756,6 +1756,7 @@
 
 ## hacktoberfest 
 
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution featuring a user-friendly web interface for easy device management and connectivity.
 - [nextcloud/tables](https://github.com/nextcloud/tables) - 🍱 Nextcloud tables app
 - [oz123/coredns-netbox-plugin](https://github.com/oz123/coredns-netbox-plugin) - A coredns plugin to get dns records from Netbox
@@ -3101,6 +3102,7 @@
 
 ## others 
 
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
 - [abdalmoniem/Caffeinate](https://github.com/abdalmoniem/Caffeinate) - Caffeinate is an App that helps android developers Keep their phone's screen On while developing
 - [bcyran/jetkvm-wireguard-setup](https://github.com/bcyran/jetkvm-wireguard-setup) - Automated installation script and Docker-based cross-compilation environment for deploying WireGuard VPN on JetKVM devices.
 - [bigmoby/hassio-repository-addon](https://github.com/bigmoby/hassio-repository-addon) - Home Assistant Bigmoby Add-ons
@@ -5158,6 +5160,7 @@
 
 ## reactjs 
 
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 - [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit. Built with Django and React.
