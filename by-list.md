@@ -134,6 +134,8 @@
 - [komoot/photon](https://github.com/komoot/photon) - an open source geocoder for openstreetmap data
 - [Chrystalkey/landtagszusammenfasser](https://github.com/Chrystalkey/landtagszusammenfasser) - Ein Versuch Landespolitik transparenter zu machen, inspiriert vom Bundestagszusammenfasser(bundestagszusammenfasser.de)
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 
 <a name="backup"></a>
 
@@ -191,6 +193,7 @@
 - [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
 
 <a name="dev"></a>
 
@@ -583,6 +586,8 @@
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [Chrystalkey/landtagszusammenfasser](https://github.com/Chrystalkey/landtagszusammenfasser) - Ein Versuch Landespolitik transparenter zu machen, inspiriert vom Bundestagszusammenfasser(bundestagszusammenfasser.de)
 - [bcyran/jetkvm-wireguard-setup](https://github.com/bcyran/jetkvm-wireguard-setup) - Automated installation script and Docker-based cross-compilation environment for deploying WireGuard VPN on JetKVM devices.
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
+- [cinnyapp/cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 
 <a name="knowledge"></a>
 
