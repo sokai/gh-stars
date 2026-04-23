@@ -434,6 +434,7 @@
 - [foks-proj/go-foks](https://github.com/foks-proj/go-foks) - Go implementation of FOKS -- client and server
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart tmux session manager
 - [FiloSottile/captive-browser](https://github.com/FiloSottile/captive-browser) - A dedicated Chrome instance to log into captive portals without messing with DNS settings.
+- [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch,@nyarly]
 - [jsha/unboundtest](https://github.com/jsha/unboundtest) - Web service to test DNS resolution against Unbound with config similar to Let's Encrypt
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
 - [corazawaf/coraza-caddy](https://github.com/corazawaf/coraza-caddy) - OWASP Coraza middleware for Caddy. It provides Web Application Firewall capabilities
@@ -2696,7 +2697,6 @@
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
-- [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch,@nyarly]
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [Magic-JD/is-fast](https://github.com/Magic-JD/is-fast) - Check the internet as fast as possible
 - [misuzu/eyd](https://github.com/misuzu/eyd) - Erase your darlings, but without filesystems tricks
