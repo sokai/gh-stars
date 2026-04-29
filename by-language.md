@@ -1003,7 +1003,7 @@
 - [ApoorvSaxena/lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 🔥  Highly performant, light ~1kb and configurable lazy loader in pure JS with no dependencies for responsive images, iframes and more
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [Piwigo/piwigo-videojs](https://github.com/Piwigo/piwigo-videojs) - Videojs port for piwigo. Play your videos on your web gallery!
-- [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
+- [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling cookies, client-side.
 - [webslides/WebSlides](https://github.com/webslides/WebSlides) - Create HTML presentations in seconds —
 - [nextcloud/passman](https://github.com/nextcloud/passman) - 🔐 Open source password manager with Nextcloud integration
 - [ogioncz/flarum-ext-markdown-editor](https://github.com/ogioncz/flarum-ext-markdown-editor) - A simple Markdown Editor for Flarum
