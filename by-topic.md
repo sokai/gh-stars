@@ -3559,7 +3559,7 @@
 - [fufroma/smartsieve](https://github.com/fufroma/smartsieve) - Unofficial github repository of Smartsieve
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [nextcloud/whiteboard](https://github.com/nextcloud/whiteboard) - Create & collaborate on an infinite canvas!
-- [amruthpillai/resume-on-the-web](https://github.com/amruthpillai/resume-on-the-web) - Everyone needs their own little spot on the interwebs, and this is mine. Welcome to my resume, on the web!
+- [amruthpillai/amruthpillai](https://github.com/amruthpillai/amruthpillai) - Everyone needs their own little spot on the interwebs, and this is mine. Welcome to my resume, on the web!
 - [mollyim/mollysocket](https://github.com/mollyim/mollysocket) - MollySocket allows getting Signal notifications via UnifiedPush.
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
