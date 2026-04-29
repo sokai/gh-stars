@@ -89,6 +89,7 @@
 - [mishamyrt/Lilex](https://github.com/mishamyrt/Lilex) - 🤘Open source programming font
 - [jakehamilton/jakehamilton.dev](https://github.com/jakehamilton/jakehamilton.dev) - 
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
+- [amruthpillai/amruthpillai](https://github.com/amruthpillai/amruthpillai) - Everyone needs their own little spot on the interwebs, and this is mine. Welcome to my resume, on the web!
 
 ## Batchfile 
 
@@ -3059,7 +3060,6 @@
 - [versatiles-org/versatiles-documentation](https://github.com/versatiles-org/versatiles-documentation) - Documentation for the VersaTiles ecosystem.
 - [trpc/trpc-openapi](https://github.com/trpc/trpc-openapi) - OpenAPI support for tRPC 🧩
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [amruthpillai/resume-on-the-web](https://github.com/amruthpillai/resume-on-the-web) - Everyone needs their own little spot on the interwebs, and this is mine. Welcome to my resume, on the web!
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [Team-Ladefuchs/ladefuchs-react-native](https://github.com/Team-Ladefuchs/ladefuchs-react-native) - Moved to Codeberg -&gt; https://codeberg.org/Ladefuchs/ladefuchs-react-native
