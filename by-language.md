@@ -2499,7 +2499,7 @@
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [hankhank10/fakeface](https://github.com/hankhank10/fakeface) - An RESTful API for thispersondoesnotexist
-- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Custom component to calculate estimated power consumption of lights and other appliances
+- [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc) - Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 - [CauldronDevelopmentLLC/oh-brother](https://github.com/CauldronDevelopmentLLC/oh-brother) - A simple cross-platform utility written in Python which can update Brother printer firmwares
 - [Huluti/Curtail](https://github.com/Huluti/Curtail) - Simple & useful image compressor
 - [dialect-app/dialect](https://github.com/dialect-app/dialect) - A translation app for GNOME.
