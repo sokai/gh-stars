@@ -340,7 +340,7 @@
 
 ## EJS 
 
-- [Turtlecute33/toolz](https://github.com/Turtlecute33/toolz) - A simple and user-friendly website to test and verify your ad-blockers and DNS filters
+- [Turtlecute33/adblocktest](https://github.com/Turtlecute33/adblocktest) - A simple and user-friendly website to test and verify your ad-blockers and DNS filters
 
 ## Elixir 
 
