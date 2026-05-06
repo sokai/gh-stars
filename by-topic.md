@@ -733,7 +733,7 @@
 
 ## chrome-extension 
 
-- [MStankiewiczOfficial/RedirectTube](https://github.com/MStankiewiczOfficial/RedirectTube) - Open YouTube links in FreeTube
+- [stankiewiczmichal/RedirectTube](https://github.com/stankiewiczmichal/RedirectTube) - Open YouTube links in FreeTube
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [fwextensions/QuicKey](https://github.com/fwextensions/QuicKey) - Jump between recent tabs in Chrome via keyboard shortcuts or a most recently used (MRU) menu.
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
@@ -6073,7 +6073,7 @@
 
 ## youtube 
 
-- [MStankiewiczOfficial/RedirectTube](https://github.com/MStankiewiczOfficial/RedirectTube) - Open YouTube links in FreeTube
+- [stankiewiczmichal/RedirectTube](https://github.com/stankiewiczmichal/RedirectTube) - Open YouTube links in FreeTube
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [alaouy/YouTube](https://github.com/alaouy/YouTube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
