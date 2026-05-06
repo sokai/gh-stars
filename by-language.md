@@ -305,7 +305,7 @@
 
 ## Dart 
 
-- [Nriver/pocket-trilium](https://github.com/Nriver/pocket-trilium) - Trilium in my pocket :) Trilium安卓客户端
+- [Nriver/pocket-trilium](https://github.com/Nriver/pocket-trilium) - Trilium in my pocket :) Android app for Trilium. Trilium安卓客户端
 - [traccar/traccar-client](https://github.com/traccar/traccar-client) - Traccar Client app
 - [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) - 🤳🥫 The new Open Food Facts mobile application for Android and iOS, crafted with Flutter and Dart
 - [nucleus-ffm/foss_warn](https://github.com/nucleus-ffm/foss_warn) - An unofficial open source application to get emergency alerts.
