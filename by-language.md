@@ -778,7 +778,7 @@
 - [Sanjai-Shaarugesh/Advanced-Weather-Companion](https://github.com/Sanjai-Shaarugesh/Advanced-Weather-Companion) - Advanced Weather is a feature-rich GNOME Shell extension that provides detailed and customizable weather information right on your desktop. With support for multiple locations, advanced forecasting, a
 - [KonradIT/HEROPebble](https://github.com/KonradIT/HEROPebble) - Unofficial GoPro App for Pebble smartwatches
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
-- [MStankiewiczOfficial/RedirectTube](https://github.com/MStankiewiczOfficial/RedirectTube) - Open YouTube links in FreeTube
+- [stankiewiczmichal/RedirectTube](https://github.com/stankiewiczmichal/RedirectTube) - Open YouTube links in FreeTube
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [mijorus/smile-gnome-extension](https://github.com/mijorus/smile-gnome-extension) - 
 - [Gruntfuggly/todo-tree](https://github.com/Gruntfuggly/todo-tree) - Use ripgrep to find TODO tags and display the results in a tree view
