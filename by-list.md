@@ -1133,7 +1133,7 @@
 - [quodlibet/quodlibet](https://github.com/quodlibet/quodlibet) - Music player and music library manager for Linux, Windows, and macOS
 - [felschr/nixos-config](https://github.com/felschr/nixos-config) - Mirror of my NixOS configuration
 - [mightyiam/infra](https://github.com/mightyiam/infra) - Shahar "Dawn" Or's Nix-powered "IT infrastructure" repository
-- [edrobertsrayne/niflheim](https://github.com/edrobertsrayne/niflheim) - My NixOS configuration
+- [edrobertsrayne/nix-config](https://github.com/edrobertsrayne/nix-config) - My NixOS configuration
 - [lovesegfault/nix-config](https://github.com/lovesegfault/nix-config) - My personal NixOS config
 - [semi710/nsearch](https://github.com/semi710/nsearch) - Packages Search for Nixos/Nixpkgs
 - [oddlama/agenix-rekey](https://github.com/oddlama/agenix-rekey) - An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity
