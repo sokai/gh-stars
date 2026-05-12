@@ -759,7 +759,7 @@
 - [sysid/bkmr](https://github.com/sysid/bkmr) - Knowledge Management for Humans and Agents
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [zk-org/zk](https://github.com/zk-org/zk) - Plain text note-taking assistant
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant for Zettelkasten or otherwise
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -1299,7 +1299,7 @@
 - [clo4/nix-dotfiles](https://github.com/clo4/nix-dotfiles) - Manages my nix-darwin Mac, standalone Home Manager Mac, and NixOS home server. Public domain, unless noted otherwise.
 - [shimeoki/nixconfig](https://github.com/shimeoki/nixconfig) - My NixOS configuration as a flake.
 - [Lord-Valen/configuration.nix](https://github.com/Lord-Valen/configuration.nix) - Lordly NixOS Configurations
-- [ALinkbetweenNets/nix](https://github.com/ALinkbetweenNets/nix) - ALinkbetweenNets's NixOS Infratructure Configuration
+- [ALinkBetweenNets/nix](https://github.com/ALinkBetweenNets/nix) - ALinkbetweenNets's NixOS Infratructure Configuration
 - [GaetanLepage/nix-config](https://github.com/GaetanLepage/nix-config) - NixOS configuration for my personal computers
 - [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - 
 - [nifoc/dotfiles](https://github.com/nifoc/dotfiles) - Based on nixpkgs, nix-darwin and home-manager
