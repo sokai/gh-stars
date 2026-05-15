@@ -767,6 +767,7 @@
 
 ## JavaScript 
 
+- [rstockm/Metroviz](https://github.com/rstockm/Metroviz) - Technologie-Roadmap als Metro-Map visualisieren
 - [TurboDuke77/DWD-Meteogram](https://github.com/TurboDuke77/DWD-Meteogram) - Meteogram Wetter für DWD MOSMIX station
 - [nextcloud/Digital-Sovereignty-Index](https://github.com/nextcloud/Digital-Sovereignty-Index) - Digital Sovereignty Index (DSI) aims to provide a comparative snapshot of visible, self-hosted infrastructure across borders.
 - [cookiemumbles/justmytoots.com](https://github.com/cookiemumbles/justmytoots.com) - 
@@ -896,6 +897,7 @@
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [jquery/jquery-migrate](https://github.com/jquery/jquery-migrate) - A development tool to help migrate away from APIs and features that have been or will be removed from jQuery core
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
+- [gbv/coli-conc.gbv.de](https://github.com/gbv/coli-conc.gbv.de) - project coli-conc homepage
 - [nextcloud/files_texteditor](https://github.com/nextcloud/files_texteditor) - :page_facing_up: Text editor for plaintext files
 - [creecros/simple_logo_gen](https://github.com/creecros/simple_logo_gen) - A simple logo generator using fontawesome.
 - [nextcloud/polls](https://github.com/nextcloud/polls) - 🗳️ Polls app for Nextcloud
@@ -1571,7 +1573,6 @@
 - [delroth/infra.delroth.net](https://github.com/delroth/infra.delroth.net) - NixOS configuration for *.delroth.net personal server infrastructure
 - [kradalby/dotfiles](https://github.com/kradalby/dotfiles) - monorepo for everything in my tech life.
 - [pcboy/nix-glab-runner](https://github.com/pcboy/nix-glab-runner) - Nix flake for easy setup of gitlab-runners on GCP
-- [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
 - [tweag/nix-hour](https://github.com/tweag/nix-hour) - Questions for the weekly Nix Hour
 - [alles-wg/stork-nix](https://github.com/alles-wg/stork-nix) - 
 - [nrbray/nixos-configuration](https://github.com/nrbray/nixos-configuration) - 
@@ -1614,7 +1615,6 @@
 ## Nunjucks 
 
 - [5t3ph/smolcss](https://github.com/5t3ph/smolcss) - Minimal snippets for modern CSS layouts and components
-- [gbv/coli-conc.gbv.de](https://github.com/gbv/coli-conc.gbv.de) - project coli-conc homepage
 
 ## Objective-C 
 
@@ -2825,6 +2825,7 @@
 - [NixOS/org](https://github.com/NixOS/org) - Organisational documentation
 - [PhrozenByte/rmtrash](https://github.com/PhrozenByte/rmtrash) - Put files (and directories) in trash using the `trash-put` command in a way that is, otherwise as `trash-put` itself, compatible to GNUs `rm` and `rmdir`
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
+- [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
