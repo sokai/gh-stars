@@ -3106,6 +3106,7 @@
 
 ## others 
 
+- [rstockm/Metroviz](https://github.com/rstockm/Metroviz) - Technologie-Roadmap als Metro-Map visualisieren
 - [0php/Zero](https://github.com/0php/Zero) - ZeroPHP is zero dependencies micro framework inspired by Laravel
 - [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
@@ -3659,7 +3660,6 @@
 - [delroth/infra.delroth.net](https://github.com/delroth/infra.delroth.net) - NixOS configuration for *.delroth.net personal server infrastructure
 - [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
 - [pcboy/nix-glab-runner](https://github.com/pcboy/nix-glab-runner) - Nix flake for easy setup of gitlab-runners on GCP
-- [glemsom/hassio-netbird](https://github.com/glemsom/hassio-netbird) - Home Assistant Netbird Client Addon
 - [tomcri/htmxfony](https://github.com/tomcri/htmxfony) - Htmx SDK for Symfony
 - [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
 - [nix-community/nixos-landscape](https://github.com/nix-community/nixos-landscape) - The Landscape of NixOS and associated projects [maintainer=@cafkafk]
