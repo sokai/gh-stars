@@ -1301,7 +1301,6 @@
 - [Lord-Valen/configuration.nix](https://github.com/Lord-Valen/configuration.nix) - Lordly NixOS Configurations
 - [ALinkBetweenNets/nix](https://github.com/ALinkBetweenNets/nix) - ALinkbetweenNets's NixOS Infratructure Configuration
 - [GaetanLepage/nix-config](https://github.com/GaetanLepage/nix-config) - NixOS configuration for my personal computers
-- [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - 
 - [nifoc/dotfiles](https://github.com/nifoc/dotfiles) - Based on nixpkgs, nix-darwin and home-manager
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My entire infrastructure and computing environment.
 - [marcusramberg/nix-config](https://github.com/marcusramberg/nix-config) - My home manager and nixos / nix-darwin setup
@@ -3261,6 +3260,7 @@
 - [protesilaos/aporetic](https://github.com/protesilaos/aporetic) - Aporetic fonts are a custom build of Iosevka with different style and metrics than the default. This is the successor to my "Iosevka Comfy" fonts.
 - [igoutta/nix-frastructure](https://github.com/igoutta/nix-frastructure) - Infrastructure based in nix language with Flakes, using the modularity given by Flakes.parts and import-tree. Currently just for TUF workbook.
 - [numtide/nix-auth](https://github.com/numtide/nix-auth) - Nix access-token management tool
+- [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - Moved to https://git.toostveen.nl/tom/puntbestanden
 - [bzLem0n/periodic](https://github.com/bzLem0n/periodic) - Personal Home-manager and NixOS configurations for the devices on the lem0n.zapto.org network.
 - [Lehmanator/clan-config](https://github.com/Lehmanator/clan-config) - Personal Nix configs for clan.lol
 - [lessuselesss/flake-parts-modules-library](https://github.com/lessuselesss/flake-parts-modules-library) - 
@@ -4565,7 +4565,6 @@
 - [Feh/configs](https://github.com/Feh/configs) - some configuration files
 - [eschnou/storytlr](https://github.com/eschnou/storytlr) - Storytlr is an opensource lifestreaming and microblogging platform written in PHP. Note: The default branch (master) is the development branch, if you need a stable version, see the release-XX branche
 - [anirudhjoshi/lastpass2keepass](https://github.com/anirudhjoshi/lastpass2keepass) - Allows you to convert the LastPass export to a KeePass XML import.
-- [ether/pad](https://github.com/ether/pad) - Etherpad Open-Source Repository
 - [moxiecode/plupload](https://github.com/moxiecode/plupload) - Plupload is JavaScript API for building file uploaders. It supports multiple file selection, file filtering, chunked upload, client side image downsizing and when necessary can fallback to alternative
 - [aercolino/Chili](https://github.com/aercolino/Chili) - Chili is the jQuery code highlighter plugin.
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
