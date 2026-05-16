@@ -1165,7 +1165,7 @@
 - [soulwhisper/nix-config](https://github.com/soulwhisper/nix-config) - 
 - [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - Lan Tian's NixOS Configuration
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh]
-- [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - 
+- [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - Moved to https://git.toostveen.nl/tom/puntbestanden
 - [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - my over complex system configurations 
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
