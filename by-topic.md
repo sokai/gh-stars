@@ -2933,6 +2933,7 @@
 
 ## nextjs 
 
+- [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - JMAP Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.) with JavaScript.
@@ -5376,6 +5377,7 @@
 
 ## self-hosted 
 
+- [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - JMAP Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [LinkStackOrg/linkstack-docker](https://github.com/LinkStackOrg/linkstack-docker) - A simple to set up docker variant of LinkStack. LinkStack is a highly customizable link sharing platform with an intuitive, easy to use user interface.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
@@ -5717,6 +5719,7 @@
 
 ## typescript 
 
+- [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - JMAP Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
