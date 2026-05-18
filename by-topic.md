@@ -3223,7 +3223,6 @@
 - [Stupremee/nix](https://github.com/Stupremee/nix) - My NixOs dotfiles for my machines
 - [open-reception/appointment-booking-software](https://github.com/open-reception/appointment-booking-software) - End-to-end encrypted appointment booking platform
 - [nix-systems/nix-systems](https://github.com/nix-systems/nix-systems) - Externally extensible flake systems
-- [T0PSH31F/Grandline-Gang](https://github.com/T0PSH31F/Grandline-Gang) - NixOS configuration for luffy machine using clan-core flake-parts template
 - [stepbrobd/autopilot](https://github.com/stepbrobd/autopilot) - flake parts with autoloading
 - [platomav/CPUMicrocodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA & Freescale CPU Microcode Repositories
 - [semi710/nsearch](https://github.com/semi710/nsearch) - Packages Search for Nixos/Nixpkgs
