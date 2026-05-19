@@ -3104,6 +3104,7 @@
 
 ## others 
 
+- [openbracketformat/openbracketformat](https://github.com/openbracketformat/openbracketformat) - Open standard for tournament bracket data
 - [rstockm/Metroviz](https://github.com/rstockm/Metroviz) - Technologie-Roadmap als Metro-Map visualisieren
 - [0php/Zero](https://github.com/0php/Zero) - ZeroPHP is zero dependencies micro framework inspired by Laravel
 - [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
