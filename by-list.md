@@ -595,6 +595,7 @@
 - [rstockm/Metroviz](https://github.com/rstockm/Metroviz) - Technologie-Roadmap als Metro-Map visualisieren
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - JMAP Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source.
+- [openbracketformat/openbracketformat](https://github.com/openbracketformat/openbracketformat) - Open standard for tournament bracket data
 
 <a name="knowledge"></a>
 
@@ -2267,6 +2268,7 @@
 - [Chrystalkey/landtagszusammenfasser](https://github.com/Chrystalkey/landtagszusammenfasser) - Ein Versuch Landespolitik transparenter zu machen, inspiriert vom Bundestagszusammenfasser(bundestagszusammenfasser.de)
 - [0php/Zero](https://github.com/0php/Zero) - ZeroPHP is zero dependencies micro framework inspired by Laravel
 - [rstockm/Metroviz](https://github.com/rstockm/Metroviz) - Technologie-Roadmap als Metro-Map visualisieren
+- [openbracketformat/openbracketformat](https://github.com/openbracketformat/openbracketformat) - Open standard for tournament bracket data
 
 <a name="work"></a>
 
