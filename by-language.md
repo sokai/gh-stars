@@ -915,6 +915,7 @@
 - [adaxi/audio-output-switcher](https://github.com/adaxi/audio-output-switcher) - Gnome Shell Extension: Adds a switch for choosing audio output to the system menu.
 - [anduchs/audio-input-switcher](https://github.com/anduchs/audio-input-switcher) - I discontinued working on this. Please see https://github.com/adaxi/audio-output-switcher
 - [fluorjs/fluor](https://github.com/fluorjs/fluor) - Sprinkle interactivity on your design
+- [nextcloud/user_external](https://github.com/nextcloud/user_external) - 👥 External user authentication methods like IMAP, SMB and FTP
 - [mkoryak/floatThead](https://github.com/mkoryak/floatThead) - Fixed &lt;thead&gt;. Doesn't need any custom css/html. Does what position:sticky can't
 - [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
 - [bigbluebutton/bigbluebutton](https://github.com/bigbluebutton/bigbluebutton) - A complete web conferencing system for virtual classes and more!
@@ -1980,7 +1981,6 @@
 - [imanghafoori1/laravel-MasterPass](https://github.com/imanghafoori1/laravel-MasterPass) - Helps you securely setup a master password and login into user accounts with it.
 - [CodelyTV/php-basic-skeleton](https://github.com/CodelyTV/php-basic-skeleton) - 🐘🚀 PHP Basic Skeleton: Bootstrap your new projects using this Composer Project
 - [tuupola/slim-api-skeleton](https://github.com/tuupola/slim-api-skeleton) - Slim 3 API skeleton project for Composer
-- [nextcloud/user_external](https://github.com/nextcloud/user_external) - 👥 External user authentication methods like IMAP, SMB and FTP
 - [jhass/nextcloud-keeweb](https://github.com/jhass/nextcloud-keeweb) - Integrate Keeweb into Nextcloud
 - [json-api-php/json-api](https://github.com/json-api-php/json-api) - Implementation of JSON API in PHP
 - [bednic/json-api](https://github.com/bednic/json-api) - PHP implementation for JSON-API standard
