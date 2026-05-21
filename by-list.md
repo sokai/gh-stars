@@ -441,7 +441,6 @@
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
-- [porech/caddy-maxmind-geolocation](https://github.com/porech/caddy-maxmind-geolocation) - Caddy v2 module to filter requests based on source IP geolocation
 - [jhillyerd/agenix-template](https://github.com/jhillyerd/agenix-template) - NixOS module for templating agenix secrets
 - [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.) with JavaScript.
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
@@ -596,6 +595,7 @@
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - JMAP Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source.
 - [openbracketformat/openbracketformat](https://github.com/openbracketformat/openbracketformat) - Open standard for tournament bracket data
+- [afragen/git-updater](https://github.com/afragen/git-updater) - This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes
 
 <a name="knowledge"></a>
 
@@ -1046,6 +1046,7 @@
 - [oddlama/kanidm-provision](https://github.com/oddlama/kanidm-provision) - A small utility to help with kanidm provisioning
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - JMAP Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source.
+- [mholt/caddy-ratelimit](https://github.com/mholt/caddy-ratelimit) - HTTP rate limiting module for Caddy 2
 
 <a name="nix_blueprint"></a>
 
@@ -2078,6 +2079,7 @@
 - [abdalmoniem/Caffeinate](https://github.com/abdalmoniem/Caffeinate) - Caffeinate is a lightweight Android utility that keeps your device’s screen awake for a configurable duration, without changing system display or power settings.
 - [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
 - [rstockm/Metroviz](https://github.com/rstockm/Metroviz) - Technologie-Roadmap als Metro-Map visualisieren
+- [mholt/caddy-ratelimit](https://github.com/mholt/caddy-ratelimit) - HTTP rate limiting module for Caddy 2
 
 <a name="webdev"></a>
 
@@ -2269,6 +2271,8 @@
 - [0php/Zero](https://github.com/0php/Zero) - ZeroPHP is zero dependencies micro framework inspired by Laravel
 - [rstockm/Metroviz](https://github.com/rstockm/Metroviz) - Technologie-Roadmap als Metro-Map visualisieren
 - [openbracketformat/openbracketformat](https://github.com/openbracketformat/openbracketformat) - Open standard for tournament bracket data
+- [mholt/caddy-ratelimit](https://github.com/mholt/caddy-ratelimit) - HTTP rate limiting module for Caddy 2
+- [afragen/git-updater](https://github.com/afragen/git-updater) - This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes
 
 <a name="work"></a>
 
