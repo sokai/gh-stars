@@ -3368,7 +3368,7 @@
 - [inex/IXP-Manager](https://github.com/inex/IXP-Manager) - Full stack web application powering peering at over 250 Internet Exchange Points (IXPs) globally.
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class.
 - [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure
-- [michaelBelsanti/nixconfig](https://github.com/michaelBelsanti/nixconfig) - Mirrored from codeberg
+- [michaelBelsanti/nixconfig](https://github.com/michaelBelsanti/nixconfig) - Active on tangled: https://tangled.org/quasigod.xyz/nixconfig
 - [antonmedv/countdown](https://github.com/antonmedv/countdown) - Terminal countdown timer
 - [arsfeld/nixos](https://github.com/arsfeld/nixos) - 
 - [blaggacao/frappix](https://github.com/blaggacao/frappix) - Frappe on Nix
