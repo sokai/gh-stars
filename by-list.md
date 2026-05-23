@@ -1113,7 +1113,6 @@
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOS deployments of DD-IX
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
-- [edouardparis/nixos-config](https://github.com/edouardparis/nixos-config) - 
 - [jakubgs/nixos-config](https://github.com/jakubgs/nixos-config) - Configuration for my hosts running NixOS
 - [SchweGELBin/nix-config](https://github.com/SchweGELBin/nix-config) - SchweGELBin's Nix configs
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
