@@ -3142,7 +3142,6 @@
 - [mijorus/gearlever](https://github.com/mijorus/gearlever) - Manage AppImages with ease 📦
 - [gristlabs/grist-desktop](https://github.com/gristlabs/grist-desktop) - Desktop Grist, packaged with Electron
 - [jakubgs/nixos-config](https://github.com/jakubgs/nixos-config) - Configuration for my hosts running NixOS
-- [edouardparis/nixos-config](https://github.com/edouardparis/nixos-config) - 
 - [thomsa/auktiva](https://github.com/thomsa/auktiva) - A feature-rich auction platform for creating and managing private or public auctions. Supports real-time bidding with live updates, multiple currencies, flexible item end dates, anonymous bidding opti
 - [danvk/webdiff](https://github.com/danvk/webdiff) - Two-column web-based git difftool
 - [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOS deployments of DD-IX
