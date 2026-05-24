@@ -589,6 +589,7 @@
 - [RaymiiOrg/cipherli.st](https://github.com/RaymiiOrg/cipherli.st) - Ciplerli.st - strong ciphers for NGINX, Apache and Lighttpd
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
+- [yzane/vscode-markdown-pdf](https://github.com/yzane/vscode-markdown-pdf) - Markdown converter for Visual Studio Code
 - [confcodeofconduct/confcodeofconduct.com](https://github.com/confcodeofconduct/confcodeofconduct.com) - A code of conduct template for conferences
 - [canonical/vanilla-framework](https://github.com/canonical/vanilla-framework) - From community websites to web applications, this CSS framework will help you achieve a consistent look and feel.
 - [sidewalklabs/dtpr](https://github.com/sidewalklabs/dtpr) - Open source components from the Digital Transparency in the Public Realm project
@@ -3106,7 +3107,6 @@
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
-- [yzane/vscode-markdown-pdf](https://github.com/yzane/vscode-markdown-pdf) - Markdown converter for Visual Studio Code
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
