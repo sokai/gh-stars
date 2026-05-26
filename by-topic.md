@@ -3353,7 +3353,7 @@
 - [mholt/caddy-dynamicdns](https://github.com/mholt/caddy-dynamicdns) - Caddy app that keeps your DNS records (A/AAAA) pointed at itself.
 - [mightyiam/infra](https://github.com/mightyiam/infra) - Shahar "Dawn" Or's Nix-powered "IT infrastructure" repository
 - [chiefnoah/go-foks](https://github.com/chiefnoah/go-foks) - Go implementation of FOKS -- client and server
-- [sisyphean-group/dix](https://github.com/sisyphean-group/dix) - A blazingly fast tool to diff Nix related things
+- [manic-systems/dix](https://github.com/manic-systems/dix) - A blazingly fast tool to diff Nix related things
 - [wellWINeo/nix-anysync](https://github.com/wellWINeo/nix-anysync) - Any-Sync NixOS flake
 - [opencloud-eu/android](https://github.com/opencloud-eu/android) - 🤖
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
