@@ -2648,6 +2648,7 @@
 
 ## Rust 
 
+- [nextcloud/notify_push](https://github.com/nextcloud/notify_push) - Update notifications for nextcloud clients
 - [feel-co/ncro](https://github.com/feel-co/ncro) - Lightweight HTTP proxy for optimizing Nix cache routes for fast access
 - [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
 - [oddlama/kanidm-provision](https://github.com/oddlama/kanidm-provision) - A small utility to help with kanidm provisioning
