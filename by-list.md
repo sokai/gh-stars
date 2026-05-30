@@ -139,6 +139,7 @@
 - [rstockm/Metroviz](https://github.com/rstockm/Metroviz) - Technologie-Roadmap als Metro-Map visualisieren
 - [nicolas-goudry/marp-deck-directory](https://github.com/nicolas-goudry/marp-deck-directory) - Zero-config, fully reproducible presentation environment using Marp and Nix
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
+- [dfki-dsa/pii-guardrail-browser-extension](https://github.com/dfki-dsa/pii-guardrail-browser-extension) - Privacy Guardrail is a local-first Chrome extension that detects and anonymizes PII before text is pasted into ChatGPT, Claude, or Gemini, using Rust/WASM recognizers and optional in-browser transformer NER.
 
 <a name="backup"></a>
 
@@ -199,6 +200,7 @@
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
 - [brcontainer/prevent-duplicate-tabs](https://github.com/brcontainer/prevent-duplicate-tabs) - Simple add-on/extension for prevent duplicate tabs
 - [totoshko88/RustConn](https://github.com/totoshko88/RustConn) - Modern connection manager for Linux with GTK4/Wayland-native interface.
+- [dfki-dsa/pii-guardrail-browser-extension](https://github.com/dfki-dsa/pii-guardrail-browser-extension) - Privacy Guardrail is a local-first Chrome extension that detects and anonymizes PII before text is pasted into ChatGPT, Claude, or Gemini, using Rust/WASM recognizers and optional in-browser transformer NER.
 
 <a name="dev"></a>
 
@@ -2103,6 +2105,7 @@
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
+- [dfki-dsa/pii-guardrail-browser-extension](https://github.com/dfki-dsa/pii-guardrail-browser-extension) - Privacy Guardrail is a local-first Chrome extension that detects and anonymizes PII before text is pasted into ChatGPT, Claude, or Gemini, using Rust/WASM recognizers and optional in-browser transformer NER.
 
 <a name="webdev"></a>
 
