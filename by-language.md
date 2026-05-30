@@ -1307,6 +1307,7 @@
 
 ## Lua 
 
+- [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
 - [crocuda/normal.nixos](https://github.com/crocuda/normal.nixos) - Nixos configuration modules for desktop (Still for paranoids and hypochondriacs)
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
