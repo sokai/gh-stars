@@ -3112,6 +3112,7 @@
 
 ## others 
 
+- [totoshko88/RustConn](https://github.com/totoshko88/RustConn) - Modern connection manager for Linux with GTK4/Wayland-native interface.
 - [nextcloud/notify_push](https://github.com/nextcloud/notify_push) - Update notifications for nextcloud clients
 - [b3nb5n/config-parts](https://github.com/b3nb5n/config-parts) - Modularly construct nixos and home manager configurations
 - [nicolas-goudry/marp-deck-directory](https://github.com/nicolas-goudry/marp-deck-directory) - Zero-config, fully reproducible presentation environment using Marp and Nix
