@@ -2313,6 +2313,7 @@
 - [wintercms/winter](https://github.com/wintercms/winter) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.
 - [nicolas-goudry/marp-deck-directory](https://github.com/nicolas-goudry/marp-deck-directory) - Zero-config, fully reproducible presentation environment using Marp and Nix
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
+- [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
 
 <a name="work"></a>
 
