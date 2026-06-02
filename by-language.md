@@ -948,6 +948,7 @@
 - [juliomrqz/statusfy](https://github.com/juliomrqz/statusfy) - A Marvelous Open Source Status Page System
 - [zhukov/webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
 - [WWBN/AVideo](https://github.com/WWBN/AVideo) - Create Your Own Broadcast Network With AVideo Platform Open-Source. OAVP OVP
+- [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [urbandroid-team/dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [jspreadsheet/ce](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight JavaScript data grid component for creating interactive data grids with advanced spreadsheet controls.
@@ -1185,7 +1186,7 @@
 - [briancray/tooltipsy](https://github.com/briancray/tooltipsy) - Introducing a jQuery tooltip plugin for control-obsessed designers.
 - [megolla/S6](https://github.com/megolla/S6) - S6 – HTML5 Presentations
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
-- [LeaVerou/inspire.js](https://github.com/LeaVerou/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
+- [inspire-js/inspire.js](https://github.com/inspire-js/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
 - [zurb/flickrbomb](https://github.com/zurb/flickrbomb) - flickrBomb provides an easy way for you to fill your prototypes with relevant content, and not just those dull gray placeholder images.
 - [fnagel/jquery-ui](https://github.com/fnagel/jquery-ui) - A fork of jQuery UI: WIP branches, legacy Selectmenu Widget (branch: selectmenu) and an accessible version of jQuery UI Tabs (outdated, branch: tabs accessability)
 - [vadikom/poshytip](https://github.com/vadikom/poshytip) - jQuery Plugin for Stylish Tooltips
@@ -1575,6 +1576,7 @@
 - [delroth/infra.delroth.net](https://github.com/delroth/infra.delroth.net) - NixOS configuration for *.delroth.net personal server infrastructure
 - [kradalby/dotfiles](https://github.com/kradalby/dotfiles) - monorepo for everything in my tech life.
 - [pcboy/nix-glab-runner](https://github.com/pcboy/nix-glab-runner) - Nix flake for easy setup of gitlab-runners on GCP
+- [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
 - [tweag/nix-hour](https://github.com/tweag/nix-hour) - Questions for the weekly Nix Hour
 - [alles-wg/stork-nix](https://github.com/alles-wg/stork-nix) - 
 - [nrbray/nixos-configuration](https://github.com/nrbray/nixos-configuration) - 
@@ -2612,7 +2614,6 @@
 
 ## Rich Text Format 
 
-- [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5) - Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.
 - [okfde/old.okfn.de](https://github.com/okfde/old.okfn.de) - Die alte Webseite der Open Knowledge Foundation Deutschland.
 
 ## Ruby 
@@ -2830,7 +2831,6 @@
 - [NixOS/org](https://github.com/NixOS/org) - Organisational documentation
 - [PhrozenByte/rmtrash](https://github.com/PhrozenByte/rmtrash) - Put files (and directories) in trash using the `trash-put` command in a way that is, otherwise as `trash-put` itself, compatible to GNUs `rm` and `rmdir`
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
-- [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
