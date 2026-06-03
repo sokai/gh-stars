@@ -272,6 +272,7 @@
 ## agent 
 
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
 ## ai 
 
@@ -719,7 +720,6 @@
 
 ## chatgpt 
 
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 
@@ -4555,7 +4555,7 @@
 - [beautiful-docs/beautiful-docs](https://github.com/beautiful-docs/beautiful-docs) - A beautiful way to read documentation
 - [xemle/phtagr](https://github.com/xemle/phtagr) - Tag, Browse, and Share Your Photos (discontinued)
 - [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
-- [LeaVerou/inspire.js](https://github.com/LeaVerou/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
+- [inspire-js/inspire.js](https://github.com/inspire-js/inspire.js) - Lean, hackable, extensible slide deck framework. Previously known as CSSS.
 - [atk4/atk4](https://github.com/atk4/atk4) - PHP framework for developing powerful web applications. Inspired by desktop toolkits (QT, Cocoa, .NET). For developers with any skill level.
 - [philcryer/lipsync](https://github.com/philcryer/lipsync) - lipsync sets up a lightweight service that provides command-line, Dropbox like syncing
 - [zurb/flickrbomb](https://github.com/zurb/flickrbomb) - flickrBomb provides an easy way for you to fill your prototypes with relevant content, and not just those dull gray placeholder images.
