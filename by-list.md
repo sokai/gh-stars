@@ -2340,7 +2340,7 @@
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
 - [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - 🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent
 - [kappapiana/anonymize](https://github.com/kappapiana/anonymize) - A script to change authorship to ODT and DOCX comments, redlines and whatnot. 
-- [RichardLitt/low-resource-languages](https://github.com/RichardLitt/low-resource-languages) - Resources for conservation, development, and documentation of low resource (human) languages.
+- [RichardLitt/low-resource-languages](https://github.com/RichardLitt/low-resource-languages) - A curated list of resources for the conservation, development, and documentation of low resource (human) languages.
 - [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. 
