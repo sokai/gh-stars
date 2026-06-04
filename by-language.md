@@ -1990,7 +1990,7 @@
 - [bednic/json-api](https://github.com/bednic/json-api) - PHP implementation for JSON-API standard
 - [browscap/browscap-php](https://github.com/browscap/browscap-php) - Officially supported Browscap for PHP
 - [sabre-io/xml](https://github.com/sabre-io/xml) - sabre/xml is an XML library that you may not hate.
-- [Dr-Eberle-Zentrum/dbWebGen](https://github.com/Dr-Eberle-Zentrum/dbWebGen) - Database Web Forms Generator
+- [DH-Center-Tuebingen/dbWebGen](https://github.com/DH-Center-Tuebingen/dbWebGen) - Database Web Forms Generator
 - [NatLibFi/Skosmos](https://github.com/NatLibFi/Skosmos) - Thesaurus and controlled vocabulary browser using SKOS and SPARQL
 - [skipperbent/simple-php-router](https://github.com/skipperbent/simple-php-router) - Simple, fast and yet powerful PHP router that is easy to get integrated and in any project. Heavily inspired by the way Laravel handles routing, with both simplicity and expand-ability in mind.
 - [delight-im/PHP-Auth](https://github.com/delight-im/PHP-Auth) - Authentication for PHP. Simple, lightweight and secure.
@@ -2652,7 +2652,7 @@
 - [daskladas/nixmate](https://github.com/daskladas/nixmate) - All your NixOS tools in one TUI — generations, rebuilds, services, errors, and more.
 - [totoshko88/RustConn](https://github.com/totoshko88/RustConn) - Modern connection manager for Linux with GTK4/Wayland-native interface.
 - [nextcloud/notify_push](https://github.com/nextcloud/notify_push) - Update notifications for nextcloud clients
-- [feel-co/ncro](https://github.com/feel-co/ncro) - Lightweight HTTP proxy for optimizing Nix cache routes for fast access
+- [manic-systems/ncro](https://github.com/manic-systems/ncro) - Lightweight HTTP proxy for optimizing Nix cache routes for fast access
 - [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
 - [oddlama/kanidm-provision](https://github.com/oddlama/kanidm-provision) - A small utility to help with kanidm provisioning
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
@@ -2951,7 +2951,7 @@
 ## TeX 
 
 - [latex3/hyperref](https://github.com/latex3/hyperref) - Hypertext support for LaTeX
-- [RichardLitt/low-resource-languages](https://github.com/RichardLitt/low-resource-languages) - Resources for conservation, development, and documentation of low resource (human) languages.
+- [RichardLitt/low-resource-languages](https://github.com/RichardLitt/low-resource-languages) - A curated list of resources for the conservation, development, and documentation of low resource (human) languages.
 - [uplug/Vortraege](https://github.com/uplug/Vortraege) - Die Vorträge der upLUG
 - [LibraryCarpentry/Top-10-FAIR](https://github.com/LibraryCarpentry/Top-10-FAIR) - Top 10 FAIR Data & Software Things
 - [dee-dw/bewerbung-latex](https://github.com/dee-dw/bewerbung-latex) - Eine deutschsprachige Bewerbungvorlage mit LaTeX.
