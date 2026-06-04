@@ -2398,6 +2398,7 @@
 
 ## Python 
 
+- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [Pirate-Weather/pirate-weather-code](https://github.com/Pirate-Weather/pirate-weather-code) - Code for the Pirate Weather API
 - [neithere/argh](https://github.com/neithere/argh) - An argparse wrapper that doesn't make you say "argh" each time you deal with it.
 - [helgeklein/WordPress-Hugo-Migration-Scripts-HTML-Markdown](https://github.com/helgeklein/WordPress-Hugo-Migration-Scripts-HTML-Markdown) - WordPress to Hugo migration scripts, conversion from HTML to Markdown, comments
