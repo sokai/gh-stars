@@ -69,6 +69,7 @@
 - [TSQL](#tsql)
 - [Tcl](#tcl)
 - [TeX](#tex)
+- [Text](#text)
 - [Twig](#twig)
 - [TypeScript](#typescript)
 - [Typst](#typst)
@@ -2961,6 +2962,10 @@
 - [sway/fontawesome-latex](https://github.com/sway/fontawesome-latex) - Style file for the FontAwesome (Xe)LaTeX mapping
 - [scottkosty/install-tl-ubuntu](https://github.com/scottkosty/install-tl-ubuntu) - Install script for TeX Live on Ubuntu
 - [raphink/moderntimeline](https://github.com/raphink/moderntimeline) - A timeline package for moderncv
+
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## Twig 
 
