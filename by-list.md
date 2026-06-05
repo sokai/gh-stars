@@ -474,7 +474,7 @@
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My entire infrastructure and computing environment.
 - [denful/dendrix](https://github.com/denful/dendrix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern.
-- [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Dendritic Nix configurations. [maintainer = @vic, @sini, @HeitorAugustoLN, @Gwenodai, @theutz, @DylanRJohnston]
+- [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Nix configurations. [maintainer = @vic, @sini, @HeitorAugustoLN, @Gwenodai, @theutz, @DylanRJohnston]
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
 - [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized for development environment, based on nixos-unified. 
@@ -997,7 +997,7 @@
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My entire infrastructure and computing environment.
 - [denful/dendrix](https://github.com/denful/dendrix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern.
-- [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Dendritic Nix configurations. [maintainer = @vic, @sini, @HeitorAugustoLN, @Gwenodai, @theutz, @DylanRJohnston]
+- [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Nix configurations. [maintainer = @vic, @sini, @HeitorAugustoLN, @Gwenodai, @theutz, @DylanRJohnston]
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
 - [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS + nix-darwin + home-manager configuration in a single flake, while providing a consistent interface at DX and UX level.
 - [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized for development environment, based on nixos-unified. 
@@ -1105,7 +1105,7 @@
 - [vic/vix](https://github.com/vic/vix) - Vic's *Nix config (dotfiles for many unixes)
 - [mariolopjr/infra](https://github.com/mariolopjr/infra) - 
 - [esselius/kfg](https://github.com/esselius/kfg) - 
-- [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Dendritic Nix configurations. [maintainer = @vic, @sini, @HeitorAugustoLN, @Gwenodai, @theutz, @DylanRJohnston]
+- [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Nix configurations. [maintainer = @vic, @sini, @HeitorAugustoLN, @Gwenodai, @theutz, @DylanRJohnston]
 - [mzonski/nixos-config](https://github.com/mzonski/nixos-config) - 
 - [songpola/nixos-config](https://github.com/songpola/nixos-config) - 
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
