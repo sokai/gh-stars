@@ -141,6 +141,7 @@
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [dfki-dsa/pii-guardrail-browser-extension](https://github.com/dfki-dsa/pii-guardrail-browser-extension) - Privacy Guardrail is a local-first Chrome extension that detects and anonymizes PII before text is pasted into ChatGPT, Claude, or Gemini, using Rust/WASM recognizers and optional in-browser transformer NER.
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace. 
+- [sozialhelden/wheelmap-frontend](https://github.com/sozialhelden/wheelmap-frontend) - Source code of the wheelmap.org React.js frontend application
 
 <a name="backup"></a>
 
@@ -1205,6 +1206,7 @@
 - [b3nb5n/config-parts](https://github.com/b3nb5n/config-parts) - Modularly construct nixos and home manager configurations
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@ma27]
 - [mirkolenz/quadlet-nix](https://github.com/mirkolenz/quadlet-nix) - NixOS module for Quadlet / podman-systemd
+- [bivsk/nix-iv](https://github.com/bivsk/nix-iv) - Personal NixOS configurations
 
 <a name="nix_snowfall"></a>
 
