@@ -612,7 +612,7 @@
 - [hyprspace/hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks (fork)
 - [daskladas/nixmate](https://github.com/daskladas/nixmate) - All your NixOS tools in one TUI — generations, rebuilds, services, errors, and more.
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace. 
-- [mihakrumpestar/panix](https://github.com/mihakrumpestar/panix) - Universal NixOS Deployment Tool - inspect, bootstrap, build, transfer, secrets, activate, rollback - https://panix.xyz
+- [mihakrumpestar/panix](https://github.com/mihakrumpestar/panix) - Universal NixOS Deployment Tool - inspect, bootstrap, build, transfer, secrets, activate, rollback
 - [mirkolenz/quadlet-nix](https://github.com/mirkolenz/quadlet-nix) - NixOS module for Quadlet / podman-systemd
 
 <a name="knowledge"></a>
@@ -1259,7 +1259,7 @@
 - [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@ma27]
 - [daskladas/nixmate](https://github.com/daskladas/nixmate) - All your NixOS tools in one TUI — generations, rebuilds, services, errors, and more.
-- [mihakrumpestar/panix](https://github.com/mihakrumpestar/panix) - Universal NixOS Deployment Tool - inspect, bootstrap, build, transfer, secrets, activate, rollback - https://panix.xyz
+- [mihakrumpestar/panix](https://github.com/mihakrumpestar/panix) - Universal NixOS Deployment Tool - inspect, bootstrap, build, transfer, secrets, activate, rollback
 
 <a name="nixos"></a>
 
@@ -2131,7 +2131,7 @@
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
 - [daskladas/nixmate](https://github.com/daskladas/nixmate) - All your NixOS tools in one TUI — generations, rebuilds, services, errors, and more.
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace. 
-- [mihakrumpestar/panix](https://github.com/mihakrumpestar/panix) - Universal NixOS Deployment Tool - inspect, bootstrap, build, transfer, secrets, activate, rollback - https://panix.xyz
+- [mihakrumpestar/panix](https://github.com/mihakrumpestar/panix) - Universal NixOS Deployment Tool - inspect, bootstrap, build, transfer, secrets, activate, rollback
 - [mirkolenz/quadlet-nix](https://github.com/mirkolenz/quadlet-nix) - NixOS module for Quadlet / podman-systemd
 
 <a name="webdev"></a>
