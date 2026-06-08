@@ -2083,7 +2083,6 @@
 - [simplepie/simplepie-ng](https://github.com/simplepie/simplepie-ng) - Don't use this yet.
 - [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib) - PHP Secure Communications Library
 - [mainwp/mainwp](https://github.com/mainwp/mainwp) - The MainWP Dashboard is an open source self-hosted WordPress management plugin that allows you to maintain virtually all aspects of multiple WordPress sites.
-- [Orangescrum/orangescrum-community](https://github.com/Orangescrum/orangescrum-community) - Flexible Project Management web application written in CakePHP
 - [apilayer/euvat](https://github.com/apilayer/euvat) - euvat.ga api site
 - [scottnelle/uptime-robot](https://github.com/scottnelle/uptime-robot) - Uptime Robot uses the uptimerobot.com API to display log messages relating to a site's uptime. You must have a free uptimerobot.com account to get any use from this plugin.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
