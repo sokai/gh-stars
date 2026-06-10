@@ -2542,6 +2542,7 @@
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [tosterkamp/random-redirect](https://github.com/tosterkamp/random-redirect) - Page that redirects to a random page that offers the service you are looking for
 - [GluuFederation/community-edition-setup](https://github.com/GluuFederation/community-edition-setup) - Scripts and templates to automate deployment and configuration of the Gluu Server Community Edition
+- [danielrobbins/keychain](https://github.com/danielrobbins/keychain) - A manager for ssh-agent and gpg-agent
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client
 - [gtimelog/gtimelog](https://github.com/gtimelog/gtimelog) - A time tracking application
@@ -2866,7 +2867,6 @@
 - [keith-turner/motion-photos](https://github.com/keith-turner/motion-photos) - Script to extract mp4 video at end of MVIMG jpg files created by Pixel 2
 - [danielthalhuber/mvimgex](https://github.com/danielthalhuber/mvimgex) - A bash script for extracting photos and videos from Google Motion Photo (MVIMG_*.jpg) files.
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
-- [danielrobbins/keychain](https://github.com/danielrobbins/keychain) - A manager for ssh-agent and gpg-agent
 - [mitchellkrogza/nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker) - Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for 
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [kdabir/has](https://github.com/kdabir/has) - ✅ checks presence of various command line tools and their versions on the path
