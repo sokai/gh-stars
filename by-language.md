@@ -879,7 +879,7 @@
 - [harvard-lil/perma](https://github.com/harvard-lil/perma) - Indelible links
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 - [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
-- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
+- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - Free your memory. Suspend what you don't need.
 - [kewisch/quickmove-extension](https://github.com/kewisch/quickmove-extension) - Quick Folder Move Add-on for Thunderbird
 - [flowjs/flow.js](https://github.com/flowjs/flow.js) - A JavaScript library providing multiple simultaneous, stable, fault-tolerant and resumable/restartable file uploads via the HTML5 File API.
 - [petersolopov/yace](https://github.com/petersolopov/yace) - ~1KB code editor for browser with plugins
@@ -1393,7 +1393,6 @@
 - [onixcomputer/onix-core](https://github.com/onixcomputer/onix-core) - OnixComputer infrastructure core repository
 - [esselius/kfg](https://github.com/esselius/kfg) - 
 - [etu/nixconfig](https://github.com/etu/nixconfig) - My NixOS config
-- [Czichy/nixos](https://github.com/Czichy/nixos) - 
 - [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - It’s not “just dotfiles” - it's extreme modularity that looks and feels like a NixOS flake. It's Voice-driven DevOps, it's a declarative home automation system, it's a self-contained auto-documenting 
 - [xdbr/fleet](https://github.com/xdbr/fleet) - 
 - [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
@@ -2400,6 +2399,7 @@
 
 ## Python 
 
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
 - [Pirate-Weather/pirate-weather-code](https://github.com/Pirate-Weather/pirate-weather-code) - Code for the Pirate Weather API
 - [neithere/argh](https://github.com/neithere/argh) - An argparse wrapper that doesn't make you say "argh" each time you deal with it.
