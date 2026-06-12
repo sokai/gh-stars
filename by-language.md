@@ -622,7 +622,7 @@
 - [Fu-PusH/statement-finder](https://github.com/Fu-PusH/statement-finder) - Fu-PusH Statement Finder
 - [freifunk/openwifimap-html5](https://github.com/freifunk/openwifimap-html5) - HTML5 map with OpenWiFiMap data
 - [circlecell/jsonlint.com](https://github.com/circlecell/jsonlint.com) - [OLD] Please go to new source, link below.
-- [mozilla/server-side-tls](https://github.com/mozilla/server-side-tls) - Server side TLS Tools
+- [mozilla/server-side-tls](https://github.com/mozilla/server-side-tls) - Server Side TLS Tools have moved
 - [PingoUPB/PINGOWebApp](https://github.com/PingoUPB/PINGOWebApp) - source code of the PINGO web app - (see readme, wiki and http://blogs.upb.de/pingo/opensource/ for more info)
 - [steveathon/bootstrap-wysiwyg](https://github.com/steveathon/bootstrap-wysiwyg) - Tiny bootstrap-compatible WYSIWYG rich text editor
 - [flot/flot.github.com](https://github.com/flot/flot.github.com) - Github Pages hosted website for the Flot library.
@@ -1483,7 +1483,6 @@
 - [nilla-nix/nilla](https://github.com/nilla-nix/nilla) - Create Nilla projects that manage your packages, development shells, systems, and more!
 - [ibizaman/nix-starter-configs-skarabox](https://github.com/ibizaman/nix-starter-configs-skarabox) - 
 - [3333juul/snowflake](https://github.com/3333juul/snowflake) - 
-- [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
 - [ehllie/dotfiles](https://github.com/ehllie/dotfiles) - Nix flake with my system configuration
 - [jfly/snow](https://github.com/jfly/snow) - 
 - [vdbe/infra](https://github.com/vdbe/infra) - 
@@ -1653,6 +1652,7 @@
 - [LinkSheet/nightly](https://github.com/LinkSheet/nightly) - LinkSheet Nightly Release Repository
 - [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.
 - [restic/others](https://github.com/restic/others) - Exhaustive list of backup solutions for Linux
+- [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
 - [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report) - Report and track banking app compatibility with GrapheneOS, including which workarounds may be required.
 - [github/GreenSoftwareDirectory](https://github.com/github/GreenSoftwareDirectory) - Welcome to GitHub's Green Software Directory!
 - [voiceroy/mupdf-android-viewer](https://github.com/voiceroy/mupdf-android-viewer) - Android SDK: viewer
