@@ -485,7 +485,6 @@
 - [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized for development environment, based on nixos-unified. 
 - [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS + nix-darwin + home-manager configuration in a single flake, while providing a consistent interface at DX and UX level.
 - [bzLem0n/periodic](https://github.com/bzLem0n/periodic) - Personal Home-manager and NixOS configurations for the devices on the lem0n.zapto.org network.
-- [igoutta/nix-frastructure](https://github.com/igoutta/nix-frastructure) - Infrastructure based in nix language with Flakes, using the modularity given by Flakes.parts and import-tree. Currently just for TUF workbook.
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
 - [baxyz/firefox-profiles](https://github.com/baxyz/firefox-profiles) - This GNOME extension streamlines launching Firefox profiles from the indicator menu.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -1019,7 +1018,6 @@
 - [juspay/nixos-unified-template](https://github.com/juspay/nixos-unified-template) - A multi-platform Nix configuration template optimized for development environment, based on nixos-unified. 
 - [ourgal/snowfall](https://github.com/ourgal/snowfall) - NixOS dotfiles 
 - [bzLem0n/periodic](https://github.com/bzLem0n/periodic) - Personal Home-manager and NixOS configurations for the devices on the lem0n.zapto.org network.
-- [igoutta/nix-frastructure](https://github.com/igoutta/nix-frastructure) - Infrastructure based in nix language with Flakes, using the modularity given by Flakes.parts and import-tree. Currently just for TUF workbook.
 - [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
 - [oddlama/agenix-rekey](https://github.com/oddlama/agenix-rekey) - An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity
 - [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
@@ -1238,7 +1236,6 @@
 - [denful/dendrix](https://github.com/denful/dendrix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern.
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
 - [bzLem0n/periodic](https://github.com/bzLem0n/periodic) - Personal Home-manager and NixOS configurations for the devices on the lem0n.zapto.org network.
-- [igoutta/nix-frastructure](https://github.com/igoutta/nix-frastructure) - Infrastructure based in nix language with Flakes, using the modularity given by Flakes.parts and import-tree. Currently just for TUF workbook.
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
 - [bagbag/nstdl](https://github.com/bagbag/nstdl) - Personal NixOS Standard Library
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
@@ -1380,7 +1377,6 @@
 - [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
 - [ourgal/snowfall](https://github.com/ourgal/snowfall) - NixOS dotfiles 
 - [bzLem0n/periodic](https://github.com/bzLem0n/periodic) - Personal Home-manager and NixOS configurations for the devices on the lem0n.zapto.org network.
-- [igoutta/nix-frastructure](https://github.com/igoutta/nix-frastructure) - Infrastructure based in nix language with Flakes, using the modularity given by Flakes.parts and import-tree. Currently just for TUF workbook.
 - [mijorus/smile](https://github.com/mijorus/smile) - An emoji picker for linux, with custom tags support and localization. I'll also put some random emojis here 🦁🐾🦔🦇
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
