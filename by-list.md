@@ -146,6 +146,7 @@
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
+- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 
 <a name="backup"></a>
 
@@ -855,6 +856,7 @@
 - [Dreamacro/maxmind-geoip](https://github.com/Dreamacro/maxmind-geoip) - 
 - [LordGrimmauld/run0-sudo-shim](https://github.com/LordGrimmauld/run0-sudo-shim) - An imitation of sudo, using run0 internally
 - [timothebot/lacy](https://github.com/timothebot/lacy) - Fast magical cd alternative for lacy terminal navigators
+- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 
 <a name="mirror"></a>
 
@@ -2183,6 +2185,7 @@
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [LordGrimmauld/run0-sudo-shim](https://github.com/LordGrimmauld/run0-sudo-shim) - An imitation of sudo, using run0 internally
 - [timothebot/lacy](https://github.com/timothebot/lacy) - Fast magical cd alternative for lacy terminal navigators
+- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 
 <a name="webdev"></a>
 
