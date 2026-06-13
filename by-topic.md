@@ -3121,6 +3121,9 @@
 
 ## others 
 
+- [tomasharkema/nix-config](https://github.com/tomasharkema/nix-config) - 
+- [LordGrimmauld/run0-sudo-shim](https://github.com/LordGrimmauld/run0-sudo-shim) - An imitation of sudo, using run0 internally
+- [Dyrkon/nix-configs](https://github.com/Dyrkon/nix-configs) - Nix configs for my machines.
 - [TwiN/gatus-cli](https://github.com/TwiN/gatus-cli) - Client for Gatus
 - [sozialhelden/wheelmap-frontend](https://github.com/sozialhelden/wheelmap-frontend) - Source code of the wheelmap.org React.js frontend application
 - [mirkolenz/quadlet-nix](https://github.com/mirkolenz/quadlet-nix) - NixOS module for Quadlet / podman-systemd
