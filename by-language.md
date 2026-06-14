@@ -103,6 +103,7 @@
 
 ## C 
 
+- [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [sudo-project/sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [coredevices/PebbleOS](https://github.com/coredevices/PebbleOS) - 
