@@ -1222,6 +1222,7 @@
 
 ## Kotlin 
 
+- [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
 - [abdalmoniem/Caffeinate](https://github.com/abdalmoniem/Caffeinate) - Caffeinate is a lightweight Android utility that keeps your device’s screen awake for a configurable duration, without changing system display or power settings.
 - [session-foundation/session-android](https://github.com/session-foundation/session-android) - Session Android - A Decentralized, Onion Routed, Private Messenger
 - [TechbeeAT/jtxBoard](https://github.com/TechbeeAT/jtxBoard) - jtx Board allows you to manage your Journals (like meeting minutes), Notes and Tasks in one Android app. The app is compatible with the iCal standard (RFC5545) and is integrated with DAVx5 to allow th
@@ -2658,6 +2659,7 @@
 
 ## Rust 
 
+- [hbons/Bobby](https://github.com/hbons/Bobby) - Browse SQLite files
 - [LordGrimmauld/run0-sudo-shim](https://github.com/LordGrimmauld/run0-sudo-shim) - An imitation of sudo, using run0 internally
 - [daskladas/nixmate](https://github.com/daskladas/nixmate) - All your NixOS tools in one TUI — generations, rebuilds, services, errors, and more.
 - [totoshko88/RustConn](https://github.com/totoshko88/RustConn) - Modern connection manager for Linux with GTK4/Wayland-native interface.
