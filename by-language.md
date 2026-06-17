@@ -1223,6 +1223,7 @@
 
 ## Kotlin 
 
+- [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
 - [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
 - [abdalmoniem/Caffeinate](https://github.com/abdalmoniem/Caffeinate) - Caffeinate is a lightweight Android utility that keeps your device’s screen awake for a configurable duration, without changing system display or power settings.
 - [session-foundation/session-android](https://github.com/session-foundation/session-android) - Session Android - A Decentralized, Onion Routed, Private Messenger
