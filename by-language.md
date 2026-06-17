@@ -773,6 +773,7 @@
 
 ## JavaScript 
 
+- [Rello/audioplayer](https://github.com/Rello/audioplayer) - Audio Player for Nextcloud and ownCloud
 - [nextcloud/deck](https://github.com/nextcloud/deck) - 🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello
 - [rstockm/Metroviz](https://github.com/rstockm/Metroviz) - Technologie-Roadmap als Metro-Map visualisieren
 - [TurboDuke77/DWD-Meteogram](https://github.com/TurboDuke77/DWD-Meteogram) - Meteogram Wetter für DWD MOSMIX station
@@ -1778,6 +1779,7 @@
 
 ## PHP 
 
+- [joe7ean/calendarbridge](https://github.com/joe7ean/calendarbridge) - Calendar Bridge lets administrators subscribe to external iCal/WebCal feeds and automatically share them as read-only relay calendars with Nextcloud groups.
 - [wintercms/winter](https://github.com/wintercms/winter) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.
 - [0php/Zero](https://github.com/0php/Zero) - ZeroPHP is zero dependencies micro framework inspired by Laravel
 - [sqids/sqids-php](https://github.com/sqids/sqids-php) - Official PHP port of Sqids. Generate short unique IDs from numbers.
