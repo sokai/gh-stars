@@ -328,6 +328,7 @@
 
 ## android 
 
+- [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
 - [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
 - [Nriver/pocket-trilium](https://github.com/Nriver/pocket-trilium) - Trilium in my pocket :) Android app for Trilium. Trilium安卓客户端
 - [TechbeeAT/jtxBoard](https://github.com/TechbeeAT/jtxBoard) - jtx Board allows you to manage your Journals (like meeting minutes), Notes and Tasks in one Android app. The app is compatible with the iCal standard (RFC5545) and is integrated with DAVx5 to allow th
@@ -2122,6 +2123,7 @@
 
 ## image-processing 
 
+- [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
 - [ossappscollective/OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner) - Document scanning app
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [claviska/SimpleImage](https://github.com/claviska/SimpleImage) - A PHP class that makes working with images and GD as simple as possible.
@@ -3121,6 +3123,7 @@
 
 ## opencv 
 
+- [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
 - [ossappscollective/OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner) - Document scanning app
 
 ## osint 
@@ -3134,6 +3137,7 @@
 
 ## others 
 
+- [pauldreik/rdfind](https://github.com/pauldreik/rdfind) - find duplicate files utility
 - [joe7ean/calendarbridge](https://github.com/joe7ean/calendarbridge) - Calendar Bridge lets administrators subscribe to external iCal/WebCal feeds and automatically share them as read-only relay calendars with Nextcloud groups.
 - [Rello/audioplayer](https://github.com/Rello/audioplayer) - Audio Player for Nextcloud and ownCloud
 - [tomasharkema/nix-config](https://github.com/tomasharkema/nix-config) - 
@@ -4933,6 +4937,7 @@
 
 ## privacy 
 
+- [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) - DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.
 - [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - A Firefox extension to protect from being fingerprinted.
