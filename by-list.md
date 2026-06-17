@@ -107,6 +107,7 @@
 - [abdalmoniem/Caffeinate](https://github.com/abdalmoniem/Caffeinate) - Caffeinate is a lightweight Android utility that keeps your device’s screen awake for a configurable duration, without changing system display or power settings.
 - [anyproto/anytype-kotlin](https://github.com/anyproto/anytype-kotlin) - Official Anytype client for Android
 - [fluxerapp/flutter_client](https://github.com/fluxerapp/flutter_client) - Official Fluxer Mobile client built on the Flutter framework.
+- [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
 
 <a name="awesome"></a>
 
@@ -865,6 +866,7 @@
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [filiparag/hetzner_ddns](https://github.com/filiparag/hetzner_ddns) - Hetzner Dynamic DNS (DDNS, DynDNS) daemon
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+- [hbons/Bobby](https://github.com/hbons/Bobby) - Browse SQLite files
 
 <a name="mirror"></a>
 
@@ -2203,6 +2205,8 @@
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [filiparag/hetzner_ddns](https://github.com/filiparag/hetzner_ddns) - Hetzner Dynamic DNS (DDNS, DynDNS) daemon
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+- [hbons/Bobby](https://github.com/hbons/Bobby) - Browse SQLite files
+- [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
 
 <a name="webdev"></a>
 
