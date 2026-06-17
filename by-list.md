@@ -108,6 +108,7 @@
 - [anyproto/anytype-kotlin](https://github.com/anyproto/anytype-kotlin) - Official Anytype client for Android
 - [fluxerapp/flutter_client](https://github.com/fluxerapp/flutter_client) - Official Fluxer Mobile client built on the Flutter framework.
 - [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
+- [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
 
 <a name="awesome"></a>
 
@@ -1696,6 +1697,7 @@
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [Rello/audioplayer](https://github.com/Rello/audioplayer) - Audio Player for Nextcloud and ownCloud
 - [joe7ean/calendarbridge](https://github.com/joe7ean/calendarbridge) - Calendar Bridge lets administrators subscribe to external iCal/WebCal feeds and automatically share them as read-only relay calendars with Nextcloud groups. 
+- [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
 
 <a name="security"></a>
 
@@ -2211,6 +2213,7 @@
 - [hbons/Bobby](https://github.com/hbons/Bobby) - Browse SQLite files
 - [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
 - [joe7ean/calendarbridge](https://github.com/joe7ean/calendarbridge) - Calendar Bridge lets administrators subscribe to external iCal/WebCal feeds and automatically share them as read-only relay calendars with Nextcloud groups. 
+- [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
 
 <a name="webdev"></a>
 
