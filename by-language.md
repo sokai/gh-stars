@@ -170,6 +170,7 @@
 
 ## C++ 
 
+- [pauldreik/rdfind](https://github.com/pauldreik/rdfind) - find duplicate files utility
 - [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [imputnet/helium-linux](https://github.com/imputnet/helium-linux) - Helium Browser for Linux
