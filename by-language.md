@@ -94,7 +94,6 @@
 ## Batchfile 
 
 - [lproven/usb-dos](https://github.com/lproven/usb-dos) - Usable DOS-based live USB media
-- [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
 
 ## Blade 
 
@@ -2855,6 +2854,7 @@
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [picons/picons](https://github.com/picons/picons) - High quality tv & radio logos for your channels, also known as picons.
+- [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
 - [konrad/NixOS_installation_script](https://github.com/konrad/NixOS_installation_script) - A simple NixOS installation script
 - [rapenne-s/bento](https://github.com/rapenne-s/bento) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
 - [mrzool/bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
