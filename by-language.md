@@ -146,7 +146,6 @@
 - [manchito/libpurple-omemo-plugin](https://github.com/manchito/libpurple-omemo-plugin) - A core plug-in enabling 1:1 OMEMO encryption for the libpurple framework in XMPP
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
 - [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [tjko/jpegoptim](https://github.com/tjko/jpegoptim) - jpegoptim - utility to optimize/compress JPEG files
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [ecsec/open-ecard](https://github.com/ecsec/open-ecard) - Client side implementation of the eCard-API-Framework (BSI TR-03112) and related international standards, such as ISO/IEC 24727.
@@ -528,6 +527,7 @@
 - [mpolden/echoip](https://github.com/mpolden/echoip) - A simple IP address lookup service.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [aptly-dev/aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
 - [ovh/svfs](https://github.com/ovh/svfs) - The Swift Virtual File System
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
