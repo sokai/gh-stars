@@ -109,7 +109,6 @@
 - [fluxerapp/flutter_client](https://github.com/fluxerapp/flutter_client) - Official Fluxer Mobile client built on the Flutter framework.
 - [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
 - [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
-- [PixelPlayerHQ/PixelPlayer](https://github.com/PixelPlayerHQ/PixelPlayer) - privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.
 
 <a name="awesome"></a>
 
@@ -1721,7 +1720,6 @@
 - [flattool/warehouse](https://github.com/flattool/warehouse) - A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
-- [PixelPlayerHQ/PixelPlayer](https://github.com/PixelPlayerHQ/PixelPlayer) - privacy-first Android music player built with Material 3 Expressive. Play offline, sync lyrics, fine-tune with equalizer presets, and cast to your devices.
 
 <a name="security"></a>
 
