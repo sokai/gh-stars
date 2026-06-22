@@ -162,6 +162,7 @@
 - [ngandrass/truenas-spindown-timer](https://github.com/ngandrass/truenas-spindown-timer) - Monitors drive I/O and forces HDD spindown after a given idle period. Resistant to S.M.A.R.T. reads.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+- [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
 
 <a name="dead"></a>
 
@@ -638,6 +639,7 @@
 - [filiparag/hetzner_ddns](https://github.com/filiparag/hetzner_ddns) - Hetzner Dynamic DNS (DDNS, DynDNS) daemon
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [toinbox/simplerelay](https://github.com/toinbox/simplerelay) - SimpleRelay - Self-hosted SMTP relay with web dashboard, DNS validation, and per-sender access control (FastAPI/Postfix/Docker)
+- [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
 
 <a name="knowledge"></a>
 
@@ -1544,7 +1546,6 @@
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [PhrozenByte/rmtrash](https://github.com/PhrozenByte/rmtrash) - Put files (and directories) in trash using the `trash-put` command in a way that is, otherwise as `trash-put` itself, compatible to GNUs `rm` and `rmdir`
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md
-- [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
 - [hbci4j/hbci4java](https://github.com/hbci4j/hbci4java) - Java-based FinTS protocol implementation that supports all features (chipTAN, pushTAN, HHD, SEPA, PSD2,...) 
 - [willuhn/jameica](https://github.com/willuhn/jameica) - Jameica is an Application-Platform written in Java containing a SWT-UI. It provides different services (GUI-Toolkit, Logging, Security, Backup, Lifecycle-Management, Message-Bus) to the installed plugins. It's a kind of runtime environment similar to OSGi.
 - [jcwillox/hass-auto-backup](https://github.com/jcwillox/hass-auto-backup) - 🗃️ Improved Backup Service for Home Assistant that can Automatically Remove Backups and Supports Generational Backup Schemes.
