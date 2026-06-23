@@ -258,6 +258,10 @@
 - [thomsa/auktiva](https://github.com/thomsa/auktiva) - A feature-rich auction platform for creating and managing private or public auctions. Supports real-time bidding with live updates, multiple currencies, flexible item end dates, anonymous bidding options, and role-based member management. Perfect for charity auctions, estate sales, or community fundraisers.
 - [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory is a secure, self-hosted enterprise data access platform that provides governed API access to any data source, connecting enterprise applications and on-prem LLMs with role-based access and identity passthrough.
 - [azuyalabs/yasumi](https://github.com/azuyalabs/yasumi) - The easy PHP Library for calculating holidays
+- [flightphp/skeleton](https://github.com/flightphp/skeleton) - This is an example repository of how a more complex Flight project might be setup.
+- [flightphp/skeleton-simple](https://github.com/flightphp/skeleton-simple) - This is a skeleton project for a single file application to help your RESTful APIs take Flight!
+- [flightphp/cache](https://github.com/flightphp/cache) - Light, simple and standalone PHP in-file caching class
+- [flightphp/runway](https://github.com/flightphp/runway) - Console app for the Flight PHP Framework. 
 
 <a name="dns"></a>
 
@@ -642,6 +646,12 @@
 - [toinbox/simplerelay](https://github.com/toinbox/simplerelay) - SimpleRelay - Self-hosted SMTP relay with web dashboard, DNS validation, and per-sender access control (FastAPI/Postfix/Docker)
 - [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
 - [nukdokplex/ncaa-public](https://github.com/nukdokplex/ncaa-public) - A public instance of my NCaA (Nix Code as Anything) repository that contains NixOS modules, hosts, Nix packages and other stuff.
+- [flightphp/skeleton](https://github.com/flightphp/skeleton) - This is an example repository of how a more complex Flight project might be setup.
+- [flightphp/skeleton-simple](https://github.com/flightphp/skeleton-simple) - This is a skeleton project for a single file application to help your RESTful APIs take Flight!
+- [flightphp/cache](https://github.com/flightphp/cache) - Light, simple and standalone PHP in-file caching class
+- [flightphp/runway](https://github.com/flightphp/runway) - Console app for the Flight PHP Framework. 
+- [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
+- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
 <a name="knowledge"></a>
 
@@ -1132,6 +1142,7 @@
 - [filiparag/hetzner_ddns](https://github.com/filiparag/hetzner_ddns) - Hetzner Dynamic DNS (DDNS, DynDNS) daemon
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [toinbox/simplerelay](https://github.com/toinbox/simplerelay) - SimpleRelay - Self-hosted SMTP relay with web dashboard, DNS validation, and per-sender access control (FastAPI/Postfix/Docker)
+- [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
 
 <a name="nix_blueprint"></a>
 
@@ -1206,6 +1217,7 @@
 - [manic-systems/dix](https://github.com/manic-systems/dix) - A blazingly fast tool to diff Nix related things
 - [thefossguy/nixos-needsreboot](https://github.com/thefossguy/nixos-needsreboot) - Determine if you need to reboot your NixOS machine
 - [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix) - Manages Podman containers and networks on NixOS via Quadlet.
+- [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
 
 <a name="nix_parts"></a>
 
@@ -1456,6 +1468,7 @@
 - [xieve/automatic-ripping-machine](https://github.com/xieve/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 - [daeuniverse/flake.nix](https://github.com/daeuniverse/flake.nix) - Nix flake for dae and daed
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+- [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
 
 <a name="nixpkgs"></a>
 
@@ -1771,6 +1784,7 @@
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [LordGrimmauld/run0-sudo-shim](https://github.com/LordGrimmauld/run0-sudo-shim) - An imitation of sudo, using run0 internally
 - [wgtunnel/android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
+- [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
 
 <a name="smarthome"></a>
 
@@ -2451,6 +2465,10 @@
 - [Dreamacro/maxmind-geoip](https://github.com/Dreamacro/maxmind-geoip) - 
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+- [flightphp/skeleton](https://github.com/flightphp/skeleton) - This is an example repository of how a more complex Flight project might be setup.
+- [flightphp/skeleton-simple](https://github.com/flightphp/skeleton-simple) - This is a skeleton project for a single file application to help your RESTful APIs take Flight!
+- [flightphp/cache](https://github.com/flightphp/cache) - Light, simple and standalone PHP in-file caching class
+- [flightphp/runway](https://github.com/flightphp/runway) - Console app for the Flight PHP Framework. 
 
 <a name="work"></a>
 
@@ -2519,6 +2537,9 @@
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+- [flightphp/cache](https://github.com/flightphp/cache) - Light, simple and standalone PHP in-file caching class
+- [flightphp/runway](https://github.com/flightphp/runway) - Console app for the Flight PHP Framework. 
+- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 
 <a name="xolotl"></a>
 
