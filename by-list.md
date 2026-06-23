@@ -894,6 +894,7 @@
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [toinbox/simplerelay](https://github.com/toinbox/simplerelay) - SimpleRelay - Self-hosted SMTP relay with web dashboard, DNS validation, and per-sender access control (FastAPI/Postfix/Docker)
+- [abrauchli/usbeehive](https://github.com/abrauchli/usbeehive) - Tells you what each USB cable / device on Linux can actually do. Rust port of WhatCable; previously published as `whatcable`.
 
 <a name="mirror"></a>
 
@@ -2261,6 +2262,7 @@
 - [flattool/warehouse](https://github.com/flattool/warehouse) - A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
+- [abrauchli/usbeehive](https://github.com/abrauchli/usbeehive) - Tells you what each USB cable / device on Linux can actually do. Rust port of WhatCable; previously published as `whatcable`.
 
 <a name="webdev"></a>
 
