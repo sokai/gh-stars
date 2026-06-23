@@ -3142,6 +3142,11 @@
 
 ## others 
 
+- [abrauchli/usbeehive](https://github.com/abrauchli/usbeehive) - Tells you what each USB cable / device on Linux can actually do. Rust port of WhatCable; previously published as `whatcable`.
+- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+- [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
+- [flightphp/skeleton-simple](https://github.com/flightphp/skeleton-simple) - This is a skeleton project for a single file application to help your RESTful APIs take Flight!
+- [nukdokplex/ncaa-public](https://github.com/nukdokplex/ncaa-public) - A public instance of my NCaA (Nix Code as Anything) repository that contains NixOS modules, hosts, Nix packages and other stuff.
 - [0x3333/auto_off_timer](https://github.com/0x3333/auto_off_timer) - A Home Assistant custom component that automatically turns off configured lights after a user-defined timeout.
 - [flattool/warehouse](https://github.com/flattool/warehouse) - A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks
 - [pauldreik/rdfind](https://github.com/pauldreik/rdfind) - find duplicate files utility
@@ -3872,7 +3877,7 @@
 - [arjan-s/fossil-hr-watchface](https://github.com/arjan-s/fossil-hr-watchface) - Fossil Hybrid HR watchface code intended to be used by Gadgetbridge
 - [Binaergewitter/audiocity](https://github.com/Binaergewitter/audiocity) - Audacity fork without any non-free software or telemetry, as all GPL software should.
 - [littleyoda/hibiscus.depotviewer](https://github.com/littleyoda/hibiscus.depotviewer) - Depotviewer Plugin für Hibiscus
-- [harvard-lil/perma](https://github.com/harvard-lil/perma) - Indelible links
+- [harvard-lil/perma](https://github.com/harvard-lil/perma) - Websites change. Perma Links don't.
 - [faiteanu/JavaStockQuotes](https://github.com/faiteanu/JavaStockQuotes) - Java library for fetching historical stock quotes.
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [MurmurationsNetwork/MurmurationsServices](https://github.com/MurmurationsNetwork/MurmurationsServices) - Index, Library and other microservices that implement the Murmurations protocol
@@ -4686,6 +4691,8 @@
 
 ## php 
 
+- [flightphp/runway](https://github.com/flightphp/runway) - Console app for the Flight PHP Framework.
+- [flightphp/cache](https://github.com/flightphp/cache) - Light, simple and standalone PHP in-file caching class
 - [wintercms/winter](https://github.com/wintercms/winter) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [sqids/sqids-php](https://github.com/sqids/sqids-php) - Official PHP port of Sqids. Generate short unique IDs from numbers.
