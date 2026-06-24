@@ -530,6 +530,7 @@
 
 ## atom 
 
+- [iadefensa/feed-ghost](https://github.com/iadefensa/feed-ghost) - The IA Defensa Feed Ghost dual-purpose feed anonymization tool
 - [simplepie/simplepie-ng](https://github.com/simplepie/simplepie-ng) - Don't use this yet.
 - [LeedRSS/Leed](https://github.com/LeedRSS/Leed) - Leed (contraction de Light Feed) est un agrégateur RSS libre et minimaliste qui permet la consultation de flux RSS de manière rapide et non intrusive.
 - [simplepie/simplepie](https://github.com/simplepie/simplepie) - A simple Atom/RSS parsing library for PHP.
@@ -2846,6 +2847,7 @@
 ## mcp 
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
@@ -4951,6 +4953,7 @@
 
 ## privacy 
 
+- [iadefensa/feed-ghost](https://github.com/iadefensa/feed-ghost) - The IA Defensa Feed Ghost dual-purpose feed anonymization tool
 - [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) - DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.
