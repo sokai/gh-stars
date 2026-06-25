@@ -373,6 +373,7 @@
 
 ## Go 
 
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [TwiN/gatus-cli](https://github.com/TwiN/gatus-cli) - Client for Gatus
 - [SinTan1729/chhoto-url-cli](https://github.com/SinTan1729/chhoto-url-cli) - A CLI tool for interacting with Chhoto URL
