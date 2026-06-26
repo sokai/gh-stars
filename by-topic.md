@@ -3150,6 +3150,7 @@
 
 ## others 
 
+- [graphicore/librebarcode](https://github.com/graphicore/librebarcode) - Libre Barcode: barcode fonts for various barcode standards.
 - [hobbypunk90/homeassistant-addon-openwrt2mqtt](https://github.com/hobbypunk90/homeassistant-addon-openwrt2mqtt) - 
 - [hobbypunk90/homeassistant-addons](https://github.com/hobbypunk90/homeassistant-addons) - 
 - [abrauchli/usbeehive](https://github.com/abrauchli/usbeehive) - Tells you what each USB cable / device on Linux can actually do. Rust port of WhatCable; previously published as `whatcable`.
@@ -3862,7 +3863,6 @@
 - [eid-login/eid-login-nextcloud](https://github.com/eid-login/eid-login-nextcloud) - SAML based eID-Login App for Nextcloud
 - [ghostery/local-sheriff](https://github.com/ghostery/local-sheriff) - Think of Local sheriff as a recon tool in your browser (WebExtension). While you normally browse the internet, Local Sheriff works in the background to empower you in identifying what data points (PII
 - [fserro/LGBT-violence-Berlin](https://github.com/fserro/LGBT-violence-Berlin) - Mapping LGBT violence in Berlin
-- [matomo-org/matomo-nginx](https://github.com/matomo-org/matomo-nginx) - Nginx configuration for running Matomo
 - [slowprog/CopyFile](https://github.com/slowprog/CopyFile) - Composer script copying your files after install
 - [mkaz/code-syntax-block](https://github.com/mkaz/code-syntax-block) - A WordPress plugin which extends Gutenberg adding color syntax highlighting to the code block.
 - [bobthecow/mustache.php](https://github.com/bobthecow/mustache.php) - A Mustache implementation in PHP.
