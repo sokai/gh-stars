@@ -778,6 +778,7 @@
 
 ## JavaScript 
 
+- [graphicore/librebarcode](https://github.com/graphicore/librebarcode) - Libre Barcode: barcode fonts for various barcode standards.
 - [Rello/audioplayer](https://github.com/Rello/audioplayer) - Audio Player for Nextcloud and ownCloud
 - [nextcloud/deck](https://github.com/nextcloud/deck) - 🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello
 - [rstockm/Metroviz](https://github.com/rstockm/Metroviz) - Technologie-Roadmap als Metro-Map visualisieren
@@ -1705,7 +1706,6 @@
 - [ubahnverleih/WoBike](https://github.com/ubahnverleih/WoBike) - Documentation of Bike Sharing APIs 🚴🛴🛵
 - [the-via/releases](https://github.com/the-via/releases) - 
 - [humanetech-community/awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech) - Promoting Solutions that Improve Wellbeing, Freedom and Society
-- [matomo-org/matomo-nginx](https://github.com/matomo-org/matomo-nginx) - Nginx configuration for running Matomo
 - [corona-warn-app/cwa-wishlist](https://github.com/corona-warn-app/cwa-wishlist) - Central repository to collect community feature requests and improvements. The CWA development ends on May 31, 2023. You still can warn other users until April 30, 2023. More information:
 - [transportkollektiv/openbike](https://github.com/transportkollektiv/openbike) - OpenSource Bikesharing system (meta and docs repository)
 - [arjan-s/fossil-hr-watchface](https://github.com/arjan-s/fossil-hr-watchface) - Fossil Hybrid HR watchface code intended to be used by Gadgetbridge
