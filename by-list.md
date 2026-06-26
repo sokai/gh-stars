@@ -154,6 +154,7 @@
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
 - [iadefensa/feed-ghost](https://github.com/iadefensa/feed-ghost) - The IA Defensa Feed Ghost dual-purpose feed anonymization tool
 - [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
+- [graphicore/librebarcode](https://github.com/graphicore/librebarcode) - Libre Barcode: barcode fonts for various barcode standards.
 
 <a name="backup"></a>
 
@@ -220,6 +221,7 @@
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [flattool/warehouse](https://github.com/flattool/warehouse) - A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
+- [graphicore/librebarcode](https://github.com/graphicore/librebarcode) - Libre Barcode: barcode fonts for various barcode standards.
 
 <a name="dev"></a>
 
