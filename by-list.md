@@ -1751,6 +1751,8 @@
 - [0x3333/auto_off_timer](https://github.com/0x3333/auto_off_timer) - A Home Assistant custom component that automatically turns off configured lights after a user-defined timeout.
 - [quentin-st/Munin-for-Android](https://github.com/quentin-st/Munin-for-Android) - Watch your munin-monitored servers on your Android devices
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+- [hobbypunk90/homeassistant-addons](https://github.com/hobbypunk90/homeassistant-addons) - 
+- [hobbypunk90/homeassistant-addon-openwrt2mqtt](https://github.com/hobbypunk90/homeassistant-addon-openwrt2mqtt) - 
 
 <a name="security"></a>
 
@@ -1826,6 +1828,8 @@
 - [bcyran/jetkvm-wireguard-setup](https://github.com/bcyran/jetkvm-wireguard-setup) - Automated installation script and Docker-based cross-compilation environment for deploying WireGuard VPN on JetKVM devices.
 - [hassio-addons/app-ssh](https://github.com/hassio-addons/app-ssh) - Advanced SSH & Web Terminal - Home Assistant Community Apps
 - [0x3333/auto_off_timer](https://github.com/0x3333/auto_off_timer) - A Home Assistant custom component that automatically turns off configured lights after a user-defined timeout.
+- [hobbypunk90/homeassistant-addons](https://github.com/hobbypunk90/homeassistant-addons) - 
+- [hobbypunk90/homeassistant-addon-openwrt2mqtt](https://github.com/hobbypunk90/homeassistant-addon-openwrt2mqtt) - 
 
 <a name="tools"></a>
 
@@ -2280,6 +2284,8 @@
 - [quentin-st/Munin-for-Android](https://github.com/quentin-st/Munin-for-Android) - Watch your munin-monitored servers on your Android devices
 - [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+- [hobbypunk90/homeassistant-addons](https://github.com/hobbypunk90/homeassistant-addons) - 
+- [hobbypunk90/homeassistant-addon-openwrt2mqtt](https://github.com/hobbypunk90/homeassistant-addon-openwrt2mqtt) - 
 
 <a name="webdev"></a>
 
