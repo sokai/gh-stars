@@ -814,7 +814,6 @@
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
 - [nextcloud/collectives](https://github.com/nextcloud/collectives) - Collectives is a Nextcloud App for activist and community projects to organize together.
 - [nextcloud/notes](https://github.com/nextcloud/notes) - ✎ Distraction-free notes and writing
-- [navariltd/utility-billing](https://github.com/navariltd/utility-billing) - The Utility Billing & Property Management App is a powerful addition to ERPNext, designed to streamline utility billing, property leasing, and tenant management. Ideal for municipal utilities, real es
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [iquercorb/xows](https://github.com/iquercorb/xows) - XMPP over WebSocket Web client
 - [sitespeedio/onlinetest](https://github.com/sitespeedio/onlinetest) - Deploy your own version of sitespeed.io online.
@@ -1240,7 +1239,7 @@
 - [traccar/traccar-client-android](https://github.com/traccar/traccar-client-android) - Traccar Client for Android
 - [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
 - [anyproto/anytype-kotlin](https://github.com/anyproto/anytype-kotlin) - Official Anytype client for Android
-- [wgtunnel/android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & proxying.
+- [wgtunnel/android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & local proxying.
 - [opencloud-eu/android](https://github.com/opencloud-eu/android) - 🤖
 - [eu-digital-identity-wallet/eudi-lib-android-wallet-core](https://github.com/eu-digital-identity-wallet/eudi-lib-android-wallet-core) - 
 - [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet) - Link handling for modern Android
@@ -3058,6 +3057,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
+- [navariltd/utility-billing](https://github.com/navariltd/utility-billing) - The Utility Billing & Property Management App is a powerful addition to ERPNext, designed to streamline utility billing, property leasing, and tenant management. Ideal for municipal utilities, real es
 - [henryclw/jsonhero-web](https://github.com/henryclw/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
