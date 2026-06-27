@@ -1758,6 +1758,9 @@
 - [hobbypunk90/homeassistant-addons](https://github.com/hobbypunk90/homeassistant-addons) - 
 - [hobbypunk90/homeassistant-addon-openwrt2mqtt](https://github.com/hobbypunk90/homeassistant-addon-openwrt2mqtt) - 
 - [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
+- [voku/HtmlMin](https://github.com/voku/HtmlMin) - :clamp: HtmlMin: HTML Compressor and Minifier via PHP
+- [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
+- [hiqdev/asset-packagist](https://github.com/hiqdev/asset-packagist) - Asset Packagist
 
 <a name="security"></a>
 
@@ -2294,6 +2297,9 @@
 - [hobbypunk90/homeassistant-addon-openwrt2mqtt](https://github.com/hobbypunk90/homeassistant-addon-openwrt2mqtt) - 
 - [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI
 - [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
+- [voku/HtmlMin](https://github.com/voku/HtmlMin) - :clamp: HtmlMin: HTML Compressor and Minifier via PHP
+- [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
+- [hiqdev/asset-packagist](https://github.com/hiqdev/asset-packagist) - Asset Packagist
 
 <a name="webdev"></a>
 
@@ -2505,6 +2511,9 @@
 - [Codeinwp/feedzy-rss-feeds](https://github.com/Codeinwp/feedzy-rss-feeds) - FEEDZY RSS Feeds is an easy-to-use plugin giving you RSS aggregator and autoblogging functionality. Bring the best RSS feeds to your site.
 - [iadefensa/feed-ghost](https://github.com/iadefensa/feed-ghost) - The IA Defensa Feed Ghost dual-purpose feed anonymization tool
 - [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
+- [voku/HtmlMin](https://github.com/voku/HtmlMin) - :clamp: HtmlMin: HTML Compressor and Minifier via PHP
+- [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
+- [hiqdev/asset-packagist](https://github.com/hiqdev/asset-packagist) - Asset Packagist
 
 <a name="work"></a>
 
