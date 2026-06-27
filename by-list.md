@@ -1157,6 +1157,7 @@
 - [toinbox/simplerelay](https://github.com/toinbox/simplerelay) - SimpleRelay - Self-hosted SMTP relay with web dashboard, DNS validation, and per-sender access control (FastAPI/Postfix/Docker)
 - [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
 - [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
+- [libdns/inwx](https://github.com/libdns/inwx) - INWX provider implementation for libdns
 
 <a name="nix_blueprint"></a>
 
@@ -1761,6 +1762,7 @@
 - [voku/HtmlMin](https://github.com/voku/HtmlMin) - :clamp: HtmlMin: HTML Compressor and Minifier via PHP
 - [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
 - [hiqdev/asset-packagist](https://github.com/hiqdev/asset-packagist) - Asset Packagist
+- [libdns/inwx](https://github.com/libdns/inwx) - INWX provider implementation for libdns
 
 <a name="security"></a>
 
@@ -2300,6 +2302,7 @@
 - [voku/HtmlMin](https://github.com/voku/HtmlMin) - :clamp: HtmlMin: HTML Compressor and Minifier via PHP
 - [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
 - [hiqdev/asset-packagist](https://github.com/hiqdev/asset-packagist) - Asset Packagist
+- [libdns/inwx](https://github.com/libdns/inwx) - INWX provider implementation for libdns
 
 <a name="webdev"></a>
 
@@ -2514,6 +2517,7 @@
 - [voku/HtmlMin](https://github.com/voku/HtmlMin) - :clamp: HtmlMin: HTML Compressor and Minifier via PHP
 - [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
 - [hiqdev/asset-packagist](https://github.com/hiqdev/asset-packagist) - Asset Packagist
+- [libdns/inwx](https://github.com/libdns/inwx) - INWX provider implementation for libdns
 
 <a name="work"></a>
 
