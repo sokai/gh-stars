@@ -110,6 +110,7 @@
 - [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
 - [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
 - [quentin-st/Munin-for-Android](https://github.com/quentin-st/Munin-for-Android) - Watch your munin-monitored servers on your Android devices
+- [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
 
 <a name="awesome"></a>
 
@@ -726,6 +727,7 @@
 - [dimtion/Shaarlier](https://github.com/dimtion/Shaarlier) - Simple Android app for sharing links on Shaarli.
 - [Rello/audioplayer](https://github.com/Rello/audioplayer) - Audio Player for Nextcloud and ownCloud
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+- [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
 
 <a name="linux"></a>
 
@@ -1755,6 +1757,7 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [hobbypunk90/homeassistant-addons](https://github.com/hobbypunk90/homeassistant-addons) - 
 - [hobbypunk90/homeassistant-addon-openwrt2mqtt](https://github.com/hobbypunk90/homeassistant-addon-openwrt2mqtt) - 
+- [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
 
 <a name="security"></a>
 
@@ -1832,6 +1835,7 @@
 - [0x3333/auto_off_timer](https://github.com/0x3333/auto_off_timer) - A Home Assistant custom component that automatically turns off configured lights after a user-defined timeout.
 - [hobbypunk90/homeassistant-addons](https://github.com/hobbypunk90/homeassistant-addons) - 
 - [hobbypunk90/homeassistant-addon-openwrt2mqtt](https://github.com/hobbypunk90/homeassistant-addon-openwrt2mqtt) - 
+- [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI
 
 <a name="tools"></a>
 
@@ -2289,6 +2293,7 @@
 - [hobbypunk90/homeassistant-addons](https://github.com/hobbypunk90/homeassistant-addons) - 
 - [hobbypunk90/homeassistant-addon-openwrt2mqtt](https://github.com/hobbypunk90/homeassistant-addon-openwrt2mqtt) - 
 - [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI
+- [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
 
 <a name="webdev"></a>
 
