@@ -373,6 +373,7 @@
 
 ## Go 
 
+- [libdns/inwx](https://github.com/libdns/inwx) - INWX provider implementation for libdns
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [TwiN/gatus-cli](https://github.com/TwiN/gatus-cli) - Client for Gatus
