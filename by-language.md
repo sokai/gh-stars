@@ -1784,6 +1784,8 @@
 
 ## PHP 
 
+- [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
+- [voku/HtmlMin](https://github.com/voku/HtmlMin) - :clamp: HtmlMin: HTML Compressor and Minifier via PHP
 - [flightphp/runway](https://github.com/flightphp/runway) - Console app for the Flight PHP Framework.
 - [flightphp/cache](https://github.com/flightphp/cache) - Light, simple and standalone PHP in-file caching class
 - [flightphp/skeleton-simple](https://github.com/flightphp/skeleton-simple) - This is a skeleton project for a single file application to help your RESTful APIs take Flight!
