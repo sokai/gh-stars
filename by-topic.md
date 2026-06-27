@@ -3152,6 +3152,7 @@
 
 ## others 
 
+- [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
 - [graphicore/librebarcode](https://github.com/graphicore/librebarcode) - Libre Barcode: barcode fonts for various barcode standards.
 - [hobbypunk90/homeassistant-addon-openwrt2mqtt](https://github.com/hobbypunk90/homeassistant-addon-openwrt2mqtt) - 
 - [hobbypunk90/homeassistant-addons](https://github.com/hobbypunk90/homeassistant-addons) - 
