@@ -815,7 +815,7 @@
 - [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
-- [nextcloud/collectives](https://github.com/nextcloud/collectives) - Collectives is a Nextcloud App for activist and community projects to organize together.
+- [nextcloud/collectives](https://github.com/nextcloud/collectives) - Your space to collaboratively write and organize. Collectives is designed for groups and communities to structure shared knowledge and cultivate trust.
 - [nextcloud/notes](https://github.com/nextcloud/notes) - ✎ Distraction-free notes and writing
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [iquercorb/xows](https://github.com/iquercorb/xows) - XMPP over WebSocket Web client
