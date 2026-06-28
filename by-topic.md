@@ -3152,6 +3152,7 @@
 
 ## others 
 
+- [FanaticPythoner/better-todo-tree](https://github.com/FanaticPythoner/better-todo-tree) - The maintained successor to Todo Tree for VS Code: same workflow, active fixes, better compatibility, and ongoing improvements.
 - [libdns/inwx](https://github.com/libdns/inwx) - INWX provider implementation for libdns
 - [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
 - [graphicore/librebarcode](https://github.com/graphicore/librebarcode) - Libre Barcode: barcode fonts for various barcode standards.
