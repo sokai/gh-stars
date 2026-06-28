@@ -1763,6 +1763,7 @@
 - [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
 - [hiqdev/asset-packagist](https://github.com/hiqdev/asset-packagist) - Asset Packagist
 - [libdns/inwx](https://github.com/libdns/inwx) - INWX provider implementation for libdns
+- [FanaticPythoner/better-todo-tree](https://github.com/FanaticPythoner/better-todo-tree) - The maintained successor to Todo Tree for VS Code: same workflow, active fixes, better compatibility, and ongoing improvements.
 
 <a name="security"></a>
 
@@ -2303,6 +2304,7 @@
 - [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
 - [hiqdev/asset-packagist](https://github.com/hiqdev/asset-packagist) - Asset Packagist
 - [libdns/inwx](https://github.com/libdns/inwx) - INWX provider implementation for libdns
+- [FanaticPythoner/better-todo-tree](https://github.com/FanaticPythoner/better-todo-tree) - The maintained successor to Todo Tree for VS Code: same workflow, active fixes, better compatibility, and ongoing improvements.
 
 <a name="webdev"></a>
 
