@@ -2419,6 +2419,7 @@
 
 ## Python 
 
+- [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [iadefensa/feed-ghost](https://github.com/iadefensa/feed-ghost) - The IA Defensa Feed Ghost dual-purpose feed anonymization tool
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [0x3333/auto_off_timer](https://github.com/0x3333/auto_off_timer) - A Home Assistant custom component that automatically turns off configured lights after a user-defined timeout.
