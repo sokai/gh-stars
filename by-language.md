@@ -850,6 +850,7 @@
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [ssotax/ssotax](https://github.com/ssotax/ssotax) - A list of vendors that treat single sign-on as a luxury feature, not a core security requirement.
+- [versatiles-org/versatiles-fonts](https://github.com/versatiles-org/versatiles-fonts) - Repository of open-source SDF fonts optimized for MapLibre GL JS rendering.
 - [lutangar/cities.json](https://github.com/lutangar/cities.json) - :cityscape: Cities of the world in Json, based on GeoNames Gazetteer
 - [nextcloud/whiteboard](https://github.com/nextcloud/whiteboard) - Create & collaborate on an infinite canvas!
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
@@ -2856,7 +2857,6 @@
 - [fndov/nixedit](https://github.com/fndov/nixedit) - NixOS Multipurpose CLI/TUI Utility
 - [latchset/clevis](https://github.com/latchset/clevis) - Automated Encryption Framework
 - [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
-- [versatiles-org/versatiles-fonts](https://github.com/versatiles-org/versatiles-fonts) - Repository of open-source SDF fonts optimized for MapLibre GL JS rendering.
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 - [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
 - [totoroot/curlcard](https://github.com/totoroot/curlcard) - curl your digital business card
