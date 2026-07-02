@@ -1974,7 +1974,7 @@
 - [anonaddy/anonaddy](https://github.com/anonaddy/anonaddy) - Anonymous email forwarding
 - [joppuyo/syllable-hyphenator](https://github.com/joppuyo/syllable-hyphenator) - Server-side hyphenation for WordPress with Syllable library.
 - [pluginkollektiv/statify](https://github.com/pluginkollektiv/statify) - Statify – statistics plugin for WordPress
-- [owncloud/music](https://github.com/owncloud/music) - :notes: Music app for ownCloud
+- [nc-music/oc-music](https://github.com/nc-music/oc-music) - :notes: Music app for ownCloud
 - [rmbinder/KeyManager](https://github.com/rmbinder/KeyManager) - KeyManager is an Admidio plugin for managing building and room keys.
 - [rmbinder/DeclarationOfMembership](https://github.com/rmbinder/DeclarationOfMembership) - DeclarationOfMembership creates an online membership declaration. It is an admidio plugin and can not be run without admidio.
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
