@@ -421,7 +421,7 @@
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [mholt/caddy-dynamicdns](https://github.com/mholt/caddy-dynamicdns) - Caddy app that keeps your DNS records (A/AAAA) pointed at itself.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
+- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [chiefnoah/go-foks](https://github.com/chiefnoah/go-foks) - Go implementation of FOKS -- client and server
 - [caddy-dns/hetzner](https://github.com/caddy-dns/hetzner) - Caddy module: dns.providers.hetzner
