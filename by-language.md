@@ -1429,7 +1429,6 @@
 - [stepbrobd/autopilot](https://github.com/stepbrobd/autopilot) - flake parts with autoloading
 - [e-tho/ucodenix](https://github.com/e-tho/ucodenix) - Microcode updates for AMD CPUs on NixOS
 - [semi710/nsearch](https://github.com/semi710/nsearch) - Packages Search for Nixos/Nixpkgs
-- [mariolopjr/infra](https://github.com/mariolopjr/infra) - 
 - [brittonr/clan-user-proposal](https://github.com/brittonr/clan-user-proposal) - 
 - [binarin/nixos-config](https://github.com/binarin/nixos-config) - NixOS configurations for all my machines
 - [yunfachi/nix-config](https://github.com/yunfachi/nix-config) - My NixOS and Home Manager flake for all my hosts, built with Denix
