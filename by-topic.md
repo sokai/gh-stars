@@ -3315,6 +3315,7 @@
 - [stepbrobd/autopilot](https://github.com/stepbrobd/autopilot) - flake parts with autoloading
 - [platomav/CPUMicrocodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA & Freescale CPU Microcode Repositories
 - [semi710/nsearch](https://github.com/semi710/nsearch) - Packages Search for Nixos/Nixpkgs
+- [mariolopjr/infra](https://github.com/mariolopjr/infra) - 
 - [brittonr/clan-user-proposal](https://github.com/brittonr/clan-user-proposal) - 
 - [jpoliv/wakeonlan](https://github.com/jpoliv/wakeonlan) - Perl script for waking up computers via Wake-On-LAN magic packets
 - [binarin/nixos-config](https://github.com/binarin/nixos-config) - NixOS configurations for all my machines
