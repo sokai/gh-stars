@@ -1173,7 +1173,7 @@
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [eclipse-streamsheets/streamsheets](https://github.com/eclipse-streamsheets/streamsheets) - An open-source tool for processing stream data using a spreadsheet-like interface.
-- [notepadqq/notepadqq](https://github.com/notepadqq/notepadqq) - A simple, general-purpose editor for Linux
+- [notepadqq/notepadqq](https://github.com/notepadqq/notepadqq) - A simple, general-purpose editor for Linux and MacOS
 
 ## devops 
 
@@ -2658,7 +2658,7 @@
 - [akiraux/Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
-- [notepadqq/notepadqq](https://github.com/notepadqq/notepadqq) - A simple, general-purpose editor for Linux
+- [notepadqq/notepadqq](https://github.com/notepadqq/notepadqq) - A simple, general-purpose editor for Linux and MacOS
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [fwupd/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -2752,6 +2752,7 @@
 - [borgbase/vorta](https://github.com/borgbase/vorta) - Desktop Backup Client for Borg Backup
 - [monal-im/Monal](https://github.com/monal-im/Monal) - Monal for XMPP (iOS and macOS)
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+- [notepadqq/notepadqq](https://github.com/notepadqq/notepadqq) - A simple, general-purpose editor for Linux and MacOS
 
 ## malware 
 
