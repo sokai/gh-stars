@@ -158,6 +158,7 @@
 - [graphicore/librebarcode](https://github.com/graphicore/librebarcode) - Libre Barcode: barcode fonts for various barcode standards.
 - [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) - Run standard NixOS on your mobile devices!
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut) - Your GitHub stats, turned into a World-Cup-style player card 
 
 <a name="backup"></a>
 
@@ -664,6 +665,7 @@
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [Codeinwp/feedzy-rss-feeds](https://github.com/Codeinwp/feedzy-rss-feeds) - FEEDZY RSS Feeds is an easy-to-use plugin giving you RSS aggregator and autoblogging functionality. Bring the best RSS feeds to your site.
 - [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
+- [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 
 <a name="knowledge"></a>
 
@@ -909,6 +911,7 @@
 - [toinbox/simplerelay](https://github.com/toinbox/simplerelay) - SimpleRelay - Self-hosted SMTP relay with web dashboard, DNS validation, and per-sender access control (FastAPI/Postfix/Docker)
 - [abrauchli/usbeehive](https://github.com/abrauchli/usbeehive) - Tells you what each USB cable / device on Linux can actually do. Rust port of WhatCable; previously published as `whatcable`.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+- [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 
 <a name="mirror"></a>
 
@@ -1236,6 +1239,8 @@
 - [thefossguy/nixos-needsreboot](https://github.com/thefossguy/nixos-needsreboot) - Determine if you need to reboot your NixOS machine
 - [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix) - Manages Podman containers and networks on NixOS via Quadlet.
 - [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
+- [filiparag/hetzner_ddns](https://github.com/filiparag/hetzner_ddns) - Hetzner Dynamic DNS (DDNS, DynDNS) daemon
+- [giomf/NixoScope](https://github.com/giomf/NixoScope) - Visualize dependencies between NixOS modules
 
 <a name="nix_parts"></a>
 
@@ -1477,6 +1482,7 @@
 - [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
 - [manic-systems/ncro](https://github.com/manic-systems/ncro) - Lightweight HTTP proxy for optimizing Nix cache routes for fast access
 - [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) - Run standard NixOS on your mobile devices!
+- [giomf/NixoScope](https://github.com/giomf/NixoScope) - Visualize dependencies between NixOS modules
 
 <a name="nixos_module"></a>
 
@@ -1819,6 +1825,7 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [dnsviz/dnsviz](https://github.com/dnsviz/dnsviz) - 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 
 <a name="smarthome"></a>
 
@@ -2313,6 +2320,7 @@
 - [libdns/inwx](https://github.com/libdns/inwx) - INWX provider implementation for libdns
 - [FanaticPythoner/better-todo-tree](https://github.com/FanaticPythoner/better-todo-tree) - The maintained successor to Todo Tree for VS Code: same workflow, active fixes, better compatibility, and ongoing improvements.
 - [dnsviz/dnsviz](https://github.com/dnsviz/dnsviz) - 
+- [giomf/NixoScope](https://github.com/giomf/NixoScope) - Visualize dependencies between NixOS modules
 
 <a name="webdev"></a>
 
