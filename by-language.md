@@ -1326,7 +1326,7 @@
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [tmolitor-stud-tu/mod_push_appserver](https://github.com/tmolitor-stud-tu/mod_push_appserver) - Simple and extendable appserver for XMPP pushes (aka. XEP-0357)
-- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
+- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Cybersecurity Network Traffic Monitoring
 
 ## MDX 
 
