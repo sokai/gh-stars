@@ -3011,6 +3011,7 @@
 
 ## TypeScript 
 
+- [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
 - [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut) - Your GitHub stats, turned into a World-Cup-style player card
 - [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [sozialhelden/wheelmap-frontend](https://github.com/sozialhelden/wheelmap-frontend) - Source code of the wheelmap.org React.js frontend application
