@@ -294,6 +294,7 @@
 - [Turtlecute33/adblocktest](https://github.com/Turtlecute33/adblocktest) - A simple and user-friendly website to test and verify your ad-blockers and DNS filters
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [fernwerker/ownDynDNS](https://github.com/fernwerker/ownDynDNS) - Self-hosted dynamic DNS php script for FRITZ!Box and netcup DNS API
+- [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 
 <a name="idea"></a>
 
@@ -666,6 +667,7 @@
 - [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
+- [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
 
 <a name="knowledge"></a>
 
@@ -734,6 +736,7 @@
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
 - [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
+- [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
 
 <a name="linux"></a>
 
@@ -914,6 +917,7 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
+- [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 
 <a name="mirror"></a>
 
@@ -2327,6 +2331,8 @@
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
+- [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
+- [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 
 <a name="webdev"></a>
 
@@ -2617,6 +2623,8 @@
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
+- [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
+- [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 
 <a name="xolotl"></a>
 
