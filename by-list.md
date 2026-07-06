@@ -1201,7 +1201,6 @@
 - [esselius/kfg](https://github.com/esselius/kfg) - 
 - [denful/den](https://github.com/denful/den) - Aspect-oriented, context-driven Nix configurations.
 - [mzonski/nixos-config](https://github.com/mzonski/nixos-config) - 
-- [songpola/nixos-config](https://github.com/songpola/nixos-config) - 
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 - [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
 - [getchoo/froyo](https://github.com/getchoo/froyo) - 🍨 A tasteful way to organize your Nix code
