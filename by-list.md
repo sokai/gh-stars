@@ -665,6 +665,7 @@
 - [Codeinwp/feedzy-rss-feeds](https://github.com/Codeinwp/feedzy-rss-feeds) - FEEDZY RSS Feeds is an easy-to-use plugin giving you RSS aggregator and autoblogging functionality. Bring the best RSS feeds to your site.
 - [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
+- [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
 
 <a name="knowledge"></a>
 
@@ -732,6 +733,7 @@
 - [Rello/audioplayer](https://github.com/Rello/audioplayer) - Audio Player for Nextcloud and ownCloud
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
+- [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
 
 <a name="linux"></a>
 
@@ -2324,6 +2326,7 @@
 - [giomf/NixoScope](https://github.com/giomf/NixoScope) - Visualize dependencies between NixOS modules
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
+- [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
 
 <a name="webdev"></a>
 
@@ -2613,6 +2616,7 @@
 - [flightphp/runway](https://github.com/flightphp/runway) - Console app for the Flight PHP Framework. 
 - [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
+- [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
 
 <a name="xolotl"></a>
 
