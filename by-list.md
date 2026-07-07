@@ -668,6 +668,8 @@
 - [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
+- [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
+- [mario/nc-push-proxy](https://github.com/mario/nc-push-proxy) - 
 
 <a name="knowledge"></a>
 
@@ -1170,6 +1172,8 @@
 - [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
 - [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [libdns/inwx](https://github.com/libdns/inwx) - INWX provider implementation for libdns
+- [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
+- [mario/nc-push-proxy](https://github.com/mario/nc-push-proxy) - 
 
 <a name="nix_blueprint"></a>
 
@@ -2334,6 +2338,7 @@
 - [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
+- [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
 
 <a name="webdev"></a>
 
@@ -2551,6 +2556,7 @@
 - [libdns/inwx](https://github.com/libdns/inwx) - INWX provider implementation for libdns
 - [dnsviz/dnsviz](https://github.com/dnsviz/dnsviz) - 
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
+- [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
 
 <a name="work"></a>
 
