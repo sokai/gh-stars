@@ -1884,7 +1884,7 @@
 - [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
-- [cachethq/core](https://github.com/cachethq/core) - 🚦 The core for Cachet, the open-source, self-hosted status page system.
+- [cachethq/core](https://github.com/cachethq/core) - 🚦 The core for Cachet, an open source, self-hosted status page system.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS, nix-darwin  & Home Manager Configurations ❄️
@@ -2340,6 +2340,7 @@
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [thsmi/sieve](https://github.com/thsmi/sieve) - Sieve Script Editor
+- [owncloud/files_texteditor](https://github.com/owncloud/files_texteditor) - 
 - [cbopp-art/lightcase](https://github.com/cbopp-art/lightcase) - The smart and flexible Lightbox Plugin.
 - [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 - [ded/reqwest](https://github.com/ded/reqwest) - browser asynchronous http requests
@@ -2353,6 +2354,7 @@
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [8ARTEK/projector](https://github.com/8ARTEK/projector) - 📽 A simple HTML mockup presentation engine for projects
 - [refactory-id/bootstrap-markdown](https://github.com/refactory-id/bootstrap-markdown) - Bootstrap plugin for markdown editing
+- [owncloud/notes](https://github.com/owncloud/notes) - :notebook_with_decorative_cover: Notes app for ownCloud
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
@@ -2528,7 +2530,7 @@
 - [laradashboard/laradashboard](https://github.com/laradashboard/laradashboard) - ⚡ Lara Dashboard - CMS by Laravel - All In One solution to start your Laravel Application from Basic to Enterprise. Manages Users, Roles, Permissions, Modules, Settings, Translations, Contents, Monito
 - [fruitcake/laravel-debugbar](https://github.com/fruitcake/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory is a secure, self-hosted enterprise data access platform that provides governed API access to any data source, connecting enterprise applications and on-prem LLMs with role-based access a
-- [cachethq/core](https://github.com/cachethq/core) - 🚦 The core for Cachet, the open-source, self-hosted status page system.
+- [cachethq/core](https://github.com/cachethq/core) - 🚦 The core for Cachet, an open source, self-hosted status page system.
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
 - [koel/koel](https://github.com/koel/koel) - Music streaming solution that works.
 - [urlhum/UrlHum](https://github.com/urlhum/UrlHum) - The modern, privacy-aware URL Shortener built in PHP.
@@ -2885,6 +2887,7 @@
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [buttercup/buttercup-mobile](https://github.com/buttercup/buttercup-mobile) - :iphone: React-Native mobile application for Buttercup
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
+- [owncloud/android](https://github.com/owncloud/android) - :phone: The ownCloud Android App
 
 ## mongodb 
 
@@ -4350,7 +4353,6 @@
 - [pfefferle/.editorconfigs](https://github.com/pfefferle/.editorconfigs) - A list of .editorconfig files, optimized for several projects
 - [jsfiddle/togetherjs](https://github.com/jsfiddle/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time.
 - [owncloud/gallery](https://github.com/owncloud/gallery) - :sunrise: Gallery app for ownCloud, which includes previews for all supported media files
-- [owncloud/files_texteditor](https://github.com/owncloud/files_texteditor) - 
 - [owncloud-archive/3rdparty](https://github.com/owncloud-archive/3rdparty) - Some 3rd party libraries that are necessary to run ownCloud
 - [tinned-software/mailserver-test](https://github.com/tinned-software/mailserver-test) - Mailserver-Test is a collection of shell scripts created to test a mailserver's setup. It includes a script to test an SMTP server and a script to test an IMAP server.
 - [thebird/Swipe](https://github.com/thebird/Swipe) - Swipe is the most accurate touch slider.
@@ -4471,7 +4473,6 @@
 - [ThinkUpLLC/ThinkUp](https://github.com/ThinkUpLLC/ThinkUp) - ThinkUp gives you insights into your social networking activity on Twitter, Facebook, Instagram, and beyond.
 - [themehybrid/hybrid-core](https://github.com/themehybrid/hybrid-core) - Official repository for the Hybrid Core WordPress development framework.
 - [leomeih/slimjp](https://github.com/leomeih/slimjp) - Security maintenance update for existing users only and a new plugin is under development to replace it. Rename to "Slimjp" to avoid trademark concerns from Automattic.
-- [owncloud/notes](https://github.com/owncloud/notes) - :notebook_with_decorative_cover: Notes app for ownCloud
 - [sayakb/sticky-notes](https://github.com/sayakb/sticky-notes) - Sticky notes is a free open-source pastebin application.
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
@@ -4915,6 +4916,7 @@
 - [joshdick/miniProxy](https://github.com/joshdick/miniProxy) - 🚨⚠️ UNMAINTAINED!  ⚠️🚨 A simple PHP web proxy.
 - [idno/idno](https://github.com/idno/idno) - A social publishing platform.
 - [sentora/sentora-core](https://github.com/sentora/sentora-core) - Sentora is a web hosting control panel written in PHP for *NIX
+- [owncloud/files_texteditor](https://github.com/owncloud/files_texteditor) - 
 - [claviska/SimpleImage](https://github.com/claviska/SimpleImage) - A PHP class that makes working with images and GD as simple as possible.
 - [pel/pel](https://github.com/pel/pel) - PHP Exif Library - library for reading and writing Exif headers in JPEG and TIFF files using PHP.
 - [dmpop/pellicola](https://github.com/dmpop/pellicola) - Pastebin for your photos
@@ -4932,6 +4934,7 @@
 - [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
+- [owncloud/notes](https://github.com/owncloud/notes) - :notebook_with_decorative_cover: Notes app for ownCloud
 - [afterlogic/webmail-lite](https://github.com/afterlogic/webmail-lite) - AfterLogic WebMail Lite PHP. Fast and easy-to-use webmail front-end for your existing IMAP mail server, Plesk or cPanel.
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [kint-php/kint](https://github.com/kint-php/kint) - Kint - Advanced PHP dumper
@@ -5527,7 +5530,7 @@
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
-- [cachethq/core](https://github.com/cachethq/core) - 🚦 The core for Cachet, the open-source, self-hosted status page system.
+- [cachethq/core](https://github.com/cachethq/core) - 🚦 The core for Cachet, an open source, self-hosted status page system.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
