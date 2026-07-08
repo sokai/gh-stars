@@ -3945,7 +3945,7 @@
 - [maoschanz/drawing](https://github.com/maoschanz/drawing) - Simple image editor for Linux
 - [LineageOS/android_device_oneplus_avicii](https://github.com/LineageOS/android_device_oneplus_avicii) - 
 - [mackshot/lightninginvitationnotifier](https://github.com/mackshot/lightninginvitationnotifier) - 
-- [friedPotat0/Spam-Scores](https://github.com/friedPotat0/Spam-Scores) - Thunderbird add-on to display spam scores according to mail headers. Supports spam/ham score headers of Rspamd and SpamAssassin. The add-on adds a column with the overall spam score to the mail list v
+- [friedPotat0/Spam-Scores](https://github.com/friedPotat0/Spam-Scores) - Thunderbird add-on that shows the spam score your mail server already assigned to each message, in a colour-coded mail-list column with a rule-by-rule breakdown. Reads SpamAssassin, rspamd, MailScanne
 - [kgshank/gse-sound-output-device-chooser](https://github.com/kgshank/gse-sound-output-device-chooser) - Gnome Shell Extension to show a simple chooser to select Input & Output device based on gnome control center
 - [TriumphLLC/Blend4Web](https://github.com/TriumphLLC/Blend4Web) - Blend4Web is a tool for interactive 3D visualization on the Internet
 - [LibreOffice/dictionaries](https://github.com/LibreOffice/dictionaries) - 
