@@ -910,7 +910,6 @@
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [jquery/jquery-migrate](https://github.com/jquery/jquery-migrate) - A development tool to help migrate away from APIs and features that have been or will be removed from jQuery core
 - [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
-- [gbv/coli-conc.gbv.de](https://github.com/gbv/coli-conc.gbv.de) - project coli-conc homepage
 - [nextcloud/files_texteditor](https://github.com/nextcloud/files_texteditor) - :page_facing_up: Text editor for plaintext files
 - [creecros/simple_logo_gen](https://github.com/creecros/simple_logo_gen) - A simple logo generator using fontawesome.
 - [nextcloud/polls](https://github.com/nextcloud/polls) - 🗳️ Polls app for Nextcloud
@@ -2802,6 +2801,7 @@
 - [all-animation/all-animation](https://github.com/all-animation/all-animation) - All Animation.css is a set of nice and crazy css animations made with the purpose to bring life and interactions to your project. They are cross-browser animations which will give more emphases on you
 - [primer/css](https://github.com/primer/css) - Primer is GitHub's design system. This is the CSS implementation
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
+- [gbv/coli-conc.gbv.de](https://github.com/gbv/coli-conc.gbv.de) - project coli-conc homepage
 - [jnsh/arc-theme](https://github.com/jnsh/arc-theme) - A flat theme with transparent elements (actively maintained fork)
 - [ubuntu/yaru](https://github.com/ubuntu/yaru) - All Ubuntu Yaru GNOME themes
 - [uswds/uswds](https://github.com/uswds/uswds) - The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.
