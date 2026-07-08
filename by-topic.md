@@ -329,6 +329,7 @@
 
 ## android 
 
+- [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX) - Get Android app updates straight from the source. And install it any way you want.
 - [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
 - [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
 - [Nriver/pocket-trilium](https://github.com/Nriver/pocket-trilium) - Trilium in my pocket :) Android app for Trilium. Trilium安卓客户端
