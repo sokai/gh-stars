@@ -111,6 +111,7 @@
 - [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
 - [quentin-st/Munin-for-Android](https://github.com/quentin-st/Munin-for-Android) - Watch your munin-monitored servers on your Android devices
 - [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
+- [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX) - Get Android app updates straight from the source. And install it any way you want. 
 
 <a name="awesome"></a>
 
@@ -670,6 +671,7 @@
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
 - [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
 - [mario/nc-push-proxy](https://github.com/mario/nc-push-proxy) - 
+- [departamento-de-decentralizacion/infra](https://github.com/departamento-de-decentralizacion/infra) - 
 
 <a name="knowledge"></a>
 
@@ -1174,6 +1176,7 @@
 - [libdns/inwx](https://github.com/libdns/inwx) - INWX provider implementation for libdns
 - [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
 - [mario/nc-push-proxy](https://github.com/mario/nc-push-proxy) - 
+- [departamento-de-decentralizacion/infra](https://github.com/departamento-de-decentralizacion/infra) - 
 
 <a name="nix_blueprint"></a>
 
@@ -1786,6 +1789,7 @@
 - [FanaticPythoner/better-todo-tree](https://github.com/FanaticPythoner/better-todo-tree) - The maintained successor to Todo Tree for VS Code: same workflow, active fixes, better compatibility, and ongoing improvements.
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
+- [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX) - Get Android app updates straight from the source. And install it any way you want. 
 
 <a name="security"></a>
 
@@ -2339,6 +2343,7 @@
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 - [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
+- [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX) - Get Android app updates straight from the source. And install it any way you want. 
 
 <a name="webdev"></a>
 
