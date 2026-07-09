@@ -4665,7 +4665,6 @@
 - [fnagel/jQuery-Accessible-RIA](https://github.com/fnagel/jQuery-Accessible-RIA) - a collection of strictly WAI WCAG 2.0 and WAI ARIA conform web applications based on jQuery UI. Currently a lightbox app, live form-validation & sortable tables are ready to use. Released under MIT li
 - [kolber/stacey](https://github.com/kolber/stacey) - Cheap & easy content management
 - [flavio/kaveau](https://github.com/flavio/kaveau) - Easy to use and fully integrated backup solution for KDE
-- [vanilla/vanilla](https://github.com/vanilla/vanilla) - Vanilla is a powerfully simple discussion forum you can easily customize to make as unique as your community.
 - [major/MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.
 - [philogb/jit](https://github.com/philogb/jit) - The JavaScript InfoVis Toolkit provides tools for creating Interactive Data Visualizations for the Web
 - [technosophos/querypath](https://github.com/technosophos/querypath) - QueryPath is a PHP library for manipulating XML and HTML. It is designed to work not only with local files, but also with web services and database resources.
