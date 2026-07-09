@@ -1502,6 +1502,7 @@
 - [ShadowRZ/hanekokoro-flake](https://github.com/ShadowRZ/hanekokoro-flake) - Hanekokoro (はねこころ) Flake
 - [boffbowsh/nix-lancache](https://github.com/boffbowsh/nix-lancache) - A Flake for running LanCache.net on NixOS
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
+- [hmajid2301/nixicle](https://github.com/hmajid2301/nixicle) - My dotfiles always changing 🙈
 - [denful/dendrix](https://github.com/denful/dendrix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern.
 - [ProjectInitiative/dotfiles](https://github.com/ProjectInitiative/dotfiles) - personal nix config declaratively defining my homelab
 - [ratson/conflake](https://github.com/ratson/conflake) - Conflake Config Flakes!
@@ -1995,7 +1996,7 @@
 - [mimecorg/webissues](https://github.com/mimecorg/webissues) - WebIssues team collaboration system.
 - [maptiler/tileserver-php](https://github.com/maptiler/tileserver-php) - MBTiles and MapTiler folder hosting with TileJSON, OGC WMTS, UTFGrid interaction and web interface. QGIS & ESRI ArcGIS compatible. Runs on any Apache+PHP webhosting. MapBox Studio Vector Tiles hosting
 - [bwdutton/gallery3](https://github.com/bwdutton/gallery3) - The simplest, most intuitive way to host your photos on your website.
-- [addwiki/mediawiki-api](https://github.com/addwiki/mediawiki-api) - Library with services for interacting with the Mediawiki API, [READ-ONLY] split from https://github.com/addwiki/addwiki
+- [addwiki/mediawiki-api](https://github.com/addwiki/mediawiki-api) - ARCHIVED: Now contained within https://github.com/addshore/addwiki
 - [wearerequired/traduttore](https://github.com/wearerequired/traduttore) - 🗼 A WordPress plugin to improve the I18N workflow for your own projects based on @GlotPress.
 - [ocean90/public-post-preview](https://github.com/ocean90/public-post-preview) - WordPress plugin to allow anonymous users to preview a post before it is published.
 - [catchpoint/WebPageTest](https://github.com/catchpoint/WebPageTest) - Official repository for WebPageTest
@@ -3084,7 +3085,6 @@
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
-- [hmajid2301/nixicle](https://github.com/hmajid2301/nixicle) - My dotfiles always changing 🙈
 - [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - [ag-grid/ag-charts](https://github.com/ag-grid/ag-charts) - AG Charts is a fully-featured and highly customizable JavaScript charting library. The professional choice for developers building enterprise applications
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
