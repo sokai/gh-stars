@@ -3985,7 +3985,7 @@
 - [mgalgs/gnome-shell-system-monitor-next-applet](https://github.com/mgalgs/gnome-shell-system-monitor-next-applet) - Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [Shawn-Shan/fawkes](https://github.com/Shawn-Shan/fawkes) - Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes
-- [addwiki/mediawiki-api](https://github.com/addwiki/mediawiki-api) - Library with services for interacting with the Mediawiki API, [READ-ONLY] split from https://github.com/addwiki/addwiki
+- [addwiki/mediawiki-api](https://github.com/addwiki/mediawiki-api) - ARCHIVED: Now contained within https://github.com/addshore/addwiki
 - [adamroach/tb-archive-this](https://github.com/adamroach/tb-archive-this) - Source code for the "Archive This" add on.
 - [fastmail/Squire](https://github.com/fastmail/Squire) - The rich text editor for arbitrary HTML.
 - [dell/thunderbolt-nvm-linux](https://github.com/dell/thunderbolt-nvm-linux) - Thunderbolt NVM updates for Linux
