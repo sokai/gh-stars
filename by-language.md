@@ -2386,7 +2386,6 @@
 - [jwage/easy-csv](https://github.com/jwage/easy-csv) - EasyCSV is a simple Object Oriented CSV manipulation library for PHP 7.2+
 - [yllohy/phpicalendar](https://github.com/yllohy/phpicalendar) - (UNOFFICAL, UNMAINTAINED REPOSITORY) PHP iCalendar is a PHP-based iCal file viewer/parser to display iCals in a Web browser.
 - [kolber/stacey](https://github.com/kolber/stacey) - Cheap & easy content management
-- [vanilla/vanilla](https://github.com/vanilla/vanilla) - Vanilla is a powerfully simple discussion forum you can easily customize to make as unique as your community.
 - [technosophos/querypath](https://github.com/technosophos/querypath) - QueryPath is a PHP library for manipulating XML and HTML. It is designed to work not only with local files, but also with web services and database resources.
 - [notmaintained/pnd](https://github.com/notmaintained/pnd) - A minimal set of non-OO libraries for PHP 5.3+
 - [kneath/hemingway](https://github.com/kneath/hemingway) - Hemingway is a template for Wordpress
