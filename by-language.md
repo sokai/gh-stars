@@ -1362,6 +1362,7 @@
 
 ## Nix 
 
+- [benkoppe/nixcfg](https://github.com/benkoppe/nixcfg) - Consolidated nixOS, darwin, and hjem deployments for personal machines & servers
 - [applicative-systems/mkdocs-flake](https://github.com/applicative-systems/mkdocs-flake) - mkdocs-flake simplifies MkDocs setup with the latest packages, pre-bundled plugins, Material Design, PlantUML, and code highlighting. Available as a Nix flake, flake-parts module, and Docker image, it
 - [departamento-de-decentralizacion/infra](https://github.com/departamento-de-decentralizacion/infra) - 
 - [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) - Run standard NixOS on your mobile devices!
@@ -1627,6 +1628,7 @@
 
 ## Nunjucks 
 
+- [ShadowJonathan/nostalebots.xyz](https://github.com/ShadowJonathan/nostalebots.xyz) - A short rant and index regarding stalebot-using open source repositories
 - [5t3ph/smolcss](https://github.com/5t3ph/smolcss) - Minimal snippets for modern CSS layouts and components
 
 ## Objective-C 
