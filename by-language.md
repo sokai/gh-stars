@@ -1362,6 +1362,7 @@
 
 ## Nix 
 
+- [applicative-systems/mkdocs-flake](https://github.com/applicative-systems/mkdocs-flake) - mkdocs-flake simplifies MkDocs setup with the latest packages, pre-bundled plugins, Material Design, PlantUML, and code highlighting. Available as a Nix flake, flake-parts module, and Docker image, it
 - [departamento-de-decentralizacion/infra](https://github.com/departamento-de-decentralizacion/infra) - 
 - [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) - Run standard NixOS on your mobile devices!
 - [nukdokplex/ncaa-public](https://github.com/nukdokplex/ncaa-public) - A public instance of my NCaA (Nix Code as Anything) repository that contains NixOS modules, hosts, Nix packages and other stuff.
