@@ -1177,6 +1177,7 @@
 - [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
 - [mario/nc-push-proxy](https://github.com/mario/nc-push-proxy) - 
 - [departamento-de-decentralizacion/infra](https://github.com/departamento-de-decentralizacion/infra) - 
+- [applicative-systems/mkdocs-flake](https://github.com/applicative-systems/mkdocs-flake) - mkdocs-flake simplifies MkDocs setup with the latest packages, pre-bundled plugins, Material Design, PlantUML, and code highlighting. Available as a Nix flake, flake-parts module, and Docker image, it makes beautiful documentation easy. [maintainer=@tfc]
 
 <a name="nix_blueprint"></a>
 
@@ -1312,6 +1313,7 @@
 - [bivsk/nix-iv](https://github.com/bivsk/nix-iv) - Personal NixOS configurations
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [nukdokplex/ncaa-public](https://github.com/nukdokplex/ncaa-public) - A public instance of my NCaA (Nix Code as Anything) repository that contains NixOS modules, hosts, Nix packages and other stuff.
+- [applicative-systems/mkdocs-flake](https://github.com/applicative-systems/mkdocs-flake) - mkdocs-flake simplifies MkDocs setup with the latest packages, pre-bundled plugins, Material Design, PlantUML, and code highlighting. Available as a Nix flake, flake-parts module, and Docker image, it makes beautiful documentation easy. [maintainer=@tfc]
 
 <a name="nix_snowfall"></a>
 
@@ -1569,7 +1571,7 @@
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [GeopJr/Tuba](https://github.com/GeopJr/Tuba) - Browse the Fediverse
-- [cachix/secretspec](https://github.com/cachix/secretspec) - Declarative secrets, every environment, any provider.
+- [cachix/secretspec](https://github.com/cachix/secretspec) - Declare secrets once. Store them anywhere.
 - [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution featuring a user-friendly web interface for easy device management and connectivity.
 - [oddlama/kanidm-provision](https://github.com/oddlama/kanidm-provision) - A small utility to help with kanidm provisioning
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
@@ -1790,6 +1792,7 @@
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX) - Get Android app updates straight from the source. And install it any way you want. 
+- [applicative-systems/mkdocs-flake](https://github.com/applicative-systems/mkdocs-flake) - mkdocs-flake simplifies MkDocs setup with the latest packages, pre-bundled plugins, Material Design, PlantUML, and code highlighting. Available as a Nix flake, flake-parts module, and Docker image, it makes beautiful documentation easy. [maintainer=@tfc]
 
 <a name="security"></a>
 
@@ -1819,7 +1822,7 @@
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
-- [cachix/secretspec](https://github.com/cachix/secretspec) - Declarative secrets, every environment, any provider.
+- [cachix/secretspec](https://github.com/cachix/secretspec) - Declare secrets once. Store them anywhere.
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [sudo-project/sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user
 - [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution featuring a user-friendly web interface for easy device management and connectivity.
@@ -2344,6 +2347,7 @@
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 - [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
 - [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX) - Get Android app updates straight from the source. And install it any way you want. 
+- [applicative-systems/mkdocs-flake](https://github.com/applicative-systems/mkdocs-flake) - mkdocs-flake simplifies MkDocs setup with the latest packages, pre-bundled plugins, Material Design, PlantUML, and code highlighting. Available as a Nix flake, flake-parts module, and Docker image, it makes beautiful documentation easy. [maintainer=@tfc]
 
 <a name="webdev"></a>
 
