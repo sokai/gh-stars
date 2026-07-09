@@ -672,6 +672,7 @@
 - [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
 - [mario/nc-push-proxy](https://github.com/mario/nc-push-proxy) - 
 - [departamento-de-decentralizacion/infra](https://github.com/departamento-de-decentralizacion/infra) - 
+- [benkoppe/nixcfg](https://github.com/benkoppe/nixcfg) - Consolidated nixOS, darwin, and hjem deployments for personal machines & servers
 
 <a name="knowledge"></a>
 
@@ -1178,6 +1179,7 @@
 - [mario/nc-push-proxy](https://github.com/mario/nc-push-proxy) - 
 - [departamento-de-decentralizacion/infra](https://github.com/departamento-de-decentralizacion/infra) - 
 - [applicative-systems/mkdocs-flake](https://github.com/applicative-systems/mkdocs-flake) - mkdocs-flake simplifies MkDocs setup with the latest packages, pre-bundled plugins, Material Design, PlantUML, and code highlighting. Available as a Nix flake, flake-parts module, and Docker image, it makes beautiful documentation easy. [maintainer=@tfc]
+- [benkoppe/nixcfg](https://github.com/benkoppe/nixcfg) - Consolidated nixOS, darwin, and hjem deployments for personal machines & servers
 
 <a name="nix_blueprint"></a>
 
