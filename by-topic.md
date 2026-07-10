@@ -3939,7 +3939,7 @@
 - [anshkatriya/sipphone](https://github.com/anshkatriya/sipphone) - SIP Phone is an WebRTC based Chrome Extension Dialer.
 - [flowjs/flow.js](https://github.com/flowjs/flow.js) - A JavaScript library providing multiple simultaneous, stable, fault-tolerant and resumable/restartable file uploads via the HTML5 File API.
 - [ivannovak/jpmaster77-s-Login-System-](https://github.com/ivannovak/jpmaster77-s-Login-System-) - jpmaster77's Login System v2.0.4d
-- [petersolopov/yace](https://github.com/petersolopov/yace) - ~1.7KB code editor for browser with plugins
+- [petersolopov/yace](https://github.com/petersolopov/yace) - under 2KB code editor for browser with plugins
 - [Tudmotu/gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - The most popular clipboard manager for GNOME, with over 2M downloads
 - [Fasse/admidio-statistics](https://github.com/Fasse/admidio-statistics) - The statistics plugin for the membership management software Admidio. It's not my code but I keep it up to date for each version of Admidio.
 - [v4l2loopback/v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - v4l2-loopback device
