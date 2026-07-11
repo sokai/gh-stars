@@ -112,6 +112,7 @@
 - [quentin-st/Munin-for-Android](https://github.com/quentin-st/Munin-for-Android) - Watch your munin-monitored servers on your Android devices
 - [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
 - [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX) - Get Android app updates straight from the source. And install it any way you want. 
+- [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker) - Issue tracker for GrapheneOS Android Open Source Project hardening work. Standalone projects like Auditor, AttestationServer and hardened_malloc have their own dedicated trackers.
 
 <a name="awesome"></a>
 
@@ -154,7 +155,7 @@
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [pinpox/nixos](https://github.com/pinpox/nixos) - My NixOS Configurations
-- [iadefensa/feed-ghost](https://github.com/iadefensa/feed-ghost) - The IA Defensa Feed Ghost dual-purpose feed anonymization tool
+- [iadefensa/feed-ghost](https://github.com/iadefensa/feed-ghost) - The IA Defensa Feed Ghost dual-purpose feed neutralization tool
 - [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [graphicore/librebarcode](https://github.com/graphicore/librebarcode) - Libre Barcode: barcode fonts for various barcode standards.
 - [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) - Run standard NixOS on your mobile devices!
@@ -1806,6 +1807,7 @@
 - [applicative-systems/mkdocs-flake](https://github.com/applicative-systems/mkdocs-flake) - mkdocs-flake simplifies MkDocs setup with the latest packages, pre-bundled plugins, Material Design, PlantUML, and code highlighting. Available as a Nix flake, flake-parts module, and Docker image, it makes beautiful documentation easy. [maintainer=@tfc]
 - [snugnug/hjem-rum](https://github.com/snugnug/hjem-rum) - A module collection for Hjem. [Maintainers=@GetPsyched]
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
+- [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker) - Issue tracker for GrapheneOS Android Open Source Project hardening work. Standalone projects like Auditor, AttestationServer and hardened_malloc have their own dedicated trackers.
 
 <a name="security"></a>
 
@@ -2570,7 +2572,7 @@
 - [flightphp/cache](https://github.com/flightphp/cache) - Light, simple and standalone PHP in-file caching class
 - [flightphp/runway](https://github.com/flightphp/runway) - Console app for the Flight PHP Framework. 
 - [Codeinwp/feedzy-rss-feeds](https://github.com/Codeinwp/feedzy-rss-feeds) - FEEDZY RSS Feeds is an easy-to-use plugin giving you RSS aggregator and autoblogging functionality. Bring the best RSS feeds to your site.
-- [iadefensa/feed-ghost](https://github.com/iadefensa/feed-ghost) - The IA Defensa Feed Ghost dual-purpose feed anonymization tool
+- [iadefensa/feed-ghost](https://github.com/iadefensa/feed-ghost) - The IA Defensa Feed Ghost dual-purpose feed neutralization tool
 - [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [voku/HtmlMin](https://github.com/voku/HtmlMin) - :clamp: HtmlMin: HTML Compressor and Minifier via PHP
 - [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
