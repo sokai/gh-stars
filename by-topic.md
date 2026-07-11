@@ -330,6 +330,7 @@
 
 ## android 
 
+- [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker) - Issue tracker for GrapheneOS Android Open Source Project hardening work. Standalone projects like Auditor, AttestationServer and hardened_malloc have their own dedicated trackers.
 - [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX) - Get Android app updates straight from the source. And install it any way you want.
 - [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
 - [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
@@ -4984,6 +4985,7 @@
 
 ## privacy 
 
+- [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker) - Issue tracker for GrapheneOS Android Open Source Project hardening work. Standalone projects like Auditor, AttestationServer and hardened_malloc have their own dedicated trackers.
 - [iadefensa/feed-ghost](https://github.com/iadefensa/feed-ghost) - The IA Defensa Feed Ghost dual-purpose feed anonymization tool
 - [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
@@ -5397,6 +5399,7 @@
 
 ## security 
 
+- [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker) - Issue tracker for GrapheneOS Android Open Source Project hardening work. Standalone projects like Auditor, AttestationServer and hardened_malloc have their own dedicated trackers.
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
