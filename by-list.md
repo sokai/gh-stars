@@ -680,6 +680,7 @@
 - [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
 - [nix-community/preservation](https://github.com/nix-community/preservation) - Nix tooling to enable declarative management of non-volatile system state. [maintainer=@WilliButz]
 - [SR-G/sleep-on-lan](https://github.com/SR-G/sleep-on-lan) - Multi-platform process allowing to sleep on LAN a linux or windows computer, through wake-on-lan (reversed) magic packets or through HTTP REST requests.
+- [dvicory/homelab](https://github.com/dvicory/homelab) - 
 
 <a name="knowledge"></a>
 
@@ -1236,6 +1237,7 @@
 - [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
 - [getchoo/froyo](https://github.com/getchoo/froyo) - 🍨 A tasteful way to organize your Nix code
 - [Codys-Wright/nix-config](https://github.com/Codys-Wright/nix-config) - 
+- [dvicory/homelab](https://github.com/dvicory/homelab) - 
 
 <a name="nix_hjem"></a>
 
