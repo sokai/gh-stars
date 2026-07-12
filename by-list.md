@@ -162,6 +162,8 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut) - Your GitHub stats, turned into a World-Cup-style player card 
 - [ShadowJonathan/nostalebots.xyz](https://github.com/ShadowJonathan/nostalebots.xyz) - A short rant and index regarding stalebot-using open source repositories
+- [linuxrebel/DocuBrowser](https://github.com/linuxrebel/DocuBrowser) - This does for Documents what repo-browser does for repos. A local AI powered Document search engine 
+- [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost.
 
 <a name="backup"></a>
 
