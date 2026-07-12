@@ -3169,6 +3169,8 @@
 
 ## others 
 
+- [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost.
+- [linuxrebel/DocuBrowser](https://github.com/linuxrebel/DocuBrowser) - This does for Documents what repo-browser does for repos. A local AI powered Document search engine
 - [benkoppe/nixcfg](https://github.com/benkoppe/nixcfg) - Consolidated nixOS, darwin, and hjem deployments for personal machines & servers
 - [applicative-systems/mkdocs-flake](https://github.com/applicative-systems/mkdocs-flake) - mkdocs-flake simplifies MkDocs setup with the latest packages, pre-bundled plugins, Material Design, PlantUML, and code highlighting. Available as a Nix flake, flake-parts module, and Docker image, it
 - [departamento-de-decentralizacion/infra](https://github.com/departamento-de-decentralizacion/infra) - 
