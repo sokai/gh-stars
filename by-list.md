@@ -431,7 +431,7 @@
 - [blaggacao/frappix](https://github.com/blaggacao/frappix) - Frappe on Nix
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
-- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
+- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Servers and Laptops
 - [antonmedv/countdown](https://github.com/antonmedv/countdown) - Terminal countdown timer
 - [iquercorb/xows](https://github.com/iquercorb/xows) - XMPP over WebSocket Web client
 - [caddy-dns/desec](https://github.com/caddy-dns/desec) - deSEC module for Caddy
@@ -750,6 +750,7 @@
 - [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
 - [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
+- [rominicky/miscellaneous](https://github.com/rominicky/miscellaneous) - Repositorio para alojar diferentes proyectos 
 
 <a name="linux"></a>
 
@@ -960,7 +961,7 @@
 - [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - Lan Tian's NixOS Configuration
 - [D4ndellion/nixos-matrix-modules](https://github.com/D4ndellion/nixos-matrix-modules) - NixOS modules for matrix related services
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
+- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Servers and Laptops
 - [Janik-Haag/nixbox](https://github.com/Janik-Haag/nixbox) - nix ipam implantation - your documentation is your configuration
 - [CollaboraOnline/richdocumentscode](https://github.com/CollaboraOnline/richdocumentscode) - Built-in CODE Server app
 - [icewind1991/files_markdown](https://github.com/icewind1991/files_markdown) - Nextcloud markdown editor
@@ -1446,7 +1447,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [blaggacao/frappix](https://github.com/blaggacao/frappix) - Frappe on Nix
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
-- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
+- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Servers and Laptops
 - [Akiiino/mollusca](https://github.com/Akiiino/mollusca) - My NixOS machine configurations
 - [leona-ya/nixfiles](https://github.com/leona-ya/nixfiles) - 
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
@@ -2672,6 +2673,7 @@
 - [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
+- [rominicky/miscellaneous](https://github.com/rominicky/miscellaneous) - Repositorio para alojar diferentes proyectos 
 
 <a name="xolotl"></a>
 
@@ -2721,7 +2723,7 @@
 - [kradalby/dotfiles](https://github.com/kradalby/dotfiles) - monorepo for everything in my tech life.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
-- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
+- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Servers and Laptops
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [PhrozenByte/rmtrash](https://github.com/PhrozenByte/rmtrash) - Put files (and directories) in trash using the `trash-put` command in a way that is, otherwise as `trash-put` itself, compatible to GNUs `rm` and `rmdir`
 - [Hoverbear-Consulting/flake](https://github.com/Hoverbear-Consulting/flake) - Company Nix expressions.
