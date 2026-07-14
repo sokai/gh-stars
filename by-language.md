@@ -2281,7 +2281,7 @@
 - [moodle-an-hochschulen/moodle-block_course_overview_campus](https://github.com/moodle-an-hochschulen/moodle-block_course_overview_campus) - Moodle block which provides all functionality of block_course_overview, provides additional filters to be used on university campuses as well as the possibility to hide courses from the course list
 - [simpleid/simpleid](https://github.com/simpleid/simpleid) - A simple, personal OpenID provider written in PHP
 - [owncloud-archive/calendar](https://github.com/owncloud-archive/calendar) - The ownCloud calendar app
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [phillipsdata/minphp](https://github.com/phillipsdata/minphp) - The minPHP Framework
 - [cristidraghici/Freenom-PHP-Class](https://github.com/cristidraghici/Freenom-PHP-Class) - Freenom.com API wrapper for PHP.
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
