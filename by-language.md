@@ -488,7 +488,7 @@
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [jedisct1/piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
 - [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
-- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
+- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Servers and Laptops
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
 - [BeryJu/gravity](https://github.com/BeryJu/gravity) - Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd
@@ -1222,6 +1222,7 @@
 
 ## Jupyter Notebook 
 
+- [rominicky/miscellaneous](https://github.com/rominicky/miscellaneous) - Repositorio para alojar diferentes proyectos
 - [fserro/LGBT-violence-Berlin](https://github.com/fserro/LGBT-violence-Berlin) - Mapping LGBT violence in Berlin
 
 ## Kotlin 
