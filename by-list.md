@@ -750,7 +750,6 @@
 - [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
 - [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
-- [rominicky/miscellaneous](https://github.com/rominicky/miscellaneous) - Repositorio para alojar diferentes proyectos 
 
 <a name="linux"></a>
 
@@ -2673,7 +2672,6 @@
 - [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
-- [rominicky/miscellaneous](https://github.com/rominicky/miscellaneous) - Repositorio para alojar diferentes proyectos 
 
 <a name="xolotl"></a>
 
