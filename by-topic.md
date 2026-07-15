@@ -3168,6 +3168,7 @@
 
 ## others 
 
+- [sharevb/network-utils-ws](https://github.com/sharevb/network-utils-ws) - A modular FastAPI service providing network‑level diagnostic tools
 - [vzaliva/whatcable-linux-cli](https://github.com/vzaliva/whatcable-linux-cli) - A linux/KDE port of whatcable, a tool to tell you what each USB connected cable can do
 - [connerohnesorge/infisical-flake](https://github.com/connerohnesorge/infisical-flake) - Nix Flake for Infisical: the open-source platform for secrets management, PKI, and SSH access.
 - [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost.
