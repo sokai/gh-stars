@@ -961,6 +961,7 @@
 
 ## css 
 
+- [j9t/css-dedup](https://github.com/j9t/css-dedup) - CSS declaration deduplicator for maintainability and performance optimization
 - [LinkStackOrg/linkstack-docker](https://github.com/LinkStackOrg/linkstack-docker) - A simple to set up docker variant of LinkStack. LinkStack is a highly customizable link sharing platform with an intuitive, easy to use user interface.
 - [webtui/webtui](https://github.com/webtui/webtui) - Modular CSS Library that brings the beauty of Terminal UIs to the browser
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
@@ -3181,7 +3182,7 @@
 - [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut) - Your GitHub stats, turned into a World-Cup-style player card
 - [giomf/NixoScope](https://github.com/giomf/NixoScope) - Visualize dependencies between NixOS modules
 - [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) - Run standard NixOS on your mobile devices!
-- [FanaticPythoner/better-todo-tree](https://github.com/FanaticPythoner/better-todo-tree) - The maintained successor to Todo Tree for VS Code: same workflow, active fixes, better compatibility, and ongoing improvements.
+- [FanaticPythoner/better-todo-tree](https://github.com/FanaticPythoner/better-todo-tree) - An independent, actively maintained fork of Todo Tree for VS Code: the familiar workflow, major new features, active fixes, benchmarked speedups of 696+ folds, modern compatibility.
 - [libdns/inwx](https://github.com/libdns/inwx) - INWX provider implementation for libdns
 - [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
 - [graphicore/librebarcode](https://github.com/graphicore/librebarcode) - Libre Barcode: barcode fonts for various barcode standards.
