@@ -1761,7 +1761,6 @@
 - [nextcloud/forms](https://github.com/nextcloud/forms) - 📝 Simple form & survey app for Nextcloud
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [gristlabs/grist-desktop](https://github.com/gristlabs/grist-desktop) - Desktop Grist, packaged with Electron
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [mijorus/gearlever](https://github.com/mijorus/gearlever) - Manage AppImages with ease 📦
 - [pulsejet/memories-assets](https://github.com/pulsejet/memories-assets) - External large non-code assets for Memories
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -2796,7 +2795,6 @@
 - [Aetf/kmscon](https://github.com/Aetf/kmscon) - Linux KMS/DRM based virtual Console Emulator
 - [gristlabs/grist-desktop](https://github.com/gristlabs/grist-desktop) - Desktop Grist, packaged with Electron
 - [mijorus/gearlever](https://github.com/mijorus/gearlever) - Manage AppImages with ease 📦
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [flattool/warehouse](https://github.com/flattool/warehouse) - A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
 - [snugnug/hjem-rum](https://github.com/snugnug/hjem-rum) - A module collection for Hjem. [Maintainers=@GetPsyched]
