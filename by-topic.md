@@ -3171,6 +3171,9 @@
 
 ## others 
 
+- [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
+- [ldwgchen/serchding](https://github.com/ldwgchen/serchding) - Fulltext search for linkding
+- [sebw/linkding-healthcheck](https://github.com/sebw/linkding-healthcheck) - Linkding URL checker
 - [sharevb/network-utils-ws](https://github.com/sharevb/network-utils-ws) - A modular FastAPI service providing network‑level diagnostic tools
 - [vzaliva/whatcable-linux-cli](https://github.com/vzaliva/whatcable-linux-cli) - A linux/KDE port of whatcable, a tool to tell you what each USB connected cable can do
 - [connerohnesorge/infisical-flake](https://github.com/connerohnesorge/infisical-flake) - Nix Flake for Infisical: the open-source platform for secrets management, PKI, and SSH access.
