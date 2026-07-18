@@ -113,6 +113,8 @@
 - [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
 - [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX) - Get Android app updates straight from the source. And install it any way you want. 
 - [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker) - Issue tracker for GrapheneOS Android Open Source Project hardening work. Standalone projects like Auditor, AttestationServer and hardened_malloc have their own dedicated trackers.
+- [msfjarvis/compose-lobsters](https://github.com/msfjarvis/compose-lobsters) - Claw for Android: Unofficial Android client for https://lobste.rs, built using Jetpack Compose.
+- [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 
 <a name="awesome"></a>
 
@@ -233,6 +235,9 @@
 - [flattool/warehouse](https://github.com/flattool/warehouse) - A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
 - [graphicore/librebarcode](https://github.com/graphicore/librebarcode) - Libre Barcode: barcode fonts for various barcode standards.
+- [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed
+- [totoshko88/browser-switcher](https://github.com/totoshko88/browser-switcher) - Gnome Browser Switcher is a Gnome Shell extension that provides a quick way to switch your default browser via the system tray. The extension uses standard Gnome Shell APIs to integrate with the panel and GIO/GSettings to manage system browser settings.
+- [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 
 <a name="dev"></a>
 
@@ -686,6 +691,9 @@
 - [vzaliva/whatcable-linux-cli](https://github.com/vzaliva/whatcable-linux-cli) - A linux/KDE port of whatcable, a tool to tell you what each USB connected cable can do
 - [ldwgchen/serchding](https://github.com/ldwgchen/serchding) - Fulltext search for linkding
 - [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
+- [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed
+- [totoshko88/browser-switcher](https://github.com/totoshko88/browser-switcher) - Gnome Browser Switcher is a Gnome Shell extension that provides a quick way to switch your default browser via the system tray. The extension uses standard Gnome Shell APIs to integrate with the panel and GIO/GSettings to manage system browser settings.
+- [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 
 <a name="knowledge"></a>
 
@@ -2409,6 +2417,9 @@
 - [sebw/linkding-healthcheck](https://github.com/sebw/linkding-healthcheck) - Linkding URL checker
 - [ldwgchen/serchding](https://github.com/ldwgchen/serchding) - Fulltext search for linkding
 - [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
+- [totoshko88/browser-switcher](https://github.com/totoshko88/browser-switcher) - Gnome Browser Switcher is a Gnome Shell extension that provides a quick way to switch your default browser via the system tray. The extension uses standard Gnome Shell APIs to integrate with the panel and GIO/GSettings to manage system browser settings.
+- [msfjarvis/compose-lobsters](https://github.com/msfjarvis/compose-lobsters) - Claw for Android: Unofficial Android client for https://lobste.rs, built using Jetpack Compose.
+- [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 
 <a name="webdev"></a>
 
