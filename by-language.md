@@ -781,6 +781,7 @@
 
 ## JavaScript 
 
+- [totoshko88/browser-switcher](https://github.com/totoshko88/browser-switcher) - Gnome Browser Switcher is a Gnome Shell extension that provides a quick way to switch your default browser via the system tray. The extension uses standard Gnome Shell APIs to integrate with the panel
 - [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
 - [j9t/css-dedup](https://github.com/j9t/css-dedup) - CSS declaration deduplicator for maintainability and performance optimization
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
@@ -1232,6 +1233,7 @@
 
 ## Kotlin 
 
+- [msfjarvis/compose-lobsters](https://github.com/msfjarvis/compose-lobsters) - Claw for Android: Unofficial Android client for https://lobste.rs, built using Jetpack Compose.
 - [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
 - [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
 - [abdalmoniem/Caffeinate](https://github.com/abdalmoniem/Caffeinate) - Caffeinate is a lightweight Android utility that keeps your device’s screen awake for a configurable duration, without changing system display or power settings.
@@ -2429,6 +2431,7 @@
 
 ## Python 
 
+- [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed
 - [ldwgchen/serchding](https://github.com/ldwgchen/serchding) - Fulltext search for linkding
 - [sharevb/network-utils-ws](https://github.com/sharevb/network-utils-ws) - A modular FastAPI service providing network‑level diagnostic tools
 - [nedrichards/whatcable-linux](https://github.com/nedrichards/whatcable-linux) - GNOME USB-C cable and power diagnostic viewer for Linux
