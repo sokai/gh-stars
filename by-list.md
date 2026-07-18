@@ -684,6 +684,8 @@
 - [dvicory/homelab](https://github.com/dvicory/homelab) - 
 - [connerohnesorge/infisical-flake](https://github.com/connerohnesorge/infisical-flake) - Nix Flake for Infisical: the open-source platform for secrets management, PKI, and SSH access. 
 - [vzaliva/whatcable-linux-cli](https://github.com/vzaliva/whatcable-linux-cli) - A linux/KDE port of whatcable, a tool to tell you what each USB connected cable can do
+- [ldwgchen/serchding](https://github.com/ldwgchen/serchding) - Fulltext search for linkding
+- [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
 
 <a name="knowledge"></a>
 
@@ -753,6 +755,9 @@
 - [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
 - [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
+- [sebw/linkding-healthcheck](https://github.com/sebw/linkding-healthcheck) - Linkding URL checker
+- [ldwgchen/serchding](https://github.com/ldwgchen/serchding) - Fulltext search for linkding
+- [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
 
 <a name="linux"></a>
 
@@ -1205,6 +1210,8 @@
 - [connerohnesorge/infisical-flake](https://github.com/connerohnesorge/infisical-flake) - Nix Flake for Infisical: the open-source platform for secrets management, PKI, and SSH access. 
 - [sharevb/network-utils-ws](https://github.com/sharevb/network-utils-ws) - A modular FastAPI service providing network‑level diagnostic tools
 - [dvicory/homelab](https://github.com/dvicory/homelab) - 
+- [sebw/linkding-healthcheck](https://github.com/sebw/linkding-healthcheck) - Linkding URL checker
+- [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
 
 <a name="nix_blueprint"></a>
 
@@ -1832,6 +1839,8 @@
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker) - Issue tracker for GrapheneOS Android Open Source Project hardening work. Standalone projects like Auditor, AttestationServer and hardened_malloc have their own dedicated trackers.
 - [sharevb/network-utils-ws](https://github.com/sharevb/network-utils-ws) - A modular FastAPI service providing network‑level diagnostic tools
+- [sebw/linkding-healthcheck](https://github.com/sebw/linkding-healthcheck) - Linkding URL checker
+- [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
 
 <a name="security"></a>
 
@@ -2397,6 +2406,9 @@
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [j9t/css-dedup](https://github.com/j9t/css-dedup) - CSS declaration deduplicator for maintainability and performance optimization
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
+- [sebw/linkding-healthcheck](https://github.com/sebw/linkding-healthcheck) - Linkding URL checker
+- [ldwgchen/serchding](https://github.com/ldwgchen/serchding) - Fulltext search for linkding
+- [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
 
 <a name="webdev"></a>
 
@@ -2617,6 +2629,7 @@
 - [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
 - [petersolopov/yace](https://github.com/petersolopov/yace) - under 2KB code editor for browser with plugins
 - [j9t/css-dedup](https://github.com/j9t/css-dedup) - CSS declaration deduplicator for maintainability and performance optimization
+- [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
 
 <a name="work"></a>
 
@@ -2694,6 +2707,7 @@
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 - [connerohnesorge/infisical-flake](https://github.com/connerohnesorge/infisical-flake) - Nix Flake for Infisical: the open-source platform for secrets management, PKI, and SSH access. 
 - [j9t/css-dedup](https://github.com/j9t/css-dedup) - CSS declaration deduplicator for maintainability and performance optimization
+- [sebw/linkding-healthcheck](https://github.com/sebw/linkding-healthcheck) - Linkding URL checker
 
 <a name="xolotl"></a>
 
