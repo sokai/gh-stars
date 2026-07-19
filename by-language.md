@@ -794,7 +794,6 @@
 - [nextcloud/Digital-Sovereignty-Index](https://github.com/nextcloud/Digital-Sovereignty-Index) - Digital Sovereignty Index (DSI) aims to provide a comparative snapshot of visible, self-hosted infrastructure across borders.
 - [cookiemumbles/justmytoots.com](https://github.com/cookiemumbles/justmytoots.com) - 
 - [nextcloud/tables](https://github.com/nextcloud/tables) - 🍱 Nextcloud tables app
-- [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 - [nextcloud/tasks](https://github.com/nextcloud/tasks) - :white_check_mark: Tasks app for Nextcloud
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins
 - [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - A Firefox extension to protect from being fingerprinted.
@@ -3042,6 +3041,7 @@
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP chat app built for friends, groups, and communities.
 - [voku/AmysEcho](https://github.com/voku/AmysEcho) - This repository contains the development work for my little girl — to help her be understood, to help her learn, and to help others understand her world.
 - [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
+- [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [modernweb-dev/web](https://github.com/modernweb-dev/web) - Guides, tools and libraries for modern web development.
