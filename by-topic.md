@@ -3179,6 +3179,7 @@
 
 ## others 
 
+- [nc-music/music](https://github.com/nc-music/music) - :notes: Music app for Nextcloud
 - [totoshko88/browser-switcher](https://github.com/totoshko88/browser-switcher) - Gnome Browser Switcher is a Gnome Shell extension that provides a quick way to switch your default browser via the system tray. The extension uses standard Gnome Shell APIs to integrate with the panel
 - [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
 - [ldwgchen/serchding](https://github.com/ldwgchen/serchding) - Fulltext search for linkding
@@ -3950,7 +3951,6 @@
 - [schollz/find3](https://github.com/schollz/find3) - High-precision indoor positioning framework, version 3.
 - [marq24/UUID0xFD6FTracer](https://github.com/marq24/UUID0xFD6FTracer) - Scan your current environment for devices running an app that make us of the ExposureNotification Service
 - [realodix/awesome-flarum](https://github.com/realodix/awesome-flarum) - A curated list of amazingly awesome Flarum extensions and resources.
-- [nc-music/oc-music](https://github.com/nc-music/oc-music) - :notes: Music app for ownCloud
 - [Elelabs/elelabs-zigbee-ezsp-utility](https://github.com/Elelabs/elelabs-zigbee-ezsp-utility) - Elelabs Zigbee EZSP Utility to perform firmware update on a range of Elelabs EZSP products as well as other generic EZSP adapters.
 - [unetbootin/unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [rmbinder/KeyManager](https://github.com/rmbinder/KeyManager) - KeyManager is an Admidio plugin for managing building and room keys.
