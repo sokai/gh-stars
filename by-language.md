@@ -1388,7 +1388,7 @@
 - [jakubgs/nixos-config](https://github.com/jakubgs/nixos-config) - Configuration for my hosts running NixOS
 - [msfjarvis/dotfiles](https://github.com/msfjarvis/dotfiles) - I definitely don't understand the 'dot' concept
 - [hyperparabolic/nix-config](https://github.com/hyperparabolic/nix-config) - Multihost nixos flake and scripts focused on reproducibility
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOS deployments of DD-IX
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - Migrated to Elbforge
 - [numtide/nixos-passthru-cache](https://github.com/numtide/nixos-passthru-cache) - Create a copy of https://cache.nixos.org for your infrastructure
 - [adisbladis/adios](https://github.com/adisbladis/adios) - 
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
