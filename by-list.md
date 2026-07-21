@@ -1286,7 +1286,7 @@
 - [darkone-linux/darkone-nixos-framework](https://github.com/darkone-linux/darkone-nixos-framework) - A multi-user, multi-host, multi-network NixOS configuration framework.
 - [adisbladis/adios](https://github.com/adisbladis/adios) - 
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOS deployments of DD-IX
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - Migrated to Elbforge
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
 - [jakubgs/nixos-config](https://github.com/jakubgs/nixos-config) - Configuration for my hosts running NixOS
 - [SchweGELBin/nix-config](https://github.com/SchweGELBin/nix-config) - SchweGELBin's Nix configs
