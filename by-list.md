@@ -1849,6 +1849,7 @@
 - [sharevb/network-utils-ws](https://github.com/sharevb/network-utils-ws) - A modular FastAPI service providing network‑level diagnostic tools
 - [sebw/linkding-healthcheck](https://github.com/sebw/linkding-healthcheck) - Linkding URL checker
 - [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
+- [nc-music/music](https://github.com/nc-music/music) - :notes: Music app for Nextcloud
 
 <a name="security"></a>
 
@@ -2420,6 +2421,7 @@
 - [totoshko88/browser-switcher](https://github.com/totoshko88/browser-switcher) - Gnome Browser Switcher is a Gnome Shell extension that provides a quick way to switch your default browser via the system tray. The extension uses standard Gnome Shell APIs to integrate with the panel and GIO/GSettings to manage system browser settings.
 - [msfjarvis/compose-lobsters](https://github.com/msfjarvis/compose-lobsters) - Claw for Android: Unofficial Android client for https://lobste.rs, built using Jetpack Compose.
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
+- [nc-music/music](https://github.com/nc-music/music) - :notes: Music app for Nextcloud
 
 <a name="webdev"></a>
 
