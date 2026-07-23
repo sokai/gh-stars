@@ -316,7 +316,7 @@
 - [go-vikunja/app](https://github.com/go-vikunja/app) - Cross-Platform app for Vikunja
 - [nextcloud/neon](https://github.com/nextcloud/neon) - A framework for building convergent cross-platform Nextcloud clients using Flutter.
 - [Yubico/yubioath-flutter](https://github.com/Yubico/yubioath-flutter) - Yubico Authenticator for Desktop (Windows, macOS and Linux) and Android
-- [FriesI23/mhabit](https://github.com/FriesI23/mhabit) - Our app helps you form and track micro habits with easy-to-use 📈 charts and tools, making it simple to establish healthy habits that stick 🌱. Start your personal growth journey today 🚀!
+- [FriesI23/mhabit](https://github.com/FriesI23/mhabit) - Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
 - [namidaco/namida](https://github.com/namidaco/namida) - A Beautiful and Feature-rich Music & Video Player with Youtube Support, Built in Flutter
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
