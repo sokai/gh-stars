@@ -1124,7 +1124,6 @@
 - [theproductguy/ThreeDots](https://github.com/theproductguy/ThreeDots) - ThreeDots is a customizable jQuery plugin for the smart truncation of text.  It shortens provided text to fit specified dimensions and appends the desired ellipsis style if/when truncation occurs.
 - [LodLive/LodLive](https://github.com/LodLive/LodLive) - browse the web of data - a SPARQL navigator
 - [LeaVerou/talks-list](https://github.com/LeaVerou/talks-list) - Automatic talks list, generated from JSON. Unmaintained, use Mavo instead.
-- [owncloud/notes](https://github.com/owncloud/notes) - :notebook_with_decorative_cover: Notes app for ownCloud
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [tholman/zenpen](https://github.com/tholman/zenpen) - A minimalist writing zone.
 - [ajaxorg/ace-builds](https://github.com/ajaxorg/ace-builds) - Packaged version of Ace code editor
@@ -2313,6 +2312,7 @@
 - [ThinkUpLLC/ThinkUp](https://github.com/ThinkUpLLC/ThinkUp) - ThinkUp gives you insights into your social networking activity on Twitter, Facebook, Instagram, and beyond.
 - [themehybrid/hybrid-core](https://github.com/themehybrid/hybrid-core) - Official repository for the Hybrid Core WordPress development framework.
 - [leomeih/slimjp](https://github.com/leomeih/slimjp) - Security maintenance update for existing users only and a new plugin is under development to replace it. Rename to "Slimjp" to avoid trademark concerns from Automattic.
+- [owncloud/notes](https://github.com/owncloud/notes) - :notebook_with_decorative_cover: Notes app for ownCloud
 - [afterlogic/webmail-lite](https://github.com/afterlogic/webmail-lite) - AfterLogic WebMail Lite PHP. Fast and easy-to-use webmail front-end for your existing IMAP mail server, Plesk or cPanel.
 - [sayakb/sticky-notes](https://github.com/sayakb/sticky-notes) - Sticky notes is a free open-source pastebin application.
 - [brandonsavage/Upload](https://github.com/brandonsavage/Upload) - File uploads with validation and storage strategies
