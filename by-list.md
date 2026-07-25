@@ -1276,7 +1276,7 @@
 
 - [Krutonium/NewNix](https://github.com/Krutonium/NewNix) - The latest version of my NixOS config, re-written.
 - [mira-alford/commonix](https://github.com/mira-alford/commonix) - 
-- [raydrivers/nixconfig](https://github.com/raydrivers/nixconfig) - My NixOS configuration
+- [theremiblue/nixconfig](https://github.com/theremiblue/nixconfig) - My NixOS configuration
 - [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
 - [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - It’s not “just dotfiles” - it's extreme modularity that looks and feels like a NixOS flake. It's Voice-driven DevOps, it's a declarative home automation system, it's a self-contained auto-documenting monster.
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
