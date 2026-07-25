@@ -1425,7 +1425,7 @@
 - [numtide/devshell](https://github.com/numtide/devshell) - Per project developer environments
 - [Anomalocaridid/dotfiles](https://github.com/Anomalocaridid/dotfiles) - My personal dotfiles for NixOS
 - [OsiPog/nix-config](https://github.com/OsiPog/nix-config) - NixOS configurations for all of my systems
-- [raydrivers/nixconfig](https://github.com/raydrivers/nixconfig) - My NixOS configuration
+- [theremiblue/nixconfig](https://github.com/theremiblue/nixconfig) - My NixOS configuration
 - [mira-alford/commonix](https://github.com/mira-alford/commonix) - 
 - [polarmutex/nix-config](https://github.com/polarmutex/nix-config) - nix dotfiles for nixos and userspace
 - [Krutonium/NewNix](https://github.com/Krutonium/NewNix) - The latest version of my NixOS config, re-written.
