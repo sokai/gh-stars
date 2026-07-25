@@ -2422,6 +2422,7 @@
 - [msfjarvis/compose-lobsters](https://github.com/msfjarvis/compose-lobsters) - Claw for Android: Unofficial Android client for https://lobste.rs, built using Jetpack Compose.
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [nc-music/music](https://github.com/nc-music/music) - :notes: Music app for Nextcloud
+- [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
 
 <a name="webdev"></a>
 
@@ -2643,6 +2644,7 @@
 - [petersolopov/yace](https://github.com/petersolopov/yace) - under 2KB code editor for browser with plugins
 - [j9t/css-dedup](https://github.com/j9t/css-dedup) - CSS declaration deduplicator for maintainability and performance optimization
 - [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
+- [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
 
 <a name="work"></a>
 
