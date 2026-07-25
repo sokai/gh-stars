@@ -1070,7 +1070,7 @@
 - [highcharts/highstock-release](https://github.com/highcharts/highstock-release) - Official shim repo for Highstock releases
 - [highcharts/highcharts-dist](https://github.com/highcharts/highcharts-dist) - Official shim repo for Highcharts releases
 - [tscanlin/tocbot](https://github.com/tscanlin/tocbot) - Build a table of contents from headings in an HTML document.
-- [LeaVerou/awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
+- [nudeui/awesomplete](https://github.com/nudeui/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 - [oklai/koala](https://github.com/oklai/koala) - Koala is a GUI application for less, sass and coffeescript compilation, to help web developers to the development more efficient.
 - [visjs/vis](https://github.com/visjs/vis) - ⚠️ This project is not maintained anymore! Please go to https://github.com/visjs
 - [kschiffer/fhp-vorlesungsvz-reader](https://github.com/kschiffer/fhp-vorlesungsvz-reader) - 
