@@ -135,7 +135,6 @@
 - [v4l2loopback/v4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - v4l2-loopback device
 - [OnePlusOSS/android_kernel_oneplus_sm7250](https://github.com/OnePlusOSS/android_kernel_oneplus_sm7250) - 
 - [dell/thunderbolt-nvm-linux](https://github.com/dell/thunderbolt-nvm-linux) - Thunderbolt NVM updates for Linux
-- [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [editorconfig/editorconfig-geany](https://github.com/editorconfig/editorconfig-geany) - EditorConfig plugin for Geany
@@ -1729,6 +1728,7 @@
 - [splorp/wordpress-comment-blocklist](https://github.com/splorp/wordpress-comment-blocklist) - A simple solution for WordPress comment spam.
 - [fivefilters/ftr-site-config](https://github.com/fivefilters/ftr-site-config) - Site-specific article extraction rules to aid content extractors, feed readers, and 'read later' applications.
 - [bluszcz/awesome-xmpp](https://github.com/bluszcz/awesome-xmpp) - A curated list of delightful XMPP related resources.
+- [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [bromite/bromite](https://github.com/bromite/bromite) - Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser!
 - [phpMussel/phpMussel](https://github.com/phpMussel/phpMussel) - PHP-based anti-virus anti-trojan anti-malware solution.
 - [bkardell/auto-archive](https://github.com/bkardell/auto-archive) - 
