@@ -2755,7 +2755,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [monal-im/fpush](https://github.com/monal-im/fpush) - Scalable push server for XMPP
 - [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Ad-blocker and privacy guard for Windows, macOS and Linux.
-- [eh8/chenglab](https://github.com/eh8/chenglab) - a straightforward NixOS setup for my homelab and personal computers
+- [eh8/chenglab](https://github.com/eh8/chenglab) - NixOS setup for my homelab and personal computers
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
 - [jkachmar/tartarus](https://github.com/jkachmar/tartarus) - the ever-shifting depths of the Underworld are not as once they were...
 - [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
@@ -3883,7 +3883,6 @@
 - [picocss/examples](https://github.com/picocss/examples) - Minimalist templates to discover Pico in action
 - [CauldronDevelopmentLLC/oh-brother](https://github.com/CauldronDevelopmentLLC/oh-brother) - A simple cross-platform utility written in Python which can update Brother printer firmwares
 - [bitfireAT/icsx5](https://github.com/bitfireAT/icsx5) - ICSx⁵ is an Android app to subscribe to remote or local iCalendar files (like time tables of your school/university or event files of your sports team).
-- [jinnysunny/advanced-random-posts-widget](https://github.com/jinnysunny/advanced-random-posts-widget) - Provides flexible and advanced random posts widget. Allows you to display them with thumbnails, post excerpt, multiple category and more.
 - [berthubert/googerteller](https://github.com/berthubert/googerteller) - audible feedback on just how much your browsing feeds into google
 - [WPPlugins/feedwordpress-duplicate-post-filter](https://github.com/WPPlugins/feedwordpress-duplicate-post-filter) - This is a mirror of the svn repo: https://plugins.svn.wordpress.org/feedwordpress-duplicate-post-filter/, the master is always the latest release.
 - [thrillfall/nextcloud-gpodder](https://github.com/thrillfall/nextcloud-gpodder) - nextcloud app that replicates basic gpodder.net api
