@@ -2423,6 +2423,7 @@
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [nc-music/music](https://github.com/nc-music/music) - :notes: Music app for Nextcloud
 - [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
+- [j9t/syntaxp](https://github.com/j9t/syntaxp) - Super-simple code highlighting via the CSS Custom Highlight API
 
 <a name="webdev"></a>
 
@@ -2645,6 +2646,7 @@
 - [j9t/css-dedup](https://github.com/j9t/css-dedup) - CSS declaration deduplicator for maintainability and performance optimization
 - [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
 - [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
+- [j9t/syntaxp](https://github.com/j9t/syntaxp) - Super-simple code highlighting via the CSS Custom Highlight API
 
 <a name="work"></a>
 
