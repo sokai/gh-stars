@@ -91,6 +91,7 @@
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 - [amruthpillai/amruthpillai](https://github.com/amruthpillai/amruthpillai) - Everyone needs their own little spot on the interwebs, and this is mine. Welcome to my resume, on the web!
 - [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 ## Batchfile 
@@ -586,7 +587,6 @@
 - [picocss/examples](https://github.com/picocss/examples) - Minimalist templates to discover Pico in action
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [gka/palettes](https://github.com/gka/palettes) - A tool for creating nice, percerptually correct and colorblind-safe color palettes.
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [nachtfunke/basic-pattern-repository](https://github.com/nachtfunke/basic-pattern-repository) - Simple patterns for &lt;use&gt;. Just SVG - for your delight!
 - [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization implementing a layered grammar of graphics
 - [kalvn/Shaarli-Material](https://github.com/kalvn/Shaarli-Material) - Shaarli Material is a theme for Shaarli, the famous personal, minimalist, super-fast, database free, bookmarking service.
@@ -1574,7 +1574,7 @@
 - [tstachl/z](https://github.com/tstachl/z) - 
 - [macsiwase/nix-mainConfigs](https://github.com/macsiwase/nix-mainConfigs) - Mac's NixOS Configurations
 - [DavidRConnell/nix-home-manager](https://github.com/DavidRConnell/nix-home-manager) - Nix configuration using home-manager
-- [eh8/chenglab](https://github.com/eh8/chenglab) - a straightforward NixOS setup for my homelab and personal computers
+- [eh8/chenglab](https://github.com/eh8/chenglab) - NixOS setup for my homelab and personal computers
 - [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) - The Media Server NixOS Module
 - [infinisil/sanix](https://github.com/infinisil/sanix) - Sane stable stateless NixOS setup
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix
@@ -1934,7 +1934,6 @@
 - [jfcherng/php-diff](https://github.com/jfcherng/php-diff) - A comprehensive library for generating differences between two strings in multiple formats (unified, side by side HTML etc).
 - [Imangazaliev/DiDOM](https://github.com/Imangazaliev/DiDOM) - Simple and fast HTML and XML parser
 - [voku/simple_html_dom](https://github.com/voku/simple_html_dom) - 📜 Modern Simple HTML DOM Parser for PHP
-- [jinnysunny/advanced-random-posts-widget](https://github.com/jinnysunny/advanced-random-posts-widget) - Provides flexible and advanced random posts widget. Allows you to display them with thumbnails, post excerpt, multiple category and more.
 - [WPPlugins/feedwordpress-duplicate-post-filter](https://github.com/WPPlugins/feedwordpress-duplicate-post-filter) - This is a mirror of the svn repo: https://plugins.svn.wordpress.org/feedwordpress-duplicate-post-filter/, the master is always the latest release.
 - [thrillfall/nextcloud-gpodder](https://github.com/thrillfall/nextcloud-gpodder) - nextcloud app that replicates basic gpodder.net api
 - [bjeavons/zxcvbn-php](https://github.com/bjeavons/zxcvbn-php) - Realistic PHP password strength estimate library based on Zxcvbn JS
