@@ -3190,6 +3190,7 @@
 
 ## others 
 
+- [freakified/TimeStylePebble](https://github.com/freakified/TimeStylePebble) - A stylish, customizable face for the Pebble Time.
 - [nc-music/music](https://github.com/nc-music/music) - :notes: Music app for Nextcloud
 - [totoshko88/browser-switcher](https://github.com/totoshko88/browser-switcher) - Gnome Browser Switcher is a Gnome Shell extension that provides a quick way to switch your default browser via the system tray. The extension uses standard Gnome Shell APIs to integrate with the panel
 - [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
