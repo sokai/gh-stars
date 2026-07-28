@@ -105,6 +105,7 @@
 
 ## C 
 
+- [freakified/TimeStylePebble](https://github.com/freakified/TimeStylePebble) - A stylish, customizable face for the Pebble Time.
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [sudo-project/sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -644,7 +645,6 @@
 - [taitems/jQuery.Gantt](https://github.com/taitems/jQuery.Gantt) - jQuery Gantt Chart
 - [marianoguerra/rst2html5](https://github.com/marianoguerra/rst2html5) - transform restructuredtext documents to html5 + twitter's bootstrap css, deck.js or reveal.js
 - [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
-- [swisnl/jQuery-contextMenu](https://github.com/swisnl/jQuery-contextMenu) - jQuery contextMenu plugin & polyfill
 - [harvesthq/chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 - [docbook/xslt20-stylesheets](https://github.com/docbook/xslt20-stylesheets) - These are the XSLT 2.0 (or later) stylesheets for DocBook
 - [desandro/masonry](https://github.com/desandro/masonry) - :love_hotel: Cascading grid layout plugin
@@ -1179,6 +1179,7 @@
 - [tmbrggmn/deck.js-markdown](https://github.com/tmbrggmn/deck.js-markdown) - A deck.js extension that adds support for Markdown syntax in slides
 - [michaek/jquery-overlabel](https://github.com/michaek/jquery-overlabel) - A jQuery plugin to help implement the over label technique described in Making Compact Forms More Accessible by Mike Brittain on ALA.
 - [candy-chat/candy](https://github.com/candy-chat/candy) - JavaScript-based multi-user chat client for XMPP.
+- [swisnl/jQuery-contextMenu](https://github.com/swisnl/jQuery-contextMenu) - jQuery contextMenu plugin & polyfill
 - [jakearchibald/sprite-cow](https://github.com/jakearchibald/sprite-cow) - Sprite Cow helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable css.
 - [mapquery/mapquery](https://github.com/mapquery/mapquery) - Combining the power of OpenLayers and jQuery
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
