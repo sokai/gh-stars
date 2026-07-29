@@ -332,6 +332,7 @@
 
 ## android 
 
+- [TylerWilliamson/QuickWeather](https://github.com/TylerWilliamson/QuickWeather) - Weather at a glance! Current and forecast weather for anywhere in the world!
 - [msfjarvis/compose-lobsters](https://github.com/msfjarvis/compose-lobsters) - Claw for Android: Unofficial Android client for https://lobste.rs, built using Jetpack Compose.
 - [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker) - Issue tracker for GrapheneOS Android Open Source Project hardening work. Standalone projects like Auditor, AttestationServer and hardened_malloc have their own dedicated trackers.
 - [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX) - Get Android app updates straight from the source. And install it any way you want.
@@ -4553,7 +4554,6 @@
 - [rotundasoftware/jquery.autogrow-textarea](https://github.com/rotundasoftware/jquery.autogrow-textarea) - A jquery plugin for automatic vertical or horizontal growing of text areas.
 - [dciccale/placeholder-enhanced](https://github.com/dciccale/placeholder-enhanced) - Placeholder Enhanced enhance the use of HTML5 placeholder attribute providing cross-browser support & styling
 - [jquery-backstretch/jquery-backstretch](https://github.com/jquery-backstretch/jquery-backstretch) - Backstretch is a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element. The image will stretch to fit the page/element, and will 
-- [MyProfile/myprofile](https://github.com/MyProfile/myprofile) - MyProfile intends to provide a solution for managing the numerous accounts and profiles that users have on the Internet. Its main purpose is to provide a unified user account, or simply 'user profile'
 - [jamesallardice/Placeholders.js](https://github.com/jamesallardice/Placeholders.js) - A JavaScript polyfill for the HTML5 placeholder attribute
 - [yckart/jquery.tooltip.js](https://github.com/yckart/jquery.tooltip.js) - The tooltip to use, ready for mobile!
 - [ryanseddon/H5F](https://github.com/ryanseddon/H5F) - Deprecated, please use hyperform instead https://github.com/hyperform/hyperform
