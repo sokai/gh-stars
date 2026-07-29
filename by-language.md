@@ -681,6 +681,7 @@
 
 ## Java 
 
+- [TylerWilliamson/QuickWeather](https://github.com/TylerWilliamson/QuickWeather) - Weather at a glance! Current and forecast weather for anywhere in the world!
 - [nicho92/MtgDesktopCompanion](https://github.com/nicho92/MtgDesktopCompanion) - Cards manager for magic the gathering
 - [writingtool-org/writingtool](https://github.com/writingtool-org/writingtool) - 
 - [nel0x/syncthing-android](https://github.com/nel0x/syncthing-android) - Syncthing - A Syncthing Wrapper for Android.
@@ -2332,7 +2333,6 @@
 - [ramsey/uuid](https://github.com/ramsey/uuid) - :snowflake: A PHP library for generating universally unique identifiers (UUIDs).
 - [antonmedv/silicone-skeleton](https://github.com/antonmedv/silicone-skeleton) - Silicone Skeleton is Silex Framework Edition Skeleton.
 - [PHPIDS/PHPIDS](https://github.com/PHPIDS/PHPIDS) - PHPIDS (PHP-Intrusion Detection System) is a simple to use, well structured, fast and state-of-the-art security layer for your PHP based web application
-- [MyProfile/myprofile](https://github.com/MyProfile/myprofile) - MyProfile intends to provide a solution for managing the numerous accounts and profiles that users have on the Internet. Its main purpose is to provide a unified user account, or simply 'user profile'
 - [phpDocumentor/phpDocumentor](https://github.com/phpDocumentor/phpDocumentor) - Documentation Generator for PHP
 - [klaussilveira/gitlist](https://github.com/klaussilveira/gitlist) - An elegant and modern git repository viewer
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
