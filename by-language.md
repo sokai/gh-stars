@@ -1459,7 +1459,7 @@
 - [Lehmanator/clan-config](https://github.com/Lehmanator/clan-config) - Personal Nix configs for clan.lol
 - [lessuselesss/flake-parts-modules-library](https://github.com/lessuselesss/flake-parts-modules-library) - 
 - [edrobertsrayne/nix-config](https://github.com/edrobertsrayne/nix-config) - My NixOS configuration
-- [dudeofawesome/nix-config](https://github.com/dudeofawesome/nix-config) - A multi-machine, multi-arch, multi-user, multi-os Nix config
+- [dudeofawesome/nix-config](https://github.com/dudeofawesome/nix-config) - A multi-machine/arch/user/os Nix config
 - [quaoz/flake](https://github.com/quaoz/flake) - 
 - [lessuselesss/johnny-mnemonix](https://github.com/lessuselesss/johnny-mnemonix) - Agnostic Declarative Decimal System with johnny-decimal defaults
 - [nifoc/dotfiles](https://github.com/nifoc/dotfiles) - Based on nixpkgs, nix-darwin and home-manager
