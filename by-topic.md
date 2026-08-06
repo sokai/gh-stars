@@ -3374,7 +3374,7 @@
 - [crocuda/crocuda.nixos](https://github.com/crocuda/crocuda.nixos) - Nixos configuration modules for servers (and paranoids and hypocondriacs)
 - [crocuda/normal.nixos](https://github.com/crocuda/normal.nixos) - Nixos configuration modules for desktop (Still for paranoids and hypochondriacs)
 - [bivsk/nix-iv](https://github.com/bivsk/nix-iv) - Personal NixOS configurations
-- [johnnydecimal/index-spec](https://github.com/johnnydecimal/index-spec) - A 'formal' specification for the index file. And any other data structures.
+- [johnnydecimal/spec.johnnydecimal.com](https://github.com/johnnydecimal/spec.johnnydecimal.com) - A 'formal' specification for the index file. And any other data structures.
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [silnrsi/font-gentium](https://github.com/silnrsi/font-gentium) - Fonts for languages and writing systems that use Latin, Cyrillic, and Greek scripts
 - [latex3/hyperref](https://github.com/latex3/hyperref) - Hypertext support for LaTeX
