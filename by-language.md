@@ -3055,7 +3055,7 @@
 - [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
 - [open-reception/appointment-booking-software](https://github.com/open-reception/appointment-booking-software) - End-to-end encrypted appointment booking platform
-- [johnnydecimal/index-spec](https://github.com/johnnydecimal/index-spec) - A 'formal' specification for the index file. And any other data structures.
+- [johnnydecimal/spec.johnnydecimal.com](https://github.com/johnnydecimal/spec.johnnydecimal.com) - A 'formal' specification for the index file. And any other data structures.
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [twbs/icons](https://github.com/twbs/icons) - Official open source SVG icon library for Bootstrap.
 - [nohello-net/site](https://github.com/nohello-net/site) - 
