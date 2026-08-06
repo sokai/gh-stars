@@ -286,6 +286,7 @@
 - [flightphp/skeleton-simple](https://github.com/flightphp/skeleton-simple) - This is a skeleton project for a single file application to help your RESTful APIs take Flight!
 - [flightphp/cache](https://github.com/flightphp/cache) - Light, simple and standalone PHP in-file caching class
 - [flightphp/runway](https://github.com/flightphp/runway) - Console app for the Flight PHP Framework. 
+- [thephpleague/period](https://github.com/thephpleague/period) - PHP's time range API
 
 <a name="dns"></a>
 
@@ -696,6 +697,7 @@
 - [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed
 - [totoshko88/browser-switcher](https://github.com/totoshko88/browser-switcher) - Gnome Browser Switcher is a Gnome Shell extension that provides a quick way to switch your default browser via the system tray. The extension uses standard Gnome Shell APIs to integrate with the panel and GIO/GSettings to manage system browser settings.
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
+- [thephpleague/period](https://github.com/thephpleague/period) - PHP's time range API
 
 <a name="knowledge"></a>
 
@@ -2426,6 +2428,8 @@
 - [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
 - [j9t/syntaxp](https://github.com/j9t/syntaxp) - Super-simple code highlighting via the CSS Custom Highlight API
 - [ev-map/EVMap](https://github.com/ev-map/EVMap) - Android app to find electric vehicle charging stations - compatible with community databases such as GoingElectric.de and OpenChargeMap.org.
+- [thephpleague/period](https://github.com/thephpleague/period) - PHP's time range API
+- [catfan/Medoo](https://github.com/catfan/Medoo) - The lightweight PHP database framework to accelerate the development.
 
 <a name="webdev"></a>
 
@@ -2649,6 +2653,7 @@
 - [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
 - [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
 - [j9t/syntaxp](https://github.com/j9t/syntaxp) - Super-simple code highlighting via the CSS Custom Highlight API
+- [thephpleague/period](https://github.com/thephpleague/period) - PHP's time range API
 
 <a name="work"></a>
 
