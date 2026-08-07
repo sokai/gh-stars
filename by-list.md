@@ -698,6 +698,7 @@
 - [totoshko88/browser-switcher](https://github.com/totoshko88/browser-switcher) - Gnome Browser Switcher is a Gnome Shell extension that provides a quick way to switch your default browser via the system tray. The extension uses standard Gnome Shell APIs to integrate with the panel and GIO/GSettings to manage system browser settings.
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [thephpleague/period](https://github.com/thephpleague/period) - PHP's time range API
+- [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 
 <a name="knowledge"></a>
 
@@ -1649,6 +1650,7 @@
 - [SR-G/sleep-on-lan](https://github.com/SR-G/sleep-on-lan) - Multi-platform process allowing to sleep on LAN a linux or windows computer, through wake-on-lan (reversed) magic packets or through HTTP REST requests.
 - [jpoliv/wakeonlan](https://github.com/jpoliv/wakeonlan) - Perl script for waking up computers via Wake-On-LAN magic packets
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
+- [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 
 <a name="personal"></a>
 
@@ -2431,6 +2433,7 @@
 - [thephpleague/period](https://github.com/thephpleague/period) - PHP's time range API
 - [catfan/Medoo](https://github.com/catfan/Medoo) - The lightweight PHP database framework to accelerate the development.
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+- [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 
 <a name="webdev"></a>
 
@@ -2733,6 +2736,7 @@
 - [connerohnesorge/infisical-flake](https://github.com/connerohnesorge/infisical-flake) - Nix Flake for Infisical: the open-source platform for secrets management, PKI, and SSH access. 
 - [j9t/css-dedup](https://github.com/j9t/css-dedup) - CSS declaration deduplicator for maintainability and performance optimization
 - [sebw/linkding-healthcheck](https://github.com/sebw/linkding-healthcheck) - Linkding URL checker
+- [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 
 <a name="xolotl"></a>
 
