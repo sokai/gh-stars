@@ -333,6 +333,7 @@
 
 ## android 
 
+- [fosrl/android](https://github.com/fosrl/android) - Pangolin VPN client for Android devices
 - [ev-map/EVMap](https://github.com/ev-map/EVMap) - Android app to find electric vehicle charging stations - compatible with community databases such as GoingElectric.de and OpenChargeMap.org.
 - [TylerWilliamson/QuickWeather](https://github.com/TylerWilliamson/QuickWeather) - Weather at a glance! Current and forecast weather for anywhere in the world!
 - [msfjarvis/compose-lobsters](https://github.com/msfjarvis/compose-lobsters) - Claw for Android: Unofficial Android client for https://lobste.rs, built using Jetpack Compose.
@@ -1764,6 +1765,7 @@
 
 ## google 
 
+- [fosrl/android](https://github.com/fosrl/android) - Pangolin VPN client for Android devices
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [NatoBoram/lmgtfy](https://github.com/NatoBoram/lmgtfy) - A "Let Me Google That For You" clone that's open source and doesn't track you when you share it.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -2216,6 +2218,7 @@
 
 ## java 
 
+- [fosrl/android](https://github.com/fosrl/android) - Pangolin VPN client for Android devices
 - [0xf104a/NextcloudServices](https://github.com/0xf104a/NextcloudServices) - Android app to send notifications from Nextcloud without using GCM(Google cloud messaging)
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
@@ -2472,6 +2475,7 @@
 
 ## kotlin 
 
+- [fosrl/android](https://github.com/fosrl/android) - Pangolin VPN client for Android devices
 - [Nriver/pocket-trilium](https://github.com/Nriver/pocket-trilium) - Trilium in my pocket :) Android app for Trilium. Trilium安卓客户端
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 - [Commit451/LabCoat](https://github.com/Commit451/LabCoat) - GitLab client for Android. Mirror of project on GitLab
@@ -6030,6 +6034,7 @@
 
 ## vpn 
 
+- [fosrl/android](https://github.com/fosrl/android) - Pangolin VPN client for Android devices
 - [hassio-addons/addon-wireguard](https://github.com/hassio-addons/addon-wireguard) - WireGuard - Home Assistant Community Add-ons
 - [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution featuring a user-friendly web interface for easy device management and connectivity.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
