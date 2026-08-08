@@ -116,6 +116,7 @@
 - [msfjarvis/compose-lobsters](https://github.com/msfjarvis/compose-lobsters) - Claw for Android: Unofficial Android client for https://lobste.rs, built using Jetpack Compose.
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [ev-map/EVMap](https://github.com/ev-map/EVMap) - Android app to find electric vehicle charging stations - compatible with community databases such as GoingElectric.de and OpenChargeMap.org.
+- [fosrl/android](https://github.com/fosrl/android) - Pangolin VPN client for Android devices
 
 <a name="awesome"></a>
 
@@ -699,6 +700,7 @@
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [thephpleague/period](https://github.com/thephpleague/period) - PHP's time range API
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
+- [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 
 <a name="knowledge"></a>
 
@@ -1855,6 +1857,7 @@
 - [sebw/linkding-healthcheck](https://github.com/sebw/linkding-healthcheck) - Linkding URL checker
 - [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
 - [nc-music/music](https://github.com/nc-music/music) - :notes: Music app for Nextcloud
+- [fosrl/android](https://github.com/fosrl/android) - Pangolin VPN client for Android devices
 
 <a name="security"></a>
 
@@ -1907,6 +1910,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
+- [fosrl/android](https://github.com/fosrl/android) - Pangolin VPN client for Android devices
 
 <a name="smarthome"></a>
 
@@ -2434,6 +2438,7 @@
 - [catfan/Medoo](https://github.com/catfan/Medoo) - The lightweight PHP database framework to accelerate the development.
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
+- [fosrl/android](https://github.com/fosrl/android) - Pangolin VPN client for Android devices
 
 <a name="webdev"></a>
 
