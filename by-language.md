@@ -1233,6 +1233,7 @@
 
 ## Kotlin 
 
+- [fosrl/android](https://github.com/fosrl/android) - Pangolin VPN client for Android devices
 - [ev-map/EVMap](https://github.com/ev-map/EVMap) - Android app to find electric vehicle charging stations - compatible with community databases such as GoingElectric.de and OpenChargeMap.org.
 - [msfjarvis/compose-lobsters](https://github.com/msfjarvis/compose-lobsters) - Claw for Android: Unofficial Android client for https://lobste.rs, built using Jetpack Compose.
 - [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
