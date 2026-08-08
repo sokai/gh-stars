@@ -701,6 +701,7 @@
 - [thephpleague/period](https://github.com/thephpleague/period) - PHP's time range API
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
+- [fosskar/nixfiles](https://github.com/fosskar/nixfiles) - alles oder nix
 
 <a name="knowledge"></a>
 
@@ -1227,6 +1228,7 @@
 - [dvicory/homelab](https://github.com/dvicory/homelab) - 
 - [sebw/linkding-healthcheck](https://github.com/sebw/linkding-healthcheck) - Linkding URL checker
 - [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
+- [fosskar/nixfiles](https://github.com/fosskar/nixfiles) - alles oder nix
 
 <a name="nix_blueprint"></a>
 
@@ -1255,6 +1257,7 @@
 - [brittonr/clan-user-proposal](https://github.com/brittonr/clan-user-proposal) - 
 - [marcusramberg/nix-config](https://github.com/marcusramberg/nix-config) - My home manager and nixos / nix-darwin setup
 - [cameronraysmith/vanixiets](https://github.com/cameronraysmith/vanixiets) - ❄️ van niets iets ⚙️ infrastructure from "nix" with flake-parts and clan
+- [fosskar/nixfiles](https://github.com/fosskar/nixfiles) - alles oder nix
 
 <a name="nix_dendritic"></a>
 
@@ -1365,6 +1368,7 @@
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [nukdokplex/ncaa-public](https://github.com/nukdokplex/ncaa-public) - A public instance of my NCaA (Nix Code as Anything) repository that contains NixOS modules, hosts, Nix packages and other stuff.
 - [applicative-systems/mkdocs-flake](https://github.com/applicative-systems/mkdocs-flake) - mkdocs-flake simplifies MkDocs setup with the latest packages, pre-bundled plugins, Material Design, PlantUML, and code highlighting. Available as a Nix flake, flake-parts module, and Docker image, it makes beautiful documentation easy. [maintainer=@tfc]
+- [fosskar/nixfiles](https://github.com/fosskar/nixfiles) - alles oder nix
 
 <a name="nix_snowfall"></a>
 
