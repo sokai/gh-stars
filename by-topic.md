@@ -3496,7 +3496,6 @@
 - [dafitt/schallernetz](https://github.com/dafitt/schallernetz) - My servers declared with Snowfallorg-lib
 - [caddy-dns/hetzner](https://github.com/caddy-dns/hetzner) - Caddy module: dns.providers.hetzner
 - [caddy-dns/desec](https://github.com/caddy-dns/desec) - deSEC module for Caddy
-- [Mop-u/nix-lancache](https://github.com/Mop-u/nix-lancache) - A Flake for running LanCache.net on NixOS
 - [lancachenet/monolithic](https://github.com/lancachenet/monolithic) - A monolithic lancache service capable of caching all CDNs in a single instance
 - [cunnie/sslip.io](https://github.com/cunnie/sslip.io) - Golang-based DNS server which maps DNS records with embedded IP addresses to those addresses.
 - [caddyserver/cache-handler](https://github.com/caddyserver/cache-handler) - Distributed HTTP caching module for Caddy
