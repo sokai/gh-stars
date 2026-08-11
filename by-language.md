@@ -1798,6 +1798,7 @@
 
 ## PHP 
 
+- [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [nc-music/music](https://github.com/nc-music/music) - :notes: Music app for Nextcloud
 - [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
 - [voku/HtmlMin](https://github.com/voku/HtmlMin) - :clamp: HtmlMin: HTML Compressor and Minifier via PHP
