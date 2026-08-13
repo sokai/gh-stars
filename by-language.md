@@ -1489,7 +1489,7 @@
 - [wellWINeo/nix-anysync](https://github.com/wellWINeo/nix-anysync) - Any-Sync NixOS flake
 - [dafitt/schallernetz](https://github.com/dafitt/schallernetz) - My servers declared with Snowfallorg-lib
 - [nixcloud/nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - This nixpkgs extension, called nixcloud-webservices, focuses on ease of deployment of web-related technologies.
-- [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) - 
+- [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) - Migrated to Elbforge
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [michaelBelsanti/nixconfig](https://github.com/michaelBelsanti/nixconfig) - Active on tangled: https://tangled.org/quasigod.xyz/nixconfig
 - [Akiiino/mollusca](https://github.com/Akiiino/mollusca) - My NixOS machine configurations
