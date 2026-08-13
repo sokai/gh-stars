@@ -3502,7 +3502,7 @@
 - [sharevb/it-tools](https://github.com/sharevb/it-tools) - My additions (and of others) to it-tools! (Collection of handy online tools for developers, with great UX. )
 - [nixcloud/nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) - This nixpkgs extension, called nixcloud-webservices, focuses on ease of deployment of web-related technologies.
 - [km-clay/nixos-wizard](https://github.com/km-clay/nixos-wizard) - A TUI installer for NixOS
-- [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) - 
+- [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) - Migrated to Elbforge
 - [inex/IXP-Manager](https://github.com/inex/IXP-Manager) - Full stack web application powering peering at over 250 Internet Exchange Points (IXPs) globally.
 - [loophp/collection](https://github.com/loophp/collection) - A (memory) friendly, easy, lazy and modular collection class.
 - [loophp/phptree](https://github.com/loophp/phptree) - An implementation of tree data structure
