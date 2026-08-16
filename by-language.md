@@ -2430,7 +2430,7 @@
 
 ## Python 
 
-- [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed
+- [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - The Anti-Note for GNOME.
 - [ldwgchen/serchding](https://github.com/ldwgchen/serchding) - Fulltext search for linkding
 - [sharevb/network-utils-ws](https://github.com/sharevb/network-utils-ws) - A modular FastAPI service providing network‑level diagnostic tools
 - [nedrichards/whatcable-linux](https://github.com/nedrichards/whatcable-linux) - GNOME USB-C cable and power diagnostic viewer for Linux
