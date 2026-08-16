@@ -2805,7 +2805,7 @@
 
 ## markdown 
 
-- [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed
+- [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - The Anti-Note for GNOME.
 - [helgeklein/WordPress-Hugo-Migration-Scripts-HTML-Markdown](https://github.com/helgeklein/WordPress-Hugo-Migration-Scripts-HTML-Markdown) - WordPress to Hugo migration scripts, conversion from HTML to Markdown, comments
 - [prezet/prezet](https://github.com/prezet/prezet) - 🚀 Markdown Blogging for Laravel!
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
@@ -5097,7 +5097,7 @@
 
 ## productivity 
 
-- [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed
+- [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - The Anti-Note for GNOME.
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
@@ -5150,7 +5150,7 @@
 
 ## python 
 
-- [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - The Anti-Note for GNOME. A fluid, gesture-driven scratchpad designed for absolute speed
+- [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - The Anti-Note for GNOME.
 - [nedrichards/whatcable-linux](https://github.com/nedrichards/whatcable-linux) - GNOME USB-C cable and power diagnostic viewer for Linux
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - 
