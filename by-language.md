@@ -1503,7 +1503,7 @@
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 - [hgl/nixverse](https://github.com/hgl/nixverse) - Filesystem-based nix flake framework for multi-node configurations, cascading secrets management, parallel deployments, etc.
 - [daeuniverse/flake.nix](https://github.com/daeuniverse/flake.nix) - Nix flake for dae and daed
-- [ngi-nix/ngipkgs](https://github.com/ngi-nix/ngipkgs) - [Deprecated] Nix packages and services for projects supported through the NGI program
+- [ngi-nix/ngipkgs](https://github.com/ngi-nix/ngipkgs) - Archived: moved to ngi-nix/forge
 - [nilla-nix/nilla](https://github.com/nilla-nix/nilla) - Create Nilla projects that manage your packages, development shells, systems, and more!
 - [ibizaman/nix-starter-configs-skarabox](https://github.com/ibizaman/nix-starter-configs-skarabox) - 
 - [3333juul/snowflake](https://github.com/3333juul/snowflake) - 
