@@ -1862,6 +1862,7 @@
 - [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
 - [nc-music/music](https://github.com/nc-music/music) - :notes: Music app for Nextcloud
 - [fosrl/android](https://github.com/fosrl/android) - Pangolin VPN client for Android devices
+- [hassio-addons/app-sqlite-web](https://github.com/hassio-addons/app-sqlite-web) - SQLite Web - Home Assistant Community Apps
 
 <a name="security"></a>
 
@@ -1947,6 +1948,7 @@
 - [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
+- [hassio-addons/app-sqlite-web](https://github.com/hassio-addons/app-sqlite-web) - SQLite Web - Home Assistant Community Apps
 
 <a name="tools"></a>
 
@@ -2443,6 +2445,7 @@
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [fosrl/android](https://github.com/fosrl/android) - Pangolin VPN client for Android devices
+- [hassio-addons/app-sqlite-web](https://github.com/hassio-addons/app-sqlite-web) - SQLite Web - Home Assistant Community Apps
 
 <a name="webdev"></a>
 
