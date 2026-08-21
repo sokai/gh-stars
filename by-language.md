@@ -1224,6 +1224,7 @@
 
 ## Jinja 
 
+- [hassio-addons/app-sqlite-web](https://github.com/hassio-addons/app-sqlite-web) - SQLite Web - Home Assistant Community Apps
 - [DigitaleGesellschaft/DNS-Resolver](https://github.com/DigitaleGesellschaft/DNS-Resolver) - Configuration files of our DoT and DoH servers
 - [Limych/hassio-addons](https://github.com/Limych/hassio-addons) - 
 - [hassio-addons/app-ssh](https://github.com/hassio-addons/app-ssh) - Advanced SSH & Web Terminal - Home Assistant Community Apps
