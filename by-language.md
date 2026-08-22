@@ -1778,7 +1778,7 @@
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
 - [lfit/itpol](https://github.com/lfit/itpol) - Useful IT policies
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [pfefferle/.editorconfigs](https://github.com/pfefferle/.editorconfigs) - A list of .editorconfig files, optimized for several projects
 - [owncloud-archive/3rdparty](https://github.com/owncloud-archive/3rdparty) - Some 3rd party libraries that are necessary to run ownCloud
 - [SethRobertson/GitFixUm](https://github.com/SethRobertson/GitFixUm) - On undoing, fixing, or removing commits or mistakes in git
