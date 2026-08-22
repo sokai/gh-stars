@@ -1227,7 +1227,6 @@
 - [hassio-addons/app-sqlite-web](https://github.com/hassio-addons/app-sqlite-web) - SQLite Web - Home Assistant Community Apps
 - [DigitaleGesellschaft/DNS-Resolver](https://github.com/DigitaleGesellschaft/DNS-Resolver) - Configuration files of our DoT and DoH servers
 - [Limych/hassio-addons](https://github.com/Limych/hassio-addons) - 
-- [hassio-addons/app-ssh](https://github.com/hassio-addons/app-ssh) - Advanced SSH & Web Terminal - Home Assistant Community Apps
 
 ## Jupyter Notebook 
 
@@ -2919,6 +2918,7 @@
 - [ahmadawais/WP-Salts-Update-CLI](https://github.com/ahmadawais/WP-Salts-Update-CLI) - Update WordPress salts through CLI all automated ;)
 - [jschmid1/gopro_as_webcam_on_linux](https://github.com/jschmid1/gopro_as_webcam_on_linux) - Allows to use your GoPro camera as a webcam on linux
 - [perryflynn/iobench](https://github.com/perryflynn/iobench) - Simple shell script for disk benchmarks
+- [hassio-addons/app-ssh](https://github.com/hassio-addons/app-ssh) - Advanced SSH & Web Terminal - Home Assistant Community Apps
 - [denilsonsa/prettyping](https://github.com/denilsonsa/prettyping) - `prettyping` is a wrapper around the standard `ping` tool, making the output prettier, more colorful, more compact, and easier to read.
 - [chris-marsh/pureline](https://github.com/chris-marsh/pureline) - A Pure Bash Powerline PS1 Command Prompt
 - [LineageOS/android_device_oneplus_avicii](https://github.com/LineageOS/android_device_oneplus_avicii) - 
