@@ -196,6 +196,7 @@
 - [perl](#perl)
 - [phishing](#phishing)
 - [php](#php)
+- [portfolio](#portfolio)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -5019,6 +5020,11 @@
 - [dryphp/bitcoin.php](https://github.com/dryphp/bitcoin.php) - Bitcoin library for PHP.
 - [mantisbt/mantisbt](https://github.com/mantisbt/mantisbt) - Mantis Bug Tracker (MantisBT)
 - [jwage/easy-csv](https://github.com/jwage/easy-csv) - EasyCSV is a simple Object Oriented CSV manipulation library for PHP 7.2+
+
+## portfolio 
+
+- [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
+- [GPortfolio/GPortfolio](https://github.com/GPortfolio/GPortfolio) - Creating an automatic portfolio based on Github profile
 
 ## postgresql 
 
