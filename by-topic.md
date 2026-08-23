@@ -3219,6 +3219,7 @@
 
 ## others 
 
+- [liqd/adhocracy-plus](https://github.com/liqd/adhocracy-plus) - adhocracy+ is a SaaS participation platform that enables organisations to launch digital participation processes through modular interaction designs for collaborative decision-making, consultation, de
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [fosskar/nixfiles](https://github.com/fosskar/nixfiles) - alles oder nix
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
