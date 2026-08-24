@@ -3501,7 +3501,7 @@
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [suderman/nixos](https://github.com/suderman/nixos) - system configurations & dotfiles
 - [mkalus/caddy_nobots_v2](https://github.com/mkalus/caddy_nobots_v2) - Caddy v2 Server plugin to protect your website against web crawlers and bots
-- [tutunak/awesome-url-shortener](https://github.com/tutunak/awesome-url-shortener) - 
+- [tutunak/awesome-url-shortener](https://github.com/tutunak/awesome-url-shortener) - A curated list of URL shorteners — hosted services, self-hosted open-source projects, and what's been discontinued.
 - [karakeep-app/mobile-releases](https://github.com/karakeep-app/mobile-releases) - An archive for karakeep mobile releases
 - [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 - [9001/party-up](https://github.com/9001/party-up) - copyparty client for android
