@@ -1545,7 +1545,7 @@
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
-- [cyberus-ctrl-os/nixpkgs](https://github.com/cyberus-ctrl-os/nixpkgs) - CTRL-OS LTS Branches of Nixpkgs/NixOS
+- [Cyberus-Linux/nixpkgs](https://github.com/Cyberus-Linux/nixpkgs) - CTRL-OS LTS Branches of Nixpkgs/NixOS
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [Platonic-Systems/secrix](https://github.com/Platonic-Systems/secrix) - 
 - [hustlerone/Snork](https://github.com/hustlerone/Snork) - NixOS configuration framework that doesn't suck.
@@ -1604,7 +1604,7 @@
 - [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
 - [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
-- [cyberus-ctrl-os/nixpkgs](https://github.com/cyberus-ctrl-os/nixpkgs) - CTRL-OS LTS Branches of Nixpkgs/NixOS
+- [Cyberus-Linux/nixpkgs](https://github.com/Cyberus-Linux/nixpkgs) - CTRL-OS LTS Branches of Nixpkgs/NixOS
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [Sanjai-Shaarugesh/Advanced-Weather-Companion](https://github.com/Sanjai-Shaarugesh/Advanced-Weather-Companion) - Advanced Weather is a feature-rich GNOME Shell extension that provides detailed and customizable weather information right on your desktop. With support for multiple locations, advanced forecasting, and beautiful visualizations, this extension transforms how you interact with weather data.
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
