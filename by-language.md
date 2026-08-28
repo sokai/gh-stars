@@ -1103,6 +1103,7 @@
 - [IanLunn/Sequence](https://github.com/IanLunn/Sequence) - The responsive CSS animation framework for creating unique sliders, presentations, banners, and other step-based applications.
 - [NeXTs/Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 - [jelhan/croodle](https://github.com/jelhan/croodle) - Croodle is a web application to schedule a date or to do a poll on a general topics.
 - [getkaiwa/kaiwa](https://github.com/getkaiwa/kaiwa) - [UNMAINTAINED] A modern XMPP Web client
@@ -1781,7 +1782,6 @@
 - [SethRobertson/GitFixUm](https://github.com/SethRobertson/GitFixUm) - On undoing, fixing, or removing commits or mistakes in git
 - [sipgate/sipgate.io](https://github.com/sipgate/sipgate.io) - Create custom telephony integration solutions. Play audio files, manage your devices, reject the call, present dial tone menus or just create statistics. Adapt telephony to your business needs, contro
 - [Quartz/bad-data-guide](https://github.com/Quartz/bad-data-guide) - An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.
-- [lorien/awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [piccolo-dev/CHANGES](https://github.com/piccolo-dev/CHANGES) - CyanogenMod changelogs hosting for OTA updates
 - [rainersax/FreifunkHamburgHandbuch](https://github.com/rainersax/FreifunkHamburgHandbuch) - Das Installationshandbuch für die von hamburg.freifunk.net verwendeten TP-Link Router
 - [githubteacher/dst4l-sept2015](https://github.com/githubteacher/dst4l-sept2015) - Demo repository for DST4L workshop
