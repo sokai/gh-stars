@@ -68,7 +68,7 @@
 - [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositories and doesn't include patches not relevant to the build targets used on GrapheneOS.
 - [FliegendeWurst/TriliumDroid](https://github.com/FliegendeWurst/TriliumDroid) - Android client for Trilium Notes
 - [wgtunnel/android](https://github.com/wgtunnel/android) - A FOSS WireGuard & AmneziaWG Android client with auto-tunneling, lockdown & local proxying.
-- [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
+- [traccar/traccar-web](https://github.com/traccar/traccar-web) - Web dashboard for Traccar, the open source GPS tracking platform
 - [traccar/traccar-client-android](https://github.com/traccar/traccar-client-android) - Traccar Client for Android
 - [netbirdio/android-client](https://github.com/netbirdio/android-client) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
@@ -86,7 +86,7 @@
 - [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Customizable, privacy‑first, open-source clock app inspired by AOSP Clock
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [nel0x/syncthing-android](https://github.com/nel0x/syncthing-android) - Syncthing - A Syncthing Wrapper for Android.
-- [traccar/traccar-client](https://github.com/traccar/traccar-client) - Traccar Client app
+- [traccar/traccar-client](https://github.com/traccar/traccar-client) - Mobile app that sends your device's GPS location to your own Traccar server
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [linkwarden/builds](https://github.com/linkwarden/builds) - Official release builds for Linkwarden.
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
@@ -452,9 +452,9 @@
 - [mholt/caddy-l4](https://github.com/mholt/caddy-l4) - Layer 4 (TCP/UDP) app for Caddy
 - [caddyserver/forwardproxy](https://github.com/caddyserver/forwardproxy) - Forward proxy plugin for the Caddy web server
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
+- [traccar/traccar-web](https://github.com/traccar/traccar-web) - Web dashboard for Traccar, the open source GPS tracking platform
 - [traccar/traccar-client-android](https://github.com/traccar/traccar-client-android) - Traccar Client for Android
-- [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
+- [traccar/traccar](https://github.com/traccar/traccar) - Open source GPS tracking platform - self-hosted or managed, 200+ device protocols
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [mkalus/caddy_nobots_v2](https://github.com/mkalus/caddy_nobots_v2) - Caddy v2 Server plugin to protect your website against web crawlers and bots
@@ -565,7 +565,7 @@
 - [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - Lan Tian's NixOS Configuration
 - [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit. Built with Django and React.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
-- [traccar/traccar-client](https://github.com/traccar/traccar-client) - Traccar Client app
+- [traccar/traccar-client](https://github.com/traccar/traccar-client) - Mobile app that sends your device's GPS location to your own Traccar server
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
@@ -1080,9 +1080,9 @@
 - [mholt/caddy-l4](https://github.com/mholt/caddy-l4) - Layer 4 (TCP/UDP) app for Caddy
 - [caddyserver/forwardproxy](https://github.com/caddyserver/forwardproxy) - Forward proxy plugin for the Caddy web server
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
+- [traccar/traccar-web](https://github.com/traccar/traccar-web) - Web dashboard for Traccar, the open source GPS tracking platform
 - [traccar/traccar-client-android](https://github.com/traccar/traccar-client-android) - Traccar Client for Android
-- [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
+- [traccar/traccar](https://github.com/traccar/traccar) - Open source GPS tracking platform - self-hosted or managed, 200+ device protocols
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
@@ -2104,9 +2104,9 @@
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [mholt/caddy-dynamicdns](https://github.com/mholt/caddy-dynamicdns) - Caddy app that keeps your DNS records (A/AAAA) pointed at itself.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [traccar/traccar-web](https://github.com/traccar/traccar-web) - Traccar GPS Tracking System
+- [traccar/traccar-web](https://github.com/traccar/traccar-web) - Web dashboard for Traccar, the open source GPS tracking platform
 - [traccar/traccar-client-android](https://github.com/traccar/traccar-client-android) - Traccar Client for Android
-- [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
+- [traccar/traccar](https://github.com/traccar/traccar) - Open source GPS tracking platform - self-hosted or managed, 200+ device protocols
 - [Frestein/gaze-stars](https://github.com/Frestein/gaze-stars) - 🌟 Generate Awesome List from GitHub starred lists!
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
@@ -2243,7 +2243,7 @@
 - [NatLibFi/Skosmos](https://github.com/NatLibFi/Skosmos) - Thesaurus and controlled vocabulary browser using SKOS and SPARQL
 - [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
-- [traccar/traccar-client](https://github.com/traccar/traccar-client) - Traccar Client app
+- [traccar/traccar-client](https://github.com/traccar/traccar-client) - Mobile app that sends your device's GPS location to your own Traccar server
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh]
@@ -2586,7 +2586,7 @@
 - [parsedown/parsedown](https://github.com/parsedown/parsedown) - Better Markdown Parser in PHP
 - [flatpressblog/flatpress](https://github.com/flatpressblog/flatpress) - FlatPress is a lightweight, easy-to-set-up flat-file blogging engine.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
-- [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
+- [traccar/traccar](https://github.com/traccar/traccar) - Open source GPS tracking platform - self-hosted or managed, 200+ device protocols
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [php-feed-io/feed-io](https://github.com/php-feed-io/feed-io) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
