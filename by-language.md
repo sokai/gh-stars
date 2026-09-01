@@ -548,7 +548,6 @@
 
 ## HTML 
 
-- [moji2002/fertig](https://github.com/moji2002/fertig) - A classless CSS stylesheet with no legacy in it: link one file, write ordinary HTML, done. 7.8 KB gzipped, no build step, no dependencies.
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [buwx/meteogram](https://github.com/buwx/meteogram) - Meteogram for a DWD MOSMIX station
 - [xsf/xmpp.org](https://github.com/xsf/xmpp.org) - xmpp.org website (builds: https://github.com/xsf/xmpp.org/actions)
@@ -1333,7 +1332,6 @@
 ## Lua 
 
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
-- [crocuda/normal.nixos](https://github.com/crocuda/normal.nixos) - Nixos configuration modules for desktop (Still for paranoids and hypochondriacs)
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker
@@ -1450,6 +1448,7 @@
 - [clo4/nix-dotfiles](https://github.com/clo4/nix-dotfiles) - Manages my nix-darwin Mac, standalone Home Manager Mac, and NixOS home server. Public domain, unless noted otherwise.
 - [putquo/nixconf](https://github.com/putquo/nixconf) - My nix-based configuration files
 - [crocuda/crocuda.nixos](https://github.com/crocuda/crocuda.nixos) - Nixos configuration modules for servers (and paranoids and hypocondriacs)
+- [crocuda/normal.nixos](https://github.com/crocuda/normal.nixos) - Nixos configuration modules for desktop (Still for paranoids and hypochondriacs)
 - [bivsk/nix-iv](https://github.com/bivsk/nix-iv) - Personal NixOS configurations
 - [shimeoki/nixconfig](https://github.com/shimeoki/nixconfig) - My NixOS configuration as a flake.
 - [sini/nix-config](https://github.com/sini/nix-config) - NixOS Configuration
@@ -1644,6 +1643,7 @@
 
 ## Nunjucks 
 
+- [moji2002/fertig](https://github.com/moji2002/fertig) - A classless CSS stylesheet with no legacy in it: link one file, write ordinary HTML, done. 7.8 KB gzipped, no build step, no dependencies.
 - [ShadowJonathan/nostalebots.xyz](https://github.com/ShadowJonathan/nostalebots.xyz) - A short rant and index regarding stalebot-using open source repositories
 - [5t3ph/smolcss](https://github.com/5t3ph/smolcss) - Minimal snippets for modern CSS layouts and components
 
