@@ -434,7 +434,7 @@
 - [navariltd/utility-billing](https://github.com/navariltd/utility-billing) - The Utility Billing & Property Management App is a powerful addition to ERPNext, designed to streamline utility billing, property leasing, and tenant management. Ideal for municipal utilities, real estate managers, and property developers.
 - [OCA/pms](https://github.com/OCA/pms) - Property Management System on Odoo
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
-- [microrealestate/microrealestate](https://github.com/microrealestate/microrealestate) - This is an Open Source Real estate management system that helps landlords to manage their rentals and properties
+- [microrealestate/microrealestate](https://github.com/microrealestate/microrealestate) - Self-hosted property management app for landlords to manage leases, rents and receipts.
 - [estao-immo/estao](https://github.com/estao-immo/estao) - estao® Immobilienlösung für Hausverwalter und Wohnungsunternehmen 
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 - [divnix/hive](https://github.com/divnix/hive) - The secretly open NixOS-Society
