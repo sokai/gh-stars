@@ -86,6 +86,7 @@
 
 ## Astro 
 
+- [moji2002/fertig](https://github.com/moji2002/fertig) - A classless CSS stylesheet with no legacy in it: link one file, write ordinary HTML, done. 7.8 KB gzipped, no build step, no dependencies.
 - [mishamyrt/Lilex](https://github.com/mishamyrt/Lilex) - 🤘Open source programming font
 - [jakehamilton/jakehamilton.dev](https://github.com/jakehamilton/jakehamilton.dev) - 
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
@@ -852,7 +853,7 @@
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [hmellor/auction-website](https://github.com/hmellor/auction-website) - An open-source auction hosting system
 - [open-condo-software/condo](https://github.com/open-condo-software/condo) - Condo is an Open Source property management SaaS that allows users to manage tickets, resident contacts, properties, payment tracking, create invoices, and oversee a service marketplace, all while off
-- [microrealestate/microrealestate](https://github.com/microrealestate/microrealestate) - This is an Open Source Real estate management system that helps landlords to manage their rentals and properties
+- [microrealestate/microrealestate](https://github.com/microrealestate/microrealestate) - Self-hosted property management app for landlords to manage leases, rents and receipts.
 - [prolinkinfo/RealEstateCRM](https://github.com/prolinkinfo/RealEstateCRM) - RealEstate CRM: Empowering Real Estate Agents with Modern CRM Tools
 - [Choices-js/Choices](https://github.com/Choices-js/Choices) - A vanilla JS customisable select box/text input plugin ⚡️
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
@@ -1643,7 +1644,6 @@
 
 ## Nunjucks 
 
-- [moji2002/fertig](https://github.com/moji2002/fertig) - A classless CSS stylesheet with no legacy in it: link one file, write ordinary HTML, done. 7.8 KB gzipped, no build step, no dependencies.
 - [ShadowJonathan/nostalebots.xyz](https://github.com/ShadowJonathan/nostalebots.xyz) - A short rant and index regarding stalebot-using open source repositories
 - [5t3ph/smolcss](https://github.com/5t3ph/smolcss) - Minimal snippets for modern CSS layouts and components
 
@@ -2547,7 +2547,7 @@
 - [thorstenMueller/Thorsten-Voice](https://github.com/thorstenMueller/Thorsten-Voice) - Thorsten-Voice: A free to use, offline working, high quality german TTS voice should be available for every project without any license struggling.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
-- [The-Vibe-Company/Quivr](https://github.com/The-Vibe-Company/Quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
