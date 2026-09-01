@@ -482,7 +482,7 @@
 - [mattermost/mattermost-push-proxy](https://github.com/mattermost/mattermost-push-proxy) - 
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [ktolonen/ultiorganizer](https://github.com/ktolonen/ultiorganizer) - Ultiorganizer is a web application for online score keeping of Ultimate events.
-- [thunderbird/stormbox](https://github.com/thunderbird/stormbox) - A webmail.
+- [thunderbird/stormbox](https://github.com/thunderbird/stormbox) - A JMAP webmail.
 - [rti/nixwrap](https://github.com/rti/nixwrap) - Easy Application Sandboxing on NixOS
 - [kevinapps/githubstar](https://github.com/kevinapps/githubstar) - Export GitHub starred repositories, lists and topics to HTML, JSON, Markdown, or bookmark, grouped by language or topic, ordered by time, stargazer count etc.
 - [tutunak/awesome-url-shortener](https://github.com/tutunak/awesome-url-shortener) -  A curated list of URL shorteners — hosted services, self-hosted open-source projects, and what's been discontinued.
@@ -734,7 +734,7 @@
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [mattermost/mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
-- [thunderbird/stormbox](https://github.com/thunderbird/stormbox) - A webmail.
+- [thunderbird/stormbox](https://github.com/thunderbird/stormbox) - A JMAP webmail.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [Vito0912/forkmost](https://github.com/Vito0912/forkmost) - Forkmost is a fork of Docmost which is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME
@@ -2550,7 +2550,7 @@
 - [outline/outline-icons](https://github.com/outline/outline-icons) - An iconset designed for the team knowledgebase Outline, but open to all. 
 - [BoidCMS/BoidCMS](https://github.com/BoidCMS/BoidCMS) - Flat file CMS for building simple websites and blogs
 - [ktolonen/ultiorganizer](https://github.com/ktolonen/ultiorganizer) - Ultiorganizer is a web application for online score keeping of Ultimate events.
-- [thunderbird/stormbox](https://github.com/thunderbird/stormbox) - A webmail.
+- [thunderbird/stormbox](https://github.com/thunderbird/stormbox) - A JMAP webmail.
 - [tutunak/awesome-url-shortener](https://github.com/tutunak/awesome-url-shortener) -  A curated list of URL shorteners — hosted services, self-hosted open-source projects, and what's been discontinued.
 - [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.) with JavaScript.
 - [sapics/ip-location-db](https://github.com/sapics/ip-location-db) - ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
