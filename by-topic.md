@@ -490,6 +490,7 @@
 
 ## api 
 
+- [not-a-bank/open-banking-tracker-data](https://github.com/not-a-bank/open-banking-tracker-data) - The open banking API directory
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own.
 - [httpie/desktop](https://github.com/httpie/desktop) - 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs.
@@ -981,7 +982,7 @@
 
 ## css 
 
-- [moji2002/fertig](https://github.com/moji2002/fertig) - A classless CSS stylesheet with no legacy in it: link one file, write ordinary HTML, done. 7.8 KB gzipped, no build step, no dependencies.
+- [moji2002/fertig](https://github.com/moji2002/fertig) - A classless CSS stylesheet with no legacy: link one file, write ordinary HTML, done. No build step, no dependencies.
 - [j9t/syntaxp](https://github.com/j9t/syntaxp) - Super-simple code highlighting via the CSS Custom Highlight API
 - [j9t/css-dedup](https://github.com/j9t/css-dedup) - CSS declaration deduplicator for maintainability and performance optimization
 - [LinkStackOrg/linkstack-docker](https://github.com/LinkStackOrg/linkstack-docker) - A simple to set up docker variant of LinkStack. LinkStack is a highly customizable link sharing platform with an intuitive, easy to use user interface.
@@ -1067,6 +1068,7 @@
 
 ## data 
 
+- [not-a-bank/open-banking-tracker-data](https://github.com/not-a-bank/open-banking-tracker-data) - The open banking API directory
 - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
 - [ag-grid/ag-charts](https://github.com/ag-grid/ag-charts) - AG Charts is a fully-featured and highly customizable JavaScript charting library. The professional choice for developers building enterprise applications
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
@@ -1487,6 +1489,7 @@
 
 ## finance 
 
+- [not-a-bank/open-banking-tracker-data](https://github.com/not-a-bank/open-banking-tracker-data) - The open banking API directory
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
@@ -1596,7 +1599,7 @@
 
 ## frontend 
 
-- [moji2002/fertig](https://github.com/moji2002/fertig) - A classless CSS stylesheet with no legacy in it: link one file, write ordinary HTML, done. 7.8 KB gzipped, no build step, no dependencies.
+- [moji2002/fertig](https://github.com/moji2002/fertig) - A classless CSS stylesheet with no legacy: link one file, write ordinary HTML, done. No build step, no dependencies.
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
@@ -2087,7 +2090,7 @@
 
 ## html 
 
-- [moji2002/fertig](https://github.com/moji2002/fertig) - A classless CSS stylesheet with no legacy in it: link one file, write ordinary HTML, done. 7.8 KB gzipped, no build step, no dependencies.
+- [moji2002/fertig](https://github.com/moji2002/fertig) - A classless CSS stylesheet with no legacy: link one file, write ordinary HTML, done. No build step, no dependencies.
 - [j9t/syntaxp](https://github.com/j9t/syntaxp) - Super-simple code highlighting via the CSS Custom Highlight API
 - [voku/HtmlMin](https://github.com/voku/HtmlMin) - :clamp: HtmlMin: HTML Compressor and Minifier via PHP
 - [helgeklein/WordPress-Hugo-Migration-Scripts-HTML-Markdown](https://github.com/helgeklein/WordPress-Hugo-Migration-Scripts-HTML-Markdown) - WordPress to Hugo migration scripts, conversion from HTML to Markdown, comments
@@ -3225,6 +3228,8 @@
 
 ## others 
 
+- [DAdjadj/bridge-bank](https://github.com/DAdjadj/bridge-bank) - 
+- [nix-community/harmonia](https://github.com/nix-community/harmonia) - Nix binary cache implemented in rust (maintainer: @Mic92)
 - [liqd/adhocracy-plus](https://github.com/liqd/adhocracy-plus) - adhocracy+ is a SaaS participation platform that enables organisations to launch digital participation processes through modular interaction designs for collaborative decision-making, consultation, de
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [fosskar/nixfiles](https://github.com/fosskar/nixfiles) - alles oder nix
@@ -6139,7 +6144,7 @@
 
 ## web 
 
-- [moji2002/fertig](https://github.com/moji2002/fertig) - A classless CSS stylesheet with no legacy in it: link one file, write ordinary HTML, done. 7.8 KB gzipped, no build step, no dependencies.
+- [moji2002/fertig](https://github.com/moji2002/fertig) - A classless CSS stylesheet with no legacy: link one file, write ordinary HTML, done. No build step, no dependencies.
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
 - [neon-mmd/websurfx](https://github.com/neon-mmd/websurfx) - :rocket: An open source alternative to searx which provides a modern-looking :sparkles:, lightning-fast :zap:, privacy respecting :disguised_face:, secure :lock: meta search engine
