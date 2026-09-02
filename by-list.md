@@ -702,6 +702,8 @@
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 - [fosskar/nixfiles](https://github.com/fosskar/nixfiles) - alles oder nix
+- [DAdjadj/bridge-bank](https://github.com/DAdjadj/bridge-bank) - 
+- [not-a-bank/open-banking-tracker-data](https://github.com/not-a-bank/open-banking-tracker-data) - The open banking API directory
 
 <a name="knowledge"></a>
 
@@ -1864,6 +1866,7 @@
 - [fosrl/android](https://github.com/fosrl/android) - Pangolin VPN client for Android devices
 - [hassio-addons/app-sqlite-web](https://github.com/hassio-addons/app-sqlite-web) - SQLite Web - Home Assistant Community Apps
 - [not-a-bank/open-banking-tracker-data](https://github.com/not-a-bank/open-banking-tracker-data) - The open banking API directory
+- [DAdjadj/bridge-bank](https://github.com/DAdjadj/bridge-bank) - 
 
 <a name="security"></a>
 
@@ -2448,6 +2451,7 @@
 - [fosrl/android](https://github.com/fosrl/android) - Pangolin VPN client for Android devices
 - [hassio-addons/app-sqlite-web](https://github.com/hassio-addons/app-sqlite-web) - SQLite Web - Home Assistant Community Apps
 - [not-a-bank/open-banking-tracker-data](https://github.com/not-a-bank/open-banking-tracker-data) - The open banking API directory
+- [DAdjadj/bridge-bank](https://github.com/DAdjadj/bridge-bank) - 
 
 <a name="webdev"></a>
 
