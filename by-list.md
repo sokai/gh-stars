@@ -1863,6 +1863,7 @@
 - [nc-music/music](https://github.com/nc-music/music) - :notes: Music app for Nextcloud
 - [fosrl/android](https://github.com/fosrl/android) - Pangolin VPN client for Android devices
 - [hassio-addons/app-sqlite-web](https://github.com/hassio-addons/app-sqlite-web) - SQLite Web - Home Assistant Community Apps
+- [not-a-bank/open-banking-tracker-data](https://github.com/not-a-bank/open-banking-tracker-data) - The open banking API directory
 
 <a name="security"></a>
 
@@ -2446,6 +2447,7 @@
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [fosrl/android](https://github.com/fosrl/android) - Pangolin VPN client for Android devices
 - [hassio-addons/app-sqlite-web](https://github.com/hassio-addons/app-sqlite-web) - SQLite Web - Home Assistant Community Apps
+- [not-a-bank/open-banking-tracker-data](https://github.com/not-a-bank/open-banking-tracker-data) - The open banking API directory
 
 <a name="webdev"></a>
 
