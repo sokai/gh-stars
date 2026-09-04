@@ -1402,7 +1402,7 @@
 - [chadac/nix-config-modules](https://github.com/chadac/nix-config-modules) - Flake modules for multi-host joint NixOS + home-manager configs
 - [0xCCF4/noxa](https://github.com/0xCCF4/noxa) - Management tool for a multi-host NixOS configuration
 - [Platonic-Systems/secrix](https://github.com/Platonic-Systems/secrix) - 
-- [Cyberus-Linux/nixpkgs](https://github.com/Cyberus-Linux/nixpkgs) - CTRL-OS LTS Branches of Nixpkgs/NixOS
+- [Cyberus-Linux/nixpkgs](https://github.com/Cyberus-Linux/nixpkgs) - Cyberus Linux LTS Branches of Nixpkgs/NixOS
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas) - Schemas for common flake output types
 - [cuskiy/nixy](https://github.com/cuskiy/nixy) - Structured configuration for Nix fleets.
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
@@ -1580,7 +1580,6 @@
 - [DavidRConnell/nix-home-manager](https://github.com/DavidRConnell/nix-home-manager) - Nix configuration using home-manager
 - [eh8/chenglab](https://github.com/eh8/chenglab) - NixOS setup for my homelab and personal computers
 - [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) - The Media Server NixOS Module
-- [infinisil/sanix](https://github.com/infinisil/sanix) - Sane stable stateless NixOS setup
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix
 - [linyinfeng/dotfiles](https://github.com/linyinfeng/dotfiles) - My personal NixOS configurations.
 - [abehidek/nix-config](https://github.com/abehidek/nix-config) - System, packages and dev shells configured using Nix, NixOS and nixpkgs
@@ -2432,6 +2431,7 @@
 
 ## Python 
 
+- [protectli-root/protectli-firmware-updater](https://github.com/protectli-root/protectli-firmware-updater) - Script used to update firmware on Protectli devices
 - [DAdjadj/bridge-bank](https://github.com/DAdjadj/bridge-bank) - 
 - [not-a-bank/open-banking-tracker-data](https://github.com/not-a-bank/open-banking-tracker-data) - The open banking API directory
 - [liqd/adhocracy-plus](https://github.com/liqd/adhocracy-plus) - adhocracy+ is a SaaS participation platform that enables organisations to launch digital participation processes through modular interaction designs for collaborative decision-making, consultation, de
