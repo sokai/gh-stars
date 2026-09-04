@@ -291,6 +291,7 @@
 - [ghuntley/how-to-ralph-wiggum](https://github.com/ghuntley/how-to-ralph-wiggum) - The Ralph Wiggum Technique—the AI development methodology that reduces software costs to less than a fast food worker's wage.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [JasonLovesDoggo/caddy-defender](https://github.com/JasonLovesDoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
@@ -1881,7 +1882,6 @@
 - [withstudiocms/studiocms](https://github.com/withstudiocms/studiocms) - Dedicated SSR (Server-side-rendered) Astro native Headless CMS, built from the ground up for the Astro community and by Astro community members
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [niccokunzmann/open-web-calendar](https://github.com/niccokunzmann/open-web-calendar) - Embed a highly customizable web calendar into your website using ICal source links
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 - [asbiin/laravel-webauthn](https://github.com/asbiin/laravel-webauthn) - Webauthn adapter for Laravel
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
@@ -2739,6 +2739,7 @@
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 
 ## login 
@@ -3795,7 +3796,6 @@
 - [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [NullCode1337/GlideLib](https://github.com/NullCode1337/GlideLib) - Install the libraries required for Swipe typing on Android, systemlessly
 - [eu-digital-identity-wallet/eudi-app-android-wallet-ui](https://github.com/eu-digital-identity-wallet/eudi-app-android-wallet-ui) - EUDI Wallet Prototype
-- [infinisil/sanix](https://github.com/infinisil/sanix) - Sane stable stateless NixOS setup
 - [save-nix-together/open-letter](https://github.com/save-nix-together/open-letter) - an open letter to the NixOS foundation
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
 - [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal.
