@@ -1920,7 +1920,7 @@
 - [nekudocom/shiny_geoip](https://github.com/nekudocom/shiny_geoip) - IP to location API service
 - [mecha-cms/mecha](https://github.com/mecha-cms/mecha) - Minimalist content management system.
 - [salsify/jsonstreamingparser](https://github.com/salsify/jsonstreamingparser) - A JSON streaming parser implementation in PHP.
-- [projectsend/projectsend](https://github.com/projectsend/projectsend) - ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple langua
+- [projectsend/projectsend](https://github.com/projectsend/projectsend) - Share files with your clients, from your own server. Free, open source (GPLv2), self-hosted — or use ProjectSend Cloud, the official hosted version run by the same team.
 - [GibbonEdu/core](https://github.com/GibbonEdu/core) - Gibbon is a flexible, open source school management platform designed to make life better for teachers, students, parents and leaders.
 - [PrestaShop/php-ps-info](https://github.com/PrestaShop/php-ps-info) - Simple script that allows you to test if your current environment fulfills PrestaShop's system requirements, and offers suggestions for improvements.
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
