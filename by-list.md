@@ -195,6 +195,7 @@
 - [phpnuke/phpnuke](https://github.com/phpnuke/phpnuke) - PHP-Nuke is a web-based automated news publishing and content management system based on PHP and MySQL.
 - [NixOS/nix-constitutional-assembly](https://github.com/NixOS/nix-constitutional-assembly) - Home of the Nix Constitutional Assembly, there to establish a community-based governance
 - [StarlaneStudios/vscode-comment-anchors](https://github.com/StarlaneStudios/vscode-comment-anchors) - ⚓A Visual Studio Code extension that adds support for comment anchors 🔭
+- [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
 
 <a name="desktop"></a>
 
@@ -288,6 +289,7 @@
 - [flightphp/cache](https://github.com/flightphp/cache) - Light, simple and standalone PHP in-file caching class
 - [flightphp/runway](https://github.com/flightphp/runway) - Console app for the Flight PHP Framework. 
 - [thephpleague/period](https://github.com/thephpleague/period) - PHP's time range API
+- [sylturner/weather-icons](https://github.com/sylturner/weather-icons) - 215 Weather Themed Icons and CSS
 
 <a name="dns"></a>
 
@@ -704,6 +706,7 @@
 - [fosskar/nixfiles](https://github.com/fosskar/nixfiles) - alles oder nix
 - [DAdjadj/bridge-bank](https://github.com/DAdjadj/bridge-bank) - 
 - [not-a-bank/open-banking-tracker-data](https://github.com/not-a-bank/open-banking-tracker-data) - The open banking API directory
+- [sylturner/weather-icons](https://github.com/sylturner/weather-icons) - 215 Weather Themed Icons and CSS
 
 <a name="knowledge"></a>
 
@@ -2679,6 +2682,8 @@
 - [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
 - [j9t/syntaxp](https://github.com/j9t/syntaxp) - Super-simple code highlighting via the CSS Custom Highlight API
 - [thephpleague/period](https://github.com/thephpleague/period) - PHP's time range API
+- [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
+- [sylturner/weather-icons](https://github.com/sylturner/weather-icons) - 215 Weather Themed Icons and CSS
 
 <a name="work"></a>
 
