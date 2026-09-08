@@ -1373,6 +1373,7 @@
 
 ## Nix 
 
+- [flyingpeakock/nixos-passphrase-less-reboot](https://github.com/flyingpeakock/nixos-passphrase-less-reboot) - 
 - [fosskar/nixfiles](https://github.com/fosskar/nixfiles) - alles oder nix
 - [connerohnesorge/infisical-flake](https://github.com/connerohnesorge/infisical-flake) - Nix Flake for Infisical: the open-source platform for secrets management, PKI, and SSH access.
 - [benkoppe/nixcfg](https://github.com/benkoppe/nixcfg) - Consolidated nixOS, darwin, and hjem deployments for personal machines & servers
