@@ -3227,6 +3227,7 @@
 
 ## others 
 
+- [flyingpeakock/nixos-passphrase-less-reboot](https://github.com/flyingpeakock/nixos-passphrase-less-reboot) - 
 - [sylturner/weather-icons](https://github.com/sylturner/weather-icons) - 215 Weather Themed Icons and CSS
 - [protectli-root/protectli-firmware-updater](https://github.com/protectli-root/protectli-firmware-updater) - Script used to update firmware on Protectli devices
 - [DAdjadj/bridge-bank](https://github.com/DAdjadj/bridge-bank) - 
