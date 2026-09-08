@@ -813,7 +813,6 @@
 - [devhawk/vscode-markdown-sup](https://github.com/devhawk/vscode-markdown-sup) - 
 - [mjbvz/vscode-markdown-footnotes](https://github.com/mjbvz/vscode-markdown-footnotes) - Adds [^1] footnote syntax support to VS Code's built-in Markdown preview
 - [mjbvz/vscode-markdown-emoji](https://github.com/mjbvz/vscode-markdown-emoji) - VS Code extension that adds support for :emoji: syntax to the built-in markdown preview
-- [compdemocracy/polis](https://github.com/compdemocracy/polis) - :milky_way: Open Source AI for large scale open ended feedback
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
 - [sapics/ip-location-db](https://github.com/sapics/ip-location-db) - ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
 - [DannyBattison/wp-rss-to-posts](https://github.com/DannyBattison/wp-rss-to-posts) - RSS feed aggregation directly into WP latest posts
@@ -2469,6 +2468,7 @@
 - [silnrsi/font-gentium](https://github.com/silnrsi/font-gentium) - Fonts for languages and writing systems that use Latin, Cyrillic, and Greek scripts
 - [Petro31/a-file-logger](https://github.com/Petro31/a-file-logger) - Brings home-assistant.log back in the config folder
 - [mijorus/smile](https://github.com/mijorus/smile) - An emoji picker for linux, with custom tags support and localization. I'll also put some random emojis here 🦁🐾🦔🦇
+- [compdemocracy/polis](https://github.com/compdemocracy/polis) - :milky_way: Open Source AI for large scale open ended feedback
 - [Thymis-io/thymis](https://github.com/Thymis-io/thymis) - Web-based platform for configuring, provisioning, updating, and monitoring (IoT-)devices and systems, powered by NixOS
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
