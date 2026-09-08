@@ -1030,7 +1030,6 @@
 - [chriscoyier/Simple-Offline-Site](https://github.com/chriscoyier/Simple-Offline-Site) - 
 - [sidtechnical/hakuna-metadata-1](https://github.com/sidtechnical/hakuna-metadata-1) - Browsing  metadata visualization tool: Explore how ISPs can see and monetize your browsing history.
 - [BurnedChris/LincolnHack](https://github.com/BurnedChris/LincolnHack) - Lincoln Community Watcher - Winner of Epix Media challenge at Lincoln Hack 2016
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [substance/substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [chartaccent/chartaccent](https://github.com/chartaccent/chartaccent) - A chart annotation tool.
@@ -2629,6 +2628,7 @@
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [corna/me_cleaner](https://github.com/corna/me_cleaner) - Tool for partial deblobbing of Intel ME/TXE firmware images
 - [Finn10111/PimuxBot](https://github.com/Finn10111/PimuxBot) - XMPP bot used to provide some additional services for users of pimux.de
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [raptor2101/Mediathek](https://github.com/raptor2101/Mediathek) - 
 - [notofonts/noto-fonts](https://github.com/notofonts/noto-fonts) - Noto fonts, except for CJK and emoji
 - [moimael/trac-to-gitlab](https://github.com/moimael/trac-to-gitlab) - Easily migrate your Trac instance to Gitlab
