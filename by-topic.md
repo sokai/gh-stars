@@ -3229,6 +3229,7 @@
 
 ## others 
 
+- [xz-dev/numlockw](https://github.com/xz-dev/numlockw) - Control the state of NumLock
 - [flyingpeakock/nixos-passphrase-less-reboot](https://github.com/flyingpeakock/nixos-passphrase-less-reboot) - 
 - [sylturner/weather-icons](https://github.com/sylturner/weather-icons) - 215 Weather Themed Icons and CSS
 - [protectli-root/protectli-firmware-updater](https://github.com/protectli-root/protectli-firmware-updater) - Script used to update firmware on Protectli devices
