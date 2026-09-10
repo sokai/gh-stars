@@ -1638,6 +1638,7 @@
 
 ## git 
 
+- [EphraimSiegfried/gachix](https://github.com/EphraimSiegfried/gachix) - A decentralized binary cache for Nix over Git
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [bulletmark/edir](https://github.com/bulletmark/edir) - Program to rename, remove, and copy files and directories using your editor
@@ -4754,6 +4755,7 @@
 
 ## p2p 
 
+- [EphraimSiegfried/gachix](https://github.com/EphraimSiegfried/gachix) - A decentralized binary cache for Nix over Git
 - [anyproto/anytype-kotlin](https://github.com/anyproto/anytype-kotlin) - Official Anytype client for Android
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
