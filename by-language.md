@@ -2428,6 +2428,7 @@
 
 ## Python 
 
+- [xz-dev/numlockw](https://github.com/xz-dev/numlockw) - Control the state of NumLock
 - [protectli-root/protectli-firmware-updater](https://github.com/protectli-root/protectli-firmware-updater) - Script used to update firmware on Protectli devices
 - [DAdjadj/bridge-bank](https://github.com/DAdjadj/bridge-bank) - 
 - [not-a-bank/open-banking-tracker-data](https://github.com/not-a-bank/open-banking-tracker-data) - The open banking API directory
