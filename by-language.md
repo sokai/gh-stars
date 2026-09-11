@@ -1029,6 +1029,7 @@
 - [chriscoyier/Simple-Offline-Site](https://github.com/chriscoyier/Simple-Offline-Site) - 
 - [sidtechnical/hakuna-metadata-1](https://github.com/sidtechnical/hakuna-metadata-1) - Browsing  metadata visualization tool: Explore how ISPs can see and monetize your browsing history.
 - [BurnedChris/LincolnHack](https://github.com/BurnedChris/LincolnHack) - Lincoln Community Watcher - Winner of Epix Media challenge at Lincoln Hack 2016
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [substance/substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [chartaccent/chartaccent](https://github.com/chartaccent/chartaccent) - A chart annotation tool.
@@ -1271,7 +1272,6 @@
 - [tmo1/sms-ie](https://github.com/tmo1/sms-ie) - SMS Import / Export is a simple Android app that imports and exports SMS and MMS messages, call logs, contacts, and blocked numbers from and to JSON / NDJSON files.
 - [FossifyOrg/Phone](https://github.com/FossifyOrg/Phone) - A handy phone call manager with phonebook, number blocking and multi-SIM support
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
-- [tailscale/tailscale-android](https://github.com/tailscale/tailscale-android) - Tailscale Android Client
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android
 - [fibelatti/pinboard-kotlin](https://github.com/fibelatti/pinboard-kotlin) - Unofficial Android client for Pinboard and Linkding
 - [wireapp/wire-android](https://github.com/wireapp/wire-android) - 🤖 Wire client for Android
@@ -1588,7 +1588,7 @@
 - [leona-ya/nixfiles](https://github.com/leona-ya/nixfiles) - 
 - [fooker/dns.nix](https://github.com/fooker/dns.nix) - NixOS module for DNS zone declaration
 - [Janik-Haag/nixbox](https://github.com/Janik-Haag/nixbox) - nix ipam implantation - your documentation is your configuration
-- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh]
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh,@srid]
 - [telent/liminix](https://github.com/telent/liminix) - Mirror of gti.telent.net:dan/liminix
 - [D4ndellion/nixos-matrix-modules](https://github.com/D4ndellion/nixos-matrix-modules) - NixOS modules for matrix related services
 - [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - Lan Tian's NixOS Configuration
@@ -2628,7 +2628,6 @@
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [corna/me_cleaner](https://github.com/corna/me_cleaner) - Tool for partial deblobbing of Intel ME/TXE firmware images
 - [Finn10111/PimuxBot](https://github.com/Finn10111/PimuxBot) - XMPP bot used to provide some additional services for users of pimux.de
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [raptor2101/Mediathek](https://github.com/raptor2101/Mediathek) - 
 - [notofonts/noto-fonts](https://github.com/notofonts/noto-fonts) - Noto fonts, except for CJK and emoji
 - [moimael/trac-to-gitlab](https://github.com/moimael/trac-to-gitlab) - Easily migrate your Trac instance to Gitlab
@@ -2849,6 +2848,7 @@
 
 ## Shell 
 
+- [NixOS/nixpkgs-committers](https://github.com/NixOS/nixpkgs-committers) - Tracking of changes to Nixpkgs committers
 - [filiparag/hetzner_ddns](https://github.com/filiparag/hetzner_ddns) - Hetzner Dynamic DNS (DDNS, DynDNS) daemon
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [bcyran/jetkvm-wireguard-setup](https://github.com/bcyran/jetkvm-wireguard-setup) - Automated installation script and Docker-based cross-compilation environment for deploying WireGuard VPN on JetKVM devices.
