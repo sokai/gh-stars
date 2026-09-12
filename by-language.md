@@ -86,7 +86,6 @@
 
 ## Astro 
 
-- [moji2002/fertig](https://github.com/moji2002/fertig) - A classless CSS stylesheet with no legacy: link one file, write ordinary HTML, done. No build step, no dependencies.
 - [mishamyrt/Lilex](https://github.com/mishamyrt/Lilex) - 🤘Open source programming font
 - [jakehamilton/jakehamilton.dev](https://github.com/jakehamilton/jakehamilton.dev) - 
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
@@ -229,6 +228,7 @@
 ## CSS 
 
 - [sylturner/weather-icons](https://github.com/sylturner/weather-icons) - 215 Weather Themed Icons and CSS
+- [moji2002/fertig](https://github.com/moji2002/fertig) - A classless CSS stylesheet with no legacy: link one file, write ordinary HTML, done. No build step, no dependencies.
 - [nicolas-goudry/marp-deck-directory](https://github.com/nicolas-goudry/marp-deck-directory) - Zero-config, fully reproducible presentation environment using Marp and Nix
 - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 - [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
