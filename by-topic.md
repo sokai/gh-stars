@@ -1270,7 +1270,7 @@
 - [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - 
 - [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
-- [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust.
+- [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust
 - [brainhivenl/steiger](https://github.com/brainhivenl/steiger) - High-performance container build orchestrator with native Bazel, Nix and Docker BuildKit
 - [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy) - An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, registry.k8s.io, ghcr.io)
 - [obeone/multi-registry-cache](https://github.com/obeone/multi-registry-cache) - Multi-registry cache for Docker/containerd, optimizing image pulls using the original registry image
@@ -5435,7 +5435,7 @@
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [openmls/openmls](https://github.com/openmls/openmls) - Rust implementation of the Messaging Layer Security (MLS) protocol
 - [sysid/bkmr](https://github.com/sysid/bkmr) - Knowledge Management for Humans and Agents
-- [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust.
+- [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software
 - [mozilla-services/autopush-rs](https://github.com/mozilla-services/autopush-rs) - Push Server in Rust
@@ -5603,7 +5603,7 @@
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
 - [svandragt/lamb](https://github.com/svandragt/lamb) - Literally Another Micro Blog
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
-- [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust.
+- [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust
 - [traccar/traccar](https://github.com/traccar/traccar) - Open source GPS tracking platform - self-hosted or managed, 200+ device protocols
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
@@ -6183,7 +6183,7 @@
 - [LinkStackOrg/linkstack-docker](https://github.com/LinkStackOrg/linkstack-docker) - A simple to set up docker variant of LinkStack. LinkStack is a highly customizable link sharing platform with an intuitive, easy to use user interface.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-- [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust.
+- [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust
 - [bigprof-software/online-rental-property-manager](https://github.com/bigprof-software/online-rental-property-manager) - Manage your rental properties, units, applications, leases and tenants.
 - [AndrewPaglusch/FlashPaper](https://github.com/AndrewPaglusch/FlashPaper) - One-time encrypted password/secret sharing
 - [dmpop/pellicola](https://github.com/dmpop/pellicola) - Pastebin for your photos
