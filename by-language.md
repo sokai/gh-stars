@@ -639,7 +639,6 @@
 - [steveathon/bootstrap-wysiwyg](https://github.com/steveathon/bootstrap-wysiwyg) - Tiny bootstrap-compatible WYSIWYG rich text editor
 - [flot/flot.github.com](https://github.com/flot/flot.github.com) - Github Pages hosted website for the Flot library.
 - [paquettg/php-html-parser](https://github.com/paquettg/php-html-parser) - An HTML DOM parser. It allows you to manipulate HTML. Find tags on an HTML page with selectors just like jQuery.
-- [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [blueimp/Bootstrap-Image-Gallery](https://github.com/blueimp/Bootstrap-Image-Gallery) - This project is deprecated in favor of blueimp Gallery.
 - [javiereguiluz/easybook](https://github.com/javiereguiluz/easybook) - Book publishing as easy as it should be (built with Symfony components)
 - [coolwanglu/pdf2htmlEX](https://github.com/coolwanglu/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
@@ -1125,6 +1124,7 @@
 - [LeaVerou/talks-list](https://github.com/LeaVerou/talks-list) - Automatic talks list, generated from JSON. Unmaintained, use Mavo instead.
 - [owncloud/notes](https://github.com/owncloud/notes) - :notebook_with_decorative_cover: Notes app for ownCloud
 - [moment/moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
+- [foundation/yeti](https://github.com/foundation/yeti) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [tholman/zenpen](https://github.com/tholman/zenpen) - A minimalist writing zone.
 - [ajaxorg/ace-builds](https://github.com/ajaxorg/ace-builds) - Packaged version of Ace code editor
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
