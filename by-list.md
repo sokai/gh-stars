@@ -89,7 +89,7 @@
 - [traccar/traccar-client](https://github.com/traccar/traccar-client) - Mobile app that sends your device's GPS location to your own Traccar server
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [linkwarden/builds](https://github.com/linkwarden/builds) - Official release builds for Linkwarden.
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 - [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client, [mirror] https://codeberg.org/droidify/client
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) - DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.
@@ -216,7 +216,7 @@
 - [mijorus/gearlever](https://github.com/mijorus/gearlever) - Manage AppImages with ease 📦
 - [gristlabs/grist-desktop](https://github.com/gristlabs/grist-desktop) - Desktop Grist, packaged with Electron
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
@@ -909,7 +909,7 @@
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 - [xieve/automatic-ripping-machine](https://github.com/xieve/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
 - [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
 - [bulletmark/edir](https://github.com/bulletmark/edir) - Program to rename, remove, and copy files and directories using your editor
@@ -1602,7 +1602,7 @@
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [oberblastmeister/trashy](https://github.com/oberblastmeister/trashy) - a cli system trash manager, alternative to rm and trash-cli
 - [latchset/clevis](https://github.com/latchset/clevis) - Automated Encryption Framework
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 - [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -1803,7 +1803,7 @@
 - [pulsejet/memories-assets](https://github.com/pulsejet/memories-assets) - External large non-code assets for Memories
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - A Firefox extension to protect from being fingerprinted.
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 - [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [marcantondahmen/automad](https://github.com/marcantondahmen/automad) - A flat-file content management system and template engine
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins
@@ -1897,7 +1897,7 @@
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
 - [majewsky/portunus](https://github.com/majewsky/portunus) - Self-contained user/group management and authentication service
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
+- [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
 - [Sovereign-Engineering/obscuravpn-client](https://github.com/Sovereign-Engineering/obscuravpn-client) - Obscura VPN Rust library and App (macOS only for now)
 - [session-foundation/session-android](https://github.com/session-foundation/session-android) - Session Android - A Decentralized, Onion Routed, Private Messenger
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
