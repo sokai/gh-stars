@@ -956,6 +956,7 @@
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
+- [pokerth/pokerth](https://github.com/pokerth/pokerth) - PokerTH is a poker game written in C++/Qt.
 - [owncloud/client](https://github.com/owncloud/client) - 🖥️ Desktop Syncing Client for ownCloud
 
 ## crawler 
@@ -4519,7 +4520,6 @@
 - [sway/fontawesome-latex](https://github.com/sway/fontawesome-latex) - Style file for the FontAwesome (Xe)LaTeX mapping
 - [freifunk/meshkit](https://github.com/freifunk/meshkit) - Meshkit is a generator for preconfigured images that can be used for freifunk
 - [okfn/opendatahandbook](https://github.com/okfn/opendatahandbook) - Open Data Handbook v2
-- [pokerth/pokerth](https://github.com/pokerth/pokerth) - PokerTH is a poker game written in C++/Qt.
 - [libasys/ownCloud-8.1-Calendar-App](https://github.com/libasys/ownCloud-8.1-Calendar-App) - Repository moved to https://github.com/libasys/calendarplus
 - [fbrinker/adminer-plugin-PasswordProtection](https://github.com/fbrinker/adminer-plugin-PasswordProtection) - A password protection prompt before the normal adminer database login is shown
 - [eotryx/oc_files_mv](https://github.com/eotryx/oc_files_mv) - Owncloud files mover
@@ -5271,6 +5271,7 @@
 - [nextcloud/desktop](https://github.com/nextcloud/desktop) - 💻 Desktop sync client for Nextcloud
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser. Your personal reference library, searchable in an instant.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
+- [pokerth/pokerth](https://github.com/pokerth/pokerth) - PokerTH is a poker game written in C++/Qt.
 
 ## r 
 
