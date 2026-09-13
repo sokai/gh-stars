@@ -4002,7 +4002,7 @@
 - [nextcloud/cookbook](https://github.com/nextcloud/cookbook) - 🍲 A library for all your recipes
 - [sebastianbergmann/sebastianbergmann](https://github.com/sebastianbergmann/sebastianbergmann) - 
 - [jschmid1/gopro_as_webcam_on_linux](https://github.com/jschmid1/gopro_as_webcam_on_linux) - Allows to use your GoPro camera as a webcam on linux
-- [vauvenal5/yaga](https://github.com/vauvenal5/yaga) - Nextcloud Yaga - A Nextcloud first gallery app for Android.
+- [vauvenal5/yaga-0.x](https://github.com/vauvenal5/yaga-0.x) - Nextcloud Yaga - A Nextcloud first gallery app for Android.
 - [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) - 
 - [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
 - [joypixels/emoji-toolkit](https://github.com/joypixels/emoji-toolkit) - The world's largest independent emoji font.
