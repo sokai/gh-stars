@@ -705,7 +705,6 @@
 - [openjverein/jverein](https://github.com/openjverein/jverein) - Open JVerein - Open Source Vereinsverwaltung
 - [vanilla-music/vanilla](https://github.com/vanilla-music/vanilla) - Vanilla Music Player for Android
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
@@ -3139,6 +3138,7 @@
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) - API datasource for grafana. Visualize data from JSON / CSV / TSV / XML / GraphQL endpoints
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - Control any computer remotely
 - [origranot/reduced.to](https://github.com/origranot/reduced.to) - Free Modern URL Reducer. Make sure to share love by giving it a star.🌟 Have a great day!
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed) - Minimalistic web app designed for sending private and secure notes.
 - [devrsi0n/chirpy](https://github.com/devrsi0n/chirpy) - 💬 A privacy-friendly and customizable Disqus (comment system) alternate. 注重隐私保护和定制化的评论系统。
 - [beabee-communityrm/monorepo](https://github.com/beabee-communityrm/monorepo) - Beabee is a platform for community journalism
