@@ -1117,7 +1117,7 @@
 ## database 
 
 - [hassio-addons/app-sqlite-web](https://github.com/hassio-addons/app-sqlite-web) - SQLite Web - Home Assistant Community Apps
-- [hbons/Bobby](https://github.com/hbons/Bobby) - Browse SQLite files
+- [hbons/Bobby](https://github.com/hbons/Bobby) - View SQLite databases
 - [catfan/Medoo](https://github.com/catfan/Medoo) - The lightweight PHP database framework to accelerate the development.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [darkterminal/mylibsqladmin](https://github.com/darkterminal/mylibsqladmin) - MylibSQLAdmin - A Modern libSQL Database Management Platform
@@ -2642,7 +2642,7 @@
 ## linux 
 
 - [nedrichards/whatcable-linux](https://github.com/nedrichards/whatcable-linux) - GNOME USB-C cable and power diagnostic viewer for Linux
-- [hbons/Bobby](https://github.com/hbons/Bobby) - Browse SQLite files
+- [hbons/Bobby](https://github.com/hbons/Bobby) - View SQLite databases
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
@@ -5750,7 +5750,7 @@
 
 - [hassio-addons/app-sqlite-web](https://github.com/hassio-addons/app-sqlite-web) - SQLite Web - Home Assistant Community Apps
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
-- [hbons/Bobby](https://github.com/hbons/Bobby) - Browse SQLite files
+- [hbons/Bobby](https://github.com/hbons/Bobby) - View SQLite databases
 - [catfan/Medoo](https://github.com/catfan/Medoo) - The lightweight PHP database framework to accelerate the development.
 - [sysid/bkmr](https://github.com/sysid/bkmr) - Knowledge Management for Humans and Agents
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
