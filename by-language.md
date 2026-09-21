@@ -941,6 +941,7 @@
 - [home-sweet-gnome/dash-to-panel](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found i
 - [elmastudio/aino-blocks](https://github.com/elmastudio/aino-blocks) - Aino blocks are a collection of Gutenberg editor blocks for page building in WordPress.
 - [nextcloud/circles](https://github.com/nextcloud/circles) - 👪 Create groups with other users on a Nextcloud instance and share with them
+- [nextcloud/spreed](https://github.com/nextcloud/spreed) - 🗨️ Nextcloud Talk – chat, video & audio calls for Nextcloud
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [RealRaven2000/QuickFolders](https://github.com/RealRaven2000/QuickFolders) - Thunderbird Add-on: QuickFolders
 - [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories.
@@ -2045,7 +2046,6 @@
 - [elmastudio/aino-theme](https://github.com/elmastudio/aino-theme) - A Gutenberg-ready WordPress theme.
 - [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [engelsystem/engelsystem](https://github.com/engelsystem/engelsystem) - Shift planning system for chaos events.
-- [nextcloud/spreed](https://github.com/nextcloud/spreed) - 🗨️ Nextcloud Talk – chat, video & audio calls for Nextcloud
 - [Admidio/admidio](https://github.com/Admidio/admidio) - Admidio is a free open source user management system for websites of organizations and groups. The system has a flexible role model so that it’s possible to reflect the structure and permissions of yo
 - [rmbinder/Geburtstagsliste](https://github.com/rmbinder/Geburtstagsliste) - Plugin Geburtstagsliste für die Online-Mitgliederverwaltung Admidio
 - [RocketMan/plugin-imap-user-auth](https://github.com/RocketMan/plugin-imap-user-auth) - IMAP User Authentication Plugin for Kanboard.  Login to Kanboard using your IMAP credentials.
