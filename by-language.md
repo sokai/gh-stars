@@ -517,7 +517,7 @@
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [wader/fq](https://github.com/wader/fq) - fq - jq for binary formats. Tool, language and decoders for working with binary formats.
 - [tobyxdd/android-ota-payload-extractor](https://github.com/tobyxdd/android-ota-payload-extractor) - A fast & natively cross-platform Android OTA payload extractor written in Go
-- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
@@ -1029,6 +1029,7 @@
 - [chriscoyier/Simple-Offline-Site](https://github.com/chriscoyier/Simple-Offline-Site) - 
 - [sidtechnical/hakuna-metadata-1](https://github.com/sidtechnical/hakuna-metadata-1) - Browsing  metadata visualization tool: Explore how ISPs can see and monetize your browsing history.
 - [BurnedChris/LincolnHack](https://github.com/BurnedChris/LincolnHack) - Lincoln Community Watcher - Winner of Epix Media challenge at Lincoln Hack 2016
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [substance/substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [chartaccent/chartaccent](https://github.com/chartaccent/chartaccent) - A chart annotation tool.
@@ -2628,7 +2629,6 @@
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [corna/me_cleaner](https://github.com/corna/me_cleaner) - Tool for partial deblobbing of Intel ME/TXE firmware images
 - [Finn10111/PimuxBot](https://github.com/Finn10111/PimuxBot) - XMPP bot used to provide some additional services for users of pimux.de
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [raptor2101/Mediathek](https://github.com/raptor2101/Mediathek) - 
 - [notofonts/noto-fonts](https://github.com/notofonts/noto-fonts) - Noto fonts, except for CJK and emoji
 - [moimael/trac-to-gitlab](https://github.com/moimael/trac-to-gitlab) - Easily migrate your Trac instance to Gitlab
