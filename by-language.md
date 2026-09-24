@@ -707,6 +707,7 @@
 - [openjverein/jverein](https://github.com/openjverein/jverein) - Open JVerein - Open Source Vereinsverwaltung
 - [vanilla-music/vanilla](https://github.com/vanilla-music/vanilla) - Vanilla Music Player for Android
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
@@ -1826,7 +1827,7 @@
 - [flightphp/skeleton](https://github.com/flightphp/skeleton) - This is an example repository of how a more complex Flight project might be setup.
 - [kenijo/feedpiper](https://github.com/kenijo/feedpiper) - Convert HTML to Feed | Merge and Filter Feeds
 - [Codeinwp/feedzy-rss-feeds](https://github.com/Codeinwp/feedzy-rss-feeds) - FEEDZY RSS Feeds is an easy-to-use plugin giving you RSS aggregator and autoblogging functionality. Bring the best RSS feeds to your site.
-- [svandragt/lamb](https://github.com/svandragt/lamb) - Literally Another Micro Blog
+- [svandragt/lamb](https://github.com/svandragt/lamb) - Self-hosted PHP microblogging platform with SQLite storage, Micropub, and full-text search
 - [helsingborg-stad/import-rss-feed](https://github.com/helsingborg-stad/import-rss-feed) - Probably the last Wordpress RSS importer. Import items from RSS feed to any post type.
 - [cruisemaniac/wp-amazon-rss](https://github.com/cruisemaniac/wp-amazon-rss) - Wordpress Plugin to parse RSS Feeds from Amazon and convert them to Wordpress Posts.
 - [DevLabStudio/RSS-Rocket](https://github.com/DevLabStudio/RSS-Rocket) - Feed RSS Agreggator Automatic Blog Post to Wordpress
@@ -2722,7 +2723,7 @@
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [thefossguy/nixos-needsreboot](https://github.com/thefossguy/nixos-needsreboot) - Determine if you need to reboot your NixOS machine
-- [Sovereign-Engineering/obscuravpn-client](https://github.com/Sovereign-Engineering/obscuravpn-client) - Obscura VPN Rust library and App (macOS only for now)
+- [Sovereign-Engineering/obscuravpn-client](https://github.com/Sovereign-Engineering/obscuravpn-client) - Obscura VPN Rust library and App (available on all major platforms)
 - [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data.
 - [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
@@ -3138,7 +3139,6 @@
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - Control any computer remotely
 - [origranot/reduced.to](https://github.com/origranot/reduced.to) - Free Modern URL Reducer. Make sure to share love by giving it a star.🌟 Have a great day!
 - [WardPearce/paaster](https://github.com/WardPearce/paaster) - Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confiden
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [CorentinTh/enclosed](https://github.com/CorentinTh/enclosed) - Minimalistic web app designed for sending private and secure notes.
 - [devrsi0n/chirpy](https://github.com/devrsi0n/chirpy) - 💬 A privacy-friendly and customizable Disqus (comment system) alternate. 注重隐私保护和定制化的评论系统。
 - [beabee-communityrm/monorepo](https://github.com/beabee-communityrm/monorepo) - Beabee is a platform for community journalism
