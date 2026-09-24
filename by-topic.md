@@ -8,6 +8,7 @@
 - [agent](#agent)
 - [agent-skills](#agent-skills)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [ajax](#ajax)
 - [algorithm](#algorithm)
@@ -301,6 +302,14 @@
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+
+## ai-agent 
+
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
+- [sysid/bkmr](https://github.com/sysid/bkmr) - Knowledge Management for Humans and Agents
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
+- [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
+- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 
 ## ai-agents 
 
