@@ -379,7 +379,6 @@
 - [lixmal/caddy-netbird](https://github.com/lixmal/caddy-netbird) - Caddy plugin that embeds a NetBird client for proxying HTTP and TCP/UDP traffic through NetBird networks
 - [n0pashkov/netbird-tui](https://github.com/n0pashkov/netbird-tui) - A terminal UI for the local NetBird daemon. It uses the daemon gRPC socket directly and keeps common monitoring and management tasks in one keyboard-driven interface.
 - [sebw/linkding-healthcheck](https://github.com/sebw/linkding-healthcheck) - Linkding URL checker
-- [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost.
 - [libdns/inwx](https://github.com/libdns/inwx) - INWX provider implementation for libdns
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
@@ -894,7 +893,6 @@
 - [muravjov/do-not-disturb](https://github.com/muravjov/do-not-disturb) - Do Not Disturb Time for GNOME Shell. Like in Slack :bell: :no_bell:
 - [ghostery/local-sheriff](https://github.com/ghostery/local-sheriff) - Think of Local sheriff as a recon tool in your browser (WebExtension). While you normally browse the internet, Local Sheriff works in the background to empower you in identifying what data points (PII
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
-- [harvard-lil/perma](https://github.com/harvard-lil/perma) - Websites change. Perma Links don't.
 - [alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 - [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
 - [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A free, open-source Chrome extension - no ads, no tracking. Based on The Great Suspender, cleaned up and actively maintained.
@@ -2575,6 +2573,7 @@
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [mozilla-services/syncserver](https://github.com/mozilla-services/syncserver) - Run-Your-Own Firefox Sync Server
 - [jamesturk/spatula](https://github.com/jamesturk/spatula) - A modern Python library for writing maintainable web scrapers.
+- [harvard-lil/perma](https://github.com/harvard-lil/perma) - Websites change. Perma Links don't.
 - [dakhnod/Fossil-HR-SDK](https://github.com/dakhnod/Fossil-HR-SDK) - 
 - [Elelabs/elelabs-zigbee-ezsp-utility](https://github.com/Elelabs/elelabs-zigbee-ezsp-utility) - Elelabs Zigbee EZSP Utility to perform firmware update on a range of Elelabs EZSP products as well as other generic EZSP adapters.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -3039,6 +3038,7 @@
 
 ## TypeScript 
 
+- [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost.
 - [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
 - [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut) - Your GitHub stats, turned into a World-Cup-style player card
 - [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
