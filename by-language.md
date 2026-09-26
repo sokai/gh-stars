@@ -786,6 +786,7 @@
 
 ## JavaScript 
 
+- [NixOS/nixpkgs-committers](https://github.com/NixOS/nixpkgs-committers) - Tracking of changes to Nixpkgs committers
 - [lightpohl/podcast-dl](https://github.com/lightpohl/podcast-dl) - A humble CLI for downloading and archiving podcasts.
 - [j9t/syntaxp](https://github.com/j9t/syntaxp) - Super-simple code highlighting via the CSS Custom Highlight API
 - [totoshko88/browser-switcher](https://github.com/totoshko88/browser-switcher) - Gnome Browser Switcher is a Gnome Shell extension that provides a quick way to switch your default browser via the system tray. The extension uses standard Gnome Shell APIs to integrate with the panel
@@ -2848,7 +2849,6 @@
 
 ## Shell 
 
-- [NixOS/nixpkgs-committers](https://github.com/NixOS/nixpkgs-committers) - Tracking of changes to Nixpkgs committers
 - [filiparag/hetzner_ddns](https://github.com/filiparag/hetzner_ddns) - Hetzner Dynamic DNS (DDNS, DynDNS) daemon
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [bcyran/jetkvm-wireguard-setup](https://github.com/bcyran/jetkvm-wireguard-setup) - Automated installation script and Docker-based cross-compilation environment for deploying WireGuard VPN on JetKVM devices.
