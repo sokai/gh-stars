@@ -2431,7 +2431,7 @@
 - [DAdjadj/bridge-bank](https://github.com/DAdjadj/bridge-bank) - 
 - [not-a-bank/open-banking-tracker-data](https://github.com/not-a-bank/open-banking-tracker-data) - The open banking API directory
 - [liqd/adhocracy-plus](https://github.com/liqd/adhocracy-plus) - adhocracy+ is a SaaS participation platform that enables organisations to launch digital participation processes through modular interaction designs for collaborative decision-making, consultation, de
-- [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - The Anti-Note for GNOME.
+- [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - Anti-Note for GNOME.
 - [ldwgchen/serchding](https://github.com/ldwgchen/serchding) - Fulltext search for linkding
 - [sharevb/network-utils-ws](https://github.com/sharevb/network-utils-ws) - A modular FastAPI service providing network‑level diagnostic tools
 - [nedrichards/whatcable-linux](https://github.com/nedrichards/whatcable-linux) - GNOME USB-C cable and power diagnostic viewer for Linux
