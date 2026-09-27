@@ -55,6 +55,7 @@
 - [PowerShell](#powershell)
 - [Puppet](#puppet)
 - [Python](#python)
+- [QML](#qml)
 - [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -795,7 +796,7 @@
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [FanaticPythoner/better-todo-tree](https://github.com/FanaticPythoner/better-todo-tree) - An independent, actively maintained fork of Todo Tree for VS Code: the familiar workflow, major new features, active fixes, benchmarked speedups of 696+ folds, modern compatibility.
 - [graphicore/librebarcode](https://github.com/graphicore/librebarcode) - Libre Barcode: barcode fonts for various barcode standards.
-- [Rello/audioplayer](https://github.com/Rello/audioplayer) - Audio Player for Nextcloud and ownCloud
+- [Rello/audioplayer](https://github.com/Rello/audioplayer) - Audio Player for Nextcloud
 - [nextcloud/deck](https://github.com/nextcloud/deck) - 🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello
 - [rstockm/Metroviz](https://github.com/rstockm/Metroviz) - Technologie-Roadmap als Metro-Map visualisieren
 - [TurboDuke77/DWD-Meteogram](https://github.com/TurboDuke77/DWD-Meteogram) - Meteogram Wetter für DWD MOSMIX station
@@ -1547,7 +1548,6 @@
 - [nix-community/nixos-avf](https://github.com/nix-community/nixos-avf) - NixOS for Android Terminal (Android Virtualization Framework) [maintainers=@mkg20001]
 - [mrnossiom/dotfiles](https://github.com/mrnossiom/dotfiles) - Nix files that govern my computer and server software
 - [imincik/containerfile-nix](https://github.com/imincik/containerfile-nix) - Build Dockerfile / Containerfile with Nix
-- [didactiklabs/nixbook](https://github.com/didactiklabs/nixbook) - Laptop NixOS Configuration
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
 - [aciceri/agenix-shell](https://github.com/aciceri/agenix-shell) - 
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
@@ -2666,6 +2666,10 @@
 - [tseliot/hamster-appindicator](https://github.com/tseliot/hamster-appindicator) - An appindicator for Hamster
 - [dinkel/gedit-zoom](https://github.com/dinkel/gedit-zoom) - Gedit plugin that adds the ability to change the font size
 - [anirudhjoshi/lastpass2keepass](https://github.com/anirudhjoshi/lastpass2keepass) - Allows you to convert the LastPass export to a KeePass XML import.
+
+## QML 
+
+- [didactiklabs/nixbook](https://github.com/didactiklabs/nixbook) - Laptop NixOS Configuration
 
 ## Rich Text Format 
 
