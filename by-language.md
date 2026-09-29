@@ -1652,6 +1652,7 @@
 
 ## Others 
 
+- [xwtk/hmg_nemesis](https://github.com/xwtk/hmg_nemesis) - Gain control of your Hyundai Motor Group vehicle, NEMESIS provides a way to execute software as root. Compatible with Gen5W AVNT systems with OTA update support.
 - [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker) - Issue tracker for GrapheneOS Android Open Source Project hardening work. Standalone projects like Auditor, AttestationServer and hardened_malloc have their own dedicated trackers.
 - [hobbypunk90/homeassistant-addons](https://github.com/hobbypunk90/homeassistant-addons) - 
 - [openbracketformat/openbracketformat](https://github.com/openbracketformat/openbracketformat) - Open standard for tournament bracket data
@@ -2718,7 +2719,7 @@
 - [mario/nc-push-proxy](https://github.com/mario/nc-push-proxy) - 
 - [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
-- [abrauchli/usbeehive](https://github.com/abrauchli/usbeehive) - Tells you what each USB cable / device on Linux can actually do. Rust port of WhatCable; previously published as `whatcable`.
+- [abrauchli/usbeehive](https://github.com/abrauchli/usbeehive) - Tells you what each USB device on Linux can actually do.
 - [hbons/Bobby](https://github.com/hbons/Bobby) - View SQLite databases
 - [LordGrimmauld/run0-sudo-shim](https://github.com/LordGrimmauld/run0-sudo-shim) - An imitation of sudo, using run0 internally
 - [totoshko88/RustConn](https://github.com/totoshko88/RustConn) - Modern cross-platform connection manager — SSH, RDP, VNC, SPICE, MOSH, Telnet, Serial, Kubernetes and Zero Trust — with a GTK4/libadwaita interface and embedded Rust clients. Linux, macOS, FreeBSD, Wi
