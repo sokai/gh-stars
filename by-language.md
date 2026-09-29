@@ -556,7 +556,7 @@
 - [buwx/meteogram](https://github.com/buwx/meteogram) - Meteogram for a DWD MOSMIX station
 - [xsf/xmpp.org](https://github.com/xsf/xmpp.org) - xmpp.org website (builds: https://github.com/xsf/xmpp.org/actions)
 - [ghuntley/how-to-ralph-wiggum](https://github.com/ghuntley/how-to-ralph-wiggum) - The Ralph Wiggum Technique—the AI development methodology that reduces software costs to less than a fast food worker's wage.
-- [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - 
+- [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - Self-hosted FastAPI web UI for Gotenberg: convert URLs, HTML files and office documents to PDF, and merge PDFs, from your browser
 - [takahashim/mastodon-access-token](https://github.com/takahashim/mastodon-access-token) - Access Token Generator for Mastodon API
 - [aveao/PebbleArchive](https://github.com/aveao/PebbleArchive) - Archives of various Pebble related files (as Pebble Technology Corp went bankrupt)
 - [wg-lux/luxnix](https://github.com/wg-lux/luxnix) - 
