@@ -1282,7 +1282,7 @@
 - [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [aceeric/ociregistry](https://github.com/aceeric/ociregistry) - Golang pull-only, pull-through, caching OCI distribution server
-- [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - 
+- [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - Self-hosted FastAPI web UI for Gotenberg: convert URLs, HTML files and office documents to PDF, and merge PDFs, from your browser
 - [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust
@@ -1500,7 +1500,7 @@
 
 ## fastapi 
 
-- [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - 
+- [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - Self-hosted FastAPI web UI for Gotenberg: convert URLs, HTML files and office documents to PDF, and merge PDFs, from your browser
 - [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 
 ## finance 
@@ -2109,7 +2109,7 @@
 - [j9t/syntaxp](https://github.com/j9t/syntaxp) - Super-simple code highlighting via the CSS Custom Highlight API
 - [voku/HtmlMin](https://github.com/voku/HtmlMin) - :clamp: HtmlMin: HTML Compressor and Minifier via PHP
 - [helgeklein/WordPress-Hugo-Migration-Scripts-HTML-Markdown](https://github.com/helgeklein/WordPress-Hugo-Migration-Scripts-HTML-Markdown) - WordPress to Hugo migration scripts, conversion from HTML to Markdown, comments
-- [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - 
+- [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - Self-hosted FastAPI web UI for Gotenberg: convert URLs, HTML files and office documents to PDF, and merge PDFs, from your browser
 - [gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php) - 🐘 A PHP client for interacting with Gotenberg.
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 - [origranot/reduced.to](https://github.com/origranot/reduced.to) - Free Modern URL Reducer. Make sure to share love by giving it a star.🌟 Have a great day!
@@ -5208,7 +5208,7 @@
 - [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - Anti-Note for GNOME.
 - [nedrichards/whatcable-linux](https://github.com/nedrichards/whatcable-linux) - GNOME USB-C cable and power diagnostic viewer for Linux
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
-- [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - 
+- [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - Self-hosted FastAPI web UI for Gotenberg: convert URLs, HTML files and office documents to PDF, and merge PDFs, from your browser
 - [quodlibet/quodlibet](https://github.com/quodlibet/quodlibet) - Music player and music library manager for Linux, Windows, and macOS
 - [kevinapps/githubstar](https://github.com/kevinapps/githubstar) - Export GitHub starred repositories, lists and topics to HTML, JSON, Markdown, or bookmark, grouped by language or topic, ordered by time, stargazer count etc.
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
@@ -5620,6 +5620,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - Self-hosted FastAPI web UI for Gotenberg: convert URLs, HTML files and office documents to PDF, and merge PDFs, from your browser
 - [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
 - [svandragt/lamb](https://github.com/svandragt/lamb) - Self-hosted PHP microblogging platform with SQLite storage, Micropub, and full-text search
