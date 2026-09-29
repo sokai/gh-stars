@@ -557,7 +557,7 @@
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 - [g0rbe/caddy-crawler](https://github.com/g0rbe/caddy-crawler) - Request Matcher module for Caddy to detect crawlers. Mirror of https://git.gorbe.io/caddy/crawler
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA/2FA with App Authenticators and Yubico. 💎 Authorization with JWT/PASETO tokens. 🔐
-- [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - 
+- [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - Self-hosted FastAPI web UI for Gotenberg: convert URLs, HTML files and office documents to PDF, and merge PDFs, from your browser
 - [typemill/typemill](https://github.com/typemill/typemill) - Typemill is a flat-file CMS based on Markdown and designed for informational websites like documentation, manuals, and handbooks.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [prezet/prezet](https://github.com/prezet/prezet) - 🚀 Markdown Blogging for Laravel!
@@ -1152,7 +1152,7 @@
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 - [g0rbe/caddy-crawler](https://github.com/g0rbe/caddy-crawler) - Request Matcher module for Caddy to detect crawlers. Mirror of https://git.gorbe.io/caddy/crawler
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA/2FA with App Authenticators and Yubico. 💎 Authorization with JWT/PASETO tokens. 🔐
-- [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - 
+- [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - Self-hosted FastAPI web UI for Gotenberg: convert URLs, HTML files and office documents to PDF, and merge PDFs, from your browser
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [8bitsaver/maxmind-geoip](https://github.com/8bitsaver/maxmind-geoip) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
@@ -2597,7 +2597,7 @@
 - [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
-- [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - 
+- [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - Self-hosted FastAPI web UI for Gotenberg: convert URLs, HTML files and office documents to PDF, and merge PDFs, from your browser
 - [typemill/typemill](https://github.com/typemill/typemill) - Typemill is a flat-file CMS based on Markdown and designed for informational websites like documentation, manuals, and handbooks.
 - [jgivoni/flysystem-cache-adapter](https://github.com/jgivoni/flysystem-cache-adapter) - The PSR-6 compliant adapter decorator for Flysystem v3 that caches file metadata to improve performance.
 - [prezet/prezet](https://github.com/prezet/prezet) - 🚀 Markdown Blogging for Laravel!
