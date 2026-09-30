@@ -745,6 +745,43 @@
 - [thunderbird/stormbox](https://github.com/thunderbird/stormbox) - A JMAP webmail.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [Vito0912/forkmost](https://github.com/Vito0912/forkmost) - Forkmost is a fork of Docmost which is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME
+- [Moham3dRiahi/Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - Th3Inspector 🕵️ Best Tool For Information Gathering 🔎
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
+- [morgan3d/markdeep](https://github.com/morgan3d/markdeep) - Official public Markdeep source archive
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
+- [marp-team/marp-core](https://github.com/marp-team/marp-core) - The core of Marp converter
+- [compdemocracy/polis](https://github.com/compdemocracy/polis) - :milky_way: Open Source AI for large scale open ended feedback
+- [r-pufky/docs](https://github.com/r-pufky/docs) - Generic service & computer documentation.
+- [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
+- [scidonia/bookwyrm-client](https://github.com/scidonia/bookwyrm-client) - The bookwyrm client library
+- [typemill/typemill](https://github.com/typemill/typemill) - Typemill is a flat-file CMS based on Markdown and designed for informational websites like documentation, manuals, and handbooks.
+- [NatLibFi/Skosmos](https://github.com/NatLibFi/Skosmos) - Thesaurus and controlled vocabulary browser using SKOS and SPARQL
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
+- [linkwarden/builds](https://github.com/linkwarden/builds) - Official release builds for Linkwarden.
+- [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up your personal site on your own server with just a few clicks.
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
+- [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
+- [LinkStackOrg/linkstack-docker](https://github.com/LinkStackOrg/linkstack-docker) - A simple to set up docker variant of LinkStack. LinkStack is a highly customizable link sharing platform with an intuitive, easy to use user interface.
+- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [GeopJr/Tuba](https://github.com/GeopJr/Tuba) - Browse the Fediverse
+- [nextcloud/Digital-Sovereignty-Index](https://github.com/nextcloud/Digital-Sovereignty-Index) - Digital Sovereignty Index (DSI) aims to provide a comparative snapshot of visible, self-hosted infrastructure across borders.
+- [TurboDuke77/DWD-Meteogram](https://github.com/TurboDuke77/DWD-Meteogram) - Meteogram Wetter für DWD MOSMIX station
+- [buwx/meteogram](https://github.com/buwx/meteogram) - Meteogram for a DWD MOSMIX station
+- [Nriver/pocket-trilium](https://github.com/Nriver/pocket-trilium) - Trilium in my pocket :) Android app for Trilium. Trilium安卓客户端
+- [nicolas-goudry/marp-deck-directory](https://github.com/nicolas-goudry/marp-deck-directory) - Zero-config, fully reproducible presentation environment using Marp and Nix
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
+- [dimtion/Shaarlier](https://github.com/dimtion/Shaarlier) - Simple Android app for sharing links on Shaarli.
+- [Rello/audioplayer](https://github.com/Rello/audioplayer) - Audio Player for Nextcloud
+- [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+- [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
+- [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
+- [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
+- [sebw/linkding-healthcheck](https://github.com/sebw/linkding-healthcheck) - Linkding URL checker
+- [ldwgchen/serchding](https://github.com/ldwgchen/serchding) - Fulltext search for linkding
+- [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
 
 <a name="linux"></a>
 
