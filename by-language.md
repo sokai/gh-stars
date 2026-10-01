@@ -1795,6 +1795,7 @@
 
 ## PHP 
 
+- [rotdrop/nextcloud-app-files-archive](https://github.com/rotdrop/nextcloud-app-files-archive) - Archive inspection and extraction as Nextcloud app.
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [nc-music/music](https://github.com/nc-music/music) - :notes: Music app for Nextcloud
 - [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
