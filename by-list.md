@@ -1241,6 +1241,7 @@
 - [n0pashkov/netbird-tui](https://github.com/n0pashkov/netbird-tui) - A terminal UI for the local NetBird daemon. It uses the daemon gRPC socket directly and keeps common monitoring and management tasks in one keyboard-driven interface.
 - [lixmal/caddy-netbird](https://github.com/lixmal/caddy-netbird) - Caddy plugin that embeds a NetBird client for proxying HTTP and TCP/UDP traffic through NetBird networks
 - [StarryReverie/selector4nix](https://github.com/StarryReverie/selector4nix) - Nix substituter proxy with parallel cache queries and latency-aware selection
+- [rotdrop/nextcloud-app-files-archive](https://github.com/rotdrop/nextcloud-app-files-archive) - Archive inspection and extraction as Nextcloud app.
 
 <a name="nix_blueprint"></a>
 
@@ -1879,6 +1880,7 @@
 - [DAdjadj/bridge-bank](https://github.com/DAdjadj/bridge-bank) - 
 - [protectli-root/protectli-firmware-updater](https://github.com/protectli-root/protectli-firmware-updater) - Script used to update firmware on Protectli devices
 - [AKlitbo/pebble-watchface-lcars](https://github.com/AKlitbo/pebble-watchface-lcars) - An LCARS-inspired Pebble watchface with a stardate, weather, health readouts and themes.
+- [rotdrop/nextcloud-app-files-archive](https://github.com/rotdrop/nextcloud-app-files-archive) - Archive inspection and extraction as Nextcloud app.
 
 <a name="security"></a>
 
@@ -2468,6 +2470,7 @@
 - [protectli-root/protectli-firmware-updater](https://github.com/protectli-root/protectli-firmware-updater) - Script used to update firmware on Protectli devices
 - [n0pashkov/netbird-tui](https://github.com/n0pashkov/netbird-tui) - A terminal UI for the local NetBird daemon. It uses the daemon gRPC socket directly and keeps common monitoring and management tasks in one keyboard-driven interface.
 - [StarryReverie/selector4nix](https://github.com/StarryReverie/selector4nix) - Nix substituter proxy with parallel cache queries and latency-aware selection
+- [rotdrop/nextcloud-app-files-archive](https://github.com/rotdrop/nextcloud-app-files-archive) - Archive inspection and extraction as Nextcloud app.
 
 <a name="webdev"></a>
 
