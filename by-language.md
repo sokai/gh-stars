@@ -107,7 +107,7 @@
 
 ## C 
 
-- [AKlitbo/pebble-watchface-lcars](https://github.com/AKlitbo/pebble-watchface-lcars) - An LCARS-inspired Pebble watchface with a stardate, weather, health readouts and themes.
+- [AKlitbo/pebble-watchface-lcars](https://github.com/AKlitbo/pebble-watchface-lcars) - An LCARS-inspired watchface for the Pebble Time 2, built on the Pebble App Framework with paf. Nine themes and four panels you fill with weather, health, sun, moon, and time readouts.
 - [freakified/TimeStylePebble](https://github.com/freakified/TimeStylePebble) - A stylish, customizable face for the Pebble Time.
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [sudo-project/sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user
