@@ -998,6 +998,7 @@
 
 ## css 
 
+- [marcop135/bullframe.css](https://github.com/marcop135/bullframe.css) - A semantic, lightweight CSS (PostCSS) framework for fast, accessible UIs. Class-based or classless, light or dark, agent-skills ready. Seven builds. Any stack.
 - [moji2002/fertig](https://github.com/moji2002/fertig) - A classless CSS stylesheet with no legacy: link one file, write ordinary HTML, done. No build step, no dependencies.
 - [j9t/syntaxp](https://github.com/j9t/syntaxp) - Super-simple code highlighting via the CSS Custom Highlight API
 - [j9t/css-dedup](https://github.com/j9t/css-dedup) - CSS declaration deduplicator for maintainability and performance optimization
@@ -5208,6 +5209,7 @@
 
 ## python 
 
+- [ulif/diceware](https://github.com/ulif/diceware) - Passphrases to remember
 - [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - Anti-Note for GNOME.
 - [nedrichards/whatcable-linux](https://github.com/nedrichards/whatcable-linux) - GNOME USB-C cable and power diagnostic viewer for Linux
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
