@@ -1242,6 +1242,7 @@
 - [lixmal/caddy-netbird](https://github.com/lixmal/caddy-netbird) - Caddy plugin that embeds a NetBird client for proxying HTTP and TCP/UDP traffic through NetBird networks
 - [StarryReverie/selector4nix](https://github.com/StarryReverie/selector4nix) - Nix substituter proxy with parallel cache queries and latency-aware selection
 - [rotdrop/nextcloud-app-files-archive](https://github.com/rotdrop/nextcloud-app-files-archive) - Archive inspection and extraction as Nextcloud app.
+- [ulif/diceware](https://github.com/ulif/diceware) - Passphrases to remember
 
 <a name="nix_blueprint"></a>
 
@@ -1669,6 +1670,7 @@
 - [jpoliv/wakeonlan](https://github.com/jpoliv/wakeonlan) - Perl script for waking up computers via Wake-On-LAN magic packets
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
+- [ulif/diceware](https://github.com/ulif/diceware) - Passphrases to remember
 
 <a name="personal"></a>
 
@@ -1935,6 +1937,7 @@
 - [fosrl/android](https://github.com/fosrl/android) - Pangolin client for Android devices
 - [lixmal/caddy-netbird](https://github.com/lixmal/caddy-netbird) - Caddy plugin that embeds a NetBird client for proxying HTTP and TCP/UDP traffic through NetBird networks
 - [n0pashkov/netbird-tui](https://github.com/n0pashkov/netbird-tui) - A terminal UI for the local NetBird daemon. It uses the daemon gRPC socket directly and keeps common monitoring and management tasks in one keyboard-driven interface.
+- [ulif/diceware](https://github.com/ulif/diceware) - Passphrases to remember
 
 <a name="smarthome"></a>
 
