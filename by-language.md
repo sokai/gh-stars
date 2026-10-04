@@ -551,6 +551,7 @@
 
 ## HTML 
 
+- [marcop135/bullframe.css](https://github.com/marcop135/bullframe.css) - A semantic, lightweight CSS (PostCSS) framework for fast, accessible UIs. Class-based or classless, light or dark, agent-skills ready. Seven builds. Any stack.
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [buwx/meteogram](https://github.com/buwx/meteogram) - Meteogram for a DWD MOSMIX station
 - [xsf/xmpp.org](https://github.com/xsf/xmpp.org) - xmpp.org website (builds: https://github.com/xsf/xmpp.org/actions)
@@ -1746,7 +1747,6 @@
 - [matomo-org/referrer-spam-list](https://github.com/matomo-org/referrer-spam-list) - Community-contributed list of referrer spammers. Comment +1 in any issue or Pull request and the spammer will be added to the list!
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
 - [solid-contrib/solid-platform](https://github.com/solid-contrib/solid-platform) - List of servers and tools
-- [rubo77/rsync-homedir-excludes](https://github.com/rubo77/rsync-homedir-excludes) - 
 - [propublica/weepeople](https://github.com/propublica/weepeople) - A typeface of people sillhouettes, to make it easy to build web graphics featuring little people instead of dots.
 - [jsxc/jsxc-plugin-omemo](https://github.com/jsxc/jsxc-plugin-omemo) - OMEMO plugin for JSXC version 4 or above.
 - [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
@@ -2428,6 +2428,7 @@
 
 ## Python 
 
+- [ulif/diceware](https://github.com/ulif/diceware) - Passphrases to remember
 - [xz-dev/numlockw](https://github.com/xz-dev/numlockw) - Control the state of NumLock
 - [protectli-root/protectli-firmware-updater](https://github.com/protectli-root/protectli-firmware-updater) - Script used to update firmware on Protectli devices
 - [DAdjadj/bridge-bank](https://github.com/DAdjadj/bridge-bank) - 
@@ -2959,6 +2960,7 @@
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [sixhop/AutoMySQLBackup](https://github.com/sixhop/AutoMySQLBackup) - A fork and further development of AutoMySQLBackup from sourceforge. http://sourceforge.net/projects/automysqlbackup/
 - [sbandur84/Free-OpenVPN-Connect-SCRIPT-for-Linux](https://github.com/sbandur84/Free-OpenVPN-Connect-SCRIPT-for-Linux) - Easy connect to free VPN services with OpenVPN client
+- [rubo77/rsync-homedir-excludes](https://github.com/rubo77/rsync-homedir-excludes) - 
 - [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Reptar, Downfall, Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD
 - [openhab/openhabian](https://github.com/openhab/openhabian) - openHABian - empowering the smart home, for Raspberry Pi and Debian systems
 - [husisusi/officeonlin-install.sh](https://github.com/husisusi/officeonlin-install.sh) - Script to install Office Online on Ubuntu 22.04 & Debian 11
