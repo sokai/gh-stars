@@ -1317,7 +1317,6 @@
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [WireGuard/wireguard-android](https://github.com/WireGuard/wireguard-android) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-android
 - [owntracks/android](https://github.com/owntracks/android) - OwnTracks Android App
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [openhab/openhab-android](https://github.com/openhab/openhab-android) - openHAB client for Android
 - [pacien/tincapp](https://github.com/pacien/tincapp) - Android binding and user interface for the tinc mesh VPN daemon.
 - [openHPI/xikolo-android](https://github.com/openHPI/xikolo-android) - 📱 Android App of the HPI MOOC Platform
@@ -1749,6 +1748,7 @@
 - [matomo-org/referrer-spam-list](https://github.com/matomo-org/referrer-spam-list) - Community-contributed list of referrer spammers. Comment +1 in any issue or Pull request and the spammer will be added to the list!
 - [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
 - [solid-contrib/solid-platform](https://github.com/solid-contrib/solid-platform) - List of servers and tools
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [propublica/weepeople](https://github.com/propublica/weepeople) - A typeface of people sillhouettes, to make it easy to build web graphics featuring little people instead of dots.
 - [jsxc/jsxc-plugin-omemo](https://github.com/jsxc/jsxc-plugin-omemo) - OMEMO plugin for JSXC version 4 or above.
 - [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
