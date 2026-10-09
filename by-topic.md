@@ -2065,7 +2065,7 @@
 - [antonioribeiro/google2fa](https://github.com/antonioribeiro/google2fa) - A One Time Password Authentication package, compatible with Google Authenticator.
 - [jelhan/croodle](https://github.com/jelhan/croodle) - Croodle is a web application to schedule a date or to do a poll on a general topics.
 - [IonicaBizau/medium-editor-markdown](https://github.com/IonicaBizau/medium-editor-markdown) - :pencil: A Medium Editor extension to add markdown support.
-- [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
+- [phpdotenv/phpdotenv](https://github.com/phpdotenv/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [parallax/jsPDF](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
@@ -3672,7 +3672,7 @@
 - [GAS85/nextcloud_scripts](https://github.com/GAS85/nextcloud_scripts) - This a collection of scripts that makes my nextcloud administrator life easy by automation and better reporting. And I would like to share it with U.
 - [SorkinType/Merriweather](https://github.com/SorkinType/Merriweather) - Merriweather is a serif typeface. It is offered in Variable font format and static formats ( OTF, TTF WOFF etc).
 - [JulienMalka/artiflakery](https://github.com/JulienMalka/artiflakery) - A webserver for on the fly delivery of Nix flake artifacts
-- [Lassulus/vars](https://github.com/Lassulus/vars) - 
+- [lassulus/vars](https://github.com/lassulus/vars) - 
 - [verdigado/organization_folders](https://github.com/verdigado/organization_folders) - The Organization Folders Nextcloud app is a new way to manage Team Folders (formerly known as group folders) and the permissions within them.
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
 - [snowfallorg/flake](https://github.com/snowfallorg/flake) - Simplify Nix Flakes on the command line.
@@ -5050,7 +5050,7 @@
 - [phacility/phabricator](https://github.com/phacility/phabricator) - Effective June 1, 2021: Phabricator is no longer actively maintained.
 - [fxpio/composer-asset-plugin](https://github.com/fxpio/composer-asset-plugin) - NPM/Bower Dependency Manager for Composer
 - [Luracast/Restler](https://github.com/Luracast/Restler) - Zero-boilerplate REST API framework for PHP 8+. Auto-generates routes, docs, validation.
-- [vlucas/phpdotenv](https://github.com/vlucas/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
+- [phpdotenv/phpdotenv](https://github.com/phpdotenv/phpdotenv) - Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
 - [owncloud/notes](https://github.com/owncloud/notes) - :notebook_with_decorative_cover: Notes app for ownCloud
