@@ -2587,7 +2587,6 @@
 - [kdl-org/kdl](https://github.com/kdl-org/kdl) - the kdl document language specifications
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android on screen keyboard for multiple languages and NO internet access
 - [knadh/dictpress](https://github.com/knadh/dictpress) - A stand-alone web server application for building and publishing full fledged dictionary websites and APIs for any language.
-- [flarum-lang/german](https://github.com/flarum-lang/german) - :de: German language pack for Flarum.
 - [cocur/slugify](https://github.com/cocur/slugify) - Converts a string to a slug. Includes integrations for Symfony, Silex, Laravel, Zend Framework 2, Twig, Nette and Latte.
 
 ## languages 
@@ -2859,7 +2858,7 @@
 
 ## markdown 
 
-- [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - Anti-Note for GNOME.
+- [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - Spatial canvas for capturing fleeting thoughts
 - [helgeklein/WordPress-Hugo-Migration-Scripts-HTML-Markdown](https://github.com/helgeklein/WordPress-Hugo-Migration-Scripts-HTML-Markdown) - WordPress to Hugo migration scripts, conversion from HTML to Markdown, comments
 - [prezet/prezet](https://github.com/prezet/prezet) - 🚀 Markdown Blogging for Laravel!
 - [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
@@ -4370,6 +4369,7 @@
 - [outdatedbrowser/outdated-browser](https://github.com/outdatedbrowser/outdated-browser) - A simple tool to identify and upgrade old browsers.
 - [Avatar4eg/flarum-ext-transliterator](https://github.com/Avatar4eg/flarum-ext-transliterator) - Flarum extension. Transliterator for urls.
 - [notofonts/noto-fonts](https://github.com/notofonts/noto-fonts) - Noto fonts, except for CJK and emoji
+- [flarum-lang/german](https://github.com/flarum-lang/german) - German Language Pack for Flarum
 - [matomo-org/searchengine-and-social-list](https://github.com/matomo-org/searchengine-and-social-list) - List of Search engines URLs, keywords and Social network URLs definitions used by Matomo Analytics
 - [moimael/trac-to-gitlab](https://github.com/moimael/trac-to-gitlab) - Easily migrate your Trac instance to Gitlab
 - [neuhalje/hack-copy-track-issues-to-gitlab](https://github.com/neuhalje/hack-copy-track-issues-to-gitlab) - Script to copy issues from trac to gitlab.
@@ -5165,7 +5165,7 @@
 
 ## productivity 
 
-- [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - Anti-Note for GNOME.
+- [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - Spatial canvas for capturing fleeting thoughts
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
@@ -5219,7 +5219,6 @@
 ## python 
 
 - [ulif/diceware](https://github.com/ulif/diceware) - Passphrases to remember
-- [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - Anti-Note for GNOME.
 - [nedrichards/whatcable-linux](https://github.com/nedrichards/whatcable-linux) - GNOME USB-C cable and power diagnostic viewer for Linux
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - Self-hosted FastAPI web UI for Gotenberg: convert URLs, HTML files and office documents to PDF, and merge PDFs, from your browser
