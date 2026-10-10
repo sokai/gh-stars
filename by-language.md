@@ -1450,7 +1450,6 @@
 - [crocuda/crocuda.nixos](https://github.com/crocuda/crocuda.nixos) - Nixos configuration modules for servers (and paranoids and hypocondriacs)
 - [crocuda/normal.nixos](https://github.com/crocuda/normal.nixos) - Nixos configuration modules for desktop (Still for paranoids and hypochondriacs)
 - [bivsk/nix-iv](https://github.com/bivsk/nix-iv) - Personal NixOS configurations
-- [shimeoki/nixconfig](https://github.com/shimeoki/nixconfig) - My NixOS configuration as a flake.
 - [sini/nix-config](https://github.com/sini/nix-config) - NixOS Configuration
 - [dvicory/homelab](https://github.com/dvicory/homelab) - 
 - [Lord-Valen/configuration.nix](https://github.com/Lord-Valen/configuration.nix) - Lordly NixOS Configurations
@@ -1971,6 +1970,7 @@
 - [SleekDB/SleekDB](https://github.com/SleekDB/SleekDB) - Pure PHP NoSQL database with no dependency. Flat file, JSON based document database.
 - [bobthecow/mustache.php](https://github.com/bobthecow/mustache.php) - A Mustache implementation in PHP.
 - [Forceu/barcodebuddy](https://github.com/Forceu/barcodebuddy) - Barcode system for Grocy
+- [marcantondahmen/automad](https://github.com/marcantondahmen/automad) - A flat-file content management system and template engine
 - [AndrewPaglusch/FlashPaper](https://github.com/AndrewPaglusch/FlashPaper) - One-time encrypted password/secret sharing
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [mpphp/mpphp](https://github.com/mpphp/mpphp) - Micro Procedural PHP Framework
@@ -3189,7 +3189,6 @@
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [erictreacy/Mimic.css](https://github.com/erictreacy/Mimic.css) - A CSS Animation Library Because Everyone else was doing it at the time!
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
-- [marcantondahmen/automad](https://github.com/marcantondahmen/automad) - A flat-file content management system and template engine
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [askides/aurora](https://github.com/askides/aurora) - Zero cookies, anonymous open source web analytics.
 - [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) - 
