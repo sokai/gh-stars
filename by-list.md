@@ -664,7 +664,7 @@
 - [8bitsaver/maxmind-geoip](https://github.com/8bitsaver/maxmind-geoip) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 - [Dreamacro/maxmind-geoip](https://github.com/Dreamacro/maxmind-geoip) - 
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [LordGrimmauld/run0-sudo-shim](https://github.com/LordGrimmauld/run0-sudo-shim) - An imitation of sudo, using run0 internally
+- [GrimmTheShrimp/run0-sudo-shim](https://github.com/GrimmTheShrimp/run0-sudo-shim) - An imitation of sudo, using run0 internally
 - [timothebot/lacy](https://github.com/timothebot/lacy) - Fast magical cd alternative for lacy terminal navigators
 - [filiparag/hetzner_ddns](https://github.com/filiparag/hetzner_ddns) - Hetzner Dynamic DNS (DDNS, DynDNS) daemon
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -943,7 +943,7 @@
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [Dreamacro/maxmind-geoip](https://github.com/Dreamacro/maxmind-geoip) - 
-- [LordGrimmauld/run0-sudo-shim](https://github.com/LordGrimmauld/run0-sudo-shim) - An imitation of sudo, using run0 internally
+- [GrimmTheShrimp/run0-sudo-shim](https://github.com/GrimmTheShrimp/run0-sudo-shim) - An imitation of sudo, using run0 internally
 - [timothebot/lacy](https://github.com/timothebot/lacy) - Fast magical cd alternative for lacy terminal navigators
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
@@ -1211,7 +1211,7 @@
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [Dreamacro/maxmind-geoip](https://github.com/Dreamacro/maxmind-geoip) - 
 - [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software
-- [LordGrimmauld/run0-sudo-shim](https://github.com/LordGrimmauld/run0-sudo-shim) - An imitation of sudo, using run0 internally
+- [GrimmTheShrimp/run0-sudo-shim](https://github.com/GrimmTheShrimp/run0-sudo-shim) - An imitation of sudo, using run0 internally
 - [timothebot/lacy](https://github.com/timothebot/lacy) - Fast magical cd alternative for lacy terminal navigators
 - [filiparag/hetzner_ddns](https://github.com/filiparag/hetzner_ddns) - Hetzner Dynamic DNS (DDNS, DynDNS) daemon
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -1927,7 +1927,7 @@
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security) - 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA/2FA with App Authenticators and Yubico. 💎 Authorization with JWT/PASETO tokens. 🔐
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
-- [LordGrimmauld/run0-sudo-shim](https://github.com/LordGrimmauld/run0-sudo-shim) - An imitation of sudo, using run0 internally
+- [GrimmTheShrimp/run0-sudo-shim](https://github.com/GrimmTheShrimp/run0-sudo-shim) - An imitation of sudo, using run0 internally
 - [wgtunnel/android](https://github.com/wgtunnel/android) - An advanced, open-source client for WireGuard and AmneziaWG on Android.
 - [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -2403,7 +2403,7 @@
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [LordGrimmauld/run0-sudo-shim](https://github.com/LordGrimmauld/run0-sudo-shim) - An imitation of sudo, using run0 internally
+- [GrimmTheShrimp/run0-sudo-shim](https://github.com/GrimmTheShrimp/run0-sudo-shim) - An imitation of sudo, using run0 internally
 - [timothebot/lacy](https://github.com/timothebot/lacy) - Fast magical cd alternative for lacy terminal navigators
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
