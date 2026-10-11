@@ -3310,7 +3310,7 @@
 - [joe7ean/calendarbridge](https://github.com/joe7ean/calendarbridge) - Calendar Bridge lets administrators subscribe to external iCal/WebCal feeds and automatically share them as read-only relay calendars with Nextcloud groups.
 - [Rello/audioplayer](https://github.com/Rello/audioplayer) - Audio Player for Nextcloud
 - [tomasharkema/nix-config](https://github.com/tomasharkema/nix-config) - 
-- [LordGrimmauld/run0-sudo-shim](https://github.com/LordGrimmauld/run0-sudo-shim) - An imitation of sudo, using run0 internally
+- [GrimmTheShrimp/run0-sudo-shim](https://github.com/GrimmTheShrimp/run0-sudo-shim) - An imitation of sudo, using run0 internally
 - [Dyrkon/nix-configs](https://github.com/Dyrkon/nix-configs) - Nix configs for my machines.
 - [TwiN/gatus-cli](https://github.com/TwiN/gatus-cli) - Client for Gatus
 - [sozialhelden/wheelmap-frontend](https://github.com/sozialhelden/wheelmap-frontend) - Source code of the wheelmap.org React.js frontend application
