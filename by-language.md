@@ -812,6 +812,7 @@
 - [Sanjai-Shaarugesh/Advanced-Weather-Companion](https://github.com/Sanjai-Shaarugesh/Advanced-Weather-Companion) - Advanced Weather is a feature-rich GNOME Shell extension that provides detailed and customizable weather information right on your desktop. With support for multiple locations, advanced forecasting, a
 - [KonradIT/HEROPebble](https://github.com/KonradIT/HEROPebble) - Unofficial GoPro App for Pebble smartwatches
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
+- [vic/vix](https://github.com/vic/vix) - Vic's *Nix config (dotfiles for many unixes)
 - [stankiewiczmichal/RedirectTube](https://github.com/stankiewiczmichal/RedirectTube) - Open YouTube links in privacy-friendly players
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [mijorus/smile-gnome-extension](https://github.com/mijorus/smile-gnome-extension) - 
@@ -1439,7 +1440,6 @@
 - [imlonghao/flakes](https://github.com/imlonghao/flakes) - 
 - [Occhima/nix-conf](https://github.com/Occhima/nix-conf) - 
 - [reo101/rix101](https://github.com/reo101/rix101) - My NixOS, nix-on-droid and nix-darwin configs.
-- [vic/vix](https://github.com/vic/vix) - Vic's *Nix config (dotfiles for many unixes)
 - [stepbrobd/autopilot](https://github.com/stepbrobd/autopilot) - flake parts with autoloading
 - [e-tho/ucodenix](https://github.com/e-tho/ucodenix) - Microcode updates for AMD CPUs on NixOS
 - [brittonr/clan-user-proposal](https://github.com/brittonr/clan-user-proposal) - 
