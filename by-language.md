@@ -554,6 +554,7 @@
 
 ## HTML 
 
+- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format) - 
 - [marcop135/bullframe.css](https://github.com/marcop135/bullframe.css) - A semantic, lightweight CSS (PostCSS) framework for fast, accessible UIs. Class-based or classless, light or dark, agent-skills ready. Seven builds. Any stack.
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [buwx/meteogram](https://github.com/buwx/meteogram) - Meteogram for a DWD MOSMIX station
@@ -2221,7 +2222,7 @@
 - [mistic100/RandomColor.php](https://github.com/mistic100/RandomColor.php) - A color generator for PHP
 - [mevdschee/php-crud-api](https://github.com/mevdschee/php-crud-api) - Single file PHP script that adds a REST API to a SQL database
 - [getkirby-v2/kirby](https://github.com/getkirby-v2/kirby) - This is the deprecated core system folder for Kirby v2.
-- [mnsami/composer-custom-directory-installer](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install differenty types of composer packages in custom directories outside the default composer default installation path which is in the vendor folder.
+- [mnsami/composer-custom-directory-installer](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path which is in the vendor folder.
 - [claytondaley/yourls-api-delete](https://github.com/claytondaley/yourls-api-delete) - Plugin for YOURLS adding a "delete" action to the API
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [phpmetrics/PhpMetrics](https://github.com/phpmetrics/PhpMetrics) - Beautiful and understandable static analysis tool for PHP
