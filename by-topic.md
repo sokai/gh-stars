@@ -3260,6 +3260,7 @@
 
 ## others 
 
+- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format) - 
 - [kevquirk/pureblog](https://github.com/kevquirk/pureblog) - A simple PHP-based blogging platform, designed for personal use.
 - [rotdrop/nextcloud-app-files-archive](https://github.com/rotdrop/nextcloud-app-files-archive) - Archive inspection and extraction as Nextcloud app.
 - [xwtk/hmg_nemesis](https://github.com/xwtk/hmg_nemesis) - Gain control of your Hyundai Motor Group vehicle, NEMESIS provides a way to execute software as root. Compatible with Gen5W AVNT systems with OTA update support.
@@ -4408,7 +4409,7 @@
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 - [mistic100/RandomColor.php](https://github.com/mistic100/RandomColor.php) - A color generator for PHP
 - [getkirby-v2/kirby](https://github.com/getkirby-v2/kirby) - This is the deprecated core system folder for Kirby v2.
-- [mnsami/composer-custom-directory-installer](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install differenty types of composer packages in custom directories outside the default composer default installation path which is in the vendor folder.
+- [mnsami/composer-custom-directory-installer](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path which is in the vendor folder.
 - [douglascrockford/JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript
 - [claytondaley/yourls-api-delete](https://github.com/claytondaley/yourls-api-delete) - Plugin for YOURLS adding a "delete" action to the API
 - [dollarshaveclub/reframe.js](https://github.com/dollarshaveclub/reframe.js) - 🖼  Reframe unresponsive elements responsively.
@@ -5973,7 +5974,6 @@
 
 ## twitter 
 
-- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegr
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
