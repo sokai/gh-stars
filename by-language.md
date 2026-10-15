@@ -924,7 +924,6 @@
 - [creecros/simple_logo_gen](https://github.com/creecros/simple_logo_gen) - A simple logo generator using fontawesome.
 - [nextcloud/polls](https://github.com/nextcloud/polls) - 🗳️ Polls app for Nextcloud
 - [mgalgs/gnome-shell-system-monitor-next-applet](https://github.com/mgalgs/gnome-shell-system-monitor-next-applet) - Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
-- [WordPress/gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
 - [adamroach/tb-archive-this](https://github.com/adamroach/tb-archive-this) - Source code for the "Archive This" add on.
 - [methodofaction/Method-Draw](https://github.com/methodofaction/Method-Draw) - Method Draw, the SVG Editor for Method of Action
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
@@ -3108,6 +3107,7 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [navariltd/utility-billing](https://github.com/navariltd/utility-billing) - The Utility Billing & Property Management App is a powerful addition to ERPNext, designed to streamline utility billing, property leasing, and tenant management. Ideal for municipal utilities, real es
@@ -3199,6 +3199,7 @@
 - [inventaire/inventaire](https://github.com/inventaire/inventaire) - a libre collaborative book mapper, powered by open-knowledge :books:
 - [the-markup/blacklight-collector](https://github.com/the-markup/blacklight-collector) - 
 - [manzinello/mailgo](https://github.com/manzinello/mailgo) - 💌 mailgo, a new concept of mailto and tel links [deprecated]
+- [WordPress/gutenberg](https://github.com/WordPress/gutenberg) - The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
 - [fastmail/Squire](https://github.com/fastmail/Squire) - The rich text editor for arbitrary HTML.
 - [tibdex/autorebase](https://github.com/tibdex/autorebase) - 🐼 GitHub App to make the Rebase Workflow enjoyable and keep master always green
 - [mozilla/fxa](https://github.com/mozilla/fxa) - Monorepo for Mozilla Accounts (formerly Firefox Accounts)
@@ -3283,7 +3284,6 @@
 
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [sharevb/it-tools](https://github.com/sharevb/it-tools) - My additions (and of others) to it-tools! (Collection of handy online tools for developers, with great UX. )
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit) - 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
