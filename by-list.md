@@ -709,6 +709,7 @@
 - [lixmal/caddy-netbird](https://github.com/lixmal/caddy-netbird) - Caddy plugin that embeds a NetBird client for proxying HTTP and TCP/UDP traffic through NetBird networks
 - [n0pashkov/netbird-tui](https://github.com/n0pashkov/netbird-tui) - A terminal UI for the local NetBird daemon. It uses the daemon gRPC socket directly and keeps common monitoring and management tasks in one keyboard-driven interface.
 - [StarryReverie/selector4nix](https://github.com/StarryReverie/selector4nix) - Nix substituter proxy with parallel cache queries and latency-aware selection
+- [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
 
 <a name="knowledge"></a>
 
@@ -781,6 +782,7 @@
 - [sebw/linkding-healthcheck](https://github.com/sebw/linkding-healthcheck) - Linkding URL checker
 - [ldwgchen/serchding](https://github.com/ldwgchen/serchding) - Fulltext search for linkding
 - [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
+- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format) - 
 
 <a name="linux"></a>
 
@@ -968,6 +970,7 @@
 - [vzaliva/whatcable-linux-cli](https://github.com/vzaliva/whatcable-linux-cli) - A linux/KDE port of whatcable, a tool to tell you what each USB connected cable can do
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [protectli-root/protectli-firmware-updater](https://github.com/protectli-root/protectli-firmware-updater) - Script used to update firmware on Protectli devices
+- [xz-dev/numlockw](https://github.com/xz-dev/numlockw) - Control the state of NumLock
 
 <a name="mirror"></a>
 
@@ -1565,6 +1568,7 @@
 - [manic-systems/ncro](https://github.com/manic-systems/ncro) - Lightweight HTTP proxy for optimizing Nix cache routes for fast access
 - [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) - Run standard NixOS on your mobile devices!
 - [giomf/NixoScope](https://github.com/giomf/NixoScope) - Visualize dependencies between NixOS modules
+- [NixOS/nixpkgs-committers](https://github.com/NixOS/nixpkgs-committers) - Tracking of changes to Nixpkgs committers
 
 <a name="nixos_module"></a>
 
@@ -1883,6 +1887,7 @@
 - [AKlitbo/pebble-watchface-lcars](https://github.com/AKlitbo/pebble-watchface-lcars) - An LCARS-inspired watchface for the Pebble Time 2, built on the Pebble App Framework with paf. Nine themes and four panels you fill with weather, health, sun, moon, and time readouts.
 - [rotdrop/nextcloud-app-files-archive](https://github.com/rotdrop/nextcloud-app-files-archive) - Archive inspection and extraction as Nextcloud app.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
+- [xz-dev/numlockw](https://github.com/xz-dev/numlockw) - Control the state of NumLock
 
 <a name="security"></a>
 
@@ -2474,6 +2479,7 @@
 - [n0pashkov/netbird-tui](https://github.com/n0pashkov/netbird-tui) - A terminal UI for the local NetBird daemon. It uses the daemon gRPC socket directly and keeps common monitoring and management tasks in one keyboard-driven interface.
 - [StarryReverie/selector4nix](https://github.com/StarryReverie/selector4nix) - Nix substituter proxy with parallel cache queries and latency-aware selection
 - [rotdrop/nextcloud-app-files-archive](https://github.com/rotdrop/nextcloud-app-files-archive) - Archive inspection and extraction as Nextcloud app.
+- [xz-dev/numlockw](https://github.com/xz-dev/numlockw) - Control the state of NumLock
 
 <a name="webdev"></a>
 
@@ -2701,6 +2707,8 @@
 - [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
 - [sylturner/weather-icons](https://github.com/sylturner/weather-icons) - 215 Weather Themed Icons and CSS
 - [lowlighter/matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps!
+- [kevquirk/pureblog](https://github.com/kevquirk/pureblog) - A simple PHP-based blogging platform, designed for personal use.
+- [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
 
 <a name="work"></a>
 
@@ -2781,6 +2789,7 @@
 - [sebw/linkding-healthcheck](https://github.com/sebw/linkding-healthcheck) - Linkding URL checker
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [lowlighter/matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps!
+- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format) - 
 
 <a name="xolotl"></a>
 
