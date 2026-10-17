@@ -2712,6 +2712,7 @@
 
 ## Rust 
 
+- [moooossee/moose](https://github.com/moooossee/moose) - Chat with local AI
 - [svandragt/vivace](https://github.com/svandragt/vivace) - Rust reimplementation of Composer that installs from composer.lock faster than PHP Composer
 - [StarryReverie/selector4nix](https://github.com/StarryReverie/selector4nix) - Nix substituter proxy with parallel cache queries and latency-aware selection
 - [EphraimSiegfried/gachix](https://github.com/EphraimSiegfried/gachix) - A decentralized binary cache for Nix over Git
