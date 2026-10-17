@@ -1888,6 +1888,7 @@
 - [rotdrop/nextcloud-app-files-archive](https://github.com/rotdrop/nextcloud-app-files-archive) - Archive inspection and extraction as Nextcloud app.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [xz-dev/numlockw](https://github.com/xz-dev/numlockw) - Control the state of NumLock
+- [ossappscollective/oss-weather](https://github.com/ossappscollective/oss-weather) - An OSS weather app for iOS/Android
 
 <a name="security"></a>
 
