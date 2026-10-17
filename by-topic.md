@@ -290,6 +290,7 @@
 
 ## ai 
 
+- [moooossee/moose](https://github.com/moooossee/moose) - Chat with local AI
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ghuntley/how-to-ralph-wiggum](https://github.com/ghuntley/how-to-ralph-wiggum) - The Ralph Wiggum Technique—the AI development methodology that reduces software costs to less than a fast food worker's wage.
@@ -2665,6 +2666,7 @@
 
 ## linux 
 
+- [moooossee/moose](https://github.com/moooossee/moose) - Chat with local AI
 - [nedrichards/whatcable-linux](https://github.com/nedrichards/whatcable-linux) - GNOME USB-C cable and power diagnostic viewer for Linux
 - [abrauchli/usbeehive](https://github.com/abrauchli/usbeehive) - Tells you what each USB device on Linux can actually do.
 - [hbons/Bobby](https://github.com/hbons/Bobby) - View SQLite databases
@@ -2763,6 +2765,7 @@
 
 ## llm 
 
+- [moooossee/moose](https://github.com/moooossee/moose) - Chat with local AI
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
@@ -5457,6 +5460,7 @@
 
 ## rust 
 
+- [moooossee/moose](https://github.com/moooossee/moose) - Chat with local AI
 - [svandragt/vivace](https://github.com/svandragt/vivace) - Rust reimplementation of Composer that installs from composer.lock faster than PHP Composer
 - [StarryReverie/selector4nix](https://github.com/StarryReverie/selector4nix) - Nix substituter proxy with parallel cache queries and latency-aware selection
 - [Baltram/seednaut](https://github.com/Baltram/seednaut) - Inspect, verify and extract files from Seedvault backups.
