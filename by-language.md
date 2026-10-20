@@ -1440,7 +1440,7 @@
 - [e-tho/ucodenix](https://github.com/e-tho/ucodenix) - Microcode updates for AMD CPUs on NixOS
 - [brittonr/clan-user-proposal](https://github.com/brittonr/clan-user-proposal) - 
 - [binarin/nixos-config](https://github.com/binarin/nixos-config) - NixOS configurations for all my machines
-- [yunfachi/nix-config](https://github.com/yunfachi/nix-config) - My NixOS flake for all my hosts, built with Denix
+- [yunfachi/flake](https://github.com/yunfachi/flake) - My NixOS flake for all my hosts, built with Denix
 - [clo4/nix-dotfiles](https://github.com/clo4/nix-dotfiles) - Manages my nix-darwin Mac, standalone Home Manager Mac, and NixOS home server. Public domain, unless noted otherwise.
 - [putquo/nixconf](https://github.com/putquo/nixconf) - My nix-based configuration files
 - [crocuda/crocuda.nixos](https://github.com/crocuda/crocuda.nixos) - Nixos configuration modules for servers (and paranoids and hypocondriacs)
@@ -2711,7 +2711,7 @@
 
 ## Rust 
 
-- [moooossee/moose](https://github.com/moooossee/moose) - Chat with local AI
+- [moooossee/moose](https://github.com/moooossee/moose) - Chat with local and cloud AI
 - [svandragt/vivace](https://github.com/svandragt/vivace) - Rust reimplementation of Composer that installs from composer.lock faster than PHP Composer
 - [StarryReverie/selector4nix](https://github.com/StarryReverie/selector4nix) - Nix substituter proxy with parallel cache queries and latency-aware selection
 - [EphraimSiegfried/gachix](https://github.com/EphraimSiegfried/gachix) - A decentralized binary cache for Nix over Git
