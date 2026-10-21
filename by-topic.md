@@ -290,7 +290,7 @@
 
 ## ai 
 
-- [moooossee/moose](https://github.com/moooossee/moose) - Chat with local AI
+- [moooossee/moose](https://github.com/moooossee/moose) - Chat with local and cloud AI
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [ghuntley/how-to-ralph-wiggum](https://github.com/ghuntley/how-to-ralph-wiggum) - The Ralph Wiggum Technique—the AI development methodology that reduces software costs to less than a fast food worker's wage.
@@ -1387,7 +1387,7 @@
 - [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - It’s not “just dotfiles” - it's extreme modularity that looks and feels like a NixOS flake. It's Voice-driven DevOps, it's a declarative home automation system, it's a self-contained auto-documenting 
 - [Anomalocaridid/dotfiles](https://github.com/Anomalocaridid/dotfiles) - My personal dotfiles for NixOS
 - [vic/vix](https://github.com/vic/vix) - Vic's *Nix config (dotfiles for many unixes)
-- [yunfachi/nix-config](https://github.com/yunfachi/nix-config) - My NixOS flake for all my hosts, built with Denix
+- [yunfachi/flake](https://github.com/yunfachi/flake) - My NixOS flake for all my hosts, built with Denix
 - [clo4/nix-dotfiles](https://github.com/clo4/nix-dotfiles) - Manages my nix-darwin Mac, standalone Home Manager Mac, and NixOS home server. Public domain, unless noted otherwise.
 - [Lord-Valen/configuration.nix](https://github.com/Lord-Valen/configuration.nix) - Lordly NixOS Configurations
 - [ALinkBetweenNets/nix](https://github.com/ALinkBetweenNets/nix) - ALinkbetweenNets's NixOS Infratructure Configuration
@@ -2665,7 +2665,7 @@
 
 ## linux 
 
-- [moooossee/moose](https://github.com/moooossee/moose) - Chat with local AI
+- [moooossee/moose](https://github.com/moooossee/moose) - Chat with local and cloud AI
 - [nedrichards/whatcable-linux](https://github.com/nedrichards/whatcable-linux) - GNOME USB-C cable and power diagnostic viewer for Linux
 - [abrauchli/usbeehive](https://github.com/abrauchli/usbeehive) - Tells you what each USB device on Linux can actually do.
 - [hbons/Bobby](https://github.com/hbons/Bobby) - View SQLite databases
@@ -2676,7 +2676,7 @@
 - [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [reo101/rix101](https://github.com/reo101/rix101) - My NixOS, nix-on-droid and nix-darwin configs.
 - [e-tho/ucodenix](https://github.com/e-tho/ucodenix) - Microcode updates for AMD CPUs on NixOS
-- [yunfachi/nix-config](https://github.com/yunfachi/nix-config) - My NixOS flake for all my hosts, built with Denix
+- [yunfachi/flake](https://github.com/yunfachi/flake) - My NixOS flake for all my hosts, built with Denix
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My entire infrastructure and computing environment.
 - [snugnug/hjem-rum](https://github.com/snugnug/hjem-rum) - A module collection for Hjem. [Maintainers=@GetPsyched]
@@ -2765,7 +2765,7 @@
 
 ## llm 
 
-- [moooossee/moose](https://github.com/moooossee/moose) - Chat with local AI
+- [moooossee/moose](https://github.com/moooossee/moose) - Chat with local and cloud AI
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
@@ -5461,7 +5461,7 @@
 
 ## rust 
 
-- [moooossee/moose](https://github.com/moooossee/moose) - Chat with local AI
+- [moooossee/moose](https://github.com/moooossee/moose) - Chat with local and cloud AI
 - [svandragt/vivace](https://github.com/svandragt/vivace) - Rust reimplementation of Composer that installs from composer.lock faster than PHP Composer
 - [StarryReverie/selector4nix](https://github.com/StarryReverie/selector4nix) - Nix substituter proxy with parallel cache queries and latency-aware selection
 - [Baltram/seednaut](https://github.com/Baltram/seednaut) - Inspect, verify and extract files from Seedvault backups.
