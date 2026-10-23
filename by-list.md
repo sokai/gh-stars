@@ -1499,7 +1499,6 @@
 - [blaggacao/frappix](https://github.com/blaggacao/frappix) - Frappe on Nix
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Servers and Laptops
-- [Akiiino/mollusca](https://github.com/Akiiino/mollusca) - My NixOS machine configurations
 - [leona-ya/nixfiles](https://github.com/leona-ya/nixfiles) - 
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager
 - [caddy-dns/hetzner](https://github.com/caddy-dns/hetzner) - Caddy module: dns.providers.hetzner
