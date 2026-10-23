@@ -1491,7 +1491,6 @@
 - [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) - Migrated to Elbforge
 - [MatthiasBenaets/nix-config](https://github.com/MatthiasBenaets/nix-config) - My Personal Nix, NixOS and Nix-Darwin System Configuration Flake
 - [michaelBelsanti/nixconfig](https://github.com/michaelBelsanti/nixconfig) - Active on tangled: https://tangled.org/quasigod.xyz/nixconfig
-- [Akiiino/mollusca](https://github.com/Akiiino/mollusca) - My NixOS machine configurations
 - [arsfeld/nixos](https://github.com/arsfeld/nixos) - 
 - [blaggacao/frappix](https://github.com/blaggacao/frappix) - Frappe on Nix
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
