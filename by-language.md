@@ -859,7 +859,6 @@
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [hmellor/auction-website](https://github.com/hmellor/auction-website) - An open-source auction hosting system
 - [open-condo-software/condo](https://github.com/open-condo-software/condo) - Condo is an Open Source property management SaaS that allows users to manage tickets, resident contacts, properties, payment tracking, create invoices, and oversee a service marketplace, all while off
-- [microrealestate/microrealestate](https://github.com/microrealestate/microrealestate) - Self-hosted property management app for landlords to manage leases, rents and receipts.
 - [prolinkinfo/RealEstateCRM](https://github.com/prolinkinfo/RealEstateCRM) - RealEstate CRM: Empowering Real Estate Agents with Modern CRM Tools
 - [Choices-js/Choices](https://github.com/Choices-js/Choices) - A vanilla JS customisable select box/text input plugin ⚡️
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
@@ -3145,6 +3144,7 @@
 - [thunderbird/send-suite](https://github.com/thunderbird/send-suite) - ⛔️ [DEPRECATED] Send moved to -&gt; https://github.com/thunderbird/tbpro-add-on
 - [defnull/fediwall](https://github.com/defnull/fediwall) - Social media wall for the Fediverse
 - [sozialhelden/a11yjson](https://github.com/sozialhelden/a11yjson) - A11yJSON: A standard to describe the accessibility of the physical world.
+- [microrealestate/microrealestate](https://github.com/microrealestate/microrealestate) - Self-hosted property management app for landlords to manage leases, rents and receipts.
 - [simPod/GrafanaJsonDatasource](https://github.com/simPod/GrafanaJsonDatasource) - Grafana datasource to load JSON data over your arbitrary HTTP backend
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) - API datasource for grafana. Visualize data from JSON / CSV / TSV / XML / GraphQL endpoints
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - Control any computer remotely
