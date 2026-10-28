@@ -1570,6 +1570,7 @@
 - [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) - Run standard NixOS on your mobile devices!
 - [giomf/NixoScope](https://github.com/giomf/NixoScope) - Visualize dependencies between NixOS modules
 - [NixOS/nixpkgs-committers](https://github.com/NixOS/nixpkgs-committers) - Tracking of changes to Nixpkgs committers
+- [nixpkgs-fyi/nixpkgs-fyi](https://github.com/nixpkgs-fyi/nixpkgs-fyi) - 
 
 <a name="nixos_module"></a>
 
@@ -2486,6 +2487,7 @@
 - [xz-dev/numlockw](https://github.com/xz-dev/numlockw) - Control the state of NumLock
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) - Weekly updated nix-index database [maintainer=@Mic92]
+- [nixpkgs-fyi/nixpkgs-fyi](https://github.com/nixpkgs-fyi/nixpkgs-fyi) - 
 
 <a name="webdev"></a>
 
