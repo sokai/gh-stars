@@ -710,6 +710,7 @@
 - [n0pashkov/netbird-tui](https://github.com/n0pashkov/netbird-tui) - A terminal UI for the local NetBird daemon. It uses the daemon gRPC socket directly and keeps common monitoring and management tasks in one keyboard-driven interface.
 - [StarryReverie/selector4nix](https://github.com/StarryReverie/selector4nix) - Nix substituter proxy with parallel cache queries and latency-aware selection
 - [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
+- [LtRock84/werkstattmanager](https://github.com/LtRock84/werkstattmanager) - Nextcloud-App für KFZ-Werkstätten: Fahrzeuge, Terminbuch, Aufträge, Tablet-Zeiterfassung, Auswertungen und Kundennachrichten.
 
 <a name="knowledge"></a>
 
@@ -1247,6 +1248,7 @@
 - [ulif/diceware](https://github.com/ulif/diceware) - Passphrases to remember
 - [NixOS/nix-index](https://github.com/NixOS/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) - Weekly updated nix-index database [maintainer=@Mic92]
+- [SergeyMosin/Appointments](https://github.com/SergeyMosin/Appointments) - Nextcloud Appointments App
 
 <a name="nix_blueprint"></a>
 
@@ -2492,6 +2494,8 @@
 - [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) - Weekly updated nix-index database [maintainer=@Mic92]
 - [nixpkgs-fyi/nixpkgs-fyi](https://github.com/nixpkgs-fyi/nixpkgs-fyi) - 
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
+- [SergeyMosin/Appointments](https://github.com/SergeyMosin/Appointments) - Nextcloud Appointments App
+- [LtRock84/werkstattmanager](https://github.com/LtRock84/werkstattmanager) - Nextcloud-App für KFZ-Werkstätten: Fahrzeuge, Terminbuch, Aufträge, Tablet-Zeiterfassung, Auswertungen und Kundennachrichten.
 
 <a name="webdev"></a>
 
