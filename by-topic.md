@@ -1011,6 +1011,7 @@
 
 ## css 
 
+- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 - [lowlighter/matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps!
 - [marcop135/bullframe.css](https://github.com/marcop135/bullframe.css) - A semantic, lightweight CSS (PostCSS) framework for fast, accessible UIs. Class-based or classless, light or dark, agent-skills ready. Seven builds. Any stack.
 - [moji2002/fertig](https://github.com/moji2002/fertig) - A classless CSS stylesheet with no legacy: link one file, write ordinary HTML, done. No build step, no dependencies.
@@ -2128,6 +2129,7 @@
 
 ## html 
 
+- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 - [marcop135/bullframe.css](https://github.com/marcop135/bullframe.css) - A semantic, lightweight CSS (PostCSS) framework for fast, accessible UIs. Class-based or classless, light or dark, agent-skills ready. Seven builds. Any stack.
 - [moji2002/fertig](https://github.com/moji2002/fertig) - A classless CSS stylesheet with no legacy: link one file, write ordinary HTML, done. No build step, no dependencies.
 - [j9t/syntaxp](https://github.com/j9t/syntaxp) - Super-simple code highlighting via the CSS Custom Highlight API
@@ -2679,6 +2681,7 @@
 
 ## linux 
 
+- [naggie/dsnet](https://github.com/naggie/dsnet) - FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
 - [moooossee/moose](https://github.com/moooossee/moose) - Chat with local and cloud AI
 - [nedrichards/whatcable-linux](https://github.com/nedrichards/whatcable-linux) - GNOME USB-C cable and power diagnostic viewer for Linux
 - [abrauchli/usbeehive](https://github.com/abrauchli/usbeehive) - Tells you what each USB device on Linux can actually do.
@@ -3276,10 +3279,12 @@
 
 ## others 
 
+- [LtRock84/werkstattmanager](https://github.com/LtRock84/werkstattmanager) - Nextcloud-App für KFZ-Werkstätten: Fahrzeuge, Terminbuch, Aufträge, Tablet-Zeiterfassung, Auswertungen und Kundennachrichten.
+- [SergeyMosin/Appointments](https://github.com/SergeyMosin/Appointments) - Nextcloud Appointments App
 - [todeveni/php-repo-matrix](https://github.com/todeveni/php-repo-matrix) - HTML matrix of PHP versions for ppa:ondrej/php and deb.sury.org/php
 - [nixpkgs-fyi/nixpkgs-fyi](https://github.com/nixpkgs-fyi/nixpkgs-fyi) - 
 - [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) - Weekly updated nix-index database [maintainer=@Mic92]
-- [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
+- [NixOS/nix-index](https://github.com/NixOS/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format) - 
 - [kevquirk/pureblog](https://github.com/kevquirk/pureblog) - A simple PHP-based blogging platform, designed for personal use.
 - [rotdrop/nextcloud-app-files-archive](https://github.com/rotdrop/nextcloud-app-files-archive) - Archive inspection and extraction as Nextcloud app.
@@ -6048,6 +6053,7 @@
 
 ## ubuntu 
 
+- [naggie/dsnet](https://github.com/naggie/dsnet) - FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
 - [thias/glim](https://github.com/thias/glim) - GRUB Live ISO Multiboot
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
@@ -6148,6 +6154,7 @@
 
 ## vpn 
 
+- [naggie/dsnet](https://github.com/naggie/dsnet) - FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
 - [fosrl/android](https://github.com/fosrl/android) - Pangolin client for Android devices
 - [hassio-addons/app-wireguard](https://github.com/hassio-addons/app-wireguard) - WireGuard - Home Assistant Community Apps
 - [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution featuring a user-friendly web interface for easy device management and connectivity.
