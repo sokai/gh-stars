@@ -1877,7 +1877,7 @@
 - [bPlugins/count-post-reaction](https://github.com/bPlugins/count-post-reaction) - 
 - [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - 🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent
 - [danpros/htmly](https://github.com/danpros/htmly) - Simple and fast databaseless PHP blogging platform, and Flat-File CMS
-- [WonderCMS/wondercms](https://github.com/WonderCMS/wondercms) - Fast and small flat file CMS (5 files). Built with PHP, JSON database.
+- [WonderCMS/wondercms](https://github.com/WonderCMS/wondercms) - Fast and small flat file CMS (7 files). Built with PHP, JSON database.
 - [nextcloud/integration_paperless](https://github.com/nextcloud/integration_paperless) - Integration with the Paperless Document Management System.
 - [GrahamCampbell/Laravel-GitHub](https://github.com/GrahamCampbell/Laravel-GitHub) - A GitHub API bridge for Laravel
 - [kiernanroche/pico-comments](https://github.com/kiernanroche/pico-comments) - A comments plugin for Pico CMS
