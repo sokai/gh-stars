@@ -2532,7 +2532,7 @@
 - [isso-comments/isso](https://github.com/isso-comments/isso) - a Disqus alternative
 - [bikeindex/bike_index](https://github.com/bikeindex/bike_index) - All the code for Bike Index, because we love you
 - [pqina/flip](https://github.com/pqina/flip) - ⏳ The online version of the classic flip clock
-- [WonderCMS/wondercms](https://github.com/WonderCMS/wondercms) - Fast and small flat file CMS (7 files). Built with PHP, JSON database.
+- [WonderCMS/wondercms](https://github.com/WonderCMS/wondercms) - Fast and small flat file CMS (5 files). Built with PHP, JSON database.
 - [danpros/htmly](https://github.com/danpros/htmly) - Simple and fast databaseless PHP blogging platform, and Flat-File CMS
 - [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - 🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent
 - [bPlugins/count-post-reaction](https://github.com/bPlugins/count-post-reaction) - 
