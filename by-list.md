@@ -435,7 +435,6 @@
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [aakvatech/PropMS](https://github.com/aakvatech/PropMS) - 
 - [navariltd/utility-billing](https://github.com/navariltd/utility-billing) - The Utility Billing & Property Management App is a powerful addition to ERPNext, designed to streamline utility billing, property leasing, and tenant management. Ideal for municipal utilities, real estate managers, and property developers.
-- [OCA/pms](https://github.com/OCA/pms) - Property Management System on Odoo
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [microrealestate/microrealestate](https://github.com/microrealestate/microrealestate) - Self-hosted property management app for landlords to manage leases, rents and receipts.
 - [estao-immo/estao](https://github.com/estao-immo/estao) - estao® Immobilienlösung für Hausverwalter und Wohnungsunternehmen 
@@ -732,7 +731,6 @@
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [aakvatech/PropMS](https://github.com/aakvatech/PropMS) - 
 - [navariltd/utility-billing](https://github.com/navariltd/utility-billing) - The Utility Billing & Property Management App is a powerful addition to ERPNext, designed to streamline utility billing, property leasing, and tenant management. Ideal for municipal utilities, real estate managers, and property developers.
-- [OCA/pms](https://github.com/OCA/pms) - Property Management System on Odoo
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
@@ -1077,7 +1075,6 @@
 - [henryclw/jsonhero-web](https://github.com/henryclw/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [hgl/nixverse](https://github.com/hgl/nixverse) - Filesystem-based nix flake framework for multi-node configurations, cascading secrets management, parallel deployments, etc.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
-- [OCA/pms](https://github.com/OCA/pms) - Property Management System on Odoo
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [divnix/std](https://github.com/divnix/std) - A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!
 - [divnix/hive](https://github.com/divnix/hive) - The secretly open NixOS-Society
@@ -2125,7 +2122,6 @@
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [aakvatech/PropMS](https://github.com/aakvatech/PropMS) - 
 - [navariltd/utility-billing](https://github.com/navariltd/utility-billing) - The Utility Billing & Property Management App is a powerful addition to ERPNext, designed to streamline utility billing, property leasing, and tenant management. Ideal for municipal utilities, real estate managers, and property developers.
-- [OCA/pms](https://github.com/OCA/pms) - Property Management System on Odoo
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
@@ -2672,7 +2668,6 @@
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [GibbonEdu/core](https://github.com/GibbonEdu/core) - Gibbon is a flexible, open source school management platform designed to make life better for teachers, students, parents and leaders.
 - [LibreSign/libresign](https://github.com/LibreSign/libresign) - Control how your documents get signed
-- [OCA/pms](https://github.com/OCA/pms) - Property Management System on Odoo
 - [buwx/meteogram](https://github.com/buwx/meteogram) - Meteogram for a DWD MOSMIX station
 - [TurboDuke77/DWD-Meteogram](https://github.com/TurboDuke77/DWD-Meteogram) - Meteogram Wetter für DWD MOSMIX station
 - [jdemaeyer/brightsky](https://github.com/jdemaeyer/brightsky) - JSON API for DWD's open weather data.
