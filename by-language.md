@@ -342,7 +342,6 @@
 
 - [yitsushi/phanpy-docker](https://github.com/yitsushi/phanpy-docker) - Unofficial Docker Image for Phanpy (Mastodon Web Client)
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
-- [gregtwallace/certwarden](https://github.com/gregtwallace/certwarden) - Cert Warden is a centralized ACME Client. It provides an API for certificate consumers to fetch their individual keys and certs with API keys.
 - [PeterDaveHello/ipinfo.tw](https://github.com/PeterDaveHello/ipinfo.tw) - 🐳 A self-host  🙅 non-tracking, AD-🆓 ➕ 🍪-🆓 solution to show your IP ℹ️ Super small (🤏10MB)
 - [VictoriaMetrics-Community/homeassistant-addon-victoriametrics](https://github.com/VictoriaMetrics-Community/homeassistant-addon-victoriametrics) - VictoriaMetrics Add-on for Home Assistant OS is the perfect solution for long term data storage of your smart home sensor data and visualization with Grafana.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
@@ -2495,6 +2494,7 @@
 - [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - This is a mirror of https://codeberg.org/fsfe/reuse-tool
 - [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositorie
 - [baserow/baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code.  Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
+- [gregtwallace/certwarden](https://github.com/gregtwallace/certwarden) - Cert Warden is a centralized ACME Client. It provides an API for certificate consumers to fetch their individual keys and certs with API keys.
 - [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
 - [Stunkymonkey/nautilus-open-any-terminal](https://github.com/Stunkymonkey/nautilus-open-any-terminal) - 
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
