@@ -567,7 +567,7 @@
 - [mholt/caddy-dynamicdns](https://github.com/mholt/caddy-dynamicdns) - Caddy app that keeps your DNS records (A/AAAA) pointed at itself.
 - [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - Lan Tian's NixOS Configuration
 - [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit. Built with Django and React.
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring— MCP included! all for free or enjoy our SaaS plan!
 - [traccar/traccar-client](https://github.com/traccar/traccar-client) - Mobile app that sends your device's GPS location to your own Traccar server
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
@@ -758,7 +758,7 @@
 - [scidonia/bookwyrm-client](https://github.com/scidonia/bookwyrm-client) - The bookwyrm client library
 - [typemill/typemill](https://github.com/typemill/typemill) - Typemill is a flat-file CMS based on Markdown and designed for informational websites like documentation, manuals, and handbooks.
 - [NatLibFi/Skosmos](https://github.com/NatLibFi/Skosmos) - Thesaurus and controlled vocabulary browser using SKOS and SPARQL
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring— MCP included! all for free or enjoy our SaaS plan!
 - [linkwarden/builds](https://github.com/linkwarden/builds) - Official release builds for Linkwarden.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up your personal site on your own server with just a few clicks.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
@@ -2285,7 +2285,7 @@
 - [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit. Built with Django and React.
 - [NatLibFi/Skosmos](https://github.com/NatLibFi/Skosmos) - Thesaurus and controlled vocabulary browser using SKOS and SPARQL
 - [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring— MCP included! all for free or enjoy our SaaS plan!
 - [traccar/traccar-client](https://github.com/traccar/traccar-client) - Mobile app that sends your device's GPS location to your own Traccar server
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
@@ -2640,7 +2640,7 @@
 - [8bitsaver/maxmind-geoip](https://github.com/8bitsaver/maxmind-geoip) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 - [parsedown/parsedown](https://github.com/parsedown/parsedown) - Better Markdown Parser in PHP
 - [flatpressblog/flatpress](https://github.com/flatpressblog/flatpress) - FlatPress is a lightweight, easy-to-set-up flat-file blogging engine.
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring— MCP included! all for free or enjoy our SaaS plan!
 - [traccar/traccar](https://github.com/traccar/traccar) - Open source GPS tracking platform - self-hosted or managed, 200+ device protocols
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
