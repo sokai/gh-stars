@@ -43,7 +43,81 @@
 
 ## android
 
-- No repositories
+- [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
+- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Sync notes between local and cloud with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), Box, pCloud, Yandex Disk, Koofr, Azure Blob Storage.
+- [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
+- [woheller69/whoBIRD](https://github.com/woheller69/whoBIRD) - Identify bird sounds in real time with this Android version of BirdNET. Bird sound recognition for more than 6,000 species worldwide. 
+- [JGeek00/linkdy](https://github.com/JGeek00/linkdy) - Linkding client created with Flutter.
+- [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
+- [GrapheneOS/PdfViewer](https://github.com/GrapheneOS/PdfViewer) - Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.
+- [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
+- [polymorphicshade/Tubular](https://github.com/polymorphicshade/Tubular) - A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.
+- [ossappscollective/oss-weather](https://github.com/ossappscollective/oss-weather) - An OSS weather app for iOS/Android
+- [Team-Ladefuchs/ladefuchs-react-native](https://github.com/Team-Ladefuchs/ladefuchs-react-native) - Moved to Codeberg -> https://codeberg.org/Ladefuchs/ladefuchs-react-native
+- [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
+- [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android and iOS
+- [tmo1/sms-ie](https://github.com/tmo1/sms-ie) - SMS Import / Export is a simple Android app that imports and exports SMS and MMS messages, call logs, contacts, and blocked numbers from and to JSON / NDJSON files.
+- [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
+- [protonpass/android-pass](https://github.com/protonpass/android-pass) - Android code for the Proton Pass application
+- [LeanderBB/you-have-mail](https://github.com/LeanderBB/you-have-mail) - Application to notify you if an email has arrived in your email Account
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- [TJYSunset/Phocid](https://github.com/TJYSunset/Phocid) - A modern offline music player with familiar designs for Android 11+.
+- [Dacid99/LinkDroid-for-Linkwarden](https://github.com/Dacid99/LinkDroid-for-Linkwarden) - A companion android app for the Linkwarden project. It enables you to upload links via the share context menu and to quickly access the webinterface.  This repository is just a mirror, please go to the gitlab repo to contribute code. 
+- [voiceroy/mupdf-android-viewer](https://github.com/voiceroy/mupdf-android-viewer) - Android SDK: viewer
+- [ArtifexSoftware/mupdf](https://github.com/ArtifexSoftware/mupdf) - mupdf mirror
+- [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium) - Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositories and doesn't include patches not relevant to the build targets used on GrapheneOS.
+- [FliegendeWurst/TriliumDroid](https://github.com/FliegendeWurst/TriliumDroid) - Android client for Trilium Notes
+- [wgtunnel/android](https://github.com/wgtunnel/android) - An advanced, open-source client for WireGuard and AmneziaWG on Android.
+- [traccar/traccar-web](https://github.com/traccar/traccar-web) - Web dashboard for Traccar, the open source GPS tracking platform
+- [traccar/traccar-client-android](https://github.com/traccar/traccar-client-android) - Traccar Client for Android
+- [netbirdio/android-client](https://github.com/netbirdio/android-client) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+- [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
+- [UrAvgCode/Chooser](https://github.com/UrAvgCode/Chooser) - an android app to randomly select fingers on the screen
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+- [mattermost/mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
+- [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
+- [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
+- [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
+- [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) - 🤳🥫 The new Open Food Facts mobile application for Android and iOS, crafted with Flutter and Dart
+- [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
+- [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
+- [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy
+- [nucleus-ffm/foss_warn](https://github.com/nucleus-ffm/foss_warn) - An unofficial open source application to get emergency alerts.
+- [BlackyHawky/Clock](https://github.com/BlackyHawky/Clock) - Customizable, privacy‑first, open-source clock app inspired by AOSP Clock
+- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+- [nel0x/syncthing-android](https://github.com/nel0x/syncthing-android) - Syncthing - A Syncthing Wrapper for Android.
+- [traccar/traccar-client](https://github.com/traccar/traccar-client) - Mobile app that sends your device's GPS location to your own Traccar server
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [linkwarden/builds](https://github.com/linkwarden/builds) - Official release builds for Linkwarden.
+- [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
+- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client, [mirror] https://codeberg.org/droidify/client
+- [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
+- [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) - DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.
+- [TechbeeAT/jtxBoard](https://github.com/TechbeeAT/jtxBoard) - jtx Board allows you to manage your Journals (like meeting minutes), Notes and Tasks in one Android app. The app is compatible with the iCal standard (RFC5545) and is integrated with DAVx5 to allow the synchronisation of entries through CalDAV.
+- [bitfireAT/icsx5](https://github.com/bitfireAT/icsx5) - ICSx⁵ is an Android app to subscribe to remote or local iCalendar files (like time tables of your school/university or event files of your sports team).
+- [wireapp/wire-android](https://github.com/wireapp/wire-android) - 🤖 Wire client for Android
+- [danielyrovas/linklater](https://github.com/danielyrovas/linklater) - An unofficial Android client for LinkDing
+- [session-foundation/session-android](https://github.com/session-foundation/session-android) - Session Android - A Decentralized, Onion Routed, Private Messenger
+- [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
+- [ossappscollective/OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner) - Document scanning app 
+- [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
+- [Nriver/pocket-trilium](https://github.com/Nriver/pocket-trilium) - Trilium in my pocket :) Android app for Trilium. Trilium安卓客户端
+- [abdalmoniem/Caffeinate](https://github.com/abdalmoniem/Caffeinate) - Caffeinate is a lightweight Android utility that keeps your device’s screen awake for a configurable duration, without changing system display or power settings.
+- [anyproto/anytype-kotlin](https://github.com/anyproto/anytype-kotlin) - Official Anytype client for Android
+- [fluxerapp/flutter_client](https://github.com/fluxerapp/flutter_client) - Official Fluxer Mobile client built on the Flutter framework.
+- [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
+- [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
+- [quentin-st/Munin-for-Android](https://github.com/quentin-st/Munin-for-Android) - Watch your munin-monitored servers on your Android devices
+- [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
+- [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX) - Get Android app updates straight from the source. And install it any way you want. 
+- [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker) - Issue tracker for GrapheneOS Android Open Source Project hardening work. Standalone projects like Auditor, AttestationServer and hardened_malloc have their own dedicated trackers.
+- [msfjarvis/compose-lobsters](https://github.com/msfjarvis/compose-lobsters) - Claw for Android: Unofficial Android client for https://lobste.rs, built using Jetpack Compose.
+- [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
+- [ev-map/EVMap](https://github.com/ev-map/EVMap) - Android app to find electric vehicle charging stations - compatible with community databases such as GoingElectric.de and OpenChargeMap.org.
+- [fosrl/android](https://github.com/fosrl/android) - Pangolin client for Android devices
+- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues.
 
 <a name="awesome"></a>
 
@@ -223,7 +297,23 @@
 
 ## dns
 
-- No repositories
+- [trickest/resolvers](https://github.com/trickest/resolvers) - The most exhaustive list of reliable DNS resolvers.
+- [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
+- [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
+- [Monogramm/autodiscover-email-settings](https://github.com/Monogramm/autodiscover-email-settings) - :whale: :wrench: Provides Autodiscover capabilities for IMAP/POP/SMTP/LDAP services on Microsoft Outlook/Apple Mail and Autoconfig capabilities for Thunderbird
+- [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
+- [caddyserver/xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins
+- [boffbowsh/nix-lancache](https://github.com/boffbowsh/nix-lancache) - A Flake for running LanCache.net on NixOS
+- [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
+- [sapics/ip-location-db](https://github.com/sapics/ip-location-db) - ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
+- [georgyo/ifconfig.io](https://github.com/georgyo/ifconfig.io) - 
+- [porech/caddy-maxmind-geolocation](https://github.com/porech/caddy-maxmind-geolocation) - Caddy v2 module to filter requests based on source IP geolocation
+- [aablinov/caddy-geoip](https://github.com/aablinov/caddy-geoip) - Caddy plugin to resolve user GeoIP data
+- [zhangjiayin/caddy-geoip2](https://github.com/zhangjiayin/caddy-geoip2) - caddy-geoip2
+- [Turtlecute33/adblocktest](https://github.com/Turtlecute33/adblocktest) - A simple and user-friendly website to test and verify your ad-blockers and DNS filters
+- [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
+- [fernwerker/ownDynDNS](https://github.com/fernwerker/ownDynDNS) - Self-hosted dynamic DNS php script for FRITZ!Box and netcup DNS API
+- [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
 
 <a name="idea"></a>
 
@@ -559,6 +649,68 @@
 - [nextcloud/notify_push](https://github.com/nextcloud/notify_push) - Update notifications for nextcloud clients
 - [totoshko88/RustConn](https://github.com/totoshko88/RustConn) - Modern cross-platform connection manager — SSH, RDP, VNC, SPICE, MOSH, Telnet, Serial, Kubernetes and Zero Trust — with a GTK4/libadwaita interface and embedded Rust clients. Linux, macOS, FreeBSD, Windows (WSLg).
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
+- [jcwillox/hassio-rclone-backup](https://github.com/jcwillox/hassio-rclone-backup) - Home Assistant addon to automatically sync backups to remote locations using Rclone
+- [hyprspace/hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks (fork)
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace. 
+- [mihakrumpestar/panix](https://github.com/mihakrumpestar/panix) - Universal Nix Deployment Orchestrator - inspect, bootstrap, build, transfer, secrets, activate, rollback
+- [mirkolenz/quadlet-nix](https://github.com/mirkolenz/quadlet-nix) - NixOS module for Quadlet / podman-systemd
+- [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
+- [sjtug/cerberus](https://github.com/sjtug/cerberus) - A Caddy module that blocks unwanted requests using a sha256 PoW challenge
+- [SinTan1729/chhoto-url-cli](https://github.com/SinTan1729/chhoto-url-cli) - A CLI tool for interacting with Chhoto URL
+- [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
+- [anyproto/anytype-kotlin](https://github.com/anyproto/anytype-kotlin) - Official Anytype client for Android
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+- [8bitsaver/maxmind-geoip](https://github.com/8bitsaver/maxmind-geoip) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
+- [Dreamacro/maxmind-geoip](https://github.com/Dreamacro/maxmind-geoip) - 
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+- [GrimmTheShrimp/run0-sudo-shim](https://github.com/GrimmTheShrimp/run0-sudo-shim) - An imitation of sudo, using run0 internally
+- [timothebot/lacy](https://github.com/timothebot/lacy) - Fast magical cd alternative for lacy terminal navigators
+- [filiparag/hetzner_ddns](https://github.com/filiparag/hetzner_ddns) - Hetzner Dynamic DNS (DDNS, DynDNS) daemon
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+- [toinbox/simplerelay](https://github.com/toinbox/simplerelay) - SimpleRelay - Self-hosted SMTP relay with web dashboard, DNS validation, and per-sender access control (FastAPI/Postfix/Docker)
+- [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
+- [nukdokplex/ncaa-public](https://github.com/nukdokplex/ncaa-public) - A public instance of my NCaA (Nix Code as Anything) repository that contains NixOS modules, hosts, Nix packages and other stuff.
+- [flightphp/skeleton](https://github.com/flightphp/skeleton) - This is an example repository of how a more complex Flight project might be setup.
+- [flightphp/skeleton-simple](https://github.com/flightphp/skeleton-simple) - This is a skeleton project for a single file application to help your RESTful APIs take Flight!
+- [flightphp/cache](https://github.com/flightphp/cache) - Light, simple and standalone PHP in-file caching class
+- [flightphp/runway](https://github.com/flightphp/runway) - Console app for the Flight PHP Framework. 
+- [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
+- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+- [Codeinwp/feedzy-rss-feeds](https://github.com/Codeinwp/feedzy-rss-feeds) - FEEDZY RSS Feeds is an easy-to-use plugin giving you RSS aggregator and autoblogging functionality. Bring the best RSS feeds to your site.
+- [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
+- [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
+- [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
+- [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
+- [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
+- [mario/nc-push-proxy](https://github.com/mario/nc-push-proxy) - 
+- [departamento-de-decentralizacion/infra](https://github.com/departamento-de-decentralizacion/infra) - 
+- [benkoppe/nixcfg](https://github.com/benkoppe/nixcfg) - Consolidated nixOS, darwin, and hjem deployments for personal machines & servers
+- [snugnug/hjem-rum](https://github.com/snugnug/hjem-rum) - A module collection for Hjem. [Maintainers=@GetPsyched]
+- [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
+- [nix-community/preservation](https://github.com/nix-community/preservation) - Nix tooling to enable declarative management of non-volatile system state. [maintainer=@WilliButz]
+- [SR-G/sleep-on-lan](https://github.com/SR-G/sleep-on-lan) - Multi-platform process allowing to sleep on LAN a linux or windows computer, through wake-on-lan (reversed) magic packets or through HTTP REST requests.
+- [dvicory/homelab](https://github.com/dvicory/homelab) - 
+- [connerohnesorge/infisical-flake](https://github.com/connerohnesorge/infisical-flake) - Nix Flake for Infisical: the open-source platform for secrets management, PKI, and SSH access. 
+- [vzaliva/whatcable-linux-cli](https://github.com/vzaliva/whatcable-linux-cli) - A linux/KDE port of whatcable, a tool to tell you what each USB connected cable can do
+- [ldwgchen/serchding](https://github.com/ldwgchen/serchding) - Fulltext search for linkding
+- [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
+- [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - Spatial canvas for capturing fleeting thoughts
+- [totoshko88/browser-switcher](https://github.com/totoshko88/browser-switcher) - Gnome Browser Switcher is a Gnome Shell extension that provides a quick way to switch your default browser via the system tray. The extension uses standard Gnome Shell APIs to integrate with the panel and GIO/GSettings to manage system browser settings.
+- [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
+- [thephpleague/period](https://github.com/thephpleague/period) - PHP's time range API
+- [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
+- [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
+- [fosskar/nixfiles](https://github.com/fosskar/nixfiles) - alles oder nix
+- [DAdjadj/bridge-bank](https://github.com/DAdjadj/bridge-bank) - 
+- [not-a-bank/open-banking-tracker-data](https://github.com/not-a-bank/open-banking-tracker-data) - The open banking API directory
+- [sylturner/weather-icons](https://github.com/sylturner/weather-icons) - 215 Weather Themed Icons and CSS
+- [EphraimSiegfried/gachix](https://github.com/EphraimSiegfried/gachix) - A decentralized binary cache for Nix over Git
+- [lixmal/caddy-netbird](https://github.com/lixmal/caddy-netbird) - Caddy plugin that embeds a NetBird client for proxying HTTP and TCP/UDP traffic through NetBird networks
+- [n0pashkov/netbird-tui](https://github.com/n0pashkov/netbird-tui) - A terminal UI for the local NetBird daemon. It uses the daemon gRPC socket directly and keeps common monitoring and management tasks in one keyboard-driven interface.
+- [StarryReverie/selector4nix](https://github.com/StarryReverie/selector4nix) - Nix substituter proxy with parallel cache queries and latency-aware selection
+- [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
+- [LtRock84/werkstattmanager](https://github.com/LtRock84/werkstattmanager) - Nextcloud-App für KFZ-Werkstätten: Fahrzeuge, Terminbuch, Aufträge, Tablet-Zeiterfassung, Auswertungen und Kundennachrichten.
+- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues.
 
 <a name="knowledge"></a>
 
@@ -826,7 +978,14 @@
 
 ## mirror
 
-- No repositories
+- [kevle1/windows-telemetry-blocklist](https://github.com/kevle1/windows-telemetry-blocklist) - Blocks outgoing Windows telemetry, compatible with Pi-Hole. 
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
+- [NixOS/flake-compat](https://github.com/NixOS/flake-compat) - 
+- [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
+- [wyot1/GeoLite2-Unwalled](https://github.com/wyot1/GeoLite2-Unwalled) - Fresh GeoLite2 databases, for everyone.
+- [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
+- [ethnt/e10](https://github.com/ethnt/e10) - Personal fleet of machines deployed by Nix
+- [nukdokplex/ncaa-public](https://github.com/nukdokplex/ncaa-public) - A public instance of my NCaA (Nix Code as Anything) repository that contains NixOS modules, hosts, Nix packages and other stuff.
 
 <a name="nfra"></a>
 
@@ -1042,6 +1201,56 @@
 - [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
 - [bulwarkmail/webmail](https://github.com/bulwarkmail/webmail) - Self-hosted JMAP webmail for Stalwart Mail Server. Mail, calendar, contacts, and files in one client.
 - [mholt/caddy-ratelimit](https://github.com/mholt/caddy-ratelimit) - HTTP rate limiting module for Caddy 2
+- [sjtug/cerberus](https://github.com/sjtug/cerberus) - A Caddy module that blocks unwanted requests using a sha256 PoW challenge
+- [manic-systems/ncro](https://github.com/manic-systems/ncro) - Lightweight HTTP proxy for optimizing Nix cache routes for fast access
+- [b3nb5n/config-parts](https://github.com/b3nb5n/config-parts) - Modularly construct nixos and home manager configurations
+- [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
+- [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
+- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10] 
+- [mirkolenz/quadlet-nix](https://github.com/mirkolenz/quadlet-nix) - NixOS module for Quadlet / podman-systemd
+- [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
+- [TwiN/gatus-cli](https://github.com/TwiN/gatus-cli) - Client for Gatus
+- [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
+- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
+- [Dreamacro/maxmind-geoip](https://github.com/Dreamacro/maxmind-geoip) - 
+- [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software
+- [GrimmTheShrimp/run0-sudo-shim](https://github.com/GrimmTheShrimp/run0-sudo-shim) - An imitation of sudo, using run0 internally
+- [timothebot/lacy](https://github.com/timothebot/lacy) - Fast magical cd alternative for lacy terminal navigators
+- [filiparag/hetzner_ddns](https://github.com/filiparag/hetzner_ddns) - Hetzner Dynamic DNS (DDNS, DynDNS) daemon
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+- [toinbox/simplerelay](https://github.com/toinbox/simplerelay) - SimpleRelay - Self-hosted SMTP relay with web dashboard, DNS validation, and per-sender access control (FastAPI/Postfix/Docker)
+- [KZDKM/Hyprspace](https://github.com/KZDKM/Hyprspace) - Workspace overview plugin for Hyprland
+- [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
+- [libdns/inwx](https://github.com/libdns/inwx) - INWX provider implementation for libdns
+- [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
+- [mario/nc-push-proxy](https://github.com/mario/nc-push-proxy) - 
+- [departamento-de-decentralizacion/infra](https://github.com/departamento-de-decentralizacion/infra) - 
+- [applicative-systems/mkdocs-flake](https://github.com/applicative-systems/mkdocs-flake) - mkdocs-flake simplifies MkDocs setup with the latest packages, pre-bundled plugins, Material Design, PlantUML, and code highlighting. Available as a Nix flake, flake-parts module, and Docker image, it makes beautiful documentation easy. [maintainer=@tfc]
+- [benkoppe/nixcfg](https://github.com/benkoppe/nixcfg) - Consolidated nixOS, darwin, and hjem deployments for personal machines & servers
+- [snugnug/hjem-rum](https://github.com/snugnug/hjem-rum) - A module collection for Hjem. [Maintainers=@GetPsyched]
+- [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) - Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome!
+- [nix-community/preservation](https://github.com/nix-community/preservation) - Nix tooling to enable declarative management of non-volatile system state. [maintainer=@WilliButz]
+- [jpoliv/wakeonlan](https://github.com/jpoliv/wakeonlan) - Perl script for waking up computers via Wake-On-LAN magic packets
+- [SR-G/sleep-on-lan](https://github.com/SR-G/sleep-on-lan) - Multi-platform process allowing to sleep on LAN a linux or windows computer, through wake-on-lan (reversed) magic packets or through HTTP REST requests.
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
+- [connerohnesorge/infisical-flake](https://github.com/connerohnesorge/infisical-flake) - Nix Flake for Infisical: the open-source platform for secrets management, PKI, and SSH access. 
+- [sharevb/network-utils-ws](https://github.com/sharevb/network-utils-ws) - A modular FastAPI service providing network‑level diagnostic tools
+- [dvicory/homelab](https://github.com/dvicory/homelab) - 
+- [sebw/linkding-healthcheck](https://github.com/sebw/linkding-healthcheck) - Linkding URL checker
+- [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
+- [fosskar/nixfiles](https://github.com/fosskar/nixfiles) - alles oder nix
+- [EphraimSiegfried/gachix](https://github.com/EphraimSiegfried/gachix) - A decentralized binary cache for Nix over Git
+- [n0pashkov/netbird-tui](https://github.com/n0pashkov/netbird-tui) - A terminal UI for the local NetBird daemon. It uses the daemon gRPC socket directly and keeps common monitoring and management tasks in one keyboard-driven interface.
+- [lixmal/caddy-netbird](https://github.com/lixmal/caddy-netbird) - Caddy plugin that embeds a NetBird client for proxying HTTP and TCP/UDP traffic through NetBird networks
+- [StarryReverie/selector4nix](https://github.com/StarryReverie/selector4nix) - Nix substituter proxy with parallel cache queries and latency-aware selection
+- [rotdrop/nextcloud-app-files-archive](https://github.com/rotdrop/nextcloud-app-files-archive) - Archive inspection and extraction as Nextcloud app.
+- [ulif/diceware](https://github.com/ulif/diceware) - Passphrases to remember
+- [NixOS/nix-index](https://github.com/NixOS/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
+- [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) - Weekly updated nix-index database [maintainer=@Mic92]
+- [SergeyMosin/Appointments](https://github.com/SergeyMosin/Appointments) - Nextcloud Appointments App
+- [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins
+- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
+- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues.
 
 <a name="nix_blueprint"></a>
 
@@ -1156,6 +1365,33 @@
 - [quaoz/flake](https://github.com/quaoz/flake) - 
 - [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) - a flake module to ease creating and managing multiple hosts in your nix flake.
 - [conroy-cheers/system-config](https://github.com/conroy-cheers/system-config) - NixOS/home-manager config
+- [srid/nixos-unified](https://github.com/srid/nixos-unified) - Unify NixOS + nix-darwin + home-manager configuration in a single flake, while providing a consistent interface at DX and UX level.
+- [tiiuae/ghaf](https://github.com/tiiuae/ghaf) - TII SSRC Secure Technologies: Ghaf Framework
+- [soulwhisper/nix-config](https://github.com/soulwhisper/nix-config) - 
+- [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - Lan Tian's NixOS Configuration
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh,@srid]
+- [dtomvan/puntbestanden](https://github.com/dtomvan/puntbestanden) - Moved to https://git.toostveen.nl/tom/puntbestanden
+- [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - my over complex system configurations 
+- [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
+- [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
+- [chadac/nix-config-modules](https://github.com/chadac/nix-config-modules) - Flake modules for multi-host joint NixOS + home-manager configs
+- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
+- [hyperparabolic/nix-config](https://github.com/hyperparabolic/nix-config) - Multihost nixos flake and scripts focused on reproducibility
+- [cameronraysmith/vanixiets](https://github.com/cameronraysmith/vanixiets) - ❄️ van niets iets ⚙️ infrastructure from "nix" with flake-parts and clan
+- [daeuniverse/flake.nix](https://github.com/daeuniverse/flake.nix) - Nix flake for dae and daed
+- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10] 
+- [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
+- [b3nb5n/config-parts](https://github.com/b3nb5n/config-parts) - Modularly construct nixos and home manager configurations
+- [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@ma27]
+- [mirkolenz/quadlet-nix](https://github.com/mirkolenz/quadlet-nix) - NixOS module for Quadlet / podman-systemd
+- [bivsk/nix-iv](https://github.com/bivsk/nix-iv) - Personal NixOS configurations
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
+- [nukdokplex/ncaa-public](https://github.com/nukdokplex/ncaa-public) - A public instance of my NCaA (Nix Code as Anything) repository that contains NixOS modules, hosts, Nix packages and other stuff.
+- [applicative-systems/mkdocs-flake](https://github.com/applicative-systems/mkdocs-flake) - mkdocs-flake simplifies MkDocs setup with the latest packages, pre-bundled plugins, Material Design, PlantUML, and code highlighting. Available as a Nix flake, flake-parts module, and Docker image, it makes beautiful documentation easy. [maintainer=@tfc]
+- [fosskar/nixfiles](https://github.com/fosskar/nixfiles) - alles oder nix
+- [EphraimSiegfried/gachix](https://github.com/EphraimSiegfried/gachix) - A decentralized binary cache for Nix over Git
+- [StarryReverie/selector4nix](https://github.com/StarryReverie/selector4nix) - Nix substituter proxy with parallel cache queries and latency-aware selection
 
 <a name="nix_snowfall"></a>
 
@@ -1513,6 +1749,160 @@
 - [LucasGGamerM/moshidon](https://github.com/LucasGGamerM/moshidon) - Better modification of the official Mastodon for Android app
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The malleable knowledge base for you and your team. Powered by Markdown and Lua.
 - [UrAvgCode/Chooser](https://github.com/UrAvgCode/Chooser) - an android app to randomly select fingers on the screen
+- [BoidCMS/BoidCMS](https://github.com/BoidCMS/BoidCMS) - Flat file CMS for building simple websites and blogs
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+- [mattermost/mattermost-mobile](https://github.com/mattermost/mattermost-mobile) - Next generation iOS and Android apps for Mattermost in React Native
+- [kevinapps/githubstar](https://github.com/kevinapps/githubstar) - Export GitHub starred repositories, lists and topics to HTML, JSON, Markdown, or bookmark, grouped by language or topic, ordered by time, stargazer count etc.
+- [Dacid99/LinkDroid-for-Linkwarden](https://github.com/Dacid99/LinkDroid-for-Linkwarden) - A companion android app for the Linkwarden project. It enables you to upload links via the share context menu and to quickly access the webinterface.  This repository is just a mirror, please go to the gitlab repo to contribute code. 
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
+- [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
+- [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME
+- [Keruspe/GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
+- [Moham3dRiahi/Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - Th3Inspector 🕵️ Best Tool For Information Gathering 🔎
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
+- [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) - 🤳🥫 The new Open Food Facts mobile application for Android and iOS, crafted with Flutter and Dart
+- [Qloapps/QloApps](https://github.com/Qloapps/QloApps) - QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps offers a Property Management System (PMS), a Booking Engine, and an attractive Hotel Website. Elevate hotel operations with QloApps to streamline processes and provide an enhanced experience for both hoteliers and guests.
+- [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
+- [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy
+- [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
+- [kalbasit/ncps](https://github.com/kalbasit/ncps) - Nix binary cache proxy service -- with local caching and signing.
+- [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
+- [morgan3d/markdeep](https://github.com/morgan3d/markdeep) - Official public Markdeep source archive
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
+- [aelassas/movinin](https://github.com/aelassas/movinin) - Rental Property Management Platform with Mobile App
+- [mjbvz/vscode-markdown-emoji](https://github.com/mjbvz/vscode-markdown-emoji) - VS Code extension that adds support for :emoji: syntax to the built-in markdown preview
+- [mattbierner/vscode-emojisense](https://github.com/mattbierner/vscode-emojisense) - Emoji Autocomplete Plugin For VSCode 
+- [mjbvz/vscode-markdown-footnotes](https://github.com/mjbvz/vscode-markdown-footnotes) - Adds [^1] footnote syntax support to VS Code's built-in Markdown preview
+- [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
+- [yzhang-gh/vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
+- [bpruitt-goddard/vscode-mermaid-syntax-highlight](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight) - Markdown syntax support for the Mermaid charting language
+- [devhawk/vscode-markdown-sup](https://github.com/devhawk/vscode-markdown-sup) - 
+- [hedgedoc/cli](https://github.com/hedgedoc/cli) - A tiny CLI for HedgeDoc
+- [writefreely/writefreely](https://github.com/writefreely/writefreely) - A clean, Markdown-based publishing platform made for writers. Write together and build a community.
+- [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
+- [jippi/masto-guide](https://github.com/jippi/masto-guide) - 
+- [Gruntfuggly/todo-tree](https://github.com/Gruntfuggly/todo-tree) - Use ripgrep to find TODO tags and display the results in a tree view
+- [protesilaos/aporetic](https://github.com/protesilaos/aporetic) - Aporetic fonts are a custom build of Iosevka with different style and metrics than the default. This is the successor to my "Iosevka Comfy" fonts.
+- [mijorus/smile-gnome-extension](https://github.com/mijorus/smile-gnome-extension) - 
+- [mijorus/smile](https://github.com/mijorus/smile) - An emoji picker for linux, with custom tags support and localization. I'll also put some random emojis here 🦁🐾🦔🦇
+- [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
+- [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
+- [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
+- [despora/diaspora](https://github.com/despora/diaspora) - Distributed and contextual social networking. Repository of my custom Diaspora pod "Despora"
+- [adamoutler/HassOSArgonOneAddon](https://github.com/adamoutler/HassOSArgonOneAddon) - A Home Assistant Addon for Argon One Fan Control. 
+- [adamoutler/HassOSConfigurator](https://github.com/adamoutler/HassOSConfigurator) - A set of Add-Ons to configure HassOS For various platforms and development purposes.
+- [Argon40Tech/Argon-ONE-i2c-Codes](https://github.com/Argon40Tech/Argon-ONE-i2c-Codes) - This is a list of i2c Codes utilized by Argon ONE Raspberry Pi Cases
+- [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
+- [nix-community/nixos-facter-modules](https://github.com/nix-community/nixos-facter-modules) - A series of NixOS modules to be used in conjunction with https://github.com/nix-community/nixos-facter [maintainer=@brianmcgee,@Mic92]
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
+- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
+- [oberblastmeister/trashy](https://github.com/oberblastmeister/trashy) - a cli system trash manager, alternative to rm and trash-cli
+- [catppuccin/cursors](https://github.com/catppuccin/cursors) - 🐁 Soothing pastel cursors for GTK/Plasma/Hyprland
+- [muhammad23012009/PebbleFirmware](https://github.com/muhammad23012009/PebbleFirmware) - 
+- [bmacphail/pebblefw](https://github.com/bmacphail/pebblefw) - The ultimate Pebble smartwatch firmware archive
+- [KonradIT/HEROPebble](https://github.com/KonradIT/HEROPebble) - Unofficial GoPro App for Pebble smartwatches
+- [aveao/PebbleArchive](https://github.com/aveao/PebbleArchive) - Archives of various Pebble related files (as Pebble Technology Corp went bankrupt)
+- [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only.
+- [coredevices/PebbleOS](https://github.com/coredevices/PebbleOS) - 
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [nel0x/syncthing-android](https://github.com/nel0x/syncthing-android) - Syncthing - A Syncthing Wrapper for Android.
+- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [linkwarden/builds](https://github.com/linkwarden/builds) - Official release builds for Linkwarden.
+- [Sanjai-Shaarugesh/Advanced-Weather-Companion](https://github.com/Sanjai-Shaarugesh/Advanced-Weather-Companion) - Advanced Weather is a feature-rich GNOME Shell extension that provides detailed and customizable weather information right on your desktop. With support for multiple locations, advanced forecasting, and beautiful visualizations, this extension transforms how you interact with weather data.
+- [radgeek/feedwordpress](https://github.com/radgeek/feedwordpress) - FeedWordPress: simple and flexible Atom/RSS syndication for WordPress
+- [nextcloud/forms](https://github.com/nextcloud/forms) - 📝 Simple form & survey app for Nextcloud
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [gristlabs/grist-desktop](https://github.com/gristlabs/grist-desktop) - Desktop Grist, packaged with Electron
+- [mijorus/gearlever](https://github.com/mijorus/gearlever) - Manage AppImages with ease 📦
+- [pulsejet/memories-assets](https://github.com/pulsejet/memories-assets) - External large non-code assets for Memories
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - A Firefox extension to protect from being fingerprinted.
+- [firezone/firezone](https://github.com/firezone/firezone) - Blazing-fast remote access
+- [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+- [marcantondahmen/automad](https://github.com/marcantondahmen/automad) - A flat-file content management system and template engine
+- [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins
+- [nextcloud/groupfolders](https://github.com/nextcloud/groupfolders) - 📁👩‍👩‍👧‍👦 Admin-configured folders shared by everyone in a group or team. https://github.com/nextcloud-releases/groupfolders
+- [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
+- [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) - DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.
+- [TechbeeAT/jtxBoard](https://github.com/TechbeeAT/jtxBoard) - jtx Board allows you to manage your Journals (like meeting minutes), Notes and Tasks in one Android app. The app is compatible with the iCal standard (RFC5545) and is integrated with DAVx5 to allow the synchronisation of entries through CalDAV.
+- [bitfireAT/icsx5](https://github.com/bitfireAT/icsx5) - ICSx⁵ is an Android app to subscribe to remote or local iCalendar files (like time tables of your school/university or event files of your sports team).
+- [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push) - Nextcloud extension to support WebDAV-Push on calendars/address books
+- [nextcloud/tasks](https://github.com/nextcloud/tasks) - :white_check_mark: Tasks app for Nextcloud
+- [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
+- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
+- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
+- [ossappscollective/OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner) - Document scanning app 
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
+- [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
+- [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
+- [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
+- [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software
+- [GeopJr/Tuba](https://github.com/GeopJr/Tuba) - Browse the Fediverse
+- [hg1337/homeassistant-dwd](https://github.com/hg1337/homeassistant-dwd) - Custom component for Home Assistant that integrates weather data (measurements and forecasts) of Deutscher Wetterdienst (DWD).
+- [cookiemumbles/justmytoots.com](https://github.com/cookiemumbles/justmytoots.com) - 
+- [buwx/meteogram](https://github.com/buwx/meteogram) - Meteogram for a DWD MOSMIX station
+- [TurboDuke77/DWD-Meteogram](https://github.com/TurboDuke77/DWD-Meteogram) - Meteogram Wetter für DWD MOSMIX station
+- [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
+- [jdemaeyer/brightsky](https://github.com/jdemaeyer/brightsky) - JSON API for DWD's open weather data.
+- [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
+- [hassio-addons/app-wireguard](https://github.com/hassio-addons/app-wireguard) - WireGuard - Home Assistant Community Apps 
+- [bigmoby/hassio-repository-addon](https://github.com/bigmoby/hassio-repository-addon) - Home Assistant Bigmoby Add-ons
+- [mpolden/echoip](https://github.com/mpolden/echoip) - A simple IP address lookup service.
+- [abdalmoniem/Caffeinate](https://github.com/abdalmoniem/Caffeinate) - Caffeinate is a lightweight Android utility that keeps your device’s screen awake for a configurable duration, without changing system display or power settings.
+- [nextcloud/notify_push](https://github.com/nextcloud/notify_push) - Update notifications for nextcloud clients
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
+- [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
+- [nextcloud/deck](https://github.com/nextcloud/deck) - 🗂 Kanban-style project & personal management tool for Nextcloud, similar to Trello
+- [hassio-addons/app-ssh](https://github.com/hassio-addons/app-ssh) - Advanced SSH & Web Terminal - Home Assistant Community Apps
+- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
+- [Rello/audioplayer](https://github.com/Rello/audioplayer) - Audio Player for Nextcloud
+- [joe7ean/calendarbridge](https://github.com/joe7ean/calendarbridge) - Calendar Bridge lets administrators subscribe to external iCal/WebCal feeds and automatically share them as read-only relay calendars with Nextcloud groups. 
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [pauldreik/rdfind](https://github.com/pauldreik/rdfind) - find duplicate files utility
+- [flattool/warehouse](https://github.com/flattool/warehouse) - A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
+- [0x3333/auto_off_timer](https://github.com/0x3333/auto_off_timer) - A Home Assistant custom component that automatically turns off configured lights after a user-defined timeout.
+- [quentin-st/Munin-for-Android](https://github.com/quentin-st/Munin-for-Android) - Watch your munin-monitored servers on your Android devices
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+- [hobbypunk90/homeassistant-addons](https://github.com/hobbypunk90/homeassistant-addons) - 
+- [hobbypunk90/homeassistant-addon-openwrt2mqtt](https://github.com/hobbypunk90/homeassistant-addon-openwrt2mqtt) - 
+- [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
+- [voku/HtmlMin](https://github.com/voku/HtmlMin) - :clamp: HtmlMin: HTML Compressor and Minifier via PHP
+- [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
+- [hiqdev/asset-packagist](https://github.com/hiqdev/asset-packagist) - Asset Packagist
+- [libdns/inwx](https://github.com/libdns/inwx) - INWX provider implementation for libdns
+- [FanaticPythoner/better-todo-tree](https://github.com/FanaticPythoner/better-todo-tree) - An independent, actively maintained fork of Todo Tree for VS Code: the familiar workflow, major new features, active fixes, benchmarked speedups of 696+ folds, modern compatibility.
+- [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
+- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
+- [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX) - Get Android app updates straight from the source. And install it any way you want. 
+- [applicative-systems/mkdocs-flake](https://github.com/applicative-systems/mkdocs-flake) - mkdocs-flake simplifies MkDocs setup with the latest packages, pre-bundled plugins, Material Design, PlantUML, and code highlighting. Available as a Nix flake, flake-parts module, and Docker image, it makes beautiful documentation easy. [maintainer=@tfc]
+- [snugnug/hjem-rum](https://github.com/snugnug/hjem-rum) - A module collection for Hjem. [Maintainers=@GetPsyched]
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
+- [GrapheneOS/os-issue-tracker](https://github.com/GrapheneOS/os-issue-tracker) - Issue tracker for GrapheneOS Android Open Source Project hardening work. Standalone projects like Auditor, AttestationServer and hardened_malloc have their own dedicated trackers.
+- [sharevb/network-utils-ws](https://github.com/sharevb/network-utils-ws) - A modular FastAPI service providing network‑level diagnostic tools
+- [sebw/linkding-healthcheck](https://github.com/sebw/linkding-healthcheck) - Linkding URL checker
+- [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
+- [nc-music/music](https://github.com/nc-music/music) - :notes: Music app for Nextcloud
+- [fosrl/android](https://github.com/fosrl/android) - Pangolin client for Android devices
+- [hassio-addons/app-sqlite-web](https://github.com/hassio-addons/app-sqlite-web) - SQLite Web - Home Assistant Community Apps
+- [not-a-bank/open-banking-tracker-data](https://github.com/not-a-bank/open-banking-tracker-data) - The open banking API directory
+- [DAdjadj/bridge-bank](https://github.com/DAdjadj/bridge-bank) - 
+- [protectli-root/protectli-firmware-updater](https://github.com/protectli-root/protectli-firmware-updater) - Script used to update firmware on Protectli devices
+- [AKlitbo/pebble-watchface-lcars](https://github.com/AKlitbo/pebble-watchface-lcars) - An LCARS-inspired watchface for the Pebble Time 2, built on the Pebble App Framework with paf. Nine themes and four panels you fill with weather, health, sun, moon, and time readouts.
+- [rotdrop/nextcloud-app-files-archive](https://github.com/rotdrop/nextcloud-app-files-archive) - Archive inspection and extraction as Nextcloud app.
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
+- [xz-dev/numlockw](https://github.com/xz-dev/numlockw) - Control the state of NumLock
+- [ossappscollective/oss-weather](https://github.com/ossappscollective/oss-weather) - An OSS weather app for iOS/Android
+- [todeveni/php-repo-matrix](https://github.com/todeveni/php-repo-matrix) - HTML matrix of PHP versions for ppa:ondrej/php and deb.sury.org/php
+- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
+- [komascript/latex-contract](https://github.com/komascript/latex-contract) - NOTE: This project has been migrated to Codeberg, but for some time the repository is still mirrored.
+- [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
+- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues.
 
 <a name="security"></a>
 
@@ -1878,6 +2268,239 @@
 - [tgirlcloud/easy-hosts](https://github.com/tgirlcloud/easy-hosts) - a flake module to ease creating and managing multiple hosts in your nix flake.
 - [muhammad23012009/PebbleFirmware](https://github.com/muhammad23012009/PebbleFirmware) - 
 - [bmacphail/pebblefw](https://github.com/bmacphail/pebblefw) - The ultimate Pebble smartwatch firmware archive
+- [KonradIT/HEROPebble](https://github.com/KonradIT/HEROPebble) - Unofficial GoPro App for Pebble smartwatches
+- [aveao/PebbleArchive](https://github.com/aveao/PebbleArchive) - Archives of various Pebble related files (as Pebble Technology Corp went bankrupt)
+- [google/pebble](https://github.com/google/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only.
+- [coredevices/PebbleOS](https://github.com/coredevices/PebbleOS) - 
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [takahashim/mastodon-access-token](https://github.com/takahashim/mastodon-access-token) - Access Token Generator for Mastodon API
+- [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
+- [writingtool-org/writingtool](https://github.com/writingtool-org/writingtool) - 
+- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
+- [slackhq/nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
+- [8bitsaver/maxmind-geoip](https://github.com/8bitsaver/maxmind-geoip) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
+- [jhillyerd/agenix-template](https://github.com/jhillyerd/agenix-template) - NixOS module for templating agenix secrets
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+- [parsedown/parsedown](https://github.com/parsedown/parsedown) - Better Markdown Parser in PHP
+- [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit. Built with Django and React.
+- [NatLibFi/Skosmos](https://github.com/NatLibFi/Skosmos) - Thesaurus and controlled vocabulary browser using SKOS and SPARQL
+- [kaixxx/noScribe](https://github.com/kaixxx/noScribe) - Cutting edge AI technology for automated audio transcription. A nice GUI for OpenAIs Whisper and pyannote (speaker identification)
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring— MCP included! all for free or enjoy our SaaS plan!
+- [traccar/traccar-client](https://github.com/traccar/traccar-client) - Mobile app that sends your device's GPS location to your own Traccar server
+- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh,@srid]
+- [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
+- [php-feed-io/feed-io](https://github.com/php-feed-io/feed-io) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
+- [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
+- [juspay/omnix](https://github.com/juspay/omnix) - A Nix companion to improve developer experience
+- [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
+- [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
+- [suderman/deterministic-ssh-keygen](https://github.com/suderman/deterministic-ssh-keygen) - 
+- [yara-blue/microbin](https://github.com/yara-blue/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
+- [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
+- [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
+- [splitbrain/php-ico](https://github.com/splitbrain/php-ico) - PHP ICO - The PHP ICO Generator
+- [0xCCF4/noxa](https://github.com/0xCCF4/noxa) - Management tool for a multi-host NixOS configuration
+- [chadac/nix-config-modules](https://github.com/chadac/nix-config-modules) - Flake modules for multi-host joint NixOS + home-manager configs
+- [darkone-linux/darkone-nixos-framework](https://github.com/darkone-linux/darkone-nixos-framework) - A multi-user, multi-host, multi-network NixOS configuration framework.
+- [adisbladis/adios](https://github.com/adisbladis/adios) - 
+- [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
+- [numtide/nixos-passthru-cache](https://github.com/numtide/nixos-passthru-cache) - Create a copy of https://cache.nixos.org for your infrastructure
+- [Sanjai-Shaarugesh/Advanced-Weather-Companion](https://github.com/Sanjai-Shaarugesh/Advanced-Weather-Companion) - Advanced Weather is a feature-rich GNOME Shell extension that provides detailed and customizable weather information right on your desktop. With support for multiple locations, advanced forecasting, and beautiful visualizations, this extension transforms how you interact with weather data.
+- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
+- [danvk/webdiff](https://github.com/danvk/webdiff) - Two-column web-based git difftool
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
+- [nextcloud/forms](https://github.com/nextcloud/forms) - 📝 Simple form & survey app for Nextcloud
+- [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
+- [fernwerker/ownDynDNS](https://github.com/fernwerker/ownDynDNS) - Self-hosted dynamic DNS php script for FRITZ!Box and netcup DNS API
+- [gristlabs/grist-desktop](https://github.com/gristlabs/grist-desktop) - Desktop Grist, packaged with Electron
+- [mijorus/gearlever](https://github.com/mijorus/gearlever) - Manage AppImages with ease 📦
+- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+- [UshakovVasilii/gnome-shell-extension-freon](https://github.com/UshakovVasilii/gnome-shell-extension-freon) - Shows CPU temperature, disk temperature, video card temperature (NVIDIA/Catalyst/Bumblebee&NVIDIA), voltage and fan RPM
+- [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
+- [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data. 
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
+- [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+- [Sovereign-Engineering/obscuravpn-client](https://github.com/Sovereign-Engineering/obscuravpn-client) - Obscura VPN Rust library and App (available on all major platforms)
+- [pulsejet/memories-assets](https://github.com/pulsejet/memories-assets) - External large non-code assets for Memories
+- [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
+- [xieve/automatic-ripping-machine](https://github.com/xieve/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [kkapsner/CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - A Firefox extension to protect from being fingerprinted.
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
+- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
+- [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client, [mirror] https://codeberg.org/droidify/client
+- [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
+- [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+- [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
+- [openfoodfacts/search-a-licious](https://github.com/openfoodfacts/search-a-licious) - 🍊🔎 A pluggable search service for large collections of objects (like Open Food Facts)
+- [bulletmark/edir](https://github.com/bulletmark/edir) - Program to rename, remove, and copy files and directories using your editor
+- [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
+- [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) - DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.
+- [TechbeeAT/jtxBoard](https://github.com/TechbeeAT/jtxBoard) - jtx Board allows you to manage your Journals (like meeting minutes), Notes and Tasks in one Android app. The app is compatible with the iCal standard (RFC5545) and is integrated with DAVx5 to allow the synchronisation of entries through CalDAV.
+- [bitfireAT/icsx5](https://github.com/bitfireAT/icsx5) - ICSx⁵ is an Android app to subscribe to remote or local iCalendar files (like time tables of your school/university or event files of your sports team).
+- [bitfireAT/nc_ext_dav_push](https://github.com/bitfireAT/nc_ext_dav_push) - Nextcloud extension to support WebDAV-Push on calendars/address books
+- [wireapp/wire-android](https://github.com/wireapp/wire-android) - 🤖 Wire client for Android
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
+- [nextcloud/tasks](https://github.com/nextcloud/tasks) - :white_check_mark: Tasks app for Nextcloud
+- [researchxxl/syncthing-android](https://github.com/researchxxl/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
+- [manic-systems/dix](https://github.com/manic-systems/dix) - A blazingly fast tool to diff Nix related things
+- [kdl-org/kdl-php](https://github.com/kdl-org/kdl-php) - A KDL parser for PHP.
+- [kdl-org/kdl](https://github.com/kdl-org/kdl) - the kdl document language specifications
+- [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
+- [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
+- [thefossguy/nixos-needsreboot](https://github.com/thefossguy/nixos-needsreboot) - Determine if you need to reboot your NixOS machine
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
+- [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up your personal site on your own server with just a few clicks.
+- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
+- [nextcloud/twofactor_gateway](https://github.com/nextcloud/twofactor_gateway) - 🔑 Second factor provider using an external messaging gateway (Signal, SMS, Telegram, WhatsApp and XMPP)
+- [ossappscollective/OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner) - Document scanning app 
+- [thias/glim](https://github.com/thias/glim) - GRUB Live ISO Multiboot
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
+- [helgeklein/WordPress-Hugo-Migration-Scripts-HTML-Markdown](https://github.com/helgeklein/WordPress-Hugo-Migration-Scripts-HTML-Markdown) - WordPress to Hugo migration scripts, conversion from HTML to Markdown, comments
+- [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
+- [LinkStackOrg/linkstack-docker](https://github.com/LinkStackOrg/linkstack-docker) - A simple to set up docker variant of LinkStack. LinkStack is a highly customizable link sharing platform with an intuitive, easy to use user interface.
+- [oz123/coredns-netbox-plugin](https://github.com/oz123/coredns-netbox-plugin) - A coredns plugin to get dns records from Netbox
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
+- [sqids/sqids-php](https://github.com/sqids/sqids-php) - Official PHP port of Sqids. Generate short unique IDs from numbers.
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
+- [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace.
+- [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
+- [nextcloud/tables](https://github.com/nextcloud/tables) - 🍱 Nextcloud tables app
+- [bashly-framework/bashly](https://github.com/bashly-framework/bashly) - Bash command line framework and CLI generator
+- [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
+- [craigk5n/webcalendar](https://github.com/craigk5n/webcalendar) - WebCalendar is a PHP application used to maintain a calendar for a single user or an intranet group of users. It can also be configured as an event calendar.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [pforret/bashew](https://github.com/pforret/bashew) - bash script micro-framework - from small stand-alone script to complex projects with CI/CD and testing
+- [ralish/bash-script-template](https://github.com/ralish/bash-script-template) - A best practices Bash script template with several useful functions
+- [neithere/argh](https://github.com/neithere/argh) - An argparse wrapper that doesn't make you say "argh" each time you deal with it.
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+- [GibbonEdu/core](https://github.com/GibbonEdu/core) - Gibbon is a flexible, open source school management platform designed to make life better for teachers, students, parents and leaders.
+- [LibreSign/libresign](https://github.com/LibreSign/libresign) - Control how your documents get signed
+- [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template) - A pandoc LaTeX template to convert markdown files to PDF or LaTeX.
+- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10] 
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
+- [buwx/meteogram](https://github.com/buwx/meteogram) - Meteogram for a DWD MOSMIX station
+- [TurboDuke77/DWD-Meteogram](https://github.com/TurboDuke77/DWD-Meteogram) - Meteogram Wetter für DWD MOSMIX station
+- [jdemaeyer/brightsky](https://github.com/jdemaeyer/brightsky) - JSON API for DWD's open weather data.
+- [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - 🎵 Provides a composer plugin for normalizing composer.json.
+- [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
+- [sudo-project/sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user
+- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
+- [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix) - Manages Podman containers and networks on NixOS via Quadlet.
+- [oddlama/kanidm-provision](https://github.com/oddlama/kanidm-provision) - A small utility to help with kanidm provisioning
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
+- [abdalmoniem/Caffeinate](https://github.com/abdalmoniem/Caffeinate) - Caffeinate is a lightweight Android utility that keeps your device’s screen awake for a configurable duration, without changing system display or power settings.
+- [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
+- [rstockm/Metroviz](https://github.com/rstockm/Metroviz) - Technologie-Roadmap als Metro-Map visualisieren
+- [mholt/caddy-ratelimit](https://github.com/mholt/caddy-ratelimit) - HTTP rate limiting module for Caddy 2
+- [sjtug/cerberus](https://github.com/sjtug/cerberus) - A Caddy module that blocks unwanted requests using a sha256 PoW challenge
+- [manic-systems/ncro](https://github.com/manic-systems/ncro) - Lightweight HTTP proxy for optimizing Nix cache routes for fast access
+- [nicolas-goudry/marp-deck-directory](https://github.com/nicolas-goudry/marp-deck-directory) - Zero-config, fully reproducible presentation environment using Marp and Nix
+- [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
+- [totoshko88/RustConn](https://github.com/totoshko88/RustConn) - Modern cross-platform connection manager — SSH, RDP, VNC, SPICE, MOSH, Telnet, Serial, Kubernetes and Zero Trust — with a GTK4/libadwaita interface and embedded Rust clients. Linux, macOS, FreeBSD, Windows (WSLg).
+- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
+- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
+- [dfki-dsa/pii-guardrail-browser-extension](https://github.com/dfki-dsa/pii-guardrail-browser-extension) - Privacy Guardrail is a local-first Chrome extension that detects and anonymizes PII before text is pasted into ChatGPT, Claude, or Gemini, using Rust/WASM recognizers and optional in-browser transformer NER.
+- [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
+- [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace. 
+- [mihakrumpestar/panix](https://github.com/mihakrumpestar/panix) - Universal Nix Deployment Orchestrator - inspect, bootstrap, build, transfer, secrets, activate, rollback
+- [mirkolenz/quadlet-nix](https://github.com/mirkolenz/quadlet-nix) - NixOS module for Quadlet / podman-systemd
+- [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
+- [SinTan1729/chhoto-url-cli](https://github.com/SinTan1729/chhoto-url-cli) - A CLI tool for interacting with Chhoto URL
+- [TwiN/gatus-cli](https://github.com/TwiN/gatus-cli) - Client for Gatus
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
+- [anyproto/anytype-kotlin](https://github.com/anyproto/anytype-kotlin) - Official Anytype client for Android
+- [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+- [GrimmTheShrimp/run0-sudo-shim](https://github.com/GrimmTheShrimp/run0-sudo-shim) - An imitation of sudo, using run0 internally
+- [timothebot/lacy](https://github.com/timothebot/lacy) - Fast magical cd alternative for lacy terminal navigators
+- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
+- [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
+- [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
+- [filiparag/hetzner_ddns](https://github.com/filiparag/hetzner_ddns) - Hetzner Dynamic DNS (DDNS, DynDNS) daemon
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+- [hbons/Bobby](https://github.com/hbons/Bobby) - View SQLite databases
+- [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
+- [joe7ean/calendarbridge](https://github.com/joe7ean/calendarbridge) - Calendar Bridge lets administrators subscribe to external iCal/WebCal feeds and automatically share them as read-only relay calendars with Nextcloud groups. 
+- [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [pauldreik/rdfind](https://github.com/pauldreik/rdfind) - find duplicate files utility
+- [flattool/warehouse](https://github.com/flattool/warehouse) - A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
+- [abrauchli/usbeehive](https://github.com/abrauchli/usbeehive) - Tells you what each USB device on Linux can actually do.
+- [Codeinwp/feedzy-rss-feeds](https://github.com/Codeinwp/feedzy-rss-feeds) - FEEDZY RSS Feeds is an easy-to-use plugin giving you RSS aggregator and autoblogging functionality. Bring the best RSS feeds to your site.
+- [quentin-st/Munin-for-Android](https://github.com/quentin-st/Munin-for-Android) - Watch your munin-monitored servers on your Android devices
+- [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+- [hobbypunk90/homeassistant-addons](https://github.com/hobbypunk90/homeassistant-addons) - 
+- [hobbypunk90/homeassistant-addon-openwrt2mqtt](https://github.com/hobbypunk90/homeassistant-addon-openwrt2mqtt) - 
+- [kalkih/mini-graph-card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI
+- [mudkipme/MoeMemosAndroid](https://github.com/mudkipme/MoeMemosAndroid) - An app to help you capture thoughts and ideas
+- [voku/HtmlMin](https://github.com/voku/HtmlMin) - :clamp: HtmlMin: HTML Compressor and Minifier via PHP
+- [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
+- [hiqdev/asset-packagist](https://github.com/hiqdev/asset-packagist) - Asset Packagist
+- [libdns/inwx](https://github.com/libdns/inwx) - INWX provider implementation for libdns
+- [FanaticPythoner/better-todo-tree](https://github.com/FanaticPythoner/better-todo-tree) - An independent, actively maintained fork of Todo Tree for VS Code: the familiar workflow, major new features, active fixes, benchmarked speedups of 696+ folds, modern compatibility.
+- [dnsviz/dnsviz](https://github.com/dnsviz/dnsviz) - 
+- [giomf/NixoScope](https://github.com/giomf/NixoScope) - Visualize dependencies between NixOS modules
+- [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
+- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
+- [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
+- [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
+- [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
+- [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
+- [bikram-agarwal/ObtainX](https://github.com/bikram-agarwal/ObtainX) - Get Android app updates straight from the source. And install it any way you want. 
+- [applicative-systems/mkdocs-flake](https://github.com/applicative-systems/mkdocs-flake) - mkdocs-flake simplifies MkDocs setup with the latest packages, pre-bundled plugins, Material Design, PlantUML, and code highlighting. Available as a Nix flake, flake-parts module, and Docker image, it makes beautiful documentation easy. [maintainer=@tfc]
+- [jpoliv/wakeonlan](https://github.com/jpoliv/wakeonlan) - Perl script for waking up computers via Wake-On-LAN magic packets
+- [SR-G/sleep-on-lan](https://github.com/SR-G/sleep-on-lan) - Multi-platform process allowing to sleep on LAN a linux or windows computer, through wake-on-lan (reversed) magic packets or through HTTP REST requests.
+- [petersolopov/yace](https://github.com/petersolopov/yace) - under 2KB code editor for browser with plugins
+- [nedrichards/whatcable-linux](https://github.com/nedrichards/whatcable-linux) - GNOME USB-C cable and power diagnostic viewer for Linux
+- [vzaliva/whatcable-linux-cli](https://github.com/vzaliva/whatcable-linux-cli) - A linux/KDE port of whatcable, a tool to tell you what each USB connected cable can do
+- [sharevb/network-utils-ws](https://github.com/sharevb/network-utils-ws) - A modular FastAPI service providing network‑level diagnostic tools
+- [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
+- [j9t/css-dedup](https://github.com/j9t/css-dedup) - CSS declaration deduplicator for maintainability and performance optimization
+- [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
+- [sebw/linkding-healthcheck](https://github.com/sebw/linkding-healthcheck) - Linkding URL checker
+- [ldwgchen/serchding](https://github.com/ldwgchen/serchding) - Fulltext search for linkding
+- [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
+- [totoshko88/browser-switcher](https://github.com/totoshko88/browser-switcher) - Gnome Browser Switcher is a Gnome Shell extension that provides a quick way to switch your default browser via the system tray. The extension uses standard Gnome Shell APIs to integrate with the panel and GIO/GSettings to manage system browser settings.
+- [msfjarvis/compose-lobsters](https://github.com/msfjarvis/compose-lobsters) - Claw for Android: Unofficial Android client for https://lobste.rs, built using Jetpack Compose.
+- [paperwm/PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
+- [nc-music/music](https://github.com/nc-music/music) - :notes: Music app for Nextcloud
+- [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
+- [j9t/syntaxp](https://github.com/j9t/syntaxp) - Super-simple code highlighting via the CSS Custom Highlight API
+- [ev-map/EVMap](https://github.com/ev-map/EVMap) - Android app to find electric vehicle charging stations - compatible with community databases such as GoingElectric.de and OpenChargeMap.org.
+- [thephpleague/period](https://github.com/thephpleague/period) - PHP's time range API
+- [catfan/Medoo](https://github.com/catfan/Medoo) - The lightweight PHP database framework to accelerate the development.
+- [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+- [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
+- [fosrl/android](https://github.com/fosrl/android) - Pangolin client for Android devices
+- [hassio-addons/app-sqlite-web](https://github.com/hassio-addons/app-sqlite-web) - SQLite Web - Home Assistant Community Apps
+- [not-a-bank/open-banking-tracker-data](https://github.com/not-a-bank/open-banking-tracker-data) - The open banking API directory
+- [DAdjadj/bridge-bank](https://github.com/DAdjadj/bridge-bank) - 
+- [protectli-root/protectli-firmware-updater](https://github.com/protectli-root/protectli-firmware-updater) - Script used to update firmware on Protectli devices
+- [n0pashkov/netbird-tui](https://github.com/n0pashkov/netbird-tui) - A terminal UI for the local NetBird daemon. It uses the daemon gRPC socket directly and keeps common monitoring and management tasks in one keyboard-driven interface.
+- [StarryReverie/selector4nix](https://github.com/StarryReverie/selector4nix) - Nix substituter proxy with parallel cache queries and latency-aware selection
+- [rotdrop/nextcloud-app-files-archive](https://github.com/rotdrop/nextcloud-app-files-archive) - Archive inspection and extraction as Nextcloud app.
+- [xz-dev/numlockw](https://github.com/xz-dev/numlockw) - Control the state of NumLock
+- [NixOS/nix-index](https://github.com/NixOS/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
+- [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) - Weekly updated nix-index database [maintainer=@Mic92]
+- [nixpkgs-fyi/nixpkgs-fyi](https://github.com/nixpkgs-fyi/nixpkgs-fyi) - 
+- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
+- [SergeyMosin/Appointments](https://github.com/SergeyMosin/Appointments) - Nextcloud Appointments App
+- [LtRock84/werkstattmanager](https://github.com/LtRock84/werkstattmanager) - Nextcloud-App für KFZ-Werkstätten: Fahrzeuge, Terminbuch, Aufträge, Tablet-Zeiterfassung, Auswertungen und Kundennachrichten.
+- [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues.
 
 <a name="webdev"></a>
 
@@ -1913,18 +2536,392 @@
 - [b310-digital/mindwendel](https://github.com/b310-digital/mindwendel) - Brainstorm, organize, and prioritize ideas effortlessly. Use it as a collaborative planning board or for live brainstormings within your team.
 - [b310-digital/teammapper](https://github.com/b310-digital/teammapper) - Mindmapping made simple: Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate on mindmaps.
 - [kiernanroche/pico-comments](https://github.com/kiernanroche/pico-comments) - A comments plugin for Pico CMS
+- [johnbillion/wp_mail](https://github.com/johnbillion/wp_mail) - Documentation for all the situations where WordPress core sends an email, how and when they happen, and how to filter or disable each one.
+- [umputun/remark42](https://github.com/umputun/remark42) - comment engine
+- [isso-comments/isso](https://github.com/isso-comments/isso) - a Disqus alternative
+- [bikeindex/bike_index](https://github.com/bikeindex/bike_index) - All the code for Bike Index, because we love you
+- [pqina/flip](https://github.com/pqina/flip) - ⏳ The online version of the classic flip clock
+- [WonderCMS/wondercms](https://github.com/WonderCMS/wondercms) - Fast and small flat file CMS (5 files). Built with PHP, JSON database.
+- [danpros/htmly](https://github.com/danpros/htmly) - Simple and fast databaseless PHP blogging platform, and Flat-File CMS
+- [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - 🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent
+- [bPlugins/count-post-reaction](https://github.com/bPlugins/count-post-reaction) - 
+- [shhdharmen/keyboard-css](https://github.com/shhdharmen/keyboard-css) - Show off your keyboard shortcuts with style 🦄.
+- [Choices-js/Choices](https://github.com/Choices-js/Choices) - A vanilla JS customisable select box/text input plugin ⚡️
+- [hmellor/auction-website](https://github.com/hmellor/auction-website) - An open-source auction hosting system
+- [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+- [jakehamilton/jakehamilton.dev](https://github.com/jakehamilton/jakehamilton.dev) - 
+- [amphp/http-client](https://github.com/amphp/http-client) - An advanced async HTTP client library for PHP, enabling efficient, non-blocking, and concurrent requests and responses.
+- [marella/material-design-icons](https://github.com/marella/material-design-icons) - Latest icon fonts and optimized SVGs for material design icons.
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
+- [tsileo/microblog.pub](https://github.com/tsileo/microblog.pub) - A self-hosted, single-user, ActivityPub powered microblog.
+- [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX. 
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
+- [lkrms/pretty-php](https://github.com/lkrms/pretty-php) - The opinionated PHP code formatter
+- [fruitcake/laravel-debugbar](https://github.com/fruitcake/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
+- [nix-community/lorri](https://github.com/nix-community/lorri) - Your project’s nix-env [maintainer=@Profpatsch,@nyarly]
+- [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [umap-project/umap](https://github.com/umap-project/umap) - uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site.
+- [laradashboard/laradashboard](https://github.com/laradashboard/laradashboard) - ⚡ Lara Dashboard - CMS by Laravel - All In One solution to start your Laravel Application from Basic to Enterprise. Manages Users, Roles, Permissions, Modules, Settings, Translations, Contents, Monitoring and every actions of your Laravel application. Complete solution for Laravel application with Tailwind, Livewire, Rest API, Unit-Tests and more.
+- [laravel/vue-starter-kit](https://github.com/laravel/vue-starter-kit) - 
+- [asbiin/laravel-webauthn](https://github.com/asbiin/laravel-webauthn) - Webauthn adapter for Laravel
+- [fumeapp/laranuxt](https://github.com/fumeapp/laranuxt) - Laravel and Nuxt.js boilerplate
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
+- [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
+- [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
+- [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
+- [ag-grid/ag-charts](https://github.com/ag-grid/ag-charts) - AG Charts is a fully-featured and highly customizable JavaScript charting library. The professional choice for developers building enterprise applications
+- [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
+- [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
+- [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
+- [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
+- [jamdotdev/jam-dev-utilities](https://github.com/jamdotdev/jam-dev-utilities) - Lightweight utils set - fast and open-source. It's got cmd+k search & everything's client-side. No ads, your data stays local.
+- [Gioni06/terminal.css](https://github.com/Gioni06/terminal.css) - Modern and minimalistic CSS framework for terminal enthusiasts
+- [pineapplegiant/spaceduck](https://github.com/pineapplegiant/spaceduck) - 🚀 🦆 An intergalactic space theme for Vim, Terminal, and more!
+- [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - sitespeed.io is an open-source tool for comprehensive web performance analysis, enabling you to test, monitor, and optimize your website’s speed using real browsers in various environments.
+- [sitespeedio/onlinetest](https://github.com/sitespeedio/onlinetest) - Deploy your own version of sitespeed.io online.
+- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
+- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+- [darkterminal/mylibsqladmin](https://github.com/darkterminal/mylibsqladmin) - MylibSQLAdmin - A Modern libSQL Database Management Platform
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+- [withstudiocms/studiocms](https://github.com/withstudiocms/studiocms) - Dedicated SSR (Server-side-rendered) Astro native Headless CMS, built from the ground up for the Astro community and by Astro community members
+- [emilpriver/geni](https://github.com/emilpriver/geni) - Standalone database migration tool which works for Postgres, MariaDB, MySQL, Sqlite and LibSQL(Turso).
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
+- [henryclw/jsonhero-web](https://github.com/henryclw/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
+- [5t3ph/smolcss](https://github.com/5t3ph/smolcss) - Minimal snippets for modern CSS layouts and components
+- [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
+- [blaggacao/frappix](https://github.com/blaggacao/frappix) - Frappe on Nix
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
+- [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
+- [iquercorb/xows](https://github.com/iquercorb/xows) - XMPP over WebSocket Web client
+- [gotenberg/gotenberg-php](https://github.com/gotenberg/gotenberg-php) - 🐘 A PHP client for interacting with Gotenberg.
+- [outline/outline-icons](https://github.com/outline/outline-icons) - An iconset designed for the team knowledgebase Outline, but open to all. 
+- [BoidCMS/BoidCMS](https://github.com/BoidCMS/BoidCMS) - Flat file CMS for building simple websites and blogs
+- [ktolonen/ultiorganizer](https://github.com/ktolonen/ultiorganizer) - Ultiorganizer is a web application for online score keeping of Ultimate events.
+- [thunderbird/stormbox](https://github.com/thunderbird/stormbox) - A JMAP webmail.
+- [tutunak/awesome-url-shortener](https://github.com/tutunak/awesome-url-shortener) -  A curated list of URL shorteners — hosted services, self-hosted open-source projects, and what's been discontinued.
+- [dell-mic/file-glance](https://github.com/dell-mic/file-glance) - A powerful tool for viewing, filtering, and transforming tabular data files (CSV, JSON, XLSX etc.) with JavaScript.
+- [sapics/ip-location-db](https://github.com/sapics/ip-location-db) - ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2
+- [georgyo/ifconfig.io](https://github.com/georgyo/ifconfig.io) - 
+- [porech/caddy-maxmind-geolocation](https://github.com/porech/caddy-maxmind-geolocation) - Caddy v2 module to filter requests based on source IP geolocation
+- [aablinov/caddy-geoip](https://github.com/aablinov/caddy-geoip) - Caddy plugin to resolve user GeoIP data
+- [zhangjiayin/caddy-geoip2](https://github.com/zhangjiayin/caddy-geoip2) - caddy-geoip2
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [Qloapps/QloApps](https://github.com/Qloapps/QloApps) - QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps offers a Property Management System (PMS), a Booking Engine, and an attractive Hotel Website. Elevate hotel operations with QloApps to streamline processes and provide an enhanced experience for both hoteliers and guests.
+- [spatie/sheets](https://github.com/spatie/sheets) - Store & retrieve your static content in plain text files
+- [cocur/slugify](https://github.com/cocur/slugify) - Converts a string to a slug. Includes integrations for Symfony, Silex, Laravel, Zend Framework 2, Twig, Nette and Latte.
+- [morgan3d/markdeep](https://github.com/morgan3d/markdeep) - Official public Markdeep source archive
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
+- [panr/terminal-css](https://github.com/panr/terminal-css) - A simple, classless set of semantic styles derived from Hugo Terminal Theme
+- [webtui/webtui](https://github.com/webtui/webtui) - Modular CSS Library that brings the beauty of Terminal UIs to the browser
+- [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+- [jippi/masto-guide](https://github.com/jippi/masto-guide) - 
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
+- [t0mer/gotenberg-ui](https://github.com/t0mer/gotenberg-ui) - Self-hosted FastAPI web UI for Gotenberg: convert URLs, HTML files and office documents to PDF, and merge PDFs, from your browser
+- [typemill/typemill](https://github.com/typemill/typemill) - Typemill is a flat-file CMS based on Markdown and designed for informational websites like documentation, manuals, and handbooks.
+- [jgivoni/flysystem-cache-adapter](https://github.com/jgivoni/flysystem-cache-adapter) - The PSR-6 compliant adapter decorator for Flysystem v3 that caches file metadata to improve performance.
+- [prezet/prezet](https://github.com/prezet/prezet) - 🚀 Markdown Blogging for Laravel!
+- [laravel/livewire-starter-kit](https://github.com/laravel/livewire-starter-kit) - 
+- [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
+- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
+- [8bitsaver/maxmind-geoip](https://github.com/8bitsaver/maxmind-geoip) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
+- [parsedown/parsedown](https://github.com/parsedown/parsedown) - Better Markdown Parser in PHP
+- [flatpressblog/flatpress](https://github.com/flatpressblog/flatpress) - FlatPress is a lightweight, easy-to-set-up flat-file blogging engine.
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring— MCP included! all for free or enjoy our SaaS plan!
+- [traccar/traccar](https://github.com/traccar/traccar) - Open source GPS tracking platform - self-hosted or managed, 200+ device protocols
+- [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [php-feed-io/feed-io](https://github.com/php-feed-io/feed-io) - A PHP library to read and write feeds in JSONFeed, RSS or Atom format
+- [yara-blue/microbin](https://github.com/yara-blue/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
+- [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
+- [splitbrain/php-ico](https://github.com/splitbrain/php-ico) - PHP ICO - The PHP ICO Generator
+- [radgeek/feedwordpress](https://github.com/radgeek/feedwordpress) - FeedWordPress: simple and flexible Atom/RSS syndication for WordPress
+- [thomsa/auktiva](https://github.com/thomsa/auktiva) - A feature-rich auction platform for creating and managing private or public auctions. Supports real-time bidding with live updates, multiple currencies, flexible item end dates, anonymous bidding options, and role-based member management. Perfect for charity auctions, estate sales, or community fundraisers.
+- [knadh/dictpress](https://github.com/knadh/dictpress) - A stand-alone web server application for building and publishing full fledged dictionary websites and APIs for any language.
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
+- [nextcloud/forms](https://github.com/nextcloud/forms) - 📝 Simple form & survey app for Nextcloud
+- [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core
+- [modernweb-dev/web](https://github.com/modernweb-dev/web) - Guides, tools and libraries for modern web development.
+- [pulsejet/memories-assets](https://github.com/pulsejet/memories-assets) - External large non-code assets for Memories
+- [dreamfactorysoftware/dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory) - DreamFactory is a secure, self-hosted enterprise data access platform that provides governed API access to any data source, connecting enterprise applications and on-prem LLMs with role-based access and identity passthrough.
+- [azuyalabs/yasumi](https://github.com/azuyalabs/yasumi) - The easy PHP Library for calculating holidays
+- [kdl-org/kdl-php](https://github.com/kdl-org/kdl-php) - A KDL parser for PHP.
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY Linktree alternative.
+- [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up your personal site on your own server with just a few clicks.
+- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
+- [nextcloud/twofactor_gateway](https://github.com/nextcloud/twofactor_gateway) - 🔑 Second factor provider using an external messaging gateway (Signal, SMS, Telegram, WhatsApp and XMPP)
+- [helgeklein/WordPress-Hugo-Migration-Scripts-HTML-Markdown](https://github.com/helgeklein/WordPress-Hugo-Migration-Scripts-HTML-Markdown) - WordPress to Hugo migration scripts, conversion from HTML to Markdown, comments
+- [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
+- [LinkStackOrg/linkstack-docker](https://github.com/LinkStackOrg/linkstack-docker) - A simple to set up docker variant of LinkStack. LinkStack is a highly customizable link sharing platform with an intuitive, easy to use user interface.
+- [sqids/sqids-php](https://github.com/sqids/sqids-php) - Official PHP port of Sqids. Generate short unique IDs from numbers.
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
+- [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
+- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
+- [catfan/Medoo](https://github.com/catfan/Medoo) - The lightweight PHP database framework to accelerate the development.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
+- [craigk5n/webcalendar](https://github.com/craigk5n/webcalendar) - WebCalendar is a PHP application used to maintain a calendar for a single user or an intranet group of users. It can also be configured as an event calendar.
+- [fedify-dev/hollo](https://github.com/fedify-dev/hollo) - Federated single-user microblogging software
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [GibbonEdu/core](https://github.com/GibbonEdu/core) - Gibbon is a flexible, open source school management platform designed to make life better for teachers, students, parents and leaders.
+- [LibreSign/libresign](https://github.com/LibreSign/libresign) - Control how your documents get signed
+- [buwx/meteogram](https://github.com/buwx/meteogram) - Meteogram for a DWD MOSMIX station
+- [TurboDuke77/DWD-Meteogram](https://github.com/TurboDuke77/DWD-Meteogram) - Meteogram Wetter für DWD MOSMIX station
+- [jdemaeyer/brightsky](https://github.com/jdemaeyer/brightsky) - JSON API for DWD's open weather data.
+- [Pirate-Weather/pirate-weather-code](https://github.com/Pirate-Weather/pirate-weather-code) - Code for the Pirate Weather API
+- [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - 🎵 Provides a composer plugin for normalizing composer.json.
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
+- [Chrystalkey/landtagszusammenfasser](https://github.com/Chrystalkey/landtagszusammenfasser) - Ein Versuch Landespolitik transparenter zu machen, inspiriert vom Bundestagszusammenfasser(bundestagszusammenfasser.de)
+- [0php/Zero](https://github.com/0php/Zero) - ZeroPHP is zero dependencies micro framework inspired by Laravel
+- [rstockm/Metroviz](https://github.com/rstockm/Metroviz) - Technologie-Roadmap als Metro-Map visualisieren
+- [openbracketformat/openbracketformat](https://github.com/openbracketformat/openbracketformat) - Open standard for tournament bracket data
+- [mholt/caddy-ratelimit](https://github.com/mholt/caddy-ratelimit) - HTTP rate limiting module for Caddy 2
+- [afragen/git-updater](https://github.com/afragen/git-updater) - This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes
+- [sjtug/cerberus](https://github.com/sjtug/cerberus) - A Caddy module that blocks unwanted requests using a sha256 PoW challenge
+- [wintercms/winter](https://github.com/wintercms/winter) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.
+- [nicolas-goudry/marp-deck-directory](https://github.com/nicolas-goudry/marp-deck-directory) - Zero-config, fully reproducible presentation environment using Marp and Nix
+- [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
+- [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
+- [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
+- [dimtion/Shaarlier](https://github.com/dimtion/Shaarlier) - Simple Android app for sharing links on Shaarli.
+- [Dreamacro/maxmind-geoip](https://github.com/Dreamacro/maxmind-geoip) - 
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+- [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+- [flightphp/skeleton](https://github.com/flightphp/skeleton) - This is an example repository of how a more complex Flight project might be setup.
+- [flightphp/skeleton-simple](https://github.com/flightphp/skeleton-simple) - This is a skeleton project for a single file application to help your RESTful APIs take Flight!
+- [flightphp/cache](https://github.com/flightphp/cache) - Light, simple and standalone PHP in-file caching class
+- [flightphp/runway](https://github.com/flightphp/runway) - Console app for the Flight PHP Framework. 
+- [Codeinwp/feedzy-rss-feeds](https://github.com/Codeinwp/feedzy-rss-feeds) - FEEDZY RSS Feeds is an easy-to-use plugin giving you RSS aggregator and autoblogging functionality. Bring the best RSS feeds to your site.
+- [iadefensa/feed-ghost](https://github.com/iadefensa/feed-ghost) - The IA Defensa Feed Ghost dual-purpose feed neutralization tool
+- [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
+- [voku/HtmlMin](https://github.com/voku/HtmlMin) - :clamp: HtmlMin: HTML Compressor and Minifier via PHP
+- [composer/installers](https://github.com/composer/installers) - A Multi-Framework Composer Library Installer
+- [hiqdev/asset-packagist](https://github.com/hiqdev/asset-packagist) - Asset Packagist
+- [libdns/inwx](https://github.com/libdns/inwx) - INWX provider implementation for libdns
+- [dnsviz/dnsviz](https://github.com/dnsviz/dnsviz) - 
+- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
+- [lowercasename/gathio](https://github.com/lowercasename/gathio) - Self-destructing, shareable, no-registration event pages
+- [petersolopov/yace](https://github.com/petersolopov/yace) - under 2KB code editor for browser with plugins
+- [j9t/css-dedup](https://github.com/j9t/css-dedup) - CSS declaration deduplicator for maintainability and performance optimization
+- [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
+- [kenwheeler/slick](https://github.com/kenwheeler/slick) - the last carousel you'll ever need
+- [j9t/syntaxp](https://github.com/j9t/syntaxp) - Super-simple code highlighting via the CSS Custom Highlight API
+- [thephpleague/period](https://github.com/thephpleague/period) - PHP's time range API
+- [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
+- [sylturner/weather-icons](https://github.com/sylturner/weather-icons) - 215 Weather Themed Icons and CSS
+- [lowlighter/matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps!
+- [kevquirk/pureblog](https://github.com/kevquirk/pureblog) - A simple PHP-based blogging platform, designed for personal use.
+- [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
+- [todeveni/php-repo-matrix](https://github.com/todeveni/php-repo-matrix) - HTML matrix of PHP versions for ppa:ondrej/php and deb.sury.org/php
+- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 
 <a name="work"></a>
 
 ## work
 
-- No repositories
+- [oeg-upm/devops-infra](https://github.com/oeg-upm/devops-infra) - Public repository for an ontology network on DevOps infrastructure
+- [dgarijo/Widoco](https://github.com/dgarijo/Widoco) - Wizard for documenting ontologies. WIDOCO is a step by step generator of HTML templates with the documentation of your ontology. It uses the LODE environment to create part of the template.
+- [executablebooks/MyST-Parser](https://github.com/executablebooks/MyST-Parser) - An extended commonmark compliant parser, with bridges to docutils/sphinx
+- [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
+- [alexey-trofimov/documentation-template](https://github.com/alexey-trofimov/documentation-template) - This is an HTML template for creating documentation for WordPress themes, for website templates, and for themes for any other CMS.
+- [necolas/idiomatic-css](https://github.com/necolas/idiomatic-css) - Principles of writing consistent, idiomatic CSS.
+- [joelthorner/doc-template](https://github.com/joelthorner/doc-template) - Dev documentation template (one file)
+- [nextcloud/whiteboard](https://github.com/nextcloud/whiteboard) - Create & collaborate on an infinite canvas!
+- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) - The PHP framework that gets out of your way
+- [b310-digital/mindwendel](https://github.com/b310-digital/mindwendel) - Brainstorm, organize, and prioritize ideas effortlessly. Use it as a collaborative planning board or for live brainstormings within your team.
+- [b310-digital/teammapper](https://github.com/b310-digital/teammapper) - Mindmapping made simple: Host and create your own mindmaps. Share your mindmap sessions with your team and collaborate on mindmaps.
+- [pretalx/pretalx](https://github.com/pretalx/pretalx) - Conference planning tool: CfP, scheduling, speaker management
+- [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
+- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
+- [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - 🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent
+- [kappapiana/anonymize](https://github.com/kappapiana/anonymize) - A script to change authorship to ODT and DOCX comments, redlines and whatnot. 
+- [RichardLitt/low-resource-languages](https://github.com/RichardLitt/low-resource-languages) - A curated list of resources for the conservation, development, and documentation of low resource (human) languages.
+- [directvt/vtm](https://github.com/directvt/vtm) - Text-based desktop environment
+- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
+- [marella/material-design-icons](https://github.com/marella/material-design-icons) - Latest icon fonts and optimized SVGs for material design icons.
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
+- [allotropia/nextcloud_files_libreoffice_edit](https://github.com/allotropia/nextcloud_files_libreoffice_edit) - Nextcloud App to edit files directly with LibreOffice (via WebDav)
+- [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
+- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
+- [nunomaduro/phpinsights](https://github.com/nunomaduro/phpinsights) - 🔰 Instant PHP quality checks from your console
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX. 
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
+- [lkrms/pretty-php](https://github.com/lkrms/pretty-php) - The opinionated PHP code formatter
+- [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
+- [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
+- [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - This is a mirror of https://codeberg.org/fsfe/reuse-tool
+- [crocuda/boulette](https://github.com/crocuda/boulette) - A terminal confirmation prompt that prevents you from accidentally damaging remote hosts.
+- [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
+- [sitespeedio/sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - sitespeed.io is an open-source tool for comprehensive web performance analysis, enabling you to test, monitor, and optimize your website’s speed using real browsers in various environments.
+- [sitespeedio/onlinetest](https://github.com/sitespeedio/onlinetest) - Deploy your own version of sitespeed.io online.
+- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
+- [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+- [5t3ph/smolcss](https://github.com/5t3ph/smolcss) - Minimal snippets for modern CSS layouts and components
+- [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
+- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ GUI/CLI tool and library for saving complete web pages as a single HTML file
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn't need additional client-side software
+- [Qloapps/QloApps](https://github.com/Qloapps/QloApps) - QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps offers a Property Management System (PMS), a Booking Engine, and an attractive Hotel Website. Elevate hotel operations with QloApps to streamline processes and provide an enhanced experience for both hoteliers and guests.
+- [LogicLabs-OU/OpenArchiver](https://github.com/LogicLabs-OU/OpenArchiver) - An open-source platform for legally compliant email archiving.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+- [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source video conferencing app powered by LiveKit. Built with Django and React.
+- [NatLibFi/Skosmos](https://github.com/NatLibFi/Skosmos) - Thesaurus and controlled vocabulary browser using SKOS and SPARQL
+- [schemacrawler/SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - Free database schema discovery and comprehension tool
+- [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
+- [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
+- [openfoodfacts/search-a-licious](https://github.com/openfoodfacts/search-a-licious) - 🍊🔎 A pluggable search service for large collections of objects (like Open Food Facts)
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [rstockm/Metroviz](https://github.com/rstockm/Metroviz) - Technologie-Roadmap als Metro-Map visualisieren
+- [nicolas-goudry/marp-deck-directory](https://github.com/nicolas-goudry/marp-deck-directory) - Zero-config, fully reproducible presentation environment using Marp and Nix
+- [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
+- [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+- [flightphp/cache](https://github.com/flightphp/cache) - Light, simple and standalone PHP in-file caching class
+- [flightphp/runway](https://github.com/flightphp/runway) - Console app for the Flight PHP Framework. 
+- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+- [lissy93/networking-toolbox](https://github.com/lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
+- [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
+- [elastic/kibana](https://github.com/elastic/kibana) - Your window into all of your data
+- [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) - Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal
+- [connerohnesorge/infisical-flake](https://github.com/connerohnesorge/infisical-flake) - Nix Flake for Infisical: the open-source platform for secrets management, PKI, and SSH access. 
+- [j9t/css-dedup](https://github.com/j9t/css-dedup) - CSS declaration deduplicator for maintainability and performance optimization
+- [sebw/linkding-healthcheck](https://github.com/sebw/linkding-healthcheck) - Linkding URL checker
+- [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
+- [lowlighter/matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps!
+- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format) - 
 
 <a name="xolotl"></a>
 
 ## xolotl
 
-- No repositories
+- [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
+- [mikeroyal/NixOS-Guide](https://github.com/mikeroyal/NixOS-Guide) - NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.
+- [konrad/NixOS_installation_script](https://github.com/konrad/NixOS_installation_script) - A simple NixOS installation script
+- [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
+- [mbund/nix-config](https://github.com/mbund/nix-config) - Personal NixOS and home-manager configuration for all my machines
+- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]
+- [ymatsiuk/nixos-config](https://github.com/ymatsiuk/nixos-config) - Dell XPS 13 NixOS and home-manager configuration
+- [Kranzes/nix-config](https://github.com/Kranzes/nix-config) - Nix configurations
+- [luishfonseca/nixos-config](https://github.com/luishfonseca/nixos-config) - 
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS, nix-darwin  & Home Manager Configurations ❄️
+- [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
+- [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
+- [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS.
+- [EdenEast/nyx](https://github.com/EdenEast/nyx) - ⚙️Nix[OS] Configuration
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
+- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
+- [astro/nix-openwrt-imagebuilder](https://github.com/astro/nix-openwrt-imagebuilder) - Build OpenWRT images in Nix derivations
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
+- [notthebee/nix-config](https://github.com/notthebee/nix-config) - Configuration files for my NixOS and nix-darwin machines. Moved to https://git.notthebe.ee/notthebee/nix-config
+- [vpsfreecz/vpsadminos](https://github.com/vpsfreecz/vpsadminos) - Host for Linux system containers based on NixOS, ZFS and LXC
+- [reckenrode/nixos-configs](https://github.com/reckenrode/nixos-configs) - My NixOS and nix-darwin configs
+- [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
+- [JoseExposito/gnome-shell-extension-x11gestures](https://github.com/JoseExposito/gnome-shell-extension-x11gestures) - Enable GNOME Shell multi-touch gestures on X11 with this extension
+- [TLATER/dotfiles](https://github.com/TLATER/dotfiles) - Dotfiles deployed with nix/home-manager. Feel free to take what you like!
+- [dwarfmaster/arkenfox-nixos](https://github.com/dwarfmaster/arkenfox-nixos) - Utilities to use arkenfox/user.js in NixOS
+- [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
+- [jonlabelle/docker-network-tools](https://github.com/jonlabelle/docker-network-tools) - A Docker image with various network tools pre-installed.
+- [nicolas-goudry/earth-view](https://github.com/nicolas-goudry/earth-view) - Set background wallpaper to a random image from Google Earth View.
+- [MatthewCroughan/nixinate](https://github.com/MatthewCroughan/nixinate) - Another NixOS Deployment Tool - Nixinate your systems 🕶️ 
+- [hall/kubenix](https://github.com/hall/kubenix) - Kubernetes management with Nix
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+- [linka-app/linka](https://github.com/linka-app/linka) - Cross-platform, Self-hosted & AI powered bookmark management app for linkding, an alternative to linkding front-end, with special optimization for search and quick open functions. Free and open source. Provide web app、PWA and desktop APP. Companion for browsers without bookmark like Arc.
+- [jakehamilton/config](https://github.com/jakehamilton/config) - My Nix configuration for packages, systems, etc.
+- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VS Code Marketplace and Open VSX extensions [maintainers=@deemp, @ameertaweel]
+- [mgalgs/gnome-shell-system-monitor-next-applet](https://github.com/mgalgs/gnome-shell-system-monitor-next-applet) - Display system informations in gnome shell status bar, such as memory usage, cpu usage, network rates…
+- [nrbray/nixos-configuration](https://github.com/nrbray/nixos-configuration) - 
+- [gyunaev/birdtray](https://github.com/gyunaev/birdtray) - new mail system tray notification icon for Thunderbird
+- [BeryJu/gravity](https://github.com/BeryJu/gravity) - Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd
+- [alles-wg/stork-nix](https://github.com/alles-wg/stork-nix) - 
+- [kradalby/dotfiles](https://github.com/kradalby/dotfiles) - monorepo for everything in my tech life.
+- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
+- [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Servers and Laptops
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
+- [PhrozenByte/rmtrash](https://github.com/PhrozenByte/rmtrash) - Put files (and directories) in trash using the `trash-put` command in a way that is, otherwise as `trash-put` itself, compatible to GNUs `rm` and `rmdir`
+- [Hoverbear-Consulting/flake](https://github.com/Hoverbear-Consulting/flake) - Company Nix expressions.
+- [linyinfeng/dotfiles](https://github.com/linyinfeng/dotfiles) - My personal NixOS configurations.
+- [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix
+- [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) - The Media Server NixOS Module
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+- [fricklerhandwerk/home-damager](https://github.com/fricklerhandwerk/home-damager) - Fully declarative Home Manager installation
+- [makefu/nixos-config](https://github.com/makefu/nixos-config) - nix configuration for all hosts, previously part of stockholm
+- [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
+- [markusressel/fan2go](https://github.com/markusressel/fan2go) - A simple daemon providing dynamic fan speed control based on temperature sensors.
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+- [nextcloud/whiteboard](https://github.com/nextcloud/whiteboard) - Create & collaborate on an infinite canvas!
+- [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
+- [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
+- [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - SBOM, provenance, dependency graph, and vulnerability tools for Nix.
+- [monal-im/fpush](https://github.com/monal-im/fpush) - Scalable push server for XMPP
+- [pretalx/pretalx](https://github.com/pretalx/pretalx) - Conference planning tool: CfP, scheduling, speaker management
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+- [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [qdm12/ddns-updater](https://github.com/qdm12/ddns-updater) - Container to update DNS records periodically with WebUI for many DNS providers
+- [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
+- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
+- [jalil-salame/configuration.nix](https://github.com/jalil-salame/configuration.nix) - My NixOS configuration as a NixOS module
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [gnunn1/tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
+- [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) - The Conventional Commits toolbox
+- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: 
+- [kalbasit/ncps](https://github.com/kalbasit/ncps) - Nix binary cache proxy service -- with local caching and signing.
+- [leafcloudhq/echoip](https://github.com/leafcloudhq/echoip) - IP address lookup service
+- [coder/wush](https://github.com/coder/wush) - simplest & fastest way to transfer files between computers via WireGuard
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
+- [Mic92/cntr](https://github.com/Mic92/cntr) - A container debugging tool based on FUSE
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) - API datasource for grafana. Visualize data from JSON / CSV / TSV / XML / GraphQL endpoints
+- [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
+- [preservim/vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
+- [srid/nixos-config](https://github.com/srid/nixos-config) - KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)
+- [dell/libsmbios](https://github.com/dell/libsmbios) - library for interacting with Dell SMBIOS tables 
+- [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
+- [deinstapel/cpupower](https://github.com/deinstapel/cpupower) - Manage the frequency scaling driver of your CPU (Intel Core and AMD Ryzen processors supported)
+- [andrzej-az/cpupower4](https://github.com/andrzej-az/cpupower4) - 
+- [redhat-performance/tuned](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
+- [OtaK/McMojave-hyprcursor](https://github.com/OtaK/McMojave-hyprcursor) - Pure SVG Hyprcursor port of the amazing McMojave XCursor theme by @vinceluice
+- [mechtifs/wiggle](https://github.com/mechtifs/wiggle) - Gnome extension that magnifies the cursor when the mouse is moved rapidly.
+- [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
+- [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
+- [germanztz/gnome-shell-extension-rclone-manager](https://github.com/germanztz/gnome-shell-extension-rclone-manager) - Is like Dropbox sync client but for more than 30 services, adds an indicator to the top panel so you can manage the rclone profiles configured in your system, perform operations such as mount as remote, watch for file modifications, sync with remote storage, navigate it's main folder. Also, it shows the status of each profile so you can supervise the operations, and provides an easy access log of events. Backup and restore the rclone configuration file, so you won't have to configure all your devices one by one
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
+- [Keruspe/GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME
+- [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go.
+- [Aetf/kmscon](https://github.com/Aetf/kmscon) - Linux KMS/DRM based virtual Console Emulator
+- [gristlabs/grist-desktop](https://github.com/gristlabs/grist-desktop) - Desktop Grist, packaged with Electron
+- [mijorus/gearlever](https://github.com/mijorus/gearlever) - Manage AppImages with ease 📦
+- [flattool/warehouse](https://github.com/flattool/warehouse) - A versatile toolbox for viewing flatpak info, managing user data, and batch managing installed flatpaks
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
+- [snugnug/hjem-rum](https://github.com/snugnug/hjem-rum) - A module collection for Hjem. [Maintainers=@GetPsyched]
+- [nix-community/preservation](https://github.com/nix-community/preservation) - Nix tooling to enable declarative management of non-volatile system state. [maintainer=@WilliButz]
 
 ## License
 
