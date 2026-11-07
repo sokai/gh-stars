@@ -118,6 +118,7 @@
 - [ev-map/EVMap](https://github.com/ev-map/EVMap) - Android app to find electric vehicle charging stations - compatible with community databases such as GoingElectric.de and OpenChargeMap.org.
 - [fosrl/android](https://github.com/fosrl/android) - Pangolin client for Android devices
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues.
+- [ProtonVPN/android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
 
 <a name="awesome"></a>
 
@@ -711,6 +712,10 @@
 - [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
 - [LtRock84/werkstattmanager](https://github.com/LtRock84/werkstattmanager) - Nextcloud-App für KFZ-Werkstätten: Fahrzeuge, Terminbuch, Aufträge, Tablet-Zeiterfassung, Auswertungen und Kundennachrichten.
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues.
+- [kdkumawat/formaty](https://github.com/kdkumawat/formaty) - The Developer Data Workspace - Format, convert, compare, reconcile, query, and generate code from structured data directly in your browser - JSON · XML · YAML · TOML · CSV · lists · API responses.
+- [Nilutpal-2020/jsonos](https://github.com/Nilutpal-2020/jsonos) - A browser-based JSON workbench. View, edit, validate, format, repair, query (JSONPath), transform, diff, and share JSON — all locally in your browser.
+- [zhanpoint/jsonsage](https://github.com/zhanpoint/jsonsage) - 一个基于 CodeMirror 6 的 JSON 网页工具。编辑、查询、对比和类型生成，在浏览器里完成。
+- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.
 
 <a name="knowledge"></a>
 
@@ -784,6 +789,7 @@
 - [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
 - [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format) - 
 - [komascript/latex-contract](https://github.com/komascript/latex-contract) - NOTE: This project has been migrated to Codeberg, but for some time the repository is still mirrored.
+- [kdkumawat/formaty](https://github.com/kdkumawat/formaty) - The Developer Data Workspace - Format, convert, compare, reconcile, query, and generate code from structured data directly in your browser - JSON · XML · YAML · TOML · CSV · lists · API responses.
 
 <a name="linux"></a>
 
@@ -1251,6 +1257,9 @@
 - [nextcloud/serverinfo](https://github.com/nextcloud/serverinfo) - 📊 A monitoring app which creates a server info dashboard for admins
 - [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues.
+- [kdkumawat/formaty](https://github.com/kdkumawat/formaty) - The Developer Data Workspace - Format, convert, compare, reconcile, query, and generate code from structured data directly in your browser - JSON · XML · YAML · TOML · CSV · lists · API responses.
+- [Nilutpal-2020/jsonos](https://github.com/Nilutpal-2020/jsonos) - A browser-based JSON workbench. View, edit, validate, format, repair, query (JSONPath), transform, diff, and share JSON — all locally in your browser.
+- [zhanpoint/jsonsage](https://github.com/zhanpoint/jsonsage) - 一个基于 CodeMirror 6 的 JSON 网页工具。编辑、查询、对比和类型生成，在浏览器里完成。
 
 <a name="nix_blueprint"></a>
 
@@ -1903,6 +1912,9 @@
 - [komascript/latex-contract](https://github.com/komascript/latex-contract) - NOTE: This project has been migrated to Codeberg, but for some time the repository is still mirrored.
 - [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues.
+- [Nilutpal-2020/jsonos](https://github.com/Nilutpal-2020/jsonos) - A browser-based JSON workbench. View, edit, validate, format, repair, query (JSONPath), transform, diff, and share JSON — all locally in your browser.
+- [zhanpoint/jsonsage](https://github.com/zhanpoint/jsonsage) - 一个基于 CodeMirror 6 的 JSON 网页工具。编辑、查询、对比和类型生成，在浏览器里完成。
+- [ProtonVPN/android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
 
 <a name="security"></a>
 
@@ -2501,6 +2513,10 @@
 - [SergeyMosin/Appointments](https://github.com/SergeyMosin/Appointments) - Nextcloud Appointments App
 - [LtRock84/werkstattmanager](https://github.com/LtRock84/werkstattmanager) - Nextcloud-App für KFZ-Werkstätten: Fahrzeuge, Terminbuch, Aufträge, Tablet-Zeiterfassung, Auswertungen und Kundennachrichten.
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues.
+- [kdkumawat/formaty](https://github.com/kdkumawat/formaty) - The Developer Data Workspace - Format, convert, compare, reconcile, query, and generate code from structured data directly in your browser - JSON · XML · YAML · TOML · CSV · lists · API responses.
+- [Nilutpal-2020/jsonos](https://github.com/Nilutpal-2020/jsonos) - A browser-based JSON workbench. View, edit, validate, format, repair, query (JSONPath), transform, diff, and share JSON — all locally in your browser.
+- [zhanpoint/jsonsage](https://github.com/zhanpoint/jsonsage) - 一个基于 CodeMirror 6 的 JSON 网页工具。编辑、查询、对比和类型生成，在浏览器里完成。
+- [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.
 
 <a name="webdev"></a>
 
@@ -2731,6 +2747,9 @@
 - [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
 - [todeveni/php-repo-matrix](https://github.com/todeveni/php-repo-matrix) - HTML matrix of PHP versions for ppa:ondrej/php and deb.sury.org/php
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
+- [kdkumawat/formaty](https://github.com/kdkumawat/formaty) - The Developer Data Workspace - Format, convert, compare, reconcile, query, and generate code from structured data directly in your browser - JSON · XML · YAML · TOML · CSV · lists · API responses.
+- [Nilutpal-2020/jsonos](https://github.com/Nilutpal-2020/jsonos) - A browser-based JSON workbench. View, edit, validate, format, repair, query (JSONPath), transform, diff, and share JSON — all locally in your browser.
+- [zhanpoint/jsonsage](https://github.com/zhanpoint/jsonsage) - 一个基于 CodeMirror 6 的 JSON 网页工具。编辑、查询、对比和类型生成，在浏览器里完成。
 
 <a name="work"></a>
 
@@ -2812,6 +2831,9 @@
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [lowlighter/matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps!
 - [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format) - 
+- [kdkumawat/formaty](https://github.com/kdkumawat/formaty) - The Developer Data Workspace - Format, convert, compare, reconcile, query, and generate code from structured data directly in your browser - JSON · XML · YAML · TOML · CSV · lists · API responses.
+- [Nilutpal-2020/jsonos](https://github.com/Nilutpal-2020/jsonos) - A browser-based JSON workbench. View, edit, validate, format, repair, query (JSONPath), transform, diff, and share JSON — all locally in your browser.
+- [zhanpoint/jsonsage](https://github.com/zhanpoint/jsonsage) - 一个基于 CodeMirror 6 的 JSON 网页工具。编辑、查询、对比和类型生成，在浏览器里完成。
 
 <a name="xolotl"></a>
 
