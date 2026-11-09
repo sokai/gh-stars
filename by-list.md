@@ -1319,7 +1319,7 @@
 - [mira-alford/commonix](https://github.com/mira-alford/commonix) - 
 - [theremiblue/nixconfig](https://github.com/theremiblue/nixconfig) - My NixOS configuration
 - [yomaq/nix-config](https://github.com/yomaq/nix-config) - 
-- [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - config files..
+- [QuackHack-McBlindy/dotfiles](https://github.com/QuackHack-McBlindy/dotfiles) - config files for my life...
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 - [eh8/chenglab](https://github.com/eh8/chenglab) - NixOS setup for my homelab and personal computers
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
