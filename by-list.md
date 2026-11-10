@@ -692,7 +692,7 @@
 - [SR-G/sleep-on-lan](https://github.com/SR-G/sleep-on-lan) - Multi-platform process allowing to sleep on LAN a linux or windows computer, through wake-on-lan (reversed) magic packets or through HTTP REST requests.
 - [dvicory/homelab](https://github.com/dvicory/homelab) - 
 - [connerohnesorge/infisical-flake](https://github.com/connerohnesorge/infisical-flake) - Nix Flake for Infisical: the open-source platform for secrets management, PKI, and SSH access. 
-- [vzaliva/whatcable-linux-cli](https://github.com/vzaliva/whatcable-linux-cli) - A linux/KDE port of whatcable, a tool to tell you what each USB connected cable can do
+- [vzaliva/whatcable-linux-cli](https://github.com/vzaliva/whatcable-linux-cli) - A linux port of whatcable CLI, a tool to tell you what each USB connected cable can do
 - [ldwgchen/serchding](https://github.com/ldwgchen/serchding) - Fulltext search for linkding
 - [vbsampath/linkding-api](https://github.com/vbsampath/linkding-api) - Linkding API
 - [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - Spatial canvas for capturing fleeting thoughts
@@ -974,7 +974,7 @@
 - [jpoliv/wakeonlan](https://github.com/jpoliv/wakeonlan) - Perl script for waking up computers via Wake-On-LAN magic packets
 - [SR-G/sleep-on-lan](https://github.com/SR-G/sleep-on-lan) - Multi-platform process allowing to sleep on LAN a linux or windows computer, through wake-on-lan (reversed) magic packets or through HTTP REST requests.
 - [nedrichards/whatcable-linux](https://github.com/nedrichards/whatcable-linux) - GNOME USB-C cable and power diagnostic viewer for Linux
-- [vzaliva/whatcable-linux-cli](https://github.com/vzaliva/whatcable-linux-cli) - A linux/KDE port of whatcable, a tool to tell you what each USB connected cable can do
+- [vzaliva/whatcable-linux-cli](https://github.com/vzaliva/whatcable-linux-cli) - A linux port of whatcable CLI, a tool to tell you what each USB connected cable can do
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [protectli-root/protectli-firmware-updater](https://github.com/protectli-root/protectli-firmware-updater) - Script used to update firmware on Protectli devices
 - [xz-dev/numlockw](https://github.com/xz-dev/numlockw) - Control the state of NumLock
@@ -2478,7 +2478,7 @@
 - [SR-G/sleep-on-lan](https://github.com/SR-G/sleep-on-lan) - Multi-platform process allowing to sleep on LAN a linux or windows computer, through wake-on-lan (reversed) magic packets or through HTTP REST requests.
 - [petersolopov/yace](https://github.com/petersolopov/yace) - under 2KB code editor for browser with plugins
 - [nedrichards/whatcable-linux](https://github.com/nedrichards/whatcable-linux) - GNOME USB-C cable and power diagnostic viewer for Linux
-- [vzaliva/whatcable-linux-cli](https://github.com/vzaliva/whatcable-linux-cli) - A linux/KDE port of whatcable, a tool to tell you what each USB connected cable can do
+- [vzaliva/whatcable-linux-cli](https://github.com/vzaliva/whatcable-linux-cli) - A linux port of whatcable CLI, a tool to tell you what each USB connected cable can do
 - [sharevb/network-utils-ws](https://github.com/sharevb/network-utils-ws) - A modular FastAPI service providing network‑level diagnostic tools
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [j9t/css-dedup](https://github.com/j9t/css-dedup) - CSS declaration deduplicator for maintainability and performance optimization
