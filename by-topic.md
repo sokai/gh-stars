@@ -3323,6 +3323,7 @@
 
 ## others 
 
+- [uaparit/PebbleOS](https://github.com/uaparit/PebbleOS) - 
 - [Nilutpal-2020/jsonos](https://github.com/Nilutpal-2020/jsonos) - A browser-based JSON workbench. View, edit, validate, format, repair, query (JSONPath), transform, diff, and share JSON — all locally in your browser.
 - [LtRock84/werkstattmanager](https://github.com/LtRock84/werkstattmanager) - Nextcloud-App für KFZ-Werkstätten: Fahrzeuge, Terminbuch, Aufträge, Tablet-Zeiterfassung, Auswertungen und Kundennachrichten.
 - [SergeyMosin/Appointments](https://github.com/SergeyMosin/Appointments) - Nextcloud Appointments App
