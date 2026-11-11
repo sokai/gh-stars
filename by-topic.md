@@ -277,6 +277,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
 - [wordpress](#wordpress)
@@ -435,6 +436,7 @@
 - [wireapp/wire-android](https://github.com/wireapp/wire-android) - 🤖 Wire client for Android
 - [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
 - [GrapheneOS/PdfViewer](https://github.com/GrapheneOS/PdfViewer) - Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files.
+- [Scrut1ny/GrapheneOS-Guide](https://github.com/Scrut1ny/GrapheneOS-Guide) - A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system.
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
 - [ossappscollective/OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner) - Document scanning app
@@ -503,6 +505,7 @@
 ## android-app 
 
 - [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
+- [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
 - [0xf104a/NextcloudServices](https://github.com/0xf104a/NextcloudServices) - Android app to send notifications from Nextcloud without using GCM(Google cloud messaging)
 - [9001/party-up](https://github.com/9001/party-up) - copyparty client for android
 - [FliegendeWurst/TriliumDroid](https://github.com/FliegendeWurst/TriliumDroid) - Android client for Trilium Notes
@@ -4855,6 +4858,7 @@
 ## package-manager 
 
 - [svandragt/vivace](https://github.com/svandragt/vivace) - Rust reimplementation of Composer that installs from composer.lock faster than PHP Composer
+- [sdex/ActivityManager](https://github.com/sdex/ActivityManager) - Launch any application activity
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
 - [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
@@ -5201,6 +5205,7 @@
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - System-wide ad-blocker and privacy guard for Windows, macOS and Linux.
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+- [Scrut1ny/GrapheneOS-Guide](https://github.com/Scrut1ny/GrapheneOS-Guide) - A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system.
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.
@@ -5630,6 +5635,7 @@
 - [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [GrapheneOS/PdfViewer](https://github.com/GrapheneOS/PdfViewer) - Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files.
+- [Scrut1ny/GrapheneOS-Guide](https://github.com/Scrut1ny/GrapheneOS-Guide) - A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system.
 - [accrescent/accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability
 - [jedisct1/piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
 - [trickest/resolvers](https://github.com/trickest/resolvers) - The most exhaustive list of reliable DNS resolvers.
@@ -6338,6 +6344,12 @@
 - [picocms/Pico](https://github.com/picocms/Pico) - Pico is a stupidly simple, blazing fast, flat file CMS.
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 - [foundation/yeti](https://github.com/foundation/yeti) - A CSS-first, native, zero-build layout and styling framework for web designers.
+
+## whatsapp 
+
+- [adeekshith/watomatic](https://github.com/adeekshith/watomatic) - Auto reply app to enable auto reply for messengers like WhatsApp and Facebook Messenger
+- [nextcloud/twofactor_gateway](https://github.com/nextcloud/twofactor_gateway) - 🔑 Second factor provider using an external messaging gateway (Signal, SMS, Telegram, WhatsApp and XMPP)
+- [manzinello/mailgo](https://github.com/manzinello/mailgo) - 💌 mailgo, a new concept of mailto and tel links [deprecated]
 
 ## whatsapp-bot 
 
