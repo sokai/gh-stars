@@ -583,7 +583,7 @@
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [Platonic-Systems/secrix](https://github.com/Platonic-Systems/secrix) - 
 - [christiaangoossens/hass-oidc-auth](https://github.com/christiaangoossens/hass-oidc-auth) - OpenID Connect authentication provider for Home Assistant
-- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
+- [nix-community/nix-mineral](https://github.com/nix-community/nix-mineral) - Conveniently and reasonably harden NixOS. [maintainer=@cynicsketch]
 - [numtide/nixos-passthru-cache](https://github.com/numtide/nixos-passthru-cache) - Create a copy of https://cache.nixos.org for your infrastructure
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [bpruitt-goddard/vscode-mermaid-syntax-highlight](https://github.com/bpruitt-goddard/vscode-mermaid-syntax-highlight) - Markdown syntax support for the Mermaid charting language
@@ -1176,7 +1176,7 @@
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [Platonic-Systems/secrix](https://github.com/Platonic-Systems/secrix) - 
-- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
+- [nix-community/nix-mineral](https://github.com/nix-community/nix-mineral) - Conveniently and reasonably harden NixOS. [maintainer=@cynicsketch]
 - [numtide/nixos-passthru-cache](https://github.com/numtide/nixos-passthru-cache) - Create a copy of https://cache.nixos.org for your infrastructure
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [Janik-Haag/NixOS-DNS](https://github.com/Janik-Haag/NixOS-DNS) - Manage your dns zones with NixOS
@@ -1385,7 +1385,7 @@
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS
 - [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
 - [chadac/nix-config-modules](https://github.com/chadac/nix-config-modules) - Flake modules for multi-host joint NixOS + home-manager configs
-- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
+- [nix-community/nix-mineral](https://github.com/nix-community/nix-mineral) - Conveniently and reasonably harden NixOS. [maintainer=@cynicsketch]
 - [hyperparabolic/nix-config](https://github.com/hyperparabolic/nix-config) - Multihost nixos flake and scripts focused on reproducibility
 - [cameronraysmith/vanixiets](https://github.com/cameronraysmith/vanixiets) - ❄️ van niets iets ⚙️ infrastructure from "nix" with flake-parts and clan
 - [daeuniverse/flake.nix](https://github.com/daeuniverse/flake.nix) - Nix flake for dae and daed
