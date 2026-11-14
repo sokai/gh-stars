@@ -1906,6 +1906,7 @@
 
 ## hacktoberfest 
 
+- [excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries) - Collection of publicly available libraries
 - [ev-map/EVMap](https://github.com/ev-map/EVMap) - Android app to find electric vehicle charging stations - compatible with community databases such as GoingElectric.de and OpenChargeMap.org.
 - [voku/HtmlMin](https://github.com/voku/HtmlMin) - :clamp: HtmlMin: HTML Compressor and Minifier via PHP
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -1992,7 +1993,7 @@
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [cachethq/core](https://github.com/cachethq/core) - 🚦 The core for Cachet, an open source, self-hosted status page system.
-- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+- [homer-dashboard/homer](https://github.com/homer-dashboard/homer) - A very simple static homepage for your server.
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS, nix-darwin  & Home Manager Configurations ❄️
 - [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
@@ -4205,7 +4206,6 @@
 - [duckduckgo/tracker-radar](https://github.com/duckduckgo/tracker-radar) - Data set of top third party web domains with rich metadata about them
 - [LineageOS/android_device_oneplus_oneplus3](https://github.com/LineageOS/android_device_oneplus_oneplus3) - 
 - [nextcloud/documentserver_community](https://github.com/nextcloud/documentserver_community) - Document server for onlyoffice
-- [RaymiiOrg/cipherli.st](https://github.com/RaymiiOrg/cipherli.st) - Ciplerli.st - strong ciphers for NGINX, Apache and Lighttpd
 - [cweiske/surrogator](https://github.com/cweiske/surrogator) - simple libravatar server
 - [slacka/WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [UB-LMU/DataCite_BestPracticeGuide](https://github.com/UB-LMU/DataCite_BestPracticeGuide) - 
@@ -4427,7 +4427,6 @@
 - [Freeyourgadget/Gadgetbridge](https://github.com/Freeyourgadget/Gadgetbridge) - We are on codeberg.org now! https://codeberg.org/Freeyourgadget/Gadgetbridge -  Gadgetbridge - A free and cloudless replacement for your gadget vendors' closed source Android applications. Supports Pe
 - [chartaccent/chartaccent](https://github.com/chartaccent/chartaccent) - A chart annotation tool.
 - [HackspaceJena/calcifer](https://github.com/HackspaceJena/calcifer) - An event management tool
-- [RaymiiOrg/certificate-expiry-monitor](https://github.com/RaymiiOrg/certificate-expiry-monitor) - https://certificatemonitor.org
 - [Philio/bootstrapdefault](https://github.com/Philio/bootstrapdefault) - A modern and responsive theme for Piwigo built with standard Bootstrap components and using the default Bootstrap theme. Intended for easy customisation using Bootstrap styles or as a parent theme for
 - [Automattic/_s](https://github.com/Automattic/_s) - Inactive project – please visit https://themeshaper.com/block-themes/ to learn more about the future of WordPress themes with Block Themes.
 - [outdatedbrowser/outdated-browser](https://github.com/outdatedbrowser/outdated-browser) - A simple tool to identify and upgrade old browsers.
@@ -5749,7 +5748,7 @@
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
-- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+- [homer-dashboard/homer](https://github.com/homer-dashboard/homer) - A very simple static homepage for your server.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [ad-aures/castopod](https://github.com/ad-aures/castopod) - Castopod is an open-source hosting platform made for podcasters who want engage and interact with their audience. Synchronized read-only mirror of https://code.castopod.org/adaures/castopod
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -6272,7 +6271,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [nextcloud/forms](https://github.com/nextcloud/forms) - 📝 Simple form & survey app for Nextcloud
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
-- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+- [homer-dashboard/homer](https://github.com/homer-dashboard/homer) - A very simple static homepage for your server.
 - [statping-ng/statping-ng](https://github.com/statping-ng/statping-ng) - An updated drop-in for statping. A Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
