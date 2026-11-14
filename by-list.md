@@ -716,6 +716,7 @@
 - [Nilutpal-2020/jsonos](https://github.com/Nilutpal-2020/jsonos) - A browser-based JSON workbench. View, edit, validate, format, repair, query (JSONPath), transform, diff, and share JSON — all locally in your browser.
 - [zhanpoint/jsonsage](https://github.com/zhanpoint/jsonsage) - 一个基于 CodeMirror 6 的 JSON 网页工具。编辑、查询、对比和类型生成，在浏览器里完成。
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.
+- [excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries) - Collection of publicly available libraries
 
 <a name="knowledge"></a>
 
@@ -790,6 +791,7 @@
 - [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format) - 
 - [komascript/latex-contract](https://github.com/komascript/latex-contract) - NOTE: This project has been migrated to Codeberg, but for some time the repository is still mirrored.
 - [kdkumawat/formaty](https://github.com/kdkumawat/formaty) - The Developer Data Workspace - Format, convert, compare, reconcile, query, and generate code from structured data directly in your browser - JSON · XML · YAML · TOML · CSV · lists · API responses.
+- [excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries) - Collection of publicly available libraries
 
 <a name="linux"></a>
 
@@ -1260,6 +1262,7 @@
 - [kdkumawat/formaty](https://github.com/kdkumawat/formaty) - The Developer Data Workspace - Format, convert, compare, reconcile, query, and generate code from structured data directly in your browser - JSON · XML · YAML · TOML · CSV · lists · API responses.
 - [Nilutpal-2020/jsonos](https://github.com/Nilutpal-2020/jsonos) - A browser-based JSON workbench. View, edit, validate, format, repair, query (JSONPath), transform, diff, and share JSON — all locally in your browser.
 - [zhanpoint/jsonsage](https://github.com/zhanpoint/jsonsage) - 一个基于 CodeMirror 6 的 JSON 网页工具。编辑、查询、对比和类型生成，在浏览器里完成。
+- [excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries) - Collection of publicly available libraries
 
 <a name="nix_blueprint"></a>
 
@@ -2517,6 +2520,7 @@
 - [Nilutpal-2020/jsonos](https://github.com/Nilutpal-2020/jsonos) - A browser-based JSON workbench. View, edit, validate, format, repair, query (JSONPath), transform, diff, and share JSON — all locally in your browser.
 - [zhanpoint/jsonsage](https://github.com/zhanpoint/jsonsage) - 一个基于 CodeMirror 6 的 JSON 网页工具。编辑、查询、对比和类型生成，在浏览器里完成。
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.
+- [excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries) - Collection of publicly available libraries
 
 <a name="webdev"></a>
 
