@@ -1040,7 +1040,6 @@
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [chartaccent/chartaccent](https://github.com/chartaccent/chartaccent) - A chart annotation tool.
 - [HackspaceJena/calcifer](https://github.com/HackspaceJena/calcifer) - An event management tool
-- [flarum-lang/german](https://github.com/flarum-lang/german) - German Language Pack for Flarum
 - [caiogondim/logdown.js](https://github.com/caiogondim/logdown.js) - :pencil2: Debug utility with markdown support that runs on browser and server
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺
 - [nickola/web-console](https://github.com/nickola/web-console) - :desktop_computer: Web-based shell in your browser
@@ -2193,6 +2192,7 @@
 - [EasyCorp/EasyAdminBundle](https://github.com/EasyCorp/EasyAdminBundle) - EasyAdmin is a fast, beautiful and modern admin generator for Symfony applications.
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Avatar4eg/flarum-ext-transliterator](https://github.com/Avatar4eg/flarum-ext-transliterator) - Flarum extension. Transliterator for urls.
+- [flarum-lang/german](https://github.com/flarum-lang/german) - German Language Pack for Flarum
 - [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
 - [cweiske/phinde](https://github.com/cweiske/phinde) - Self-hosted search engine for your static blog
 - [marmelab/microrest.php](https://github.com/marmelab/microrest.php) - A micro web application providing a REST API on top of any relational database, using Silex and Doctrine DBAL
