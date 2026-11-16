@@ -7,6 +7,7 @@
 
 - [agent](#agent)
 - [agent-skills](#agent-skills)
+- [agentic-ai](#agentic-ai)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
@@ -296,6 +297,10 @@
 
 - [marcop135/bullframe.css](https://github.com/marcop135/bullframe.css) - A semantic, lightweight CSS (PostCSS) framework for fast, accessible UIs. Class-based or classless, light or dark, agent-skills ready. Seven builds. Any stack.
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+
+## agentic-ai 
+
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 
 ## ai 
 
@@ -3324,6 +3329,7 @@
 
 ## others 
 
+- [Guanran928/nixpkgs-tracker](https://github.com/Guanran928/nixpkgs-tracker) - Yet another nixpkgs tracker
 - [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
 - [uaparit/PebbleOS](https://github.com/uaparit/PebbleOS) - 
 - [Nilutpal-2020/jsonos](https://github.com/Nilutpal-2020/jsonos) - A browser-based JSON workbench. View, edit, validate, format, repair, query (JSONPath), transform, diff, and share JSON — all locally in your browser.
@@ -5958,7 +5964,7 @@
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [nextcloud/twofactor_gateway](https://github.com/nextcloud/twofactor_gateway) - 🔑 Second factor provider using an external messaging gateway (Signal, SMS, Telegram, WhatsApp and XMPP)
 - [manzinello/mailgo](https://github.com/manzinello/mailgo) - 💌 mailgo, a new concept of mailto and tel links [deprecated]
-- [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
+- [TelegramMessenger/Telegram-Android](https://github.com/TelegramMessenger/Telegram-Android) - Telegram for Android source
 - [zhukov/webogram](https://github.com/zhukov/webogram) - Telegram web application, GPL v3
 
 ## telegram-bot 
