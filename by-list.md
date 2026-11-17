@@ -1586,6 +1586,7 @@
 - [giomf/NixoScope](https://github.com/giomf/NixoScope) - Visualize dependencies between NixOS modules
 - [NixOS/nixpkgs-committers](https://github.com/NixOS/nixpkgs-committers) - Tracking of changes to Nixpkgs committers
 - [nixpkgs-fyi/nixpkgs-fyi](https://github.com/nixpkgs-fyi/nixpkgs-fyi) - 
+- [Guanran928/nixpkgs-tracker](https://github.com/Guanran928/nixpkgs-tracker) - Yet another nixpkgs tracker
 
 <a name="nixos_module"></a>
 
@@ -1917,6 +1918,7 @@
 - [Nilutpal-2020/jsonos](https://github.com/Nilutpal-2020/jsonos) - A browser-based JSON workbench. View, edit, validate, format, repair, query (JSONPath), transform, diff, and share JSON — all locally in your browser.
 - [zhanpoint/jsonsage](https://github.com/zhanpoint/jsonsage) - 一个基于 CodeMirror 6 的 JSON 网页工具。编辑、查询、对比和类型生成，在浏览器里完成。
 - [ProtonVPN/android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
+- [Guanran928/nixpkgs-tracker](https://github.com/Guanran928/nixpkgs-tracker) - Yet another nixpkgs tracker
 
 <a name="security"></a>
 
@@ -2521,6 +2523,7 @@
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on your hardware.
 - [excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries) - Collection of publicly available libraries
 - [mattermost/mattermost-push-proxy](https://github.com/mattermost/mattermost-push-proxy) - 
+- [Guanran928/nixpkgs-tracker](https://github.com/Guanran928/nixpkgs-tracker) - Yet another nixpkgs tracker
 
 <a name="webdev"></a>
 
