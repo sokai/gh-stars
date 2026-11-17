@@ -751,7 +751,7 @@
 - [hbz/lobid-organisations](https://github.com/hbz/lobid-organisations) - Transformation, web frontend, and API for lobid-organisations
 - [woefe/ShoppingList](https://github.com/woefe/ShoppingList) - A simple shopping list for Android
 - [bilde2910/Hauk](https://github.com/bilde2910/Hauk) - Open-source realtime location sharing
-- [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
+- [TelegramMessenger/Telegram-Android](https://github.com/TelegramMessenger/Telegram-Android) - Telegram for Android source
 - [Seva-coder/Finder](https://github.com/Seva-coder/Finder) - Application for remote phone search
 - [WebCuratorTool/webcurator-v2-legacy](https://github.com/WebCuratorTool/webcurator-v2-legacy) - The Web Curator Tool is a tool for managing the selective web harvesting process. (moved from SourceForge). https://webcurator.slack.com https://webcuratortool.readthedocs.io
 - [wallabag/android-app](https://github.com/wallabag/android-app) - Android application to read your articles saved in your wallabag. You can also easily add new articles.
@@ -2712,6 +2712,7 @@
 
 ## Rust 
 
+- [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on you
 - [NixOS/nix-index](https://github.com/NixOS/nix-index) - Quickly locate nix packages with specific files [maintainers=@Mic92 @bennofs @figsoda @raitobezarius @r-vdp @samestep]
 - [moooossee/moose](https://github.com/moooossee/moose) - Chat with local and cloud AI
@@ -3057,6 +3058,7 @@
 
 ## TypeScript 
 
+- [Guanran928/nixpkgs-tracker](https://github.com/Guanran928/nixpkgs-tracker) - Yet another nixpkgs tracker
 - [zhanpoint/jsonsage](https://github.com/zhanpoint/jsonsage) - 一个基于 CodeMirror 6 的 JSON 网页工具。编辑、查询、对比和类型生成，在浏览器里完成。
 - [kdkumawat/formaty](https://github.com/kdkumawat/formaty) - The Developer Data Workspace - Format, convert, compare, reconcile, query, and generate code from structured data directly in your browser - JSON · XML · YAML · TOML · CSV · lists · API responses.
 - [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) - Self-hosted Excalidraw with Full Collaboration
