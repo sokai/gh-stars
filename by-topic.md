@@ -241,6 +241,7 @@
 - [software](#software)
 - [sql](#sql)
 - [sqlite](#sqlite)
+- [static-site-generator](#static-site-generator)
 - [statistics](#statistics)
 - [support](#support)
 - [svelte](#svelte)
@@ -5886,6 +5887,15 @@
 - [mevdschee/php-crud-api](https://github.com/mevdschee/php-crud-api) - Single file PHP script that adds a REST API to a SQL database
 - [oscarotero/simple-crud](https://github.com/oscarotero/simple-crud) - PHP library to provide magic CRUD in MySQL/Sqlite databases with zero configuration
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
+
+## static-site-generator 
+
+- [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
+- [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [chrisdiana/cms.js](https://github.com/chrisdiana/cms.js) - Client-Side JavaScript Site Generator
+- [CouscousPHP/Couscous](https://github.com/CouscousPHP/Couscous) - Couscous is good.
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
 ## statistics 
 
