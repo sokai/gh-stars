@@ -399,7 +399,7 @@
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 - [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) - 🤳🥫 The new Open Food Facts mobile application for Android and iOS, crafted with Flutter and Dart
 - [Commit451/LabCoat](https://github.com/Commit451/LabCoat) - GitLab client for Android. Mirror of project on GitLab
-- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - A to-do list, time tracker and daily planner for focused personal work. Private, offline-first and open source.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
@@ -834,6 +834,7 @@
 
 ## cli 
 
+- [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [svandragt/vivace](https://github.com/svandragt/vivace) - Rust reimplementation of Composer that installs from composer.lock faster than PHP Composer
 - [Baltram/seednaut](https://github.com/Baltram/seednaut) - Inspect, verify and extract files from Seedvault backups.
 - [lightpohl/podcast-dl](https://github.com/lightpohl/podcast-dl) - A humble CLI for downloading and archiving podcasts.
@@ -960,6 +961,7 @@
 
 ## command-line 
 
+- [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [timothebot/lacy](https://github.com/timothebot/lacy) - Fast magical cd alternative for lacy terminal navigators
 - [paldepind/projectdo](https://github.com/paldepind/projectdo) - Context-aware single-letter project commands to speed up your terminal workflow.
@@ -1809,6 +1811,7 @@
 
 ## golang 
 
+- [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
@@ -2255,6 +2258,8 @@
 
 ## image-processing 
 
+- [datakeen/Sungfluence](https://github.com/datakeen/Sungfluence) - A small design studio that turns pictures into art made of letters: word portraits, calligrams, ASCII, Braille, spirals for left to right languages (Englisgh, Swedish, etc.), right to left languages (
+- [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [pynicolas/FairScan](https://github.com/pynicolas/FairScan) - An Android app to scan your documents — simple and respectful
 - [ossappscollective/OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner) - Document scanning app
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
@@ -2279,7 +2284,7 @@
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
 - [openfoodfacts/smooth-app](https://github.com/openfoodfacts/smooth-app) - 🤳🥫 The new Open Food Facts mobile application for Android and iOS, crafted with Flutter and Dart
-- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - A to-do list, time tracker and daily planner for focused personal work. Private, offline-first and open source.
 - [beerisgood/Mobile_Security](https://github.com/beerisgood/Mobile_Security) - a collection of differently important stuff about mobile phones
 - [astubenbord/paperless-mobile](https://github.com/astubenbord/paperless-mobile) - An (almost) fully fledged mobile paperless client.
 - [FriesI23/mhabit](https://github.com/FriesI23/mhabit) - Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.
@@ -2473,7 +2478,7 @@
 - [circlecell/jsonlint.com](https://github.com/circlecell/jsonlint.com) - [OLD] Please go to new source, link below.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
-- [8ARTEK/projector](https://github.com/8ARTEK/projector) - 📽 A simple HTML mockup presentation engine for projects
+- [byBARTEK/projector](https://github.com/byBARTEK/projector) - 📽 A simple HTML mockup presentation engine for projects
 - [refactory-id/bootstrap-markdown](https://github.com/refactory-id/bootstrap-markdown) - Bootstrap plugin for markdown editing
 - [owncloud/notes](https://github.com/owncloud/notes) - :notebook_with_decorative_cover: Notes app for ownCloud
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
@@ -2722,6 +2727,7 @@
 
 ## linux 
 
+- [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [naggie/dsnet](https://github.com/naggie/dsnet) - FAST command to manage a centralised wireguard VPN. Think wg-quick but quicker: key generation + address allocation.
 - [moooossee/moose](https://github.com/moooossee/moose) - Chat with local and cloud AI
 - [nedrichards/whatcable-linux](https://github.com/nedrichards/whatcable-linux) - GNOME USB-C cable and power diagnostic viewer for Linux
@@ -2738,7 +2744,7 @@
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My entire infrastructure and computing environment.
 - [snugnug/hjem-rum](https://github.com/snugnug/hjem-rum) - A module collection for Hjem. [Maintainers=@GetPsyched]
-- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - A to-do list, time tracker and daily planner for focused personal work. Private, offline-first and open source.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [rti/nixwrap](https://github.com/rti/nixwrap) - Easy Application Sandboxing on NixOS
 - [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
@@ -2873,7 +2879,7 @@
 - [Sovereign-Engineering/obscuravpn-client](https://github.com/Sovereign-Engineering/obscuravpn-client) - Obscura VPN Rust library and App (available on all major platforms)
 - [reo101/rix101](https://github.com/reo101/rix101) - My NixOS, nix-on-droid and nix-darwin configs.
 - [vic/vix](https://github.com/vic/vix) - Vic's *Nix config (dotfiles for many unixes)
-- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - A to-do list, time tracker and daily planner for focused personal work. Private, offline-first and open source.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [yunfachi/denix](https://github.com/yunfachi/denix) - Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 - [FriesI23/mhabit](https://github.com/FriesI23/mhabit) - Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.
@@ -3267,7 +3273,7 @@
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [dubinc/dub.link](https://github.com/dubinc/dub.link) - The modern link attribution platform. Loved by world-class engineering teams at Twilio, Zillow, Jobber, Vercel, Raycast, and more.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - A to-do list, time tracker and daily planner for focused personal work. Private, offline-first and open source.
 - [nucleus-ffm/foss_warn](https://github.com/nucleus-ffm/foss_warn) - An unofficial open source application to get emergency alerts.
 - [bohdanpotuzhnyi/talerbarr](https://github.com/bohdanpotuzhnyi/talerbarr) - TalerBarr is a Dolibarr ERP & CRM module that bridges your catalogue with the GNU Taler payment ecosystem.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
@@ -3327,6 +3333,7 @@
 
 ## others 
 
+- [can4hou6joeng4/Semaphore](https://github.com/can4hou6joeng4/Semaphore) - Turn any image into ASCII art — free, in-browser, no upload.
 - [dday9/t-pico](https://github.com/dday9/t-pico) - Minimal CSS Framework for semantic HTML forked from PicoCSS
 - [Guanran928/nixpkgs-tracker](https://github.com/Guanran928/nixpkgs-tracker) - Yet another nixpkgs tracker
 - [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
@@ -3841,7 +3848,7 @@
 - [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
 - [versatiles-org/versatiles-documentation](https://github.com/versatiles-org/versatiles-documentation) - Documentation for the VersaTiles ecosystem.
 - [versatiles-org/versatiles-fonts](https://github.com/versatiles-org/versatiles-fonts) - Repository of open-source SDF fonts optimized for MapLibre GL JS rendering.
-- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server running inside a container.
 - [fufroma/smartsieve](https://github.com/fufroma/smartsieve) - Unofficial github repository of Smartsieve
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [nextcloud/whiteboard](https://github.com/nextcloud/whiteboard) - Create & collaborate on an infinite canvas!
@@ -5190,7 +5197,7 @@
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [SolninjaA/Chhoto-URL-Extension](https://github.com/SolninjaA/Chhoto-URL-Extension) - This extension allows for easy, shortened URL link generation using a Chhoto URL server.
-- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - A to-do list, time tracker and daily planner for focused personal work. Private, offline-first and open source.
 - [bohdanpotuzhnyi/talerbarr](https://github.com/bohdanpotuzhnyi/talerbarr) - TalerBarr is a Dolibarr ERP & CRM module that bridges your catalogue with the GNU Taler payment ecosystem.
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [beerisgood/Mobile_Security](https://github.com/beerisgood/Mobile_Security) - a collection of differently important stuff about mobile phones
@@ -5240,7 +5247,7 @@
 - [tanaybhomia/Whisp](https://github.com/tanaybhomia/Whisp) - Spatial canvas for capturing fleeting thoughts
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME
-- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - A to-do list, time tracker and daily planner for focused personal work. Private, offline-first and open source.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -5262,7 +5269,7 @@
 - [mimecorg/webissues](https://github.com/mimecorg/webissues) - WebIssues team collaboration system.
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [Hasnayeen/invobook](https://github.com/Hasnayeen/invobook) - Self-hosted app for Time Tracking, Invoice Generation, Project & Client Management, built with Laravel & Filament.
-- [8ARTEK/projector](https://github.com/8ARTEK/projector) - 📽 A simple HTML mockup presentation engine for projects
+- [byBARTEK/projector](https://github.com/byBARTEK/projector) - 📽 A simple HTML mockup presentation engine for projects
 - [hbons/SparkleShare](https://github.com/hbons/SparkleShare) - Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows
 
 ## publishing 
@@ -5988,6 +5995,7 @@
 
 ## terminal 
 
+- [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [totoshko88/RustConn](https://github.com/totoshko88/RustConn) - Modern cross-platform connection manager — SSH, RDP, VNC, SPICE, MOSH, Telnet, Serial, Kubernetes and Zero Trust — with a GTK4/libadwaita interface and embedded Rust clients. Linux, macOS, FreeBSD, Wi
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
@@ -6372,7 +6380,7 @@
 ## windows 
 
 - [Sovereign-Engineering/obscuravpn-client](https://github.com/Sovereign-Engineering/obscuravpn-client) - Obscura VPN Rust library and App (available on all major platforms)
-- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - A to-do list, time tracker and daily planner for focused personal work. Private, offline-first and open source.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [FriesI23/mhabit](https://github.com/FriesI23/mhabit) - Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
