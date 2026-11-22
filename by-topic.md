@@ -3333,6 +3333,7 @@
 
 ## others 
 
+- [Mic92/nix-grpc-store](https://github.com/Mic92/nix-grpc-store) - Nix remote store and build farm over gRPC: faster nix copy than ssh-ng, with mTLS and a scheduler for builders
 - [can4hou6joeng4/Semaphore](https://github.com/can4hou6joeng4/Semaphore) - Turn any image into ASCII art — free, in-browser, no upload.
 - [dday9/t-pico](https://github.com/dday9/t-pico) - Minimal CSS Framework for semantic HTML forked from PicoCSS
 - [Guanran928/nixpkgs-tracker](https://github.com/Guanran928/nixpkgs-tracker) - Yet another nixpkgs tracker
