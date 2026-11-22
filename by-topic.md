@@ -3492,7 +3492,7 @@
 - [joshprk/flake](https://github.com/joshprk/flake) - Personal NixOS system configuration
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [wg-lux/luxnix](https://github.com/wg-lux/luxnix) - 
-- [mzonski/nixos-config](https://github.com/mzonski/nixos-config) - 
+- [mzonski/nixos-config](https://github.com/mzonski/nixos-config) - My personal NixOS configuration
 - [scidonia/bookwyrm-client](https://github.com/scidonia/bookwyrm-client) - The bookwyrm client library
 - [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
 - [phpnuke/phpnuke](https://github.com/phpnuke/phpnuke) - PHP-Nuke is a web-based automated news publishing and content management system based on PHP and MySQL.
