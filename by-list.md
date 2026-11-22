@@ -173,6 +173,8 @@
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [ev-map/EVMap](https://github.com/ev-map/EVMap) - Android app to find electric vehicle charging stations - compatible with community databases such as GoingElectric.de and OpenChargeMap.org.
 - [todeveni/php-repo-matrix](https://github.com/todeveni/php-repo-matrix) - HTML matrix of PHP versions for ppa:ondrej/php and deb.sury.org/php
+- [can4hou6joeng4/Semaphore](https://github.com/can4hou6joeng4/Semaphore) - Turn any image into ASCII art — free, in-browser, no upload.
+- [datakeen/Sungfluence](https://github.com/datakeen/Sungfluence) - A small design studio that turns pictures into art made of letters: word portraits, calligrams, ASCII, Braille, spirals for left to right languages (Englisgh, Swedish, etc.), right to left languages (Arabic, Urdu, etc.), and top to bottom languages (Chinese, etc). Free, open source, offline, for Windows, macOS and Linux.
 
 <a name="backup"></a>
 
@@ -980,6 +982,8 @@
 - [protectli-root/protectli-firmware-updater](https://github.com/protectli-root/protectli-firmware-updater) - Script used to update firmware on Protectli devices
 - [xz-dev/numlockw](https://github.com/xz-dev/numlockw) - Control the state of NumLock
 - [pulsejet/memories](https://github.com/pulsejet/memories) - Fast, modern and advanced photo management suite. Runs as a Nextcloud app.
+- [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
+- [datakeen/Sungfluence](https://github.com/datakeen/Sungfluence) - A small design studio that turns pictures into art made of letters: word portraits, calligrams, ASCII, Braille, spirals for left to right languages (Englisgh, Swedish, etc.), right to left languages (Arabic, Urdu, etc.), and top to bottom languages (Chinese, etc). Free, open source, offline, for Windows, macOS and Linux.
 
 <a name="mirror"></a>
 
@@ -1696,6 +1700,7 @@
 - [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 - [NixOS/nix-index](https://github.com/NixOS/nix-index) - Quickly locate nix packages with specific files [maintainers=@Mic92 @bennofs @figsoda @raitobezarius @r-vdp @samestep]
 - [AChep/keyguard-app](https://github.com/AChep/keyguard-app) - A password manager that supports Bitwarden platform and KeePass (KDBX) files. It autofills your logins, supports passkeys, works offline, and runs a Watchtower that finds leaked and reused passwords and other issues.
+- [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 
 <a name="personal"></a>
 
@@ -1919,6 +1924,7 @@
 - [zhanpoint/jsonsage](https://github.com/zhanpoint/jsonsage) - 一个基于 CodeMirror 6 的 JSON 网页工具。编辑、查询、对比和类型生成，在浏览器里完成。
 - [ProtonVPN/android-app](https://github.com/ProtonVPN/android-app) - Official ProtonVPN Android app
 - [Guanran928/nixpkgs-tracker](https://github.com/Guanran928/nixpkgs-tracker) - Yet another nixpkgs tracker
+- [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 
 <a name="security"></a>
 
@@ -2524,6 +2530,9 @@
 - [excalidraw/excalidraw-libraries](https://github.com/excalidraw/excalidraw-libraries) - Collection of publicly available libraries
 - [mattermost/mattermost-push-proxy](https://github.com/mattermost/mattermost-push-proxy) - 
 - [Guanran928/nixpkgs-tracker](https://github.com/Guanran928/nixpkgs-tracker) - Yet another nixpkgs tracker
+- [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
+- [datakeen/Sungfluence](https://github.com/datakeen/Sungfluence) - A small design studio that turns pictures into art made of letters: word portraits, calligrams, ASCII, Braille, spirals for left to right languages (Englisgh, Swedish, etc.), right to left languages (Arabic, Urdu, etc.), and top to bottom languages (Chinese, etc). Free, open source, offline, for Windows, macOS and Linux.
+- [can4hou6joeng4/Semaphore](https://github.com/can4hou6joeng4/Semaphore) - Turn any image into ASCII art — free, in-browser, no upload.
 
 <a name="webdev"></a>
 
