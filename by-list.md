@@ -948,7 +948,7 @@
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [sudo-project/sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user
-- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
+- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A safety oriented and memory safe implementation of sudo and su
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
 - [SinTan1729/chhoto-url-cli](https://github.com/SinTan1729/chhoto-url-cli) - A CLI tool for interacting with Chhoto URL
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
@@ -1955,7 +1955,7 @@
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [cachix/secretspec](https://github.com/cachix/secretspec) - A declarative interface for every secret provider.
-- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
+- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A safety oriented and memory safe implementation of sudo and su
 - [sudo-project/sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user
 - [freifunkMUC/wg-access-server](https://github.com/freifunkMUC/wg-access-server) - An all-in-one WireGuard VPN solution featuring a user-friendly web interface for easy device management and connectivity.
 - [oddlama/kanidm-provision](https://github.com/oddlama/kanidm-provision) - A small utility to help with kanidm provisioning
@@ -2414,7 +2414,7 @@
 - [ergebnis/composer-normalize](https://github.com/ergebnis/composer-normalize) - 🎵 Provides a composer plugin for normalizing composer.json.
 - [dhowe/AdNauseam](https://github.com/dhowe/AdNauseam) - AdNauseam: Fight back against advertising surveillance
 - [sudo-project/sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user
-- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
+- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A safety oriented and memory safe implementation of sudo and su
 - [SEIAROTg/quadlet-nix](https://github.com/SEIAROTg/quadlet-nix) - Manages Podman containers and networks on NixOS via Quadlet.
 - [oddlama/kanidm-provision](https://github.com/oddlama/kanidm-provision) - A small utility to help with kanidm provisioning
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
