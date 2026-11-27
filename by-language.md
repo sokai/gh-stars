@@ -644,7 +644,6 @@
 - [cheeaun/life](https://github.com/cheeaun/life) - Life - a timeline of important events in my life
 - [tborychowski/perfecttooltip](https://github.com/tborychowski/perfecttooltip) - This is the Perfect Tooltip - a jQuery plugin
 - [krzysiekpiasecki/Gentelella](https://github.com/krzysiekpiasecki/Gentelella) - Welcome to Gentelella -  Responsive Bootstrap Admin Application based on the Foundation of Symfony and Gentelella!
-- [pfefferle/wordpress-webmention](https://github.com/pfefferle/wordpress-webmention) - Send and receive Webmentions in WordPress, bringing replies, likes, and other reactions from across the web to your site.
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [Fu-PusH/statement-finder](https://github.com/Fu-PusH/statement-finder) - Fu-PusH Statement Finder
 - [freifunk/openwifimap-html5](https://github.com/freifunk/openwifimap-html5) - HTML5 map with OpenWiFiMap data
@@ -1389,7 +1388,7 @@
 - [fosskar/nixfiles](https://github.com/fosskar/nixfiles) - alles oder nix
 - [connerohnesorge/infisical-flake](https://github.com/connerohnesorge/infisical-flake) - Nix Flake for Infisical: the open-source platform for secrets management, PKI, and SSH access.
 - [benkoppe/nixcfg](https://github.com/benkoppe/nixcfg) - Consolidated nixOS, darwin, and hjem deployments for personal machines & servers
-- [applicative-systems/mkdocs-flake](https://github.com/applicative-systems/mkdocs-flake) - mkdocs-flake simplifies MkDocs setup with the latest packages, pre-bundled plugins, Material Design, PlantUML, and code highlighting. Available as a Nix flake, flake-parts module, and Docker image, it
+- [applicative-systems/mkdocs-flake](https://github.com/applicative-systems/mkdocs-flake) - (has a successor, see notes) mkdocs-flake simplifies MkDocs setup with the latest packages, pre-bundled plugins, Material Design, PlantUML, and code highlighting. Available as a Nix flake, flake-parts
 - [departamento-de-decentralizacion/infra](https://github.com/departamento-de-decentralizacion/infra) - 
 - [vanilla-mobile-nixos/vanilla-mobile-nixos](https://github.com/vanilla-mobile-nixos/vanilla-mobile-nixos) - Run standard NixOS on your mobile devices!
 - [nukdokplex/ncaa-public](https://github.com/nukdokplex/ncaa-public) - A public instance of my NCaA (Nix Code as Anything) repository that contains NixOS modules, hosts, Nix packages and other stuff.
@@ -2258,6 +2257,7 @@
 - [jsoares/ttrss-plugin-feedstatistics](https://github.com/jsoares/ttrss-plugin-feedstatistics) - Simple feed statistics for Tiny Tiny RSS
 - [GerHobbelt/nicejson-php](https://github.com/GerHobbelt/nicejson-php) - A function to format JSON nicely with PHP.
 - [sentora/sentora-core](https://github.com/sentora/sentora-core) - Sentora is a web hosting control panel written in PHP for *NIX
+- [pfefferle/wordpress-webmention](https://github.com/pfefferle/wordpress-webmention) - Send and receive Webmentions in WordPress, bringing replies, likes, and other reactions from across the web to your site.
 - [claviska/SimpleImage](https://github.com/claviska/SimpleImage) - A PHP class that makes working with images and GD as simple as possible.
 - [pel/pel](https://github.com/pel/pel) - PHP Exif Library - library for reading and writing Exif headers in JPEG and TIFF files using PHP.
 - [JamesHeinrich/phpThumb](https://github.com/JamesHeinrich/phpThumb) - phpThumb() - The PHP thumbnail generator
@@ -2720,6 +2720,7 @@
 
 ## Rust 
 
+- [manic-systems/tack](https://github.com/manic-systems/tack) - a full-featured nix pinning system
 - [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on you
 - [NixOS/nix-index](https://github.com/NixOS/nix-index) - Quickly locate nix packages with specific files [maintainers=@Mic92 @bennofs @figsoda @raitobezarius @r-vdp @samestep]
