@@ -3332,6 +3332,7 @@
 
 ## others 
 
+- [manic-systems/tack](https://github.com/manic-systems/tack) - a full-featured nix pinning system
 - [Mic92/nix-grpc-store](https://github.com/Mic92/nix-grpc-store) - Nix remote store and build farm over gRPC: faster nix copy than ssh-ng, with mTLS and a scheduler for builders
 - [can4hou6joeng4/Semaphore](https://github.com/can4hou6joeng4/Semaphore) - Turn any image into ASCII art — free, in-browser, no upload.
 - [dday9/t-pico](https://github.com/dday9/t-pico) - Minimal CSS Framework for semantic HTML forked from PicoCSS
@@ -3374,7 +3375,7 @@
 - [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost.
 - [linuxrebel/DocuBrowser](https://github.com/linuxrebel/DocuBrowser) - A local AI powered Document search engine. That turns that pile of documents on your system into a manageable searchable info store.
 - [benkoppe/nixcfg](https://github.com/benkoppe/nixcfg) - Consolidated nixOS, darwin, and hjem deployments for personal machines & servers
-- [applicative-systems/mkdocs-flake](https://github.com/applicative-systems/mkdocs-flake) - mkdocs-flake simplifies MkDocs setup with the latest packages, pre-bundled plugins, Material Design, PlantUML, and code highlighting. Available as a Nix flake, flake-parts module, and Docker image, it
+- [applicative-systems/mkdocs-flake](https://github.com/applicative-systems/mkdocs-flake) - (has a successor, see notes) mkdocs-flake simplifies MkDocs setup with the latest packages, pre-bundled plugins, Material Design, PlantUML, and code highlighting. Available as a Nix flake, flake-parts
 - [departamento-de-decentralizacion/infra](https://github.com/departamento-de-decentralizacion/infra) - 
 - [mario/nc-push-proxy](https://github.com/mario/nc-push-proxy) - 
 - [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut) - Your GitHub stats, turned into a World-Cup-style player card
